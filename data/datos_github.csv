@@ -1,4 +1,4 @@
-tipo,numero,comentarios
+﻿tipo,numero,comentarios
 Issue,4793,Siendo tratado en #4784 
 Issue,4760,"Además, hemos podido comprobar que el mismo problema se reproduce en Odoo 17.0, utilizando el módulo l10n_es_aeat_mod190 en la rama 17.0.
 
