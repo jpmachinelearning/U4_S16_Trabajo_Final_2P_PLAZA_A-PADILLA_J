@@ -551,7 +551,7 @@ Error al validar facturas generadas para FACE
 El formato de la factura es incorrecto
 Línea 50: Element 'CnoCnae': [facet 'length'] The value has a length of '0'; this differs from the allowed length of '5'.
 
-","No lo sé, nunca los he usado así, ya que te complicas mucho la vida. Si lo ves necesario puedes proponer un PR 😉 ",usar complica vida ver necesario poder proponer pr cara guiñar ojo,"{'poder': 0.2413, 'cara': 0.3271, 'ojo': 0.3328, 'proponer': 0.3825, 'ver': 0.2592, 'usar': 0.3714, 'vida': 0.4453, 'necesario': 0.3168, 'pr': 0.272}","{'poder proponer': 0.584, 'ver necesario': 0.5638, 'proponer pr': 0.584}",
+","No lo sé, nunca los he usado así, ya que te complicas mucho la vida. Si lo ves necesario puedes proponer un PR 😉 ",usar complica vida ver necesario poder proponer pr cara guiñar ojo,"{'poder': 0.2413, 'cara': 0.3271, 'ojo': 0.3328, 'proponer': 0.3825, 'ver': 0.2592, 'usar': 0.3714, 'vida': 0.4453, 'necesario': 0.3168, 'pr': 0.272}","{'poder proponer': 0.584, 'ver necesario': 0.5638, 'proponer pr': 0.584}",1.0
 Issue,4637,[14.0][FIX] l10n_es_verifactu_oca: verifactu mixin macrodata computation,"https://github.com/OCA/l10n-spain/blob/9b36a6849d6e56d1b30eb0bb8b2816fa8ede7cf6/l10n_es_verifactu_oca/models/verifactu_mixin.py#L129
 
 Este método ya no existe,  al parecer se sustituye por _get_verifactu_taxes_and_total() , si lo confirman corregimos 
