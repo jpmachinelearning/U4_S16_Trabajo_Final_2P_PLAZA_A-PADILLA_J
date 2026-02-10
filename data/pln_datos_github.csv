@@ -517,7 +517,7 @@ Línea 50: Element 'CnoCnae': [facet 'length'] The value has a length of '0'; th
 
 ","@manuelcalerosolis La limpieza ya se hace automáticamente aquí y está así desde hace tiempo. Los ficheros firmados desde el Odoo deberían salir limpios.
 
-https://github.com/OCA/l10n-spain/blob/18.0/l10n_es_facturae/reports/report_facturae.py#L45",manuelcalerosoli limpieza automáticamente tiempo fichero firmado odoo deber salir limpio,"{'odoo': 0.2111, 'fichero': 0.3166, 'deber': 0.2381, 'automáticamente': 0.3685, 'limpieza': 0.4217, 'tiempo': 0.325, 'firmado': 0.4036, 'salir': 0.2838, 'limpio': 0.3685}","{'fichero firmado': 0.5774, 'firmado odoo': 0.5774, 'salir limpio': 0.5774}",
+https://github.com/OCA/l10n-spain/blob/18.0/l10n_es_facturae/reports/report_facturae.py#L45",manuelcalerosoli limpieza automáticamente tiempo fichero firmado odoo deber salir limpio,"{'odoo': 0.2111, 'fichero': 0.3166, 'deber': 0.2381, 'automáticamente': 0.3685, 'limpieza': 0.4217, 'tiempo': 0.325, 'firmado': 0.4036, 'salir': 0.2838, 'limpio': 0.3685}","{'fichero firmado': 0.5774, 'firmado odoo': 0.5774, 'salir limpio': 0.5774}",1.0
 Issue,4639,[18.0] l10n_es_facturae error al validar las facturas con etiquetas vacias,"## Modulo
 l10n_es_facturae
 
