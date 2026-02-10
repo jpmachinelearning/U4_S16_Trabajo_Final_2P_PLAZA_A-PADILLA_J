@@ -51,7 +51,7 @@ Estos campos ya han sido incorporados en la rama 18.0, por lo que un backport de
 Gracias.","@pedrobaeza Gracias por la aclaración.
 De acuerdo, nos pondremos con el backport de los cambios desde 18.0 a las ramas 16.0 y 17.0 para cubrir los requisitos del ejercicio 2025, intentaremos hacerlo lo antes posible.
  
-Gracias. 🙂",pedrobaeza gracias aclaración poner backport cambio rama cubrir requisito ejercicio intentar gracias cara sonreir ligeramente,"{'rama': 0.2823, 'ejercicio': 0.2883, 'backport': 0.2723, 'cambio': 0.1914, 'requisito': 0.3027, 'gracias': 0.3616, 'poner': 0.1897, 'pedrobaeza': 0.1684, 'aclaración': 0.3119, 'cubrir': 0.295, 'intentar': 0.2448, 'cara': 0.2291, 'sonreir': 0.2448, 'ligeramente': 0.2883}","{'backport cambio': 0.4332, 'pedrobaeza gracias': 0.4332, 'gracias aclaración': 0.4332, 'gracias cara': 0.4332, 'cara sonreir': 0.3253, 'sonreir ligeramente': 0.3786}",
+Gracias. 🙂",pedrobaeza gracias aclaración poner backport cambio rama cubrir requisito ejercicio intentar gracias cara sonreir ligeramente,"{'rama': 0.2823, 'ejercicio': 0.2883, 'backport': 0.2723, 'cambio': 0.1914, 'requisito': 0.3027, 'gracias': 0.3616, 'poner': 0.1897, 'pedrobaeza': 0.1684, 'aclaración': 0.3119, 'cubrir': 0.295, 'intentar': 0.2448, 'cara': 0.2291, 'sonreir': 0.2448, 'ligeramente': 0.2883}","{'backport cambio': 0.4332, 'pedrobaeza gracias': 0.4332, 'gracias aclaración': 0.4332, 'gracias cara': 0.4332, 'cara sonreir': 0.3253, 'sonreir ligeramente': 0.3786}",1.0
 Issue,4681,[17.0] ImporteTotal=0.0 verifactu intracomunitarias,"## Module
 l10n_es_verifactu_oca
 
