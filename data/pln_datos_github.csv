@@ -1015,7 +1015,7 @@ El comportamiento esperado debe evitar en todo caso la posibilidad de emitir fac
 **Additional context**
 Odoo permite la creación de diarios de ventas manuales sin marcar la opción Verifactu.
 
-Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","Sin embargo, el módulo de odoo SA no bloquea el diario de ventas con el hash de odoo (esto sería otra cuestion)",módulo odoo sa bloquear diario venta hash odoo cuestion,"{'odoo': 0.4495, 'módulo': 0.2009, 'venta': 0.3256, 'diario': 0.3128, 'sa': 0.4296, 'bloquear': 0.4296, 'hash': 0.4296}","{'diario venta': 0.5314, 'módulo odoo': 0.5749, 'odoo sa': 0.6222}",
+Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","Sin embargo, el módulo de odoo SA no bloquea el diario de ventas con el hash de odoo (esto sería otra cuestion)",módulo odoo sa bloquear diario venta hash odoo cuestion,"{'odoo': 0.4495, 'módulo': 0.2009, 'venta': 0.3256, 'diario': 0.3128, 'sa': 0.4296, 'bloquear': 0.4296, 'hash': 0.4296}","{'diario venta': 0.5314, 'módulo odoo': 0.5749, 'odoo sa': 0.6222}",0.0
 Issue,4631,[16.0][FIX] l10n_es_verifactu_oca,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
