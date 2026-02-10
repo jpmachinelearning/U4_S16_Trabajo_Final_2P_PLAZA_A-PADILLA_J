@@ -556,7 +556,7 @@ Issue,4637,[14.0][FIX] l10n_es_verifactu_oca: verifactu mixin macrodata computat
 
 Este método ya no existe,  al parecer se sustituye por _get_verifactu_taxes_and_total() , si lo confirman corregimos 
 
-",Debéis hacer backport de #4602 ,deber backport,"{'backport': 0.8193, 'deber': 0.5734}",{},
+",Debéis hacer backport de #4602 ,deber backport,"{'backport': 0.8193, 'deber': 0.5734}",{},0.0
 Issue,4631,[16.0][FIX] l10n_es_verifactu_oca,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
