@@ -428,7 +428,7 @@ Error al validar facturas generadas para FACE
 El formato de la factura es incorrecto
 Línea 50: Element 'CnoCnae': [facet 'length'] The value has a length of '0'; this differs from the allowed length of '5'.
 
-","El validador no parece funcionar correctamente, ya que el XSD sí se cumple, y las facturas suben a FACe. ¿Has probado a subir alguna?",validador funcionar correctamente xsd cumplir factura subir face haber probar subir,"{'funcionar': 0.2624, 'haber': 0.2653, 'correctamente': 0.2967, 'factura': 0.2132, 'cumplir': 0.3379, 'subir': 0.6137, 'face': 0.3795, 'probar': 0.3041}","{'funcionar correctamente': 0.4736, 'subir face': 0.6228, 'probar subir': 0.6228}",
+","El validador no parece funcionar correctamente, ya que el XSD sí se cumple, y las facturas suben a FACe. ¿Has probado a subir alguna?",validador funcionar correctamente xsd cumplir factura subir face haber probar subir,"{'funcionar': 0.2624, 'haber': 0.2653, 'correctamente': 0.2967, 'factura': 0.2132, 'cumplir': 0.3379, 'subir': 0.6137, 'face': 0.3795, 'probar': 0.3041}","{'funcionar correctamente': 0.4736, 'subir face': 0.6228, 'probar subir': 0.6228}",1.0
 Issue,4639,[18.0] l10n_es_facturae error al validar las facturas con etiquetas vacias,"## Modulo
 l10n_es_facturae
 
