@@ -534,7 +534,7 @@ Error al validar facturas generadas para FACE
 El formato de la factura es incorrecto
 Línea 50: Element 'CnoCnae': [facet 'length'] The value has a length of '0'; this differs from the allowed length of '5'.
 
-","Mis clientes lo estan exportando sin firmar, tambien deben de salir limpios, ¿no?",cliente exportar firmar salir limpio,"{'cliente': 0.3339, 'salir': 0.3826, 'limpio': 0.4967, 'exportar': 0.4854, 'firmar': 0.5097}",{'salir limpio': 1.0},
+","Mis clientes lo estan exportando sin firmar, tambien deben de salir limpios, ¿no?",cliente exportar firmar salir limpio,"{'cliente': 0.3339, 'salir': 0.3826, 'limpio': 0.4967, 'exportar': 0.4854, 'firmar': 0.5097}",{'salir limpio': 1.0},1.0
 Issue,4639,[18.0] l10n_es_facturae error al validar las facturas con etiquetas vacias,"## Modulo
 l10n_es_facturae
 
