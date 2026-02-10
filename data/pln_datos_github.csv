@@ -464,7 +464,7 @@ Error al validar facturas generadas para FACE
 El formato de la factura es incorrecto
 Línea 50: Element 'CnoCnae': [facet 'length'] The value has a length of '0'; this differs from the allowed length of '5'.
 
-",Creo que puede ser por los experimentos con el nuevo sistema FACe que están haciendo. @etobella tú tienes problemas?,experimento sistema face etobella tener problema,"{'problema': 0.3266, 'tener': 0.3531, 'face': 0.5721, 'sistema': 0.4472, 'etobella': 0.4913}",{'tener problema': 1.0},
+",Creo que puede ser por los experimentos con el nuevo sistema FACe que están haciendo. @etobella tú tienes problemas?,experimento sistema face etobella tener problema,"{'problema': 0.3266, 'tener': 0.3531, 'face': 0.5721, 'sistema': 0.4472, 'etobella': 0.4913}",{'tener problema': 1.0},-1.0
 Issue,4639,[18.0] l10n_es_facturae error al validar las facturas con etiquetas vacias,"## Modulo
 l10n_es_facturae
 
