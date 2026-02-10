@@ -481,7 +481,7 @@ Error al validar facturas generadas para FACE
 El formato de la factura es incorrecto
 Línea 50: Element 'CnoCnae': [facet 'length'] The value has a length of '0'; this differs from the allowed length of '5'.
 
-","Con la integración directa no he visto errores en mis clientes. Por lo que veo del error, se queja de que la etiqueta CnoCnae está definida pero debería estar vacía, pero esto en teoría no se rellena y se vacía automáticamente.",integración directo ver error cliente ver error quejar etiqueta cnocnae definido deber vacío teoría rellenar vaciar automáticamente,"{'error': 0.3035, 'deber': 0.174, 'integración': 0.3083, 'directo': 0.253, 'ver': 0.3316, 'cliente': 0.1811, 'quejar': 0.2951, 'etiqueta': 0.2848, 'definido': 0.2951, 'vacío': 0.2765, 'rellenar': 0.2765, 'vaciar': 0.3083, 'automáticamente': 0.2694}","{'cliente ver': 0.6915, 'quejar etiqueta': 0.7224}",
+","Con la integración directa no he visto errores en mis clientes. Por lo que veo del error, se queja de que la etiqueta CnoCnae está definida pero debería estar vacía, pero esto en teoría no se rellena y se vacía automáticamente.",integración directo ver error cliente ver error quejar etiqueta cnocnae definido deber vacío teoría rellenar vaciar automáticamente,"{'error': 0.3035, 'deber': 0.174, 'integración': 0.3083, 'directo': 0.253, 'ver': 0.3316, 'cliente': 0.1811, 'quejar': 0.2951, 'etiqueta': 0.2848, 'definido': 0.2951, 'vacío': 0.2765, 'rellenar': 0.2765, 'vaciar': 0.3083, 'automáticamente': 0.2694}","{'cliente ver': 0.6915, 'quejar etiqueta': 0.7224}",-1.0
 Issue,4639,[18.0] l10n_es_facturae error al validar las facturas con etiquetas vacias,"## Modulo
 l10n_es_facturae
 
