@@ -447,7 +447,7 @@ Línea 50: Element 'CnoCnae': [facet 'length'] The value has a length of '0'; th
 
 ","Si, este es el error que me da al intentar subir.
 
-<img width=""1600"" height=""860"" alt=""Image"" src=""https://github.com/user-attachments/assets/231c20f1-dbd5-4084-8c13-1cfc282ce151"" />",error intentar subir,"{'error': 0.4411, 'intentar': 0.65, 'subir': 0.6188}",{},
+<img width=""1600"" height=""860"" alt=""Image"" src=""https://github.com/user-attachments/assets/231c20f1-dbd5-4084-8c13-1cfc282ce151"" />",error intentar subir,"{'error': 0.4411, 'intentar': 0.65, 'subir': 0.6188}",{},-1.0
 Issue,4639,[18.0] l10n_es_facturae error al validar las facturas con etiquetas vacias,"## Modulo
 l10n_es_facturae
 
