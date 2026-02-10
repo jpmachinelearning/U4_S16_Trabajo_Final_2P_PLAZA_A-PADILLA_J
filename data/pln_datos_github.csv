@@ -16160,123 +16160,17 @@ Muchas gracias.
 Saludos.","Hola, disculpa @pedrobaeza como se decía al abrir el hilo facturae solicitan nombre y APELLIDO aún habiéndolo marcado como ""individual"" (previamente ya habíamos probado esto que comentas). Cuando seleccionas ""Individual"", tal y como se muestra en tu captura, sigue sin aparecer un campo donde añadir el apellido. 
 Hemos probado a añadir ambos datos en el mismo campo pero el odoo no es capaz de separarlo. ¿Existe alguna solución?
 ",hola disculpar pedrobaeza decir abrir hilo facturae solicitar nombre apellido haber él marcado individual previamente habíar probar comentas seleccionar individual mostrar captura aparecer campo añadir apellido probar añadir dato campo odoo capaz separar él solución,,,
-Issue,3448,El fichero xsig se genera con el número de factura anterior,"## Module
-l10n_es_ticketbai_pos
+Pull Request,4811,[16.0][ADD] l10n_es_verifactu_oca_operation_date: fecha operación,"Extiende la funcionalidad de VERIFACTU para poder incluir el campo de fecha de operación (FechaOperacion), permitiendo utilizar el campo date (fecha del asiento) como fecha de operación cuando difiere de la fecha de factura.
 
-## Describe the bug
-Hemos identificado un problema en el módulo de TicketBAI para TPV. Al enviar el archivo xsig a las diputaciones, en algunas ocasiones (aún estamos investigando la causa exacta), el tíquet y la numeración de la factura son correctos. Sin embargo, En la sección `<NumFactura>` dentro del archivo xsig, se repite el número de la factura anterior, lo que provoca que la respuesta del sistema se devuelva en estado '01' con el error '005 - Factura a dar de alta o subsanar ya registrada en el sistema.'. Además, para complicarlo más, en el modelo tbai_invoice, el envío de la factura queda registrado como 'sent' cuando debería haberse registrado como 'error', ya que la factura no queda anotada en el sistema de Diputación. Esto ha dificultado la detección del error hasta ahora.
+### Características:
 
-Tenemos la sospecha de que ocurre cuando se pierde la conexión a internet y se produce una venta.
+- Permite editar el campo date (fecha del asiento contable) en las facturas de cliente cuando VERIFACTU está habilitado, asimilándolo a la fecha de operación
+- Incluye automáticamente FechaOperacion en el XML de VERIFACTU cuando la fecha del asiento difiere de la fecha de factura
+- Valida que la fecha de operación no pueda ser posterior a la fecha de factura
 
-## To Reproduce
-**Affected versions**:
-Todavía no hemos conseguido reproducir el bug, ha sucedido de manera aleatoria, pero nos ha sucedido en todas las instalaciones con TPV en menor o mayor medida.
+### Caso de uso:
 
-Steps to reproduce the behavior:
-1. Crear ventas en el TPV
-2. Desconectar internet
-3. Seguir generando ventas
-4. Volver a conectar internet y enviar las facturas a Diputación.
-5. Comprobar las respuestas de TicketBAI con state = '01'
-
-**Expected behavior**
-El fichero xsig debería mostrar en <NumFactura> el número de la factura correcto.
-
-**Additional context**
-Odoo: 14
-OS: Debian 10
-Python version: Python 3.8.17
-","@xabispacebiker Nos acabamos de encontrar con este error y esa librería de js que genera el fichero en el TPV es una muerte, ¿has dado con la solucion? gracias",xabispacebiker acabar encontrar error librería j generar fichero tpv muerte haber solucion gracia,,,
-Issue,3448,El fichero xsig se genera con el número de factura anterior,"## Module
-l10n_es_ticketbai_pos
-
-## Describe the bug
-Hemos identificado un problema en el módulo de TicketBAI para TPV. Al enviar el archivo xsig a las diputaciones, en algunas ocasiones (aún estamos investigando la causa exacta), el tíquet y la numeración de la factura son correctos. Sin embargo, En la sección `<NumFactura>` dentro del archivo xsig, se repite el número de la factura anterior, lo que provoca que la respuesta del sistema se devuelva en estado '01' con el error '005 - Factura a dar de alta o subsanar ya registrada en el sistema.'. Además, para complicarlo más, en el modelo tbai_invoice, el envío de la factura queda registrado como 'sent' cuando debería haberse registrado como 'error', ya que la factura no queda anotada en el sistema de Diputación. Esto ha dificultado la detección del error hasta ahora.
-
-Tenemos la sospecha de que ocurre cuando se pierde la conexión a internet y se produce una venta.
-
-## To Reproduce
-**Affected versions**:
-Todavía no hemos conseguido reproducir el bug, ha sucedido de manera aleatoria, pero nos ha sucedido en todas las instalaciones con TPV en menor o mayor medida.
-
-Steps to reproduce the behavior:
-1. Crear ventas en el TPV
-2. Desconectar internet
-3. Seguir generando ventas
-4. Volver a conectar internet y enviar las facturas a Diputación.
-5. Comprobar las respuestas de TicketBAI con state = '01'
-
-**Expected behavior**
-El fichero xsig debería mostrar en <NumFactura> el número de la factura correcto.
-
-**Additional context**
-Odoo: 14
-OS: Debian 10
-Python version: Python 3.8.17
-","Buenas @omar7r , Finalmente pudimos identificar el problema en el proceso de generación de facturas TicketBAI que ocurría bajo ciertas condiciones, como la pérdida de conexión a internet o una alta carga del sistema. Este problema se debía a una ""race condition"", donde múltiples procesos intentaban generar un número de factura al mismo tiempo. Como resultado, el mismo número de factura podía ser asignado a diferentes facturas, causando errores al enviar los datos a la agencia tributaria.
-
-Para resolver este problema, hemos implementado un mecanismo para evitar la generación concurrente del mismo número de factura. Esto es lo que hicimos:
-
-1. Introducción de un flag: Añadimos un flag (isGeneratingInvoice) para rastrear si un proceso de generación de factura ya está en curso.
-2. Control de acceso: Antes de iniciar el proceso de generación de la factura, el sistema verifica este flag. Si ya se está generando una factura, el nuevo proceso esperará hasta que el actual termine.
-3. Reinicio del flag: Una vez que la generación de la factura se completa, el flag se reinicia, permitiendo que el siguiente proceso continúe.
-4. Control de errores: Mejoramos el control de errores para asegurar que el flag se reinicie incluso si ocurre un error durante el proceso de generación de la factura.
-
-Por el momento parece que el error se ha corregido.",omar7r finalmente poder identificar problema proceso generación factura ticketbai ocurrir condición pérdida conexión internet alto carga sistema problema deber race condition múltiple proceso intentar generar número factura tiempo resultado número factura poder asignar factura causar error enviar dato agencia tributario resolver problema implementar mecanismo evitar generación concurrente número factura hacer introducción flag añadir flag isgeneratinginvoice rastrear proceso generación factura curso control acceso iniciar proceso generación factura sistema verificar flag generar factura proceso esperar actual terminar reinicio flag generación factura completar flag reiniciar permitir proceso continuar control error mejorar control error asegurar flag reiniciar ocurrir error proceso generación factura momento error corregir,,,
-Issue,3448,El fichero xsig se genera con el número de factura anterior,"## Module
-l10n_es_ticketbai_pos
-
-## Describe the bug
-Hemos identificado un problema en el módulo de TicketBAI para TPV. Al enviar el archivo xsig a las diputaciones, en algunas ocasiones (aún estamos investigando la causa exacta), el tíquet y la numeración de la factura son correctos. Sin embargo, En la sección `<NumFactura>` dentro del archivo xsig, se repite el número de la factura anterior, lo que provoca que la respuesta del sistema se devuelva en estado '01' con el error '005 - Factura a dar de alta o subsanar ya registrada en el sistema.'. Además, para complicarlo más, en el modelo tbai_invoice, el envío de la factura queda registrado como 'sent' cuando debería haberse registrado como 'error', ya que la factura no queda anotada en el sistema de Diputación. Esto ha dificultado la detección del error hasta ahora.
-
-Tenemos la sospecha de que ocurre cuando se pierde la conexión a internet y se produce una venta.
-
-## To Reproduce
-**Affected versions**:
-Todavía no hemos conseguido reproducir el bug, ha sucedido de manera aleatoria, pero nos ha sucedido en todas las instalaciones con TPV en menor o mayor medida.
-
-Steps to reproduce the behavior:
-1. Crear ventas en el TPV
-2. Desconectar internet
-3. Seguir generando ventas
-4. Volver a conectar internet y enviar las facturas a Diputación.
-5. Comprobar las respuestas de TicketBAI con state = '01'
-
-**Expected behavior**
-El fichero xsig debería mostrar en <NumFactura> el número de la factura correcto.
-
-**Additional context**
-Odoo: 14
-OS: Debian 10
-Python version: Python 3.8.17
-","Muchas gracias por la respuesta ¿no tenéis ese parche público o? habrá que mirar de hacer algo así, probé con el módulo de multidispositivos y de inicio parecía que no podía replicar el problema forzando la caída y recuperación de la conexión como antes y pensé que ya no sucedía, pero nada, sigue sucediendo y no logro encontrar el nuevo patrón para replicarlo...",gracia respuesta tenéis parche público mirar probar módulo multidispositivo inicio parecer poder replicar problema forzar caída recuperación conexión pensar suceder suceder lograr encontrar patrón replicar él,,,
-Issue,3448,El fichero xsig se genera con el número de factura anterior,"## Module
-l10n_es_ticketbai_pos
-
-## Describe the bug
-Hemos identificado un problema en el módulo de TicketBAI para TPV. Al enviar el archivo xsig a las diputaciones, en algunas ocasiones (aún estamos investigando la causa exacta), el tíquet y la numeración de la factura son correctos. Sin embargo, En la sección `<NumFactura>` dentro del archivo xsig, se repite el número de la factura anterior, lo que provoca que la respuesta del sistema se devuelva en estado '01' con el error '005 - Factura a dar de alta o subsanar ya registrada en el sistema.'. Además, para complicarlo más, en el modelo tbai_invoice, el envío de la factura queda registrado como 'sent' cuando debería haberse registrado como 'error', ya que la factura no queda anotada en el sistema de Diputación. Esto ha dificultado la detección del error hasta ahora.
-
-Tenemos la sospecha de que ocurre cuando se pierde la conexión a internet y se produce una venta.
-
-## To Reproduce
-**Affected versions**:
-Todavía no hemos conseguido reproducir el bug, ha sucedido de manera aleatoria, pero nos ha sucedido en todas las instalaciones con TPV en menor o mayor medida.
-
-Steps to reproduce the behavior:
-1. Crear ventas en el TPV
-2. Desconectar internet
-3. Seguir generando ventas
-4. Volver a conectar internet y enviar las facturas a Diputación.
-5. Comprobar las respuestas de TicketBAI con state = '01'
-
-**Expected behavior**
-El fichero xsig debería mostrar en <NumFactura> el número de la factura correcto.
-
-**Additional context**
-Odoo: 14
-OS: Debian 10
-Python version: Python 3.8.17
-",@xabispacebiker saludos. ¿Como ha ido finalmente el fix? ¿Alguna posibilidad de compartirlo con la comunidad?,xabispacebiker saludos ir finalmente fix posibilidad compartir él comunidad,,,
+Esto es particularmente útil cuando la operación comercial (entrega de bienes/servicios) ocurre en una fecha anterior a la emisión de la factura, que es un escenario común en muchas empresas de servicios españolas y es requerido por la normativa.","Congratulations, your PR was merged at c0668de5e214d6804c1c4cb6bd610defa88986f2. Thanks a lot for contributing to OCA. ❤️",corazón rojo,,,
 Pull Request,4808,[18.0][IMP] l10n_es_account_statement_import_n43: Add exclude pattern,"Forward-port of #4653 
 
 You may be interested in not importing certain statement lines if they come from complicated operations like third party payment providers with several charges/incomes, and you are interested in importing them by other means.
@@ -16410,6 +16304,26 @@ Ejemplo del problema:
 ping @sergio-teruel
 
 @Tecnativa TT60749",ping @RodrigoBM @SoniaViciana,ping rodrigobm soniaviciana,,,
+Pull Request,4796,[17.0][IMP] l10n_es_aeat_sii_invoice_summary: Refactor to avoid overwrite when it is not necessary,"El origen de la refactorización es que se estaban enviando como F4 facturas rectificativas porque se estaba sobrescribiendo el tipo de factura de forma indiscriminada.
+Ejemplo del problema:
+ - Cualquier factura rectificativa donde sii_invoice_summary_start != sii_invoice_summary_end
+
+ping @sergio-teruel
+
+@Tecnativa TT60749","Yo no he dicho que para la AEAT sea lo mismo, estoy hablando del trato que se da en el código que utiliza ese método.
+
+En este comentario ya estoy explicando que módulos usan ese método:
+https://github.com/OCA/l10n-spain/pull/4796#discussion_r2766023684
+
+Si te fijas bien en lo que hace el método que indicas, verás que si se desarrollase el módulo l10n_es_verifactu_invoice_summary (solo como ejemplo ya que estamos con teorías), seguramente interesaría que se modificase el comportamiento:
+https://github.com/OCA/l10n-spain/blob/eb2ed79f919559d1a63f15ac872eec55f65c327c/l10n_es_verifactu_oca/models/account_move.py#L103-L110
+
+Estoy de acuerdo en el nombre `_is_aeat_simplified_invoice` puede hacer pensar a un programador junior que va a devolver lo mismo que el campo `aeat_simplified_invoice` (aunque se intuya que no se suele tener un método que lo único que haga es devolver el valor de un campo si no es con la intención de poder intervenir sin modificar el campo).
+ 
+Para que se entienda mejor e intentar desbloquear la situación voy he subido un nuevo commit siguiendo esa otra via a la que se hace referencia aquí:
+https://github.com/OCA/l10n-spain/pull/4796#discussion_r2765889714
+
+Tal como se ve en el [commit](https://github.com/OCA/l10n-spain/pull/4796/changes/fc9ab0e8cb4afcfa3e2dd12a4d19e723aa63a81f) la idea será renombrar el método en futuras migraciones para no modificar en una versión estable por si alguien ha utilizado ese método en sus personalizaciones.",aeat hablar trato código utilizar método,,,
 Pull Request,4795,[16.0][IMP] l10n_es_aeat_mod347: Number of convocation BDNS,"BP de https://github.com/OCA/l10n-spain/pull/4784 y https://github.com/OCA/l10n-spain/pull/4794
 
 Acorde a https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25390, Artículo 1
@@ -16841,6 +16755,83 @@ En caso de cumplirse estas condiciones, salta un raise
 Además, he establecido el campo `with_vat_prorate` de account.move.line como readonly en el caso de prorrata general, para evitar que el ORM lo establezca a False por defecto durante el cálculo de las líneas de prorrata.
 
 @EmilioPascual puedes revisar de nuevo?",cambiar código empresa prorrata configurado línea factura sujeto prorrata impuesto factura with_vat_prorate true línea apunte contable correspondiente prorrata caso cumplir él condición saltar raise establecer campo with_vat_prorate account.move.line readonly caso prorrata general evitar orm establecer false defecto cálculo línea prorrata emiliopascual poder revisar,,,
+Pull Request,4765,"[18.0][FIX] l10n_es_vat_prorate: Antes de publicar la factura, verificar que la prorrata se ha aplicado","En algunas instancias de nuestros clientes se ha detectado una situación rara en la que facturas de proveedor que deberían incluir líneas de prorrata no las generan.
+
+El problema se ha resuelto manualmente volviendo la factura a borrador y confirmándola de nuevo (sin cambiar nada), lo que provoca que la prorrata se calcule correctamente.
+
+Estas situaciones no han podido reproducirse ni en entorno local ni en Runbot.
+Para evitar este problema, proponemos el siguiente fix:
+Antes de publicar la factura, comprobar:
+ - si la empresa tiene prorrata configurada,
+ - si las líneas de factura están sujetas a prorrata,
+ - y si no existe ninguna línea de apunte contable correspondiente a la prorrata.
+En caso de cumplirse estas condiciones, recalcular la prorrata llamando al método
+`_apply_vat_prorate` del modelo _account.move_.
+
+@moduon
+MT-13468","Creo que ya he encontrado el bug por el que a veces no se aplicaba la prorrata en algunas facturas, a pesar de que se cumplian todas las condiciones.
+
+La causa era un race condition en campos computados, el problema se originaba en el campo `with_vat_prorate` de `account.move.line`, que era un **campo computado stored con `readonly=False`**. Ocurría por lo siguiente:
+
+1. Dependencia circular entre campos computados:
+      `prorate_id` [computado, stored]
+       ↓ depende de
+   `with_vat_prorate` [computado, stored]   
+2. Orden de ejecución no determinista:
+   - Cuando se crea/modifica una factura, Odoo hace el cálculo de ambos campos
+   - Si `_compute_with_vat_prorate()` se ejecuta antes que `_compute_prorate_id()`, lee `prorate_id=False`
+   - El campo `with_vat_prorate` queda con valor incorrecto (`False`)
+3. `readonly=False` agrava el problema:
+   - Con `readonly=False`, Odoo permite que el campo mantenga valores ""manuales""
+   - Esto interfiere con el sistema de invalidación automática
+   - El valor incorrecto persiste en la base de datos
+4. `copy=False` en refunds/duplicados:
+   - Al crear rectificativas, el campo se resetea a `False`
+   - Vuelve a ocurrir la race condition al recalcular
+
+El error era aleatorio porque el orden de ejecución de campos computados stored no está garantizado en Odoo, depende de:
+- Estado interno de la caché del ORM
+- Operaciones en batch vs individuales
+- Orden de creación de registros relacionados
+- Timing de flush operations
+
+Esto explica por qué a veces funcionaba correctamente y otras veces fallaba sin razón aparente.
+
+He cambiado el campo `with_vat_prorate` de campo computado a campo simple, ahora se establece explícitamente en momentos controlados:
+
+1. En la UI - `@api.onchange`
+2. En API/imports - Override de `create()`
+3. En refunds/duplicados - `_recompute_with_vat_prorate_if_needed`",encontrar bug aplicar prorrata factura cumpliar condición causa race condition campo computado problema originar campo with_vat_prorate account.move.line campo computado stored readonly false ocurrir orden ejecución determinista creer modificar factura odoo cálculo campo compute_with_vat_prorate ejecutar compute_prorate_id leer prorate_id falsar campo with_vat_prorate quedar valor incorrecto false readonly false agravar problema readonly false odoo permitir campo mantener valor manual interferir sistema invalidación automático valor incorrecto persistir base dato copy false refunds duplicado crear rectificativa campo resetear false volver ocurrir race condition recalcular error aleatorio orden ejecución campo computado stored garantizado odoo depender interno caché orm operación batch vs individual orden creación registro relacionado timing flush operations explicar funcionar correctamente fallar razón aparente cambiar campo with_vat_prorate campo computado campo simple establecer explícitamente momento controlado ui api.onchange api imports override create,,,
+Pull Request,4765,"[18.0][FIX] l10n_es_vat_prorate: Antes de publicar la factura, verificar que la prorrata se ha aplicado","En algunas instancias de nuestros clientes se ha detectado una situación rara en la que facturas de proveedor que deberían incluir líneas de prorrata no las generan.
+
+El problema se ha resuelto manualmente volviendo la factura a borrador y confirmándola de nuevo (sin cambiar nada), lo que provoca que la prorrata se calcule correctamente.
+
+Estas situaciones no han podido reproducirse ni en entorno local ni en Runbot.
+Para evitar este problema, proponemos el siguiente fix:
+Antes de publicar la factura, comprobar:
+ - si la empresa tiene prorrata configurada,
+ - si las líneas de factura están sujetas a prorrata,
+ - y si no existe ninguna línea de apunte contable correspondiente a la prorrata.
+En caso de cumplirse estas condiciones, recalcular la prorrata llamando al método
+`_apply_vat_prorate` del modelo _account.move_.
+
+@moduon
+MT-13468",¿@Andrii9090-tecnativa @pedrobaeza @yajo podéis revisar el nuevo enfoque?,andrii9090-tecnativo pedrobaeza yajo poder revisar enfoque,,,
+Pull Request,4765,"[18.0][FIX] l10n_es_vat_prorate: Antes de publicar la factura, verificar que la prorrata se ha aplicado","En algunas instancias de nuestros clientes se ha detectado una situación rara en la que facturas de proveedor que deberían incluir líneas de prorrata no las generan.
+
+El problema se ha resuelto manualmente volviendo la factura a borrador y confirmándola de nuevo (sin cambiar nada), lo que provoca que la prorrata se calcule correctamente.
+
+Estas situaciones no han podido reproducirse ni en entorno local ni en Runbot.
+Para evitar este problema, proponemos el siguiente fix:
+Antes de publicar la factura, comprobar:
+ - si la empresa tiene prorrata configurada,
+ - si las líneas de factura están sujetas a prorrata,
+ - y si no existe ninguna línea de apunte contable correspondiente a la prorrata.
+En caso de cumplirse estas condiciones, recalcular la prorrata llamando al método
+`_apply_vat_prorate` del modelo _account.move_.
+
+@moduon
+MT-13468","Acabo de ver tu último comentario. A ver si puedes reflejar eso que comentas en un test, y vemos si esta solución es la más adecuada para eso.",acabar comentario poder reflejar comentas test ver solución adecuado,,,
 Pull Request,4764,[18.0][IMP] l10n_es_facturae: Clean XML file when it is not signed,"Otherwise, when creating the XML file without signature, extra empty tags are added, but they shouldn't exist.
 
 Before:
@@ -18825,6 +18816,9 @@ Pull Request,4636,[17.0][IMP] l10n_es_verifactu_oca: Invoice cancellation,"Forwa
 
 @Tecnativa ","Congratulations, your PR was merged at a7fb941179328d37cc002e247425a82a64433ade. Thanks a lot for contributing to OCA. ❤️",corazón rojo,,,
 Pull Request,4635,[16.0][IMP] l10n_es_verifactu_oca: fecha de operación,"Propone un modo de gestionar la fecha de operación de forma acorde con Odoo: la factura se registra en una fecha y el asiento contable en otra. De este modo, aparece correctamente en el libro de IVA, en los modelos 303 y similares, donde debe figurar.","Buenas @pedrobaeza  Hace un par de meses añadimos en este PR el soporte de la fecha de servicio necesario para VeriFactu. Tenemos instalado y funcionando ya el módulo VeriFactu de la OCA con varios clientes y con nosotros mismos, por lo que nos vendría muy bien mergear este PR cuando tengas un momento para revisarlo (si consideras que es correcto). Gracias.",pedrobaeza par mes añadir pr soporte fecha servicio necesario verifactu instalado funcionar módulo verifactu oca cliente venir mergear pr tengas momento revisar él consideras correcto gracias,,,
+Pull Request,4635,[16.0][IMP] l10n_es_verifactu_oca: fecha de operación,"Propone un modo de gestionar la fecha de operación de forma acorde con Odoo: la factura se registra en una fecha y el asiento contable en otra. De este modo, aparece correctamente en el libro de IVA, en los modelos 303 y similares, donde debe figurar.","> Yo personalmente, no me encuentro muy cómodo forzando el estándar para cambiar la fecha contable de la factura cuando instalas el módulo de VERI*FACTU. Esto debería ser un módulo extra en mi opinión para aquellos que quieran tenerlo, y conociendo los riesgos de lo que se habló en #3858 para el SII.
+
+Buenas @pedrobaeza , pues ahí está, entonces. hay un nuevo módulo en #4811 ",personalmente encontrar cómodo forzar estándar cambiar fecha contable factura instalar módulo veri factu deber módulo extra opinión querer tener él conocer riesgo hablar sii pedrobaeza módulo,,,
 Pull Request,4634,[18.0][FIX] l10n_es_verifactu_oca: serial number remove third-party number,"Mandar el `thirdparty_number` como número de serie de la factura, en caso de estar establecido, puede causar errores a la hora de recibir las respuestas por parte de la AEAT y incongruencias con los datos enviados.
 
 https://github.com/OCA/l10n-spain/blob/016933d9ba88fb920cd08f30bbb82231054eb150/l10n_es_verifactu_oca/models/account_move.py#L139-L147
@@ -19450,8 +19444,3 @@ Pull Request,4576,[18.0][FIX] l10n_es_aeat: Find properly the XML-ID for non ded
 The tax groups are now by company and bound to `account` module, so let's change the compare condition.
 
 @Tecnativa","Congratulations, your PR was merged at 9f6c6d16ceddfdd49fa0889ffb62dc54d672cc91. Thanks a lot for contributing to OCA. ❤️",corazón rojo,,,
-Pull Request,4575,[18.0][FIX] l10n_es_payment_order_confirming_aef: Select properly the currency,"Forward-port of #4571, #4572, #4574
-
-If the journal has a explicit currency, use it.
-
-@Tecnativa","Congratulations, your PR was merged at 704c5b184812e910a538ead8fa921c8f1fc4d974. Thanks a lot for contributing to OCA. ❤️",corazón rojo,,,
