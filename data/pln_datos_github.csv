@@ -339,7 +339,7 @@ No se si seria la solución permitir indicar en algún campo que factura se esta
 
 
 
- ","¿Pero y cuando sea factura de rappel? ¿O se rectifique una factura no introducida en Odoo (por ejemplo, por cambio de software)? ¿Qué pasa si no se envía `""FacturasRectificadas"": [],`? ¿No debería ser ése el parche?",factura rappel rectificar factura introducido odoo ejemplo cambio software pasar enviar facturasrectificada deber parche,"{'odoo': 0.1764, 'cambio': 0.1998, 'pasar': 0.225, 'software': 0.2946, 'parche': 0.2679, 'factura': 0.338, 'rappel': 0.3371, 'rectificar': 0.3371, 'introducido': 0.3522, 'ejemplo': 0.2165, 'enviar': 0.2092, 'facturasrectificada': 0.3522, 'deber': 0.1988}","{'factura rappel': 0.5774, 'rectificar factura': 0.5774, 'pasar enviar': 0.5774}",
+ ","¿Pero y cuando sea factura de rappel? ¿O se rectifique una factura no introducida en Odoo (por ejemplo, por cambio de software)? ¿Qué pasa si no se envía `""FacturasRectificadas"": [],`? ¿No debería ser ése el parche?",factura rappel rectificar factura introducido odoo ejemplo cambio software pasar enviar facturasrectificada deber parche,"{'odoo': 0.1764, 'cambio': 0.1998, 'pasar': 0.225, 'software': 0.2946, 'parche': 0.2679, 'factura': 0.338, 'rappel': 0.3371, 'rectificar': 0.3371, 'introducido': 0.3522, 'ejemplo': 0.2165, 'enviar': 0.2092, 'facturasrectificada': 0.3522, 'deber': 0.1988}","{'factura rappel': 0.5774, 'rectificar factura': 0.5774, 'pasar enviar': 0.5774}",0.0
 Issue,4642,l10n_es_verifactu_oca - Rectificativas que provienen de albarán de devolución,"No es del todo del ámbito de verifactu, pero se ve afectado.
 
 En el envío de verifactu de las facturas rectificativas se requiere que se indique las facturas rectificadas en el envio.
