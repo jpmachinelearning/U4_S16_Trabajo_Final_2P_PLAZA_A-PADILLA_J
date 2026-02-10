@@ -498,7 +498,7 @@ Error al validar facturas generadas para FACE
 El formato de la factura es incorrecto
 Línea 50: Element 'CnoCnae': [facet 'length'] The value has a length of '0'; this differs from the allowed length of '5'.
 
-","@etobella se queja de todas las etiquetas que estan vacias, yo he hecho un fix para que las que estan vacias no las ponga en el fichero y ya me deja subir bien, pero creo que se debe de corregir en el módulo.",etobella quejar etiqueta vacia fix vacia poner fichero dejar subir corregir módulo,"{'módulo': 0.1895, 'fichero': 0.318, 'poner': 0.238, 'dejar': 0.2705, 'subir': 0.2924, 'etobella': 0.3106, 'quejar': 0.4053, 'etiqueta': 0.3913, 'fix': 0.3476, 'corregir': 0.3361}",{'quejar etiqueta': 1.0},
+","@etobella se queja de todas las etiquetas que estan vacias, yo he hecho un fix para que las que estan vacias no las ponga en el fichero y ya me deja subir bien, pero creo que se debe de corregir en el módulo.",etobella quejar etiqueta vacia fix vacia poner fichero dejar subir corregir módulo,"{'módulo': 0.1895, 'fichero': 0.318, 'poner': 0.238, 'dejar': 0.2705, 'subir': 0.2924, 'etobella': 0.3106, 'quejar': 0.4053, 'etiqueta': 0.3913, 'fix': 0.3476, 'corregir': 0.3361}",{'quejar etiqueta': 1.0},1.0
 Issue,4639,[18.0] l10n_es_facturae error al validar las facturas con etiquetas vacias,"## Modulo
 l10n_es_facturae
 
