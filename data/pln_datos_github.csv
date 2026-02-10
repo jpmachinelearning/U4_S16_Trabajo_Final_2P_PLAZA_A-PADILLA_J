@@ -971,7 +971,7 @@ El comportamiento esperado debe evitar en todo caso la posibilidad de emitir fac
 **Additional context**
 Odoo permite la creación de diarios de ventas manuales sin marcar la opción Verifactu.
 
-Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","El módulo de odoo SA para 18 por ejemplo , no permite desconectar verifactu en un diario de ventas si verifactu está activado",módulo odoo sa ejemplo permitir desconectar verifactu diario venta verifactu activado,"{'odoo': 0.2131, 'módulo': 0.1904, 'permitir': 0.2798, 'verifactu': 0.5437, 'ejemplo': 0.2616, 'venta': 0.3087, 'diario': 0.2966, 'activado': 0.356, 'sa': 0.4074}","{'diario venta': 0.3721, 'verifactu diario': 0.4025, 'módulo odoo': 0.4025, 'odoo sa': 0.4356, 'venta verifactu': 0.417, 'verifactu activado': 0.417}",
+Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","El módulo de odoo SA para 18 por ejemplo , no permite desconectar verifactu en un diario de ventas si verifactu está activado",módulo odoo sa ejemplo permitir desconectar verifactu diario venta verifactu activado,"{'odoo': 0.2131, 'módulo': 0.1904, 'permitir': 0.2798, 'verifactu': 0.5437, 'ejemplo': 0.2616, 'venta': 0.3087, 'diario': 0.2966, 'activado': 0.356, 'sa': 0.4074}","{'diario venta': 0.3721, 'verifactu diario': 0.4025, 'módulo odoo': 0.4025, 'odoo sa': 0.4356, 'venta verifactu': 0.417, 'verifactu activado': 0.417}",0.0
 Issue,4631,[16.0][FIX] l10n_es_verifactu_oca,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
