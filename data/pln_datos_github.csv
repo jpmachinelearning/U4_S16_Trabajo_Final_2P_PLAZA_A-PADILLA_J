@@ -78,7 +78,7 @@ Gracias de antemano!","Ya he podido solucionarlo, en la v12 existía en el core 
 
 Por si a alguien le sirve aquí estaba la solución.
 
-Gracias!",poder solucionar él v12 existir core odoo reconciliación v14 módulo oca módulo llegar v18 desplegar bbdd actualizado mostrar módulo reconciliación alguien servir solución gracias,"{'poder': 0.137, 'odoo': 0.137, 'módulo': 0.3674, 'gracias': 0.1466, 'solución': 0.176, 'alguien': 0.189, 'solucionar': 0.2081, 'él': 0.1091, 'v12': 0.2737, 'existir': 0.2289, 'core': 0.2172, 'v14': 0.2289, 'oca': 0.1725, 'llegar': 0.2289, 'v18': 0.262, 'desplegar': 0.2737, 'bbdd': 0.2737, 'actualizado': 0.2247, 'mostrar': 0.2455, 'servir': 0.214}","{'poder solucionar': 0.4235, 'solucionar él': 0.3799, 'core odoo': 0.4054, 'módulo oca': 0.3914, 'oca módulo': 0.4235, 'solución gracias': 0.4235}",
+Gracias!",poder solucionar él v12 existir core odoo reconciliación v14 módulo oca módulo llegar v18 desplegar bbdd actualizado mostrar módulo reconciliación alguien servir solución gracias,"{'poder': 0.137, 'odoo': 0.137, 'módulo': 0.3674, 'gracias': 0.1466, 'solución': 0.176, 'alguien': 0.189, 'solucionar': 0.2081, 'él': 0.1091, 'v12': 0.2737, 'existir': 0.2289, 'core': 0.2172, 'v14': 0.2289, 'oca': 0.1725, 'llegar': 0.2289, 'v18': 0.262, 'desplegar': 0.2737, 'bbdd': 0.2737, 'actualizado': 0.2247, 'mostrar': 0.2455, 'servir': 0.214}","{'poder solucionar': 0.4235, 'solucionar él': 0.3799, 'core odoo': 0.4054, 'módulo oca': 0.3914, 'oca módulo': 0.4235, 'solución gracias': 0.4235}",1.0
 Issue,4652,[17.0][‎‎l10n_es_vat_book] DUA grouped tax error,"The VAT book calculation gives an error when grouped taxes are used.
 
 ## Module
