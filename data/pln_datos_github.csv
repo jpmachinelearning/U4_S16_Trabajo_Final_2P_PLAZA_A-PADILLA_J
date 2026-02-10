@@ -871,7 +871,7 @@ Esto puede provocar incumplimiento normativo si un usuario emite facturas desde 
 
 Se permite emitir facturas al margen del reglamento
 
-No es viable",planteamiento permitir emitir factura margen reglamento viable,"{'permitir': 0.2875, 'factura': 0.2098, 'reglamento': 0.3922, 'emitir': 0.3821, 'planteamiento': 0.4372, 'margen': 0.4372, 'viable': 0.4372}",{'emitir factura': 1.0},
+No es viable",planteamiento permitir emitir factura margen reglamento viable,"{'permitir': 0.2875, 'factura': 0.2098, 'reglamento': 0.3922, 'emitir': 0.3821, 'planteamiento': 0.4372, 'margen': 0.4372, 'viable': 0.4372}",{'emitir factura': 1.0},0.0
 Issue,4631,[16.0][FIX] l10n_es_verifactu_oca,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
