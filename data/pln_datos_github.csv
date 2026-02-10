@@ -650,7 +650,7 @@ Odoo permite la creación de diarios de ventas manuales sin marcar la opción Ve
 Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","El SIF debe cumplir la normativa siempre.
 Permitir crear facturas sin ese check activado no cumple el reglamento de facturacion
 
-Ahí esta mi preocupación",sif cumplir normativa permitir crear factura check activado cumplir reglamento facturacion preocupación,"{'permitir': 0.2337, 'factura': 0.1706, 'crear': 0.2337, 'cumplir': 0.5408, 'sif': 0.267, 'normativa': 0.3189, 'check': 0.2822, 'activado': 0.2974, 'reglamento': 0.3189, 'facturacion': 0.3555}","{'crear factura': 0.4837, 'cumplir normativa': 0.5053, 'permitir crear': 0.5053, 'cumplir reglamento': 0.5053}",
+Ahí esta mi preocupación",sif cumplir normativa permitir crear factura check activado cumplir reglamento facturacion preocupación,"{'permitir': 0.2337, 'factura': 0.1706, 'crear': 0.2337, 'cumplir': 0.5408, 'sif': 0.267, 'normativa': 0.3189, 'check': 0.2822, 'activado': 0.2974, 'reglamento': 0.3189, 'facturacion': 0.3555}","{'crear factura': 0.4837, 'cumplir normativa': 0.5053, 'permitir crear': 0.5053, 'cumplir reglamento': 0.5053}",1.0
 Issue,4631,[16.0][FIX] l10n_es_verifactu_oca,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
