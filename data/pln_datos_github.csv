@@ -309,7 +309,7 @@ odoo-1        | KeyError: account.tax(157,)
 
 As can see, the system tries to search for the tax grouped by the tax breakdowns. Something at this point has not been changed correctly in the commit.","@pedrobaeza Dejamos esta issue abierta, para que el resto de usuarios tengan más facilidad para encontrar la traza, etc. Cuando más adelante se plantee refactoring, ya cerramos.
 
-Gracias.",pedrobaeza dejar issue abierto resto usuario tener facilidad encontrar traza etc. plantear refactoring cerrar gracias,"{'gracias': 0.1874, 'abierto': 0.266, 'pedrobaeza': 0.1745, 'encontrar': 0.2438, 'dejar': 0.2234, 'issue': 0.2219, 'resto': 0.3057, 'usuario': 0.2354, 'tener': 0.1844, 'facilidad': 0.3498, 'traza': 0.3348, 'etc': 0.2776, 'plantear': 0.2511, 'refactoring': 0.3232, 'cerrar': 0.2077}","{'dejar issue': 0.4962, 'issue abierto': 0.465, 'resto usuario': 0.5184, 'cerrar gracias': 0.5184}",
+Gracias.",pedrobaeza dejar issue abierto resto usuario tener facilidad encontrar traza etc. plantear refactoring cerrar gracias,"{'gracias': 0.1874, 'abierto': 0.266, 'pedrobaeza': 0.1745, 'encontrar': 0.2438, 'dejar': 0.2234, 'issue': 0.2219, 'resto': 0.3057, 'usuario': 0.2354, 'tener': 0.1844, 'facilidad': 0.3498, 'traza': 0.3348, 'etc': 0.2776, 'plantear': 0.2511, 'refactoring': 0.3232, 'cerrar': 0.2077}","{'dejar issue': 0.4962, 'issue abierto': 0.465, 'resto usuario': 0.5184, 'cerrar gracias': 0.5184}",1.0
 Issue,4650,[17.0] l10n_es_reav Error al enviar facturas al SII con clave 05 (Agencia de Viajes),"Módulo: l10n_es_reav
 
 Cuándo realizamos el envío al SII de una factura emitida haciendo uso del módulo REAV, se muestra un error indicando que no se cumple el esquema.
