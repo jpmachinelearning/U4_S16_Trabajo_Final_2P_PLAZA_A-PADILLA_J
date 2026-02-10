@@ -326,7 +326,7 @@ Hasta dónde observo el módulo no cumple este requerimiento. Simplemente confir
 Gracias!
 
 
-","Faltaría un módulo `l10n_es_sii_reav` que añada los mapeos donde correspondan, y tal vez trate la clave adecuada en la posición fiscal.",faltar módulo l10n_es_sii_reav añadir mapeo corresponder tratar clave adecuado posición fiscal,"{'tratar': 0.3128, 'módulo': 0.195, 'faltar': 0.3578, 'añadir': 0.2695, 'mapeo': 0.3315, 'corresponder': 0.3516, 'clave': 0.3459, 'adecuado': 0.3315, 'posición': 0.3234, 'fiscal': 0.3097}","{'añadir mapeo': 0.7996, 'posición fiscal': 0.6005}",
+","Faltaría un módulo `l10n_es_sii_reav` que añada los mapeos donde correspondan, y tal vez trate la clave adecuada en la posición fiscal.",faltar módulo l10n_es_sii_reav añadir mapeo corresponder tratar clave adecuado posición fiscal,"{'tratar': 0.3128, 'módulo': 0.195, 'faltar': 0.3578, 'añadir': 0.2695, 'mapeo': 0.3315, 'corresponder': 0.3516, 'clave': 0.3459, 'adecuado': 0.3315, 'posición': 0.3234, 'fiscal': 0.3097}","{'añadir mapeo': 0.7996, 'posición fiscal': 0.6005}",0.0
 Issue,4642,l10n_es_verifactu_oca - Rectificativas que provienen de albarán de devolución,"No es del todo del ámbito de verifactu, pero se ve afectado.
 
 En el envío de verifactu de las facturas rectificativas se requiere que se indique las facturas rectificadas en el envio.
