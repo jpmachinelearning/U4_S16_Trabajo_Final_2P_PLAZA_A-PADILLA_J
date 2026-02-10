@@ -1185,7 +1185,7 @@ El comportamiento esperado debe evitar en todo caso la posibilidad de emitir fac
 Odoo permite la creación de diarios de ventas manuales sin marcar la opción Verifactu.
 
 Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","En ese sentido, quizás sería interesante habilitar un campo de la cabecera de la factura, para diarios de venta No Verifactu, en el que se pueda informar la identificación del SIF original.
-",sentido interesante habilitar campo cabecera factura diario venta verifactu informar identificación sif original,"{'campo': 0.1969, 'verifactu': 0.2259, 'factura': 0.1696, 'venta': 0.2565, 'original': 0.2902, 'interesante': 0.3267, 'diario': 0.2464, 'sif': 0.2655, 'habilitar': 0.2958, 'identificación': 0.3267, 'sentido': 0.2806, 'cabecera': 0.3536, 'informar': 0.309}","{'diario venta': 0.4036, 'venta verifactu': 0.4523, 'identificación sif': 0.4726, 'sif original': 0.4523, 'factura diario': 0.4523}",
+",sentido interesante habilitar campo cabecera factura diario venta verifactu informar identificación sif original,"{'campo': 0.1969, 'verifactu': 0.2259, 'factura': 0.1696, 'venta': 0.2565, 'original': 0.2902, 'interesante': 0.3267, 'diario': 0.2464, 'sif': 0.2655, 'habilitar': 0.2958, 'identificación': 0.3267, 'sentido': 0.2806, 'cabecera': 0.3536, 'informar': 0.309}","{'diario venta': 0.4036, 'venta verifactu': 0.4523, 'identificación sif': 0.4726, 'sif original': 0.4523, 'factura diario': 0.4523}",1.0
 Issue,4631,[16.0][FIX] l10n_es_verifactu_oca,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
