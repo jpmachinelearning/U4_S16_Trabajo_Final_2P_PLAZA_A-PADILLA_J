@@ -8050,7 +8050,7 @@ Por ejemplo, Declaraciones ATC, podrían ir el 415 y 420 englobados dentro de De
 Qué opináis le cambiamos el nombre o uno más genérico y dejamos un solo menú principal, que luego tendrá los que requiera cada zona?
 
 Saludos,
-Ignacio","OK, pues podemos hacer el cambio de 17 en adelante, ¿o queréis ir más atrás?",ok cambio queréis atrás,"{'cambio': 0.3331, 'ok': 0.4466, 'atrás': 0.5872, 'queréis': 0.5872}",{},
+Ignacio","OK, pues podemos hacer el cambio de 17 en adelante, ¿o queréis ir más atrás?",ok cambio queréis atrás,"{'cambio': 0.3331, 'ok': 0.4466, 'atrás': 0.5872, 'queréis': 0.5872}",{},-1.0
 Issue,4020,Debate: cambio de nombre del menú Declaraciones AEAT,"Hola,
 
 Nos estamos encontrando que empieza a existir modelos fiscales propios de ciertas zonas geográficas. Hasta ahora teníamos el menú de Declaraciones AEAT donde se engloba todo, mi propuesta es sencilla es cambiarle el nombre a Declaraciones o Declaraciones Impuestos. No poner AEAT, sino estamos creando un menú nuevo para cada zona incrementan los menú.
