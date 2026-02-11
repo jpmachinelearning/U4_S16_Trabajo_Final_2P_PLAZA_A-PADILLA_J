@@ -19429,7 +19429,7 @@ A la hora de reimprimir no sale el qr
 
 En el models js me aparece correctamente con esto en el export_for_printing() al volver a reimprimir el ticket
 
-Así ya lo ven en la 14",if result.verifactu_qr result.verifactu_qr this get_verifactu_qr_code_data return result hora reimprimir salir qr models js aparecer correctamente export_for_printing volver reimprimir ticket ver,"{'correctamente': 0.2037, 'aparecer': 0.2147, 'ver': 0.1641, 'salir': 0.2054, 'volver': 0.2006, 'qr': 0.2385, 'reimprimir': 0.6102, 'ticket': 0.2422, 'hora': 0.2552, 'js': 0.292, 'models': 0.292, 'if': 0.2819}",{'salir qr': 1.0},,,5,Normativa
+Así ya lo ven en la 14",if result.verifactu_qr result.verifactu_qr this get_verifactu_qr_code_data return result hora reimprimir salir qr models js aparecer correctamente export_for_printing volver reimprimir ticket ver,"{'correctamente': 0.2037, 'aparecer': 0.2147, 'ver': 0.1641, 'salir': 0.2054, 'volver': 0.2006, 'qr': 0.2385, 'reimprimir': 0.6102, 'ticket': 0.2422, 'hora': 0.2552, 'js': 0.292, 'models': 0.292, 'if': 0.2819}",{'salir qr': 1.0},0.0,,5,Normativa
 Pull Request,4577,[18.0][IMP] l10n_es_account_asset: Corrected amount after non deductible,"Forward-port of #4562 and #4565 
 
 When a tax is non deductible (because it's directly non deductible VAT, or due to the VAT prorate), the amount to depreciate should be increased with this non deductible amount, which was not taken into account before this commit.
