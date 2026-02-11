@@ -19054,7 +19054,7 @@ Con esta mejora se añade un test para probarla.
 
 https://www.loom.com/share/f765537951664e0ea77af6536c7de433
 
-MT-12714 @moduon @EmilioPascual ","Congratulations, your PR was merged at 752dc7f82ff323af1eac411cf3e3a57877999201. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+MT-12714 @moduon @EmilioPascual ","Congratulations, your PR was merged at 752dc7f82ff323af1eac411cf3e3a57877999201. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4612,[18.0][IMP] l10n_es_verifactu_oca: Add conflict check for account_journal_restrict_mode,"Add a check to prevent conflicts with the module `account_journal_restrict_mode`.
 
 **The issue:**
