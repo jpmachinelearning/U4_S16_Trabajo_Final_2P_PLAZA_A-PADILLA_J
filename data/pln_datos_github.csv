@@ -19085,7 +19085,7 @@ Installing both causes a validation error that blocks the registry load.
 <img width=""1143"" height=""171"" alt=""image"" src=""https://github.com/user-attachments/assets/3c7f0533-6c73-439e-b77a-eb3724129f79"" />
 ","@pedrobaeza He parado el workflow ya que ha habido un push después de tu comando de merge y no sé cómo puede afectar. ¿Puedes revisar que se pueda fusionar y relanzar el comando si lo ves bien?
 
-Gracias de antemano.",pedrobaeza parar workflow haber push comando merge afectar poder revisar fusionar relanzar comando ver gracias antemano,"{'poder': 0.1722, 'gracias': 0.1843, 'haber': 0.2054, 'pedrobaeza': 0.1716, 'ver': 0.185, 'revisar': 0.198, 'fusionar': 0.2651, 'afectar': 0.2877, 'comando': 0.6585, 'merge': 0.2938, 'push': 0.344}","{'poder revisar': 0.6345, 'haber push': 0.7729}",,,4,Desarrollo
+Gracias de antemano.",pedrobaeza parar workflow haber push comando merge afectar poder revisar fusionar relanzar comando ver gracias antemano,"{'poder': 0.1722, 'gracias': 0.1843, 'haber': 0.2054, 'pedrobaeza': 0.1716, 'ver': 0.185, 'revisar': 0.198, 'fusionar': 0.2651, 'afectar': 0.2877, 'comando': 0.6585, 'merge': 0.2938, 'push': 0.344}","{'poder revisar': 0.6345, 'haber push': 0.7729}",-1.0,,4,Desarrollo
 Pull Request,4612,[18.0][IMP] l10n_es_verifactu_oca: Add conflict check for account_journal_restrict_mode,"Add a check to prevent conflicts with the module `account_journal_restrict_mode`.
 
 **The issue:**
