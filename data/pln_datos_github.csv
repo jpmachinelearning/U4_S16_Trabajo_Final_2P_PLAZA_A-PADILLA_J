@@ -7904,7 +7904,7 @@ IGIC 3% (Retail trade) en el campo ""amount"" tiene establecido 2.1, cuando debe
 
 ![Image](https://github.com/user-attachments/assets/58e1d1bc-7ff2-4b94-9844-fabb4972c64b)
 
-",Muchísimas gracias!! Entendido y disculpa.,muchísimo gracia entendido disculpa,"{'gracia': 0.3328, 'disculpa': 0.5011, 'muchísimo': 0.5867, 'entendido': 0.5421}",{'muchísimo gracia': 1.0},
+",Muchísimas gracias!! Entendido y disculpa.,muchísimo gracia entendido disculpa,"{'gracia': 0.3328, 'disculpa': 0.5011, 'muchísimo': 0.5867, 'entendido': 0.5421}",{'muchísimo gracia': 1.0},1.0
 Issue,4039,[16.0] l10n_es_ticketbai: visualización errónea campo exenciones fiscales para ticketbai en formulario posiciones fiscales,"En Facturación/Contabilidad => Configuración => Posiciones Fiscales. Vista form, tab TicketBAI las exenciones ticketbai se ven 👇 
 
 ![Image](https://github.com/user-attachments/assets/d0bb1629-041d-4626-b815-ffbf8fed971e)
