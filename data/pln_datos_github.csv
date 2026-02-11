@@ -8706,7 +8706,7 @@ Ejemplo v17:
 
 ","Duplicado de #3636 
 
-Por favor no es necesario que me hagas ping. Recibo igual las notificaciones.",duplicado favor necesario hagas ping recibir notificación,"{'necesario': 0.326, 'favor': 0.3167, 'ping': 0.407, 'duplicado': 0.4581, 'recibir': 0.4148, 'notificación': 0.4958}",{},
+Por favor no es necesario que me hagas ping. Recibo igual las notificaciones.",duplicado favor necesario hagas ping recibir notificación,"{'necesario': 0.326, 'favor': 0.3167, 'ping': 0.407, 'duplicado': 0.4581, 'recibir': 0.4148, 'notificación': 0.4958}",{},0.0
 Issue,3868,[v14][l10n_es_ticketbai_pos ] Cannot validate for a simplified invoice without client ,"<!-- Una vez a activado el módulo no es posible validar una venta sin seleccionar cliente para un ticket o factura simplificada, el botón no hace nada-->
 
 ## Module
