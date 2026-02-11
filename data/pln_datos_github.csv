@@ -4981,7 +4981,7 @@ Mi compañero @ljimenezsidoo y yo trataremos de iniciar la parte técnica ASAP. 
 
 Si no lo lleva a cabo @acysos de forma voluntaria, también puedes abonar un importe a otros contribuidores para que lo hagan.
 
-Un saludo.",favor portear él v13 cambio v13 v14 profundo cabo acyso forma voluntario poder abonar importe contribuidor hacer saludo,"{'poder': 0.1404, 'cambio': 0.159, 'hacer': 0.163, 'él': 0.1117, 'v14': 0.2345, 'cabo': 0.259, 'saludo': 0.2056, 'favor': 0.1791, 'forma': 0.1733, 'acyso': 0.2225, 'v13': 0.518, 'portear': 0.2803, 'profundo': 0.2803, 'voluntario': 0.2803, 'importe': 0.2394, 'contribuidor': 0.2803}","{'favor portear': 0.3536, 'portear él': 0.3536, 'él v13': 0.3536, 'v13 cambio': 0.3536, 'cambio v13': 0.3536, 'v13 v14': 0.3536, 'v14 profundo': 0.3536, 'contribuidor hacer': 0.3536}",
+Un saludo.",favor portear él v13 cambio v13 v14 profundo cabo acyso forma voluntario poder abonar importe contribuidor hacer saludo,"{'poder': 0.1404, 'cambio': 0.159, 'hacer': 0.163, 'él': 0.1117, 'v14': 0.2345, 'cabo': 0.259, 'saludo': 0.2056, 'favor': 0.1791, 'forma': 0.1733, 'acyso': 0.2225, 'v13': 0.518, 'portear': 0.2803, 'profundo': 0.2803, 'voluntario': 0.2803, 'importe': 0.2394, 'contribuidor': 0.2803}","{'favor portear': 0.3536, 'portear él': 0.3536, 'él v13': 0.3536, 'v13 cambio': 0.3536, 'cambio v13': 0.3536, 'v13 v14': 0.3536, 'v14 profundo': 0.3536, 'contribuidor hacer': 0.3536}",1.0
 Issue,4368,[IMP] Backport OCA Verifactu,"**¿Tu solicitud de funcionalidad está relacionada con algún problema?**
 Todas las empresas españolas requieren adaptarse a la normativa contable de la que se deriva Verifactu. Contamos con una versión del módulo OCA para 16.0 aunque lo necesitamos instalar en Odoo 14.0
 
