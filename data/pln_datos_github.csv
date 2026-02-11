@@ -9793,7 +9793,7 @@ View error context:
 
 
 **Additional context**
-Instalación limpia Odoo Enterprise On Premise en servidor dedicado.",Gracias por la respuesta Pedro. No tenía ni idea.,gracias respuesta pedro idea,"{'gracias': 0.3876, 'pedro': 0.5043, 'respuesta': 0.5657, 'idea': 0.5248}",{'gracias respuesta': 1.0},
+Instalación limpia Odoo Enterprise On Premise en servidor dedicado.",Gracias por la respuesta Pedro. No tenía ni idea.,gracias respuesta pedro idea,"{'gracias': 0.3876, 'pedro': 0.5043, 'respuesta': 0.5657, 'idea': 0.5248}",{'gracias respuesta': 1.0},1.0
 Issue,3799,[15.0] l10n_es_facturae pre-migration.py,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
