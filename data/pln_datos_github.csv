@@ -15603,7 +15603,7 @@ Esto hace que cualquier compra de servicios extracomunitarios se considere DUA, 
 Compararando con el l10n_es_dua_sii, vemos el mismo mapeo, pero sin los extracomunitarios. [Xml](https://github.com/OCA/l10n-spain/blob/c248db0b81015f113050d981086bb0fe1a8a84c8/l10n_es_dua_sii/data/tax_code_map_dua_sii_data.xml#L11)
 
 Propuesta: quitar los impuestos de adquisiciones de servicios del mapeo del DUA
-Versiones afectadas: 9.0 a 15.0",Cerrado por mergeo,cerrado mergeo,{'cerrado': 1.0},{},
+Versiones afectadas: 9.0 a 15.0",Cerrado por mergeo,cerrado mergeo,{'cerrado': 1.0},{},1.0
 Issue,3455,Modelo 347 importes en negatico,"Hola, cuando generamos el modelo 347 y un cliente tiene importes en negativo (porque solo hay facturas rectificativas) en el documento sale correcto:
 ![image](https://github.com/OCA/l10n-spain/assets/84158523/1fa316da-787c-4dc0-87ee-1a677a984acf)
 
