@@ -16413,7 +16413,7 @@ Pull Request,4784,[18.0][IMP] l10n_es_aeat_mod347: Número de convocatoria BDNS,
 
 @ArantxaSudon @pedrobaeza revisad por favor.
 
-MT-13422 @moduon",Error en los tests de facturae,error test facturae,"{'error': 0.4189, 'facturae': 0.7118, 'test': 0.5637}",{},
+MT-13422 @moduon",Error en los tests de facturae,error test facturae,"{'error': 0.4189, 'facturae': 0.7118, 'test': 0.5637}",{},-1.0
 Pull Request,4784,[18.0][IMP] l10n_es_aeat_mod347: Número de convocatoria BDNS,"Acorde a https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25390, Artículo 1
 
 <img width=""1226"" height=""822"" alt=""image"" src=""https://github.com/user-attachments/assets/5995c9d3-f0b9-4745-b5d2-11578c538d5a"" />
