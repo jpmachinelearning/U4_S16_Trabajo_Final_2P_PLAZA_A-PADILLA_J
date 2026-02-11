@@ -18293,7 +18293,7 @@ https://github.com/OCA/l10n-spain/blob/cb464963d188c069c266c54ba6a85309e54870c2/
 - ¿Es válido tener configuraciones diferentes entre compañía y POS?
 - ¿Cuál es el flujo esperado cuando solo el POS tiene régimen simplificado?
 
-**Nota:** Se necesita validación funcional para entender completamente el escenario.",Estoy trabajando en un set de pruebas js,trabajar set prueba js,"{'trabajar': 0.543, 'prueba': 0.5005, 'js': 0.6743}",{},,,,
+**Nota:** Se necesita validación funcional para entender completamente el escenario.",Estoy trabajando en un set de pruebas js,trabajar set prueba js,"{'trabajar': 0.543, 'prueba': 0.5005, 'js': 0.6743}",{},0.0,,,
 Pull Request,4679,[16.0] [FIX] l10n_es_ticketbai_pos: fix AttributeError when validating payment from pos order to invoice,"## **Análisis del Error de TicketBAI en POS**
 
 ### **📋 Escenario Funcional**
