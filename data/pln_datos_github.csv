@@ -10668,7 +10668,7 @@ Saludos, Ignacio J Ortega","¡Qué bien visto!
 
 ¡Gracias!
 
-Un saludo,",ver ijol encargáis pr sygel problema avisadno organizar gracias saludo,"{'problema': 0.2256, 'gracias': 0.2479, 'saludo': 0.3394, 'ver': 0.2489, 'pr': 0.2612, 'organizar': 0.4627, 'ijol': 0.4627, 'encargáis': 0.4627}",{'gracias saludo': 1.0},
+Un saludo,",ver ijol encargáis pr sygel problema avisadno organizar gracias saludo,"{'problema': 0.2256, 'gracias': 0.2479, 'saludo': 0.3394, 'ver': 0.2489, 'pr': 0.2612, 'organizar': 0.4627, 'ijol': 0.4627, 'encargáis': 0.4627}",{'gracias saludo': 1.0},1.0
 Issue,3751,"[160] payment_redsys - Porque necesita una dependencia en ""website_sale""?","Hola a todos:
 
 Nos gustaría usar el payment_redsys para hacer pagos de facturas y demás, pero no instalar website y por tanto tener acceso público a odoo,  hemos simplemente cambiado el manifest borrando la dependencia en ""website_sale""e instala correctamente con lo que la dependencia debe ser ""blanda"", la revisión del código las únicas ocurrencia de website están relacionadas con la obtención de la url pública  desde el website, ¿ estamos en lo cierto? 
