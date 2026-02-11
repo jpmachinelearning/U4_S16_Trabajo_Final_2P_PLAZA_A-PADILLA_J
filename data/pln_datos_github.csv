@@ -16323,7 +16323,7 @@ Estoy de acuerdo en el nombre `_is_aeat_simplified_invoice` puede hacer pensar a
 Para que se entienda mejor e intentar desbloquear la situación voy he subido un nuevo commit siguiendo esa otra via a la que se hace referencia aquí:
 https://github.com/OCA/l10n-spain/pull/4796#discussion_r2765889714
 
-Tal como se ve en el [commit](https://github.com/OCA/l10n-spain/pull/4796/changes/fc9ab0e8cb4afcfa3e2dd12a4d19e723aa63a81f) la idea será renombrar el método en futuras migraciones para no modificar en una versión estable por si alguien ha utilizado ese método en sus personalizaciones.",aeat hablar trato código utilizar método,"{'utilizar': 0.3958, 'aeat': 0.3914, 'método': 0.538, 'código': 0.4053, 'hablar': 0.4863}",{},
+Tal como se ve en el [commit](https://github.com/OCA/l10n-spain/pull/4796/changes/fc9ab0e8cb4afcfa3e2dd12a4d19e723aa63a81f) la idea será renombrar el método en futuras migraciones para no modificar en una versión estable por si alguien ha utilizado ese método en sus personalizaciones.",aeat hablar trato código utilizar método,"{'utilizar': 0.3958, 'aeat': 0.3914, 'método': 0.538, 'código': 0.4053, 'hablar': 0.4863}",{},0.0
 Pull Request,4795,[16.0][IMP] l10n_es_aeat_mod347: Number of convocation BDNS,"BP de https://github.com/OCA/l10n-spain/pull/4784 y https://github.com/OCA/l10n-spain/pull/4794
 
 Acorde a https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25390, Artículo 1
