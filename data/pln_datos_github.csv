@@ -17164,7 +17164,7 @@ Pull Request,4721,[17.0][FIX] l10n_es_aeat_sii_oca: Homogenize actions on error,
 
 This homogenizes the behavior on both.
 
-@Tecnativa TT60254","Congratulations, your PR was merged at b6d43e3ed757a88f07121c32edb1244440dd4530. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT60254","Congratulations, your PR was merged at b6d43e3ed757a88f07121c32edb1244440dd4530. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4720,[18.0][FIX] l10n_es_pos_sii: Initialize aeat_state,"Due to the way PoS orders are created from the JS app, the records are created with null in aeat_state field, so they are sent to the SII with A1 (modification) key instead of A0 (creation) one.
 
 Let's force in the creation the value for not having this problem.
