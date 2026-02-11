@@ -17480,7 +17480,7 @@ Pull Request,4700,[18.0][IMP] l10n_es_pos_sii: Better UI,"- Hide fields when not
 
 @Tecnativa","Fusiono directamente para proceder a realizar las traducciones:
 
-/ocabot merge patch",fusionar directamente proceder traducción ocabot merge patch,"{'directamente': 0.3033, 'proceder': 0.4311, 'fusionar': 0.3323, 'traducción': 0.3984, 'ocabot': 0.3984, 'merge': 0.3682, 'patch': 0.3984}","{'ocabot merge': 0.6945, 'merge patch': 0.7195}",
+/ocabot merge patch",fusionar directamente proceder traducción ocabot merge patch,"{'directamente': 0.3033, 'proceder': 0.4311, 'fusionar': 0.3323, 'traducción': 0.3984, 'ocabot': 0.3984, 'merge': 0.3682, 'patch': 0.3984}","{'ocabot merge': 0.6945, 'merge patch': 0.7195}",1.0
 Pull Request,4700,[18.0][IMP] l10n_es_pos_sii: Better UI,"- Hide fields when not needed, like refund type.
 - Put better labels on UI. The current field strings are OK for being differentiated in parts like advanced search, but for the UI, as they are already in the SII tab, are not the best one, so let's adjust them.
 - Remove useless auxiliary invisible field (since viewpocalypse).
