@@ -7864,7 +7864,7 @@ Rafa
 
 @moduon MT-5880","Gracias por los detalles extra, Emilio. Ahora queda claro que tenemos dos columnas para la cuota y que la prorrata haría diferente cada una. @etobella utilizó un ""truco"" para no necesitar un módulo extra para el SII que completé yo en https://github.com/OCA/l10n-spain/pull/2598
 
-Tal vez se podría aplicar algo similar. Si no, un glue module.",gracias detalle extra emilio quedar columna cuota prorrata hacer glue module,"{'gracias': 0.2052, 'hacer': 0.2227, 'quedar': 0.2537, 'extra': 0.2913, 'detalle': 0.2994, 'columna': 0.3347, 'prorrata': 0.2778, 'cuota': 0.3089, 'glue': 0.3539, 'emilio': 0.3539, 'module': 0.3666}","{'columna cuota': 0.7224, 'glue module': 0.6915}",
+Tal vez se podría aplicar algo similar. Si no, un glue module.",gracias detalle extra emilio quedar columna cuota prorrata hacer glue module,"{'gracias': 0.2052, 'hacer': 0.2227, 'quedar': 0.2537, 'extra': 0.2913, 'detalle': 0.2994, 'columna': 0.3347, 'prorrata': 0.2778, 'cuota': 0.3089, 'glue': 0.3539, 'emilio': 0.3539, 'module': 0.3666}","{'columna cuota': 0.7224, 'glue module': 0.6915}",1.0
 Issue,4042,Importes incorrectos en l10n_es_igic/data/template/account.tax-es_common_canary.csv?,"Calcula mal los impuestos de los documentos de compra con impuestos IGIC.
 
 ## Module
