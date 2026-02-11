@@ -18488,7 +18488,7 @@ Pull Request,4673,[18.0][IMP] l10n_es_vat_book: improve search for Ram consume,"
 
 This change avoids unnecessary prefetch and significantly improving the action's speed and memory consumption.
 
-","Bueno, en el ORM se difieren la obtención de los campos calculados hasta que se usen por primera vez, por lo que eso no debería ser.",orm diferir obtención campo calculado usar deber,"{'campo': 0.2809, 'deber': 0.2848, 'usar': 0.3888, 'diferir': 0.5044, 'orm': 0.4661, 'calculado': 0.4661}",{'campo calculado': 1.0},,,,
+","Bueno, en el ORM se difieren la obtención de los campos calculados hasta que se usen por primera vez, por lo que eso no debería ser.",orm diferir obtención campo calculado usar deber,"{'campo': 0.2809, 'deber': 0.2848, 'usar': 0.3888, 'diferir': 0.5044, 'orm': 0.4661, 'calculado': 0.4661}",{'campo calculado': 1.0},-1.0,,,
 Pull Request,4672,[17.0][FIX] l10n_es_partner: Force context to calculate complete_name with comercial,"bp https://github.com/OCA/l10n-spain/pull/4658/
 
 complete_name is the field used to sort res.partner, but when calculated without context, the stored value ignored the sales rep name, producing an inconsistent visual order in the tree views when sorting by contact. The context is forced during the compute to include the sales rep in companies and contacts. In addition, a migration script is added to recalculate the affected records as it is a stored field.
