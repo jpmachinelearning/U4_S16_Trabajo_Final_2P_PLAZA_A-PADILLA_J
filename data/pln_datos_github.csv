@@ -18897,7 +18897,7 @@ Pull Request,4627,[16.0][IMP] l10n_es_vat_prorate: update prorate data with wiza
 Añadida la posibilidad de actualizar prorrata si eres responsable de AEAT y Facturación.
 Similar a como funciona la actualización de las fechas de bloqueo, con la dificultad añadida del one2many. 
 @pedrobaeza @etobella ","Congratulations, your PR was merged at 7b5aa79adfa7b2b84bf80559b20fa24a6b772ac5. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
-Pull Request,4625,[17.0][MIG] l10n_es_aeat_mod347_igic : Migration to 17.0,Migración estándar.,No hay un modelo específico para Canarias equivalente al 347? Cuál es la finalidad de esto?,modelo específico canarias equivalente finalidad,"{'modelo': 0.3993, 'específico': 0.4595, 'equivalente': 0.5537, 'canarias': 0.5682}",{},,,,
+Pull Request,4625,[17.0][MIG] l10n_es_aeat_mod347_igic : Migration to 17.0,Migración estándar.,No hay un modelo específico para Canarias equivalente al 347? Cuál es la finalidad de esto?,modelo específico canarias equivalente finalidad,"{'modelo': 0.3993, 'específico': 0.4595, 'equivalente': 0.5537, 'canarias': 0.5682}",{},0.0,,,
 Pull Request,4625,[17.0][MIG] l10n_es_aeat_mod347_igic : Migration to 17.0,Migración estándar.,"Buenas tardes, @pedrobaeza.
 Efectivamente, en Canarias existe un modelo equivalente (el 415). Supongo que debe haber algún caso específico que el 415 no cubre, ya que he visto que este addon existe en la versión 16.0 conviviendo con el del 415, y además hay un PR abierto para la 18.0 sobre el mismo tema.
 
