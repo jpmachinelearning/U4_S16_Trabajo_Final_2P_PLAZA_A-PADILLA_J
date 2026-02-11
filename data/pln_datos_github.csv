@@ -10562,7 +10562,7 @@ https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
 
 Missing module? Check https://github.com/OCA/maintainer-tools/wiki/%5BFAQ%5D-Missing-modules-in-migration-issue-list","Buenas tardes,
 
-Se migrará el módulo l10n_es_vat_book_pos a la v18???",tarde migrar módulo l10n_es_vat_book_pos v18,"{'módulo': 0.2353, 'migrar': 0.4491, 'v18': 0.5034, 'tarde': 0.4859, 'l10n_es_vat_book_pos': 0.5034}","{'migrar módulo': 0.7071, 'módulo l10n_es_vat_book_pos': 0.7071}",
+Se migrará el módulo l10n_es_vat_book_pos a la v18???",tarde migrar módulo l10n_es_vat_book_pos v18,"{'módulo': 0.2353, 'migrar': 0.4491, 'v18': 0.5034, 'tarde': 0.4859, 'l10n_es_vat_book_pos': 0.5034}","{'migrar módulo': 0.7071, 'módulo l10n_es_vat_book_pos': 0.7071}",0.0
 Issue,3754,Migration to version 18.0,"# Todo
 
 https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
