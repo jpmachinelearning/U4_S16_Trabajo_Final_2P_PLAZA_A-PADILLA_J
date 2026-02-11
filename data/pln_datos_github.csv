@@ -19443,4 +19443,4 @@ Pull Request,4576,[18.0][FIX] l10n_es_aeat: Find properly the XML-ID for non ded
 
 The tax groups are now by company and bound to `account` module, so let's change the compare condition.
 
-@Tecnativa","Congratulations, your PR was merged at 9f6c6d16ceddfdd49fa0889ffb62dc54d672cc91. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+@Tecnativa","Congratulations, your PR was merged at 9f6c6d16ceddfdd49fa0889ffb62dc54d672cc91. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
