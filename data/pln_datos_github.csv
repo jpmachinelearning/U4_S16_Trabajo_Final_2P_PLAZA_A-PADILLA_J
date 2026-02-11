@@ -20,7 +20,7 @@ The BOE file should be accepted by the AEAT website without validation errors.
 ## Notes / hints
 - It looks like the generated file includes the text `Número de convocatoria BDNS`, which contains characters that are not allowed in the BOE format (or in the expected encoding).
 - Please confirm where this value is coming from (partner name, invoice line description, narration/notes, etc.) and ensure it is properly sanitized/encoded before generating the BOE file.
-",Siendo tratado en #4784 ,tratar,,,
+",Siendo tratado en #4784 ,tratar,,,0.0
 Issue,4760,Actualizar modelo 190 en rama 16.0,"Actualmente, al generar el fichero del modelo 190 desde Odoo 16.0 (rama 16.0) utilizando el módulo l10n_es_aeat_mod190, se están produciendo errores al intentar importar dicho fichero en la sede electrónica de la AEAT para el ejercicio 2025.
 El error devuelto por Hacienda está relacionado con los campos correspondientes a prestaciones de jubilación, viudedad, pensiones por incapacidad y percepciones similares, que para el ejercicio 2025 son requeridos por la AEAT y no parecen estar contemplados en esta versión del módulo.
 Si es posible, se solicita la actualización del módulo ""l10n_es_aeat_mod190"" en la rama 16.0 para incorporar los campos y claves necesarios para el ejercicio 2025, especialmente aquellos relacionados con prestaciones de jubilación, viudedad, pensiones por incapacidad y percepciones asociadas.
