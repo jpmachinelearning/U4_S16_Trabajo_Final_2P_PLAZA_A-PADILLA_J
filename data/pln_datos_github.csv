@@ -8093,7 +8093,7 @@ Por ejemplo, Declaraciones ATC, podrían ir el 415 y 420 englobados dentro de De
 Qué opináis le cambiamos el nombre o uno más genérico y dejamos un solo menú principal, que luego tendrá los que requiera cada zona?
 
 Saludos,
-Ignacio","Yo creo que debe quedarse en `l10n_es_aeat` por el momento, ya que es una base adecuada para las declaraciones (sean de la Administración que sean) y no creo que surja el que algún modelo no dependa de este módulo y ""vaya por libre"" sin heredar el modelo base de declaración.",quedar él l10n_es_aeat momento base adecuado declaración administración surgir modelo depender módulo libre heredar modelo base declaración,"{'módulo': 0.1331, 'modelo': 0.3749, 'él': 0.1185, 'adecuado': 0.2262, 'quedar': 0.197, 'declaración': 0.4362, 'base': 0.3799, 'l10n_es_aeat': 0.2262, 'surgir': 0.2974, 'depender': 0.2325, 'momento': 0.2002, 'heredar': 0.2846, 'libre': 0.2974}","{'depender módulo': 0.5687, 'él l10n_es_aeat': 0.5687, 'quedar él': 0.5942}",
+Ignacio","Yo creo que debe quedarse en `l10n_es_aeat` por el momento, ya que es una base adecuada para las declaraciones (sean de la Administración que sean) y no creo que surja el que algún modelo no dependa de este módulo y ""vaya por libre"" sin heredar el modelo base de declaración.",quedar él l10n_es_aeat momento base adecuado declaración administración surgir modelo depender módulo libre heredar modelo base declaración,"{'módulo': 0.1331, 'modelo': 0.3749, 'él': 0.1185, 'adecuado': 0.2262, 'quedar': 0.197, 'declaración': 0.4362, 'base': 0.3799, 'l10n_es_aeat': 0.2262, 'surgir': 0.2974, 'depender': 0.2325, 'momento': 0.2002, 'heredar': 0.2846, 'libre': 0.2974}","{'depender módulo': 0.5687, 'él l10n_es_aeat': 0.5687, 'quedar él': 0.5942}",0.0
 Issue,4020,Debate: cambio de nombre del menú Declaraciones AEAT,"Hola,
 
 Nos estamos encontrando que empieza a existir modelos fiscales propios de ciertas zonas geográficas. Hasta ahora teníamos el menú de Declaraciones AEAT donde se engloba todo, mi propuesta es sencilla es cambiarle el nombre a Declaraciones o Declaraciones Impuestos. No poner AEAT, sino estamos creando un menú nuevo para cada zona incrementan los menú.
@@ -8103,7 +8103,7 @@ Por ejemplo, Declaraciones ATC, podrían ir el 415 y 420 englobados dentro de De
 Qué opináis le cambiamos el nombre o uno más genérico y dejamos un solo menú principal, que luego tendrá los que requiera cada zona?
 
 Saludos,
-Ignacio",Asigno yo a un programador y que mande el PR,asigno programador mandar pr,"{'pr': 0.4916, 'mandar': 0.8708}",{},
+Ignacio",Asigno yo a un programador y que mande el PR,asigno programador mandar pr,"{'pr': 0.4916, 'mandar': 0.8708}",{},0.0
 Issue,4017,[16.0] l10n_es_aeat_mod347 Movimientos sin impuesto no se reflejan en el mod347,"La compañía es una organización sin ánimo de lucro. 
 No tiene obligación de marcar un impuesto, pero si de declarar los movimientos en el mod347.
 
