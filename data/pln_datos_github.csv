@@ -16510,7 +16510,7 @@ La casilla 28 es ""IVA devengado"", por lo que debe leer de la cuenta 477.
 <img width=""634"" height=""89"" alt=""image"" src=""https://github.com/user-attachments/assets/68cb2198-9c85-45f6-b3ec-e10dc8c1ad8b"" />
 Fuente: https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G412/Instrucciones_modelo_390-2025.pdf
 
-MT-13476 @moduon","Congratulations, your PR was merged at ade22074857513c175aea049022f0d5b8365b85e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+MT-13476 @moduon","Congratulations, your PR was merged at ade22074857513c175aea049022f0d5b8365b85e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4776,[18.0][IMP] l10n_es_aeat_mod390_vat_prorate: Added 12. Prorates,"Añadida página 12 Prorratas y configuración de exportación actualizada.
 Por ahora y hasta que se encuentre una solución unificada para cubrir el CNAE 2025, se añaden las opciones directamente en el módulo.
 @Tecnativa TT60315
