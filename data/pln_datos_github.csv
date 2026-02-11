@@ -7487,7 +7487,7 @@ Creo que con llevar los campos de registro de envío, etc. al l10n_es_aeat se te
 
 ¿Qué pensáis de esto?","> Con saber que ha sido enviado para no volver a enviarlo valdría y ya está en el módulo l10n_es_aeat
 
-Genial, gracias @acysos . ",enviar volver enviar él valer módulo l10n_es_aeat genial gracias acyso,"{'módulo': 0.1974, 'gracias': 0.2363, 'él': 0.1758, 'enviar': 0.5239, 'volver': 0.29, 'l10n_es_aeat': 0.3355, 'valer': 0.32, 'acyso': 0.3501, 'genial': 0.4222}","{'enviar él': 0.3577, 'volver enviar': 0.4093, 'enviar volver': 0.4276, 'él valer': 0.4276, 'valer módulo': 0.4276, 'módulo l10n_es_aeat': 0.3951}",
+Genial, gracias @acysos . ",enviar volver enviar él valer módulo l10n_es_aeat genial gracias acyso,"{'módulo': 0.1974, 'gracias': 0.2363, 'él': 0.1758, 'enviar': 0.5239, 'volver': 0.29, 'l10n_es_aeat': 0.3355, 'valer': 0.32, 'acyso': 0.3501, 'genial': 0.4222}","{'enviar él': 0.3577, 'volver enviar': 0.4093, 'enviar volver': 0.4276, 'él valer': 0.4276, 'valer módulo': 0.4276, 'módulo l10n_es_aeat': 0.3951}",1.0
 Issue,4103,17.0 l10n_es_aeat_mod303: 303_informe_BOE error when import from aeat web,"![Image](https://github.com/user-attachments/assets/ebcb2a25-1aba-4e4a-8dcd-a1ffda699e29)
 
 ![Image](https://github.com/user-attachments/assets/558d7abd-203c-4a4f-b7c9-122902a45ab2)
