@@ -3660,7 +3660,7 @@ Alguna pista de porque ocurre esto?
 
 Comentar que hasta ahora no estaban instalados los módulos ""account_invoice_refund_link"", ""l10n_es_aeat"" ya que sólo se realizaba la facturación y no se llevaba la contabilidad.
 
-Gracias","Buenas @vandekul, esa posición fue añadida hace 11 meses https://github.com/odoo/odoo/commit/a652896cb53717ad0a6a3abafb123bbe99110eb0 es posible que tu versión de odoo esté desactualizada o bien el plan contable como tal. Una vez asegurado que tu versión contiene las posiciones correspondientes puedes utilizar el módulo https://github.com/OCA/account-financial-tools/blob/16.0/account_chart_update para crear las posiciones fiscales faltantes. Espero que te sirva de ayuda",esperar servir ayuda,"{'esperar': 0.6201, 'servir': 0.5547, 'ayuda': 0.5547}",{'servir ayuda': 1.0},
+Gracias","Buenas @vandekul, esa posición fue añadida hace 11 meses https://github.com/odoo/odoo/commit/a652896cb53717ad0a6a3abafb123bbe99110eb0 es posible que tu versión de odoo esté desactualizada o bien el plan contable como tal. Una vez asegurado que tu versión contiene las posiciones correspondientes puedes utilizar el módulo https://github.com/OCA/account-financial-tools/blob/16.0/account_chart_update para crear las posiciones fiscales faltantes. Espero que te sirva de ayuda",esperar servir ayuda,"{'esperar': 0.6201, 'servir': 0.5547, 'ayuda': 0.5547}",{'servir ayuda': 1.0},1.0
 Issue,4391,warning in l10n_es_aeat_sii_match en su instalacion,"Enla linea 101 del codigo de    hay una etiqueta que es la misma que en la 117
 Pueden verificar si es así o por el contrario la etiqueta en la 101 no tendría que llevar contrasted?
 
