@@ -17209,7 +17209,7 @@ Pull Request,4710,[17.0][FIX] l10n_es_aeat_sii_oca: Raise exception is partner h
 
 La excepcion de que un contacto no tiene NIF tiene que tener en cuenta si el contacto tiene otra identificacion
 
-ping @christian-ramos-tecnativa @carlosdauden ",@christian-ramos-tecnativa Changes done!,christian-ramos-tecnativa changes donar,"{'tecnativa': 0.4758, 'christian': 0.4758, 'ramos': 0.4868, 'donar': 0.557}","{'christian ramos': 0.6581, 'ramos tecnativa': 0.753}",
+ping @christian-ramos-tecnativa @carlosdauden ",@christian-ramos-tecnativa Changes done!,christian-ramos-tecnativa changes donar,"{'tecnativa': 0.4758, 'christian': 0.4758, 'ramos': 0.4868, 'donar': 0.557}","{'christian ramos': 0.6581, 'ramos tecnativa': 0.753}",0.0
 Pull Request,4710,[17.0][FIX] l10n_es_aeat_sii_oca: Raise exception is partner has not a vat but has a aeat_identification,"cc @Tecnativa 
 
 La excepcion de que un contacto no tiene NIF tiene que tener en cuenta si el contacto tiene otra identificacion
