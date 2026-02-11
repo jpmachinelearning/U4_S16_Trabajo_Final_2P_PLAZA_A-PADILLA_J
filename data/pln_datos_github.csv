@@ -17301,7 +17301,7 @@ Pull Request,4707,[18.0][IMP] l10n_es_aeat_sii_oca: multiple improvements,"En es
 <img width=""615"" height=""298"" alt=""image"" src=""https://github.com/user-attachments/assets/1347f8cf-c0be-4cf4-990d-3e126781a6b7"" />
 
 @Tecnativa TT59653
-@pedrobaeza ","Ya están todos los puntos comentados, en cuanto al PR que realizaste para `l10n_es_pos_sii` me ha parecido que los campos en este están bastante preparados con los `invisible` y `readonly` donde toca. Déjame saber si echas alguno en falta",punto comentado pr realizastar l10n_es_pos_sii parecer campo preparado invisible readonly tocar déjame echar falta,"{'falta': 0.3099, 'campo': 0.2239, 'parecer': 0.3301, 'echar': 0.3144, 'pr': 0.227, 'punto': 0.2752, 'tocar': 0.2983, 'comentado': 0.3606, 'l10n_es_pos_sii': 0.4021, 'readonly': 0.3715}",{},
+@pedrobaeza ","Ya están todos los puntos comentados, en cuanto al PR que realizaste para `l10n_es_pos_sii` me ha parecido que los campos en este están bastante preparados con los `invisible` y `readonly` donde toca. Déjame saber si echas alguno en falta",punto comentado pr realizastar l10n_es_pos_sii parecer campo preparado invisible readonly tocar déjame echar falta,"{'falta': 0.3099, 'campo': 0.2239, 'parecer': 0.3301, 'echar': 0.3144, 'pr': 0.227, 'punto': 0.2752, 'tocar': 0.2983, 'comentado': 0.3606, 'l10n_es_pos_sii': 0.4021, 'readonly': 0.3715}",{},-1.0
 Pull Request,4707,[18.0][IMP] l10n_es_aeat_sii_oca: multiple improvements,"En este PR se añaden las siguientes mejoras:
 
 - Si la factura está en error, al enviarla de nuevo se crea como envío inmediato. 
