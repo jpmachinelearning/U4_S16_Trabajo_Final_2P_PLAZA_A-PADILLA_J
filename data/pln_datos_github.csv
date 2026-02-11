@@ -1975,7 +1975,7 @@ Lo que nos devuelve el siguiente error: _1126 - 'El valor del CodigoPais solo pu
 
 ¿En estos casos donde no conocemos o podemos establecer el NIF, se deberían mandar siempre las facturas como simplificadas a VERI*FACTU (marcándolo así en el contacto)? ¿O hay que hacerlo de alguna otra manera que aún no está contemplada o implementada en el módulo?
 
-¡Gracias de antemano! :)","Sí, me parece bien que se haga de forma manual, así tenemos más control. ¡Mil gracias @pedrobaeza! Cierro la issue.",hacer forma manual control mil gracia pedrobaeza cerrar issue,"{'hacer': 0.279, 'pedrobaeza': 0.2394, 'issue': 0.3044, 'cerrar': 0.2849, 'gracia': 0.2722, 'control': 0.4098, 'forma': 0.2967, 'manual': 0.4193, 'mil': 0.4303}","{'cerrar issue': 0.4438, 'forma manual': 0.5305, 'mil gracia': 0.4902, 'gracia pedrobaeza': 0.5305}",
+¡Gracias de antemano! :)","Sí, me parece bien que se haga de forma manual, así tenemos más control. ¡Mil gracias @pedrobaeza! Cierro la issue.",hacer forma manual control mil gracia pedrobaeza cerrar issue,"{'hacer': 0.279, 'pedrobaeza': 0.2394, 'issue': 0.3044, 'cerrar': 0.2849, 'gracia': 0.2722, 'control': 0.4098, 'forma': 0.2967, 'manual': 0.4193, 'mil': 0.4303}","{'cerrar issue': 0.4438, 'forma manual': 0.5305, 'mil gracia': 0.4902, 'gracia pedrobaeza': 0.5305}",1.0
 Issue,4613,[16.0] l10n_es_verifactu_oca: Permitir la modificación de cuentas contables en account.move con VeriFactu activado,"**### Descripción del problema**
 Al validar una factura con VeriFactu activado, el documento queda completamente bloqueado. Esto implica que no es posible modificar los apuntes contables, incluyendo cambios en las cuentas contables asignadas.
 
