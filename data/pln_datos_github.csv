@@ -17097,7 +17097,7 @@ Pull Request,4732,[18.0][FIX] l10n_es_aeat_mod303_vat_prorate: Add other exempt 
 Pull Request,4732,[18.0][FIX] l10n_es_aeat_mod303_vat_prorate: Add other exempt taxes,"Añado a la lista de los impuestos exentos otros que también deberían ser considerados para el cálculo de la prorrata.
 
 @Tecnativa TT60315
-@pedrobaeza @victoralmau ",@christian-ramos-tecnativa ¿Puedes hacer backport a 17.0?,christian-ramos-tecnativo poder backport,"{'poder': 0.2818, 'backport': 0.4539, 'christian': 0.4806, 'ramos': 0.4917, 'tecnativo': 0.4917}","{'christian ramos': 0.4649, 'ramos tecnativo': 0.4915, 'tecnativo poder': 0.532, 'poder backport': 0.5092}",
+@pedrobaeza @victoralmau ",@christian-ramos-tecnativa ¿Puedes hacer backport a 17.0?,christian-ramos-tecnativo poder backport,"{'poder': 0.2818, 'backport': 0.4539, 'christian': 0.4806, 'ramos': 0.4917, 'tecnativo': 0.4917}","{'christian ramos': 0.4649, 'ramos tecnativo': 0.4915, 'tecnativo poder': 0.532, 'poder backport': 0.5092}",0.0
 Pull Request,4731,[18.0][IMP] payment_redsys: Define a specific string for the redsys_secret_key field to avoid lot warning,"Define a specific string for the `redsys_secret_key` field to avoid lot warning
 
 `WARNING prod odoo.addons.base.models.ir_model: Two fields (stripe_secret_key, redsys_secret_key) of payment.provider() have the same label: Secret Key. [Modules: payment_stripe and payment_redsys]`
