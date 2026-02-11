@@ -2205,7 +2205,7 @@ Observaciones:
        •	Posiblemente algunos registros existentes no tienen valores asignados para estos campos, ¿puede ser?
 
 ¿Podrías decidme  por qué ocurre esto y cómo solucionarlo?
-","Hola, ¿has actualizado también el módulo dentro del propio Odoo, o solo has actualizado el código?",hola has actualizar módulo odoo haber actualizar código,"{'odoo': 0.2724, 'módulo': 0.2434, 'haber': 0.3248, 'hola': 0.289, 'código': 0.3364, 'actualizar': 0.7513}","{'módulo odoo': 0.4931, 'actualizar código': 0.4786, 'actualizar módulo': 0.4931, 'odoo haber': 0.5336}",
+","Hola, ¿has actualizado también el módulo dentro del propio Odoo, o solo has actualizado el código?",hola has actualizar módulo odoo haber actualizar código,"{'odoo': 0.2724, 'módulo': 0.2434, 'haber': 0.3248, 'hola': 0.289, 'código': 0.3364, 'actualizar': 0.7513}","{'módulo odoo': 0.4931, 'actualizar código': 0.4786, 'actualizar módulo': 0.4931, 'odoo haber': 0.5336}",0.0
 Issue,4589,[16.0] Problema tras actualización de VERI*FACTU (v16.0.1.1.0),"Hola Pedro y compis,
 
 Acabo de actualizar a la nueva versión de VERI*FACTU:
