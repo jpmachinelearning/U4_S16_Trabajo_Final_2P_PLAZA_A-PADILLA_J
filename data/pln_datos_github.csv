@@ -16357,7 +16357,7 @@ Pull Request,4788,[17.0][FWP][IMP] l10n_es_vat_prorate: update prorate data with
 - [X] https://github.com/OCA/l10n-spain/pull/4627
 
 @Tecnativa TT59299
-@pedrobaeza ","Listo, lo he añadido a la constrain para que salte también si lo añadieran en la compañía directamente",listo añadir constrain saltar añadir compañía directamente,"{'directamente': 0.3607, 'añadir': 0.634, 'compañía': 0.354, 'listo': 0.4208, 'saltar': 0.4069}",{'listo añadir': 1.0},
+@pedrobaeza ","Listo, lo he añadido a la constrain para que salte también si lo añadieran en la compañía directamente",listo añadir constrain saltar añadir compañía directamente,"{'directamente': 0.3607, 'añadir': 0.634, 'compañía': 0.354, 'listo': 0.4208, 'saltar': 0.4069}",{'listo añadir': 1.0},0.0
 Pull Request,4788,[17.0][FWP][IMP] l10n_es_vat_prorate: update prorate data with wizard,"FWP de 
 
 - [X] https://github.com/OCA/l10n-spain/pull/4627
