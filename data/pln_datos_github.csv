@@ -4564,7 +4564,7 @@ he probado un UUID tipo : 00fbbf73-7472-43fb-a237-cc4e57f4aaf6, un simple ""2"" 
 
 Agradecería cualquier orientación, ya que parece que el XML cumple el esquema pero la AEAT sigue devolviendo el 1177.
 
-Gracias de antemano 🙏",Mil gracias! Funciona!,mil gracia,"{'gracia': 0.5345, 'mil': 0.8451}",{'mil gracia': 1.0},
+Gracias de antemano 🙏",Mil gracias! Funciona!,mil gracia,"{'gracia': 0.5345, 'mil': 0.8451}",{'mil gracia': 1.0},1.0
 Issue,4374,[16.0] [FIX] l10n_es_verifactu_oca Error 1100 en el envío de facturas,"****Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created **
 
