@@ -10795,7 +10795,7 @@ He hecho un vídeo explicativo de ejemplo:
 https://www.loom.com/share/6ee7e9b1479f441585b684cbb499a558?sid=293c8942-e21e-486f-962a-a3c2d8cd8428
 
 @rafaelbn @EmilioPascual 
-MT-1809 @moduon","OK, si #3715 no es lo que se comenta en esta issue, entonces reabro para seguir reflejándolo hasta que haya un PR que lo haga. Disculpad la confusión.",ok comentar issue reabro seguir reflejándolo pr hacer disculpad confusión,"{'hacer': 0.2531, 'issue': 0.2762, 'comentar': 0.2781, 'pr': 0.2458, 'seguir': 0.2955, 'disculpad': 0.4023, 'ok': 0.3311, 'confusión': 0.4353, 'reabro': 0.4167}",{'comentar issue': 1.0},
+MT-1809 @moduon","OK, si #3715 no es lo que se comenta en esta issue, entonces reabro para seguir reflejándolo hasta que haya un PR que lo haga. Disculpad la confusión.",ok comentar issue reabro seguir reflejándolo pr hacer disculpad confusión,"{'hacer': 0.2531, 'issue': 0.2762, 'comentar': 0.2781, 'pr': 0.2458, 'seguir': 0.2955, 'disculpad': 0.4023, 'ok': 0.3311, 'confusión': 0.4353, 'reabro': 0.4167}",{'comentar issue': 1.0},1.0
 Issue,3730,[16.0] l10n_es_vat_prorate Slipt de lineas de impuesto por línea de factura ,"Hola 
 
 Creo que sería necesario hacer un desglose por líneas del impuesto que no se puede deducir con la prorrata
