@@ -3320,7 +3320,7 @@ grep -Rns --include='*.py' \
 /opt/odoo/src/oca/account-invoicing/account_invoice_refund_link/wizards/account_move_reversal.py:7:class AccountMoveReversal(models.TransientModel): 
 /opt/odoo/src/oca/account-invoicing/account_invoice_refund_link/wizards/account_move_reversal.py:10: def reverse_moves(self, is_modify=False):
 
-Lo reporto por si puede ser de ayuda, espero no hacer perder el tiempo a nadie. ","Sí, disculpad. Esta tarde subo parche.",disculpad subir parche,"{'parche': 0.5504, 'subir': 0.4998, 'disculpad': 0.6687}",{},
+Lo reporto por si puede ser de ayuda, espero no hacer perder el tiempo a nadie. ","Sí, disculpad. Esta tarde subo parche.",disculpad subir parche,"{'parche': 0.5504, 'subir': 0.4998, 'disculpad': 0.6687}",{},1.0
 Issue,4463,[17.0] l10n_es_verifactu_oca: Falla factura rectificativa con error unexpected keyword argument 'is_modify',"Perdonad que no soy desarrollador de Odoo y puede que me equivoque. En la descripción del módulo se comenta que la modificación de facturas enviadas no está soportada, pero la creación de rectificativa creo que sí. 
 
 En versión 17 cuando vas a hacer una factura de rectificativa falla
