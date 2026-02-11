@@ -9362,7 +9362,7 @@ Gracias por los comentarios
 Saludos,
 Rafa
 
-@moduon MT-8422","Todo esto está ya hecho en 15.0 en adelante. Revisad PRs ya fusionados. Para 14.0, alguien debe hacer los backports.",revisad prs fusionado alguien backports,"{'alguien': 0.4033, 'backports': 0.584, 'fusionado': 0.5238, 'prs': 0.4711}",{},
+@moduon MT-8422","Todo esto está ya hecho en 15.0 en adelante. Revisad PRs ya fusionados. Para 14.0, alguien debe hacer los backports.",revisad prs fusionado alguien backports,"{'alguien': 0.4033, 'backports': 0.584, 'fusionado': 0.5238, 'prs': 0.4711}",{},0.0
 Issue,3851,Informe de Balance de Sumas y Saldos de la Contabilidad en la version 11,"Buenas tardes,
 Esta incidencia la llevo arrastrando durante 2024. Las cuentas 705000007, 631000005 y 631000006 no han tenido movimientos durante 2024 y al generar el informe de sumas y saldos, acotando fecha desde 01/01/2024 a 31/10/2024,
 
