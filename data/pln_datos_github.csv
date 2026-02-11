@@ -5083,7 +5083,7 @@ Mi compañero @ljimenezsidoo y yo trataremos de iniciar la parte técnica ASAP. 
 
 En 18.0 acabará llegando por necesidad, según procedimiento habitual de contribuciones, mientras que <14.0 debería tener un uso muy residual.
 
-Cualquier cosa podemos reabrir hilo.",issue cerrada llevar verifactu acabar llegar necesidad procedimiento habitual contribución deber residual cosa reabrir hilo,"{'llevar': 0.2532, 'verifactu': 0.2205, 'llegar': 0.2888, 'issue': 0.219, 'deber': 0.1949, 'cosa': 0.2305, 'necesidad': 0.3096, 'procedimiento': 0.3096, 'hilo': 0.274, 'acabar': 0.2699, 'habitual': 0.2948, 'contribución': 0.3452, 'reabrir': 0.3452}",{'acabar llegar': 1.0},
+Cualquier cosa podemos reabrir hilo.",issue cerrada llevar verifactu acabar llegar necesidad procedimiento habitual contribución deber residual cosa reabrir hilo,"{'llevar': 0.2532, 'verifactu': 0.2205, 'llegar': 0.2888, 'issue': 0.219, 'deber': 0.1949, 'cosa': 0.2305, 'necesidad': 0.3096, 'procedimiento': 0.3096, 'hilo': 0.274, 'acabar': 0.2699, 'habitual': 0.2948, 'contribución': 0.3452, 'reabrir': 0.3452}",{'acabar llegar': 1.0},1.0
 Issue,4368,[IMP] Backport OCA Verifactu,"**¿Tu solicitud de funcionalidad está relacionada con algún problema?**
 Todas las empresas españolas requieren adaptarse a la normativa contable de la que se deriva Verifactu. Contamos con una versión del módulo OCA para 16.0 aunque lo necesitamos instalar en Odoo 14.0
 
