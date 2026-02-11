@@ -19199,7 +19199,7 @@ Pull Request,4602,[17.0][FIX] l10n_es_verifactu_oca: verifactu mixin macrodata c
 Se estaba usando el método `_get_verifactu_amount_total` que se sustituyó por `_get_verifactu_taxes_and_total` y por lo tanto saltaba un error al ejecutarse el método.
 
 
-(cherry picked from commit 1a7e3f323351e0fdd29f25002c126bec9b290452)","Congratulations, your PR was merged at 8af041d43cd184373e75b8546b94222896a614e0. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+(cherry picked from commit 1a7e3f323351e0fdd29f25002c126bec9b290452)","Congratulations, your PR was merged at 8af041d43cd184373e75b8546b94222896a614e0. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4600,[14.0][BACKPORT] l10n_es_igic_verifactu_oca,"Backport del módulo para v14.
 
 Nota legal y de cumplimiento
