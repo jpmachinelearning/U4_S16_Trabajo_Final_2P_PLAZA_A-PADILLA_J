@@ -18495,7 +18495,7 @@ complete_name is the field used to sort res.partner, but when calculated without
 
 @Tecnativa TT59646
 
-@victoralmau @pedrobaeza please review","Congratulations, your PR was merged at 393a220daebf4090131f7b4464a393111a51eded. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+@victoralmau @pedrobaeza please review","Congratulations, your PR was merged at 393a220daebf4090131f7b4464a393111a51eded. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4671,[18.0][FIX] l10n_es_aeat_mod390: Calculate casilla 662,"FW-port of https://github.com/OCA/l10n-spain/pull/4617
 
 En la casilla 662 se deben incluir las cuotas a compensar generadas en este año que no se hayan aplicado en el año.
