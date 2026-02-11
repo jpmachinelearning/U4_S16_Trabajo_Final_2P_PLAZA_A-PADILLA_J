@@ -1666,7 +1666,7 @@ El comportamiento esperado debe evitar en todo caso la posibilidad de emitir fac
 **Additional context**
 Odoo permite la creación de diarios de ventas manuales sin marcar la opción Verifactu.
 
-Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","Vamos a empezar quitando la opción de desactivarlo, y luego se hace el módulo extra. Si quieres ir con ello, adelante.",empezar quitar opción desactivar él módulo extra querer,"{'módulo': 0.2318, 'él': 0.2064, 'opción': 0.3516, 'querer': 0.361, 'extra': 0.394, 'desactivar': 0.4527, 'empezar': 0.389, 'quitar': 0.3718}","{'módulo extra': 0.6872, 'él módulo': 0.7265}",
+Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","Vamos a empezar quitando la opción de desactivarlo, y luego se hace el módulo extra. Si quieres ir con ello, adelante.",empezar quitar opción desactivar él módulo extra querer,"{'módulo': 0.2318, 'él': 0.2064, 'opción': 0.3516, 'querer': 0.361, 'extra': 0.394, 'desactivar': 0.4527, 'empezar': 0.389, 'quitar': 0.3718}","{'módulo extra': 0.6872, 'él módulo': 0.7265}",0.0
 Issue,4631,[16.0][FIX] l10n_es_verifactu_oca,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
