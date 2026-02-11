@@ -10709,7 +10709,7 @@ He hecho un vídeo explicativo de ejemplo:
 https://www.loom.com/share/6ee7e9b1479f441585b684cbb499a558?sid=293c8942-e21e-486f-962a-a3c2d8cd8428
 
 @rafaelbn @EmilioPascual 
-MT-1809 @moduon",Cierro al estar el PR propuesto.,cerrar pr propuesto,"{'cerrar': 0.4713, 'pr': 0.4481, 'propuesto': 0.7597}",{'cerrar pr': 1.0},
+MT-1809 @moduon",Cierro al estar el PR propuesto.,cerrar pr propuesto,"{'cerrar': 0.4713, 'pr': 0.4481, 'propuesto': 0.7597}",{'cerrar pr': 1.0},1.0
 Issue,3730,[16.0] l10n_es_vat_prorate Slipt de lineas de impuesto por línea de factura ,"Hola 
 
 Creo que sería necesario hacer un desglose por líneas del impuesto que no se puede deducir con la prorrata
