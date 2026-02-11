@@ -16520,7 +16520,7 @@ Pull Request,4776,[18.0][IMP] l10n_es_aeat_mod390_vat_prorate: Added 12. Prorate
 Por ahora y hasta que se encuentre una solución unificada para cubrir el CNAE 2025, se añaden las opciones directamente en el módulo.
 @Tecnativa TT60315
 @pedrobaeza 
-","Congratulations, your PR was merged at 6c19cdfb1bd0dee79949c27efdb6ed7d4f564753. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+","Congratulations, your PR was merged at 6c19cdfb1bd0dee79949c27efdb6ed7d4f564753. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4775,[18.0][IMP] l10n_es_mod390_vat_prorate: Page 12. Prorates,"Añade nuevos campos de la página 12. Prorratas. De momento son editables todos menos el tipo de prorrata.
 
 <img width=""765"" height=""753"" alt=""image"" src=""https://github.com/user-attachments/assets/0a9dc8d1-1718-4dde-96f3-c72a88a43cbc"" />
