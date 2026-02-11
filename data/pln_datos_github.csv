@@ -17544,7 +17544,7 @@ Nosotros hemos presentado los 303 con el formato nuevo del 2025 y en principio n
 Puede que formato anterior del 2025 no haya quedado obsoleto. Es lo que tiene AEAT que no es muy claro.
 
 Desde luego que este no es para 2026
-",aeat,{'aeat': 1.0},{},
+",aeat,{'aeat': 1.0},{},0.0
 Pull Request,4691,[IMP] l10n_es_aeat_mod303: 2025-12 BOE export format,"Updated according to https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_25/DR303e25.xlsx
 
 MT-13202 @moduon","Acabo de probar a exportar con los dos formatos y subirlos al pre-portal de AEAT con una declaración bastante completita, se ha tragado los 2 sin errores.",acabar probar exportar formato subir él pre-portal aeat declaración completito tragar error,"{'aeat': 0.231, 'error': 0.1905, 'él': 0.1541, 'subir': 0.2672, 'probar': 0.2648, 'exportar': 0.3304, 'declaración': 0.2837, 'formato': 0.2806, 'acabar': 0.3024, 'portal': 0.3469, 'tragar': 0.3703, 'pre': 0.3574}","{'subir él': 0.4092, 'acabar probar': 0.4562, 'exportar formato': 0.4562, 'pre portal': 0.4562, 'portal aeat': 0.4562}",
