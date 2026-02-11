@@ -7949,7 +7949,7 @@ Steps to reproduce the behavior:
 Que el fichero sea admitido
 
 **Additional context**
-Add any other context about the problem here. (e.g. OS, Python version, ...)","Revisa los pull request en 15.0 y 16.0, que ya está corregido, y en camino la 17.0. Para versiones anteriores, podéis hacer cherry-pick.",revisar pull request corregido camino versión anterior poder cherry-pick,"{'poder': 0.1996, 'versión': 0.2394, 'anterior': 0.3032, 'revisar': 0.2295, 'camino': 0.3684, 'pull': 0.3816, 'request': 0.3987, 'cherry': 0.3987, 'pick': 0.3987}","{'versión anterior': 0.5257, 'pull request': 0.6015, 'cherry pick': 0.6015}",
+Add any other context about the problem here. (e.g. OS, Python version, ...)","Revisa los pull request en 15.0 y 16.0, que ya está corregido, y en camino la 17.0. Para versiones anteriores, podéis hacer cherry-pick.",revisar pull request corregido camino versión anterior poder cherry-pick,"{'poder': 0.1996, 'versión': 0.2394, 'anterior': 0.3032, 'revisar': 0.2295, 'camino': 0.3684, 'pull': 0.3816, 'request': 0.3987, 'cherry': 0.3987, 'pick': 0.3987}","{'versión anterior': 0.5257, 'pull request': 0.6015, 'cherry pick': 0.6015}",0.0
 Issue,4020,Debate: cambio de nombre del menú Declaraciones AEAT,"Hola,
 
 Nos estamos encontrando que empieza a existir modelos fiscales propios de ciertas zonas geográficas. Hasta ahora teníamos el menú de Declaraciones AEAT donde se engloba todo, mi propuesta es sencilla es cambiarle el nombre a Declaraciones o Declaraciones Impuestos. No poner AEAT, sino estamos creando un menú nuevo para cada zona incrementan los menú.
