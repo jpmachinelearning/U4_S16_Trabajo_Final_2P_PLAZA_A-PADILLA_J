@@ -15728,7 +15728,7 @@ Antes de hacer cambios en código quería confirmar si esta situación ya está 
 
 **Expected behavior**
 Las subvenciones deberían aparecer en el 347.
-","Caso bastante especial sin duda... Creo que no habría que hacer una factura, si no un asiento, pero efectivamente haría falta un impuesto nuevo con cuota 0 y mapearlo en el 347 si no hay ninguno de los existentes que pueda valer.",caso especial duda haber factura asiento efectivamente hacer falta impuesto cuota mapear él existent valer,"{'falta': 0.2949, 'hacer': 0.2224, 'caso': 0.1807, 'haber': 0.2284, 'él': 0.1524, 'impuesto': 0.2001, 'factura': 0.1835, 'efectivamente': 0.2806, 'asiento': 0.3036, 'especial': 0.2949, 'valer': 0.2775, 'duda': 0.3431, 'cuota': 0.3086, 'mapear': 0.3661}","{'hacer falta': 0.4759, 'impuesto cuota': 0.493, 'caso especial': 0.515, 'mapear él': 0.515}",
+","Caso bastante especial sin duda... Creo que no habría que hacer una factura, si no un asiento, pero efectivamente haría falta un impuesto nuevo con cuota 0 y mapearlo en el 347 si no hay ninguno de los existentes que pueda valer.",caso especial duda haber factura asiento efectivamente hacer falta impuesto cuota mapear él existent valer,"{'falta': 0.2949, 'hacer': 0.2224, 'caso': 0.1807, 'haber': 0.2284, 'él': 0.1524, 'impuesto': 0.2001, 'factura': 0.1835, 'efectivamente': 0.2806, 'asiento': 0.3036, 'especial': 0.2949, 'valer': 0.2775, 'duda': 0.3431, 'cuota': 0.3086, 'mapear': 0.3661}","{'hacer falta': 0.4759, 'impuesto cuota': 0.493, 'caso especial': 0.515, 'mapear él': 0.515}",0.0
 Issue,3451,l10n_es_aeat_mod347: subvenciones,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
