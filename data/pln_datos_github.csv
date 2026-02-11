@@ -16649,7 +16649,7 @@ Pull Request,4771,[18.0][FIX] l10n_es_aeat_mod390: Casilla 28 restringida a la c
 
 Fuente: https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G412/Instrucciones_modelo_390-2025.pdf
 
-MT-13476 @moduon","Congratulations, your PR was merged at 9983791d08b480de1482eaf3f04de2f414fcffc6. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+MT-13476 @moduon","Congratulations, your PR was merged at 9983791d08b480de1482eaf3f04de2f414fcffc6. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4770,[17.0][FIX] l10n_es_aeat_mod390: net REAGP rectifications,"La agregación de la compensación REAGP en el Modelo 390 solo tenía en cuenta los movimientos regulares y excluía los movimientos de rectificación/devolución. Como resultado, las rectificaciones de la compensación REAGP no se incluían en absoluto en los totales anuales, lo que provocaba importes de compensación REAGP inflados e incoherencias con el Modelo 303.
 
 Este commit corrige el problema incluyendo todos los tipos de movimientos en la agregación de la compensación REAGP, garantizando que tanto las compensaciones positivas como sus rectificaciones se integren correctamente (en neto) en el Modelo 390 anual.
