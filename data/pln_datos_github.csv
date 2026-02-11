@@ -8785,7 +8785,7 @@ He revisado el módulo l10n_es_igic y pareceriera que nunca se llegó a revisar 
 
 Ya estoy trabajando en corregirlo, pero dejo esta issue para intentar advertir a las personas que pretendan utilizar este módulo en la versión 17 que esperen un poco hasta que aplique los cambios necesarios.","Buenas @etobella Ahora mismo estoy con el punto 1 casi terminando. 
 Sería de gran ayuda si alguien crea los scripts para el remapeo de los xml_ids.
-Si necesitan alguna referencia estoy reutilizando los mismos que en 16.0.",etobella punto terminar ayuda alguien creer script remapeo xml_id necesitar referencia reutilizar,"{'alguien': 0.2753, 'referencia': 0.3215, 'etobella': 0.2923, 'necesitar': 0.2546, 'punto': 0.2729, 'ayuda': 0.3116, 'creer': 0.2957, 'script': 0.3815, 'terminar': 0.3272, 'remapeo': 0.3986}",{},
+Si necesitan alguna referencia estoy reutilizando los mismos que en 16.0.",etobella punto terminar ayuda alguien creer script remapeo xml_id necesitar referencia reutilizar,"{'alguien': 0.2753, 'referencia': 0.3215, 'etobella': 0.2923, 'necesitar': 0.2546, 'punto': 0.2729, 'ayuda': 0.3116, 'creer': 0.2957, 'script': 0.3815, 'terminar': 0.3272, 'remapeo': 0.3986}",{},1.0
 Issue,3864,[17.0] l10n_es_igic Revisión de migración,"Durante la migración del módulo l10n_es_atc_mod415 he detectado que los ids externos de los impuestos no coincidían con los originales y esto hizo saltar mis alarmas.
 He revisado el módulo l10n_es_igic y pareceriera que nunca se llegó a revisar los archivos. En la versión 17 este módulo recrea prácticamente toda la contabilidad española. Renombra muchos de los ids externos (con las implicaciones que esto tiene a la hora de migrar, tanto los módulos dependientes, como un odoo en sí). 
 
