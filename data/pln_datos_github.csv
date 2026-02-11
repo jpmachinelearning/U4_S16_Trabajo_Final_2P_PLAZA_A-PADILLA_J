@@ -6241,7 +6241,7 @@ Y de lo que se recoge en el modelo 123
 
 @rafaelbn @EmilioPascual @HaraldPanten @pedrobaeza 
 
-MT-10771","Sería incluir el tipo de operación, pero hay que asegurar que funcionan minorando la misma casilla, o si van de otra forma.",incluir tipo operación asegurar funcionar minorar casilla forma,"{'funcionar': 0.3243, 'tipo': 0.3508, 'operación': 0.361, 'incluir': 0.3864, 'forma': 0.3396, 'casilla': 0.3827, 'asegurar': 0.4799}",{'tipo operación': 1.0},
+MT-10771","Sería incluir el tipo de operación, pero hay que asegurar que funcionan minorando la misma casilla, o si van de otra forma.",incluir tipo operación asegurar funcionar minorar casilla forma,"{'funcionar': 0.3243, 'tipo': 0.3508, 'operación': 0.361, 'incluir': 0.3864, 'forma': 0.3396, 'casilla': 0.3827, 'asegurar': 0.4799}",{'tipo operación': 1.0},0.0
 Issue,4262,[16] l10n_es_aeat_mod123 No recoge las factura rectificativas,"El modelo 123 recoge las retenciones e ingresos a cuenta del IRPF, del Impuesto sobre Sociedades o del Impuesto sobre la Renta de No Residentes relacionados con determinadas rentas del capital mobiliario.
 
 **Esto también incluye las facturas rectificativas ya que estas corrigen retenciones ya declaradas**
