@@ -12565,7 +12565,7 @@ Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata
 
 @pedrobaeza Hace unos meses participaste en el hilo. Qué opinas? Nuestra idea es hacer algo genérico y sostenible en la localización, para no tenerlo en un custom.
 
-Gracias.","Bueno, realmente puede ser prorrata general, pero hablar de líneas de negocio. @AlbertCabedo es el caso de AEOdoo, ¿no? ¿O eso se considera prorrata especial?",realmente prorratir general hablar línea negocio albertcabedo caso aeodoo prorrata especial,"{'caso': 0.1824, 'realmente': 0.2831, 'general': 0.2716, 'albertcabedo': 0.3229, 'especial': 0.2975, 'hablar': 0.2864, 'línea': 0.2642, 'negocio': 0.386, 'aeodoo': 0.3373, 'prorrata': 0.28, 'prorratir': 0.3566}",{'prorrata especial': 1.0},
+Gracias.","Bueno, realmente puede ser prorrata general, pero hablar de líneas de negocio. @AlbertCabedo es el caso de AEOdoo, ¿no? ¿O eso se considera prorrata especial?",realmente prorratir general hablar línea negocio albertcabedo caso aeodoo prorrata especial,"{'caso': 0.1824, 'realmente': 0.2831, 'general': 0.2716, 'albertcabedo': 0.3229, 'especial': 0.2975, 'hablar': 0.2864, 'línea': 0.2642, 'negocio': 0.386, 'aeodoo': 0.3373, 'prorrata': 0.28, 'prorratir': 0.3566}",{'prorrata especial': 1.0},1.0
 Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata Especial de IVA),"**Contexto:**
 
 - Trabajamos con nuestra Compañía 1
