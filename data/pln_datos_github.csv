@@ -18531,7 +18531,7 @@ Antes del fix sólo se recogía la casilla 87 del último periodo lo que no reco
 ¿@ArantxaSudon @pedrobaeza @LauraCForgeFlow podéis revisar por favor?
 
 @moduon MT-8899","Congratulations, your PR was merged at 334c6d4c58baafa36e72af2bf861a36338e321df. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
-Pull Request,4670,[18.0][MIG] l10n_es_facturae_sale_stock: Migration to 18.0,Module migrated to version 18.0,"Congratulations, your PR was merged at 9734cce395dbe79ab0b8ce4dc42955c1ee0320a3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+Pull Request,4670,[18.0][MIG] l10n_es_facturae_sale_stock: Migration to 18.0,Module migrated to version 18.0,"Congratulations, your PR was merged at 9734cce395dbe79ab0b8ce4dc42955c1ee0320a3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4669,[18.0][IMP] l10n_es_aeat_mod190: Add account_tax_template_p_irpf24 to tax mapping,"Add ""24% Ret IRPF"" to tax mapping for field numbers 15 and 16.
 
 Cuando esté fusionado en 18.0 lo llevo a 17.0
