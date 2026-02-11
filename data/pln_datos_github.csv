@@ -10743,7 +10743,7 @@ Muchas gracias
 
 @rafaelbn @EmilioPascual 
 MT-1809 @moduon
-",fijais vídeo dejar ver perfectamente dejar línea gracia rafaelbn emiliopascual mt moduon,"{'dejar': 0.482, 'gracia': 0.214, 'ver': 0.2029, 'rafaelbn': 0.3222, 'emiliopascual': 0.3222, 'moduon': 0.3773, 'mt': 0.3773, 'línea': 0.2583, 'perfectamente': 0.3486}","{'rafaelbn emiliopascual': 0.7071, 'dejar línea': 0.7071}",
+",fijais vídeo dejar ver perfectamente dejar línea gracia rafaelbn emiliopascual mt moduon,"{'dejar': 0.482, 'gracia': 0.214, 'ver': 0.2029, 'rafaelbn': 0.3222, 'emiliopascual': 0.3222, 'moduon': 0.3773, 'mt': 0.3773, 'línea': 0.2583, 'perfectamente': 0.3486}","{'rafaelbn emiliopascual': 0.7071, 'dejar línea': 0.7071}",1.0
 Issue,3730,[16.0] l10n_es_vat_prorate Slipt de lineas de impuesto por línea de factura ,"Hola 
 
 Creo que sería necesario hacer un desglose por líneas del impuesto que no se puede deducir con la prorrata
