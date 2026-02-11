@@ -17570,7 +17570,7 @@ Pull Request,4689,[18.0][IMP] delivery_gls_asm: Fix tests by forcing service to 
 Por lo contrario, el sevicio ""37 - ECONOMY"" sí que funciona
 
 Así que con este cambio podemos volver a habilitar los tests que desactivamos en https://github.com/OCA/l10n-spain/pull/4090","Congratulations, your PR was merged at 31e1f31340496abc952a071f94949a79d4b8873e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
-Pull Request,4687,[17.0][BKP][IMP] l10n_es_verifactu_oca: Fix report layout conflict with stock picking address,Backport of https://github.com/OCA/l10n-spain/pull/4663,"Congratulations, your PR was merged at 516c0d00c7141e38648441f27faf8b5b9ebd3da3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+Pull Request,4687,[17.0][BKP][IMP] l10n_es_verifactu_oca: Fix report layout conflict with stock picking address,Backport of https://github.com/OCA/l10n-spain/pull/4663,"Congratulations, your PR was merged at 516c0d00c7141e38648441f27faf8b5b9ebd3da3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4686,[18.0][IMP] delivery_gls_asm: raise UserError when validating picking with a PickUp Service,"Cuando se valida un picking donde el carrier tiene como servicio uno de los ""Pick-up service"" por ejemplo: _RECOGIDA ECONOMY_ , aparece un error 
 ![Kooha-2025-12-30-13-58-37 (2)](https://github.com/user-attachments/assets/4507340f-5374-49df-95aa-b9cfd7d02d66)
 
