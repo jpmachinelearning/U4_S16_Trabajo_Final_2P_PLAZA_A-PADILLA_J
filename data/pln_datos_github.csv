@@ -16853,7 +16853,7 @@ After:
 <img width=""1076"" height=""233"" alt=""image"" src=""https://github.com/user-attachments/assets/54b550ef-233e-4790-a3ef-a83e162da8ca"" />
 ","Anda, esas ""black magic""...
 
-Pon porfa un comentario al lado de la línea `_name` para recordar eso.",andar black magic pon porfo comentario línea name recordar,"{'comentario': 0.5075, 'recordar': 0.4875, 'pon': 0.5544, 'línea': 0.4444}",{},
+Pon porfa un comentario al lado de la línea `_name` para recordar eso.",andar black magic pon porfo comentario línea name recordar,"{'comentario': 0.5075, 'recordar': 0.4875, 'pon': 0.5544, 'línea': 0.4444}",{},-1.0
 Pull Request,4764,[18.0][IMP] l10n_es_facturae: Clean XML file when it is not signed,"Otherwise, when creating the XML file without signature, extra empty tags are added, but they shouldn't exist.
 
 Before:
