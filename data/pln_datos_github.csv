@@ -6403,7 +6403,7 @@ Caixabank y Santander buscan a los contactos por VAT o por number; Bankia los bu
 
 Asimismo, la búsqueda por VAT para el Santander utiliza un operador ilike. Sin embargo, Caixabank y Bankia utilizan un operador =. ¿Alguien podría indicarme a qué se debe esa diferencia? ¿No sería posible unificar criterios? Cualquier propuesta/opinión es bienvenida.
 
-Muchas gracias","Esto quedó solucionado eligiendo a nivel de diario lo que se quiere hacer, así que cierro.",solucionado elegir nivel diario cerrar,"{'cerrar': 0.3303, 'diario': 0.3877, 'nivel': 0.3842, 'solucionado': 0.5325, 'elegir': 0.5563}",{},
+Muchas gracias","Esto quedó solucionado eligiendo a nivel de diario lo que se quiere hacer, así que cierro.",solucionado elegir nivel diario cerrar,"{'cerrar': 0.3303, 'diario': 0.3877, 'nivel': 0.3842, 'solucionado': 0.5325, 'elegir': 0.5563}",{},1.0
 Issue,4213,[17.0] l10n_es_sii_oca | No envía algunas facturas,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
