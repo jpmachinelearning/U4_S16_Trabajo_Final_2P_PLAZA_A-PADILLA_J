@@ -16191,7 +16191,7 @@ Pull Request,4806,[15.0][IMP] l10n_es_aeat_mod347: Number of call BDNS,"Forward-
 
 According to https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25390, Article 1
 
-@Tecnativa ","Congratulations, your PR was merged at 3aacb11726664f290c800c9d0e376045f6367780. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at 3aacb11726664f290c800c9d0e376045f6367780. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4805,[17.0][FIX] l10n_es_aeat_sii_oca: No double savepoint + commit,"Before this commit, there was a savepoint + commit in case of exception in `account.move`, but also in the method `_send_document_to_sii`, that is called from `sii.mixin`, which is not needed, and provoking that when there's a real exception (like XML schema not compliant), you get the `SerializationError: couldn't serialize access due to concurrent...` error.
 
 Removing the upper savepoint and commit on exception, solves the problem.
