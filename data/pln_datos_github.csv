@@ -11925,7 +11925,7 @@ He revisado el mapeo y está correcto.
 Se han enviado otras facturas similares con IVA e IRPF sin problema pero esta con el IVA exento da error.
 
 Gracias por la ayuda","Nadie se ha encontrado con el problema?
-",encontrar problema,"{'problema': 0.5732, 'encontrar': 0.8194}",{'encontrar problema': 1.0},
+",encontrar problema,"{'problema': 0.5732, 'encontrar': 0.8194}",{'encontrar problema': 1.0},1.0
 Issue,3676,[12.0][l10n_es_aeat_sii] Error '2024 : El valor de ImporteTotal no coincide con el sumatorio de BaseImponible,"En una factura de proveedor con impuestos exentos salta el error ""Error '2024 : El valor de ImporteTotal no coincide con el sumatorio de BaseImponible, CuotaSoportada, CuotaRecargoEquivalencia e ImporteCompensacionREAGYP""
 
 <img width=""1480"" alt=""Captura de pantalla 2024-07-22 a las 18 48 44"" src=""https://github.com/user-attachments/assets/1b69fff3-2afa-4515-8660-638360aedda1"">
