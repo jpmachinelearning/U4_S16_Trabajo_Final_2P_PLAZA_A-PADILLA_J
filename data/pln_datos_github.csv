@@ -18771,7 +18771,7 @@ Pull Request,4653,[17.0][IMP] l10n_es_account_statement_import_n43: Add exclude 
 
 This commit includes a new field at journal level for defining an excluding pattern that allows this.
 
-@Tecnativa TT59339","Congratulations, your PR was merged at 064954f7b9103939d6cf29625e099dc63bd4ae96. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+@Tecnativa TT59339","Congratulations, your PR was merged at 064954f7b9103939d6cf29625e099dc63bd4ae96. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4648,[16.0][FIX]l10n_es_aeat_sii_oca: arreglar error del sii en un corner case de céntimos con impuestos incluídos,"Arregla error del sii en un corner case de céntimos que sucede en algunas facturas con impuestos incluídos en el precio.
 
 Para reproducir el caso, se reproduce tanto en una factura de venta o compra como en un pos_order. Lo que sucede es que se envía en el desglose de impuestos una base con un céntimo positivo y una cuota con un céntimo negativo, o viceversa.
