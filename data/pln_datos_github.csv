@@ -16064,7 +16064,7 @@ El Beneficiario declara normal la facturas del agente y añade un registro contr
 > You are receiving this because you commented.
 > 
 
-",disculpa liado añadir registro forma explicar hacienda agente declarar normal beneficiario declarar normal factura agente añadir registro ministerio base ayuda ￼ mar pedro m.,"{'añadir': 0.2852, 'factura': 0.1106, 'registro': 0.3345, 'disculpa': 0.197, 'pedro': 0.1607, 'base': 0.1473, 'normal': 0.3508, 'forma': 0.1426, 'ayuda': 0.1803, 'hacienda': 0.1638, 'explicar': 0.1929, 'declarar': 0.3939, 'agente': 0.4031, 'beneficiario': 0.2207, 'ministerio': 0.2306, 'mar': 0.2207}","{'agente declarar': 0.3554, 'declarar normal': 0.7108, 'normal beneficiario': 0.3554, 'beneficiario declarar': 0.3554, 'mar pedro': 0.3402}",
+",disculpa liado añadir registro forma explicar hacienda agente declarar normal beneficiario declarar normal factura agente añadir registro ministerio base ayuda ￼ mar pedro m.,"{'añadir': 0.2852, 'factura': 0.1106, 'registro': 0.3345, 'disculpa': 0.197, 'pedro': 0.1607, 'base': 0.1473, 'normal': 0.3508, 'forma': 0.1426, 'ayuda': 0.1803, 'hacienda': 0.1638, 'explicar': 0.1929, 'declarar': 0.3939, 'agente': 0.4031, 'beneficiario': 0.2207, 'ministerio': 0.2306, 'mar': 0.2207}","{'agente declarar': 0.3554, 'declarar normal': 0.7108, 'normal beneficiario': 0.3554, 'beneficiario declarar': 0.3554, 'mar pedro': 0.3402}",0.0
 Issue,3451,l10n_es_aeat_mod347: subvenciones,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
