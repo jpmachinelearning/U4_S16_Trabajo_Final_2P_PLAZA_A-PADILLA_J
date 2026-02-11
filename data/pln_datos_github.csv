@@ -11809,7 +11809,7 @@ Issue,3682,[16] [BUG] 10n_es_aeat_sii_oss: Error al enviar al SII ,"Buenos días
 La pista surgió con el comentario de Harald Panten en el foro de Aeodoo, al cuestionar el formato de los impuestos disponibles.
 Muchas gracias a todos
 
-",problema solucionar desinstalación módulo estándar oss ajuste tener disponible wizard permitir crear impuesto necesario gracia,"{'problema': 0.1837, 'módulo': 0.1686, 'permitir': 0.2477, 'disponible': 0.3093, 'solucionar': 0.2866, 'impuesto': 0.1971, 'tener': 0.1986, 'crear': 0.2477, 'gracia': 0.2137, 'necesario': 0.2477, 'estándar': 0.3152, 'oss': 0.3379, 'ajuste': 0.3606, 'wizard': 0.3293}","{'permitir crear': 0.7444, 'crear impuesto': 0.6677}",
+",problema solucionar desinstalación módulo estándar oss ajuste tener disponible wizard permitir crear impuesto necesario gracia,"{'problema': 0.1837, 'módulo': 0.1686, 'permitir': 0.2477, 'disponible': 0.3093, 'solucionar': 0.2866, 'impuesto': 0.1971, 'tener': 0.1986, 'crear': 0.2477, 'gracia': 0.2137, 'necesario': 0.2477, 'estándar': 0.3152, 'oss': 0.3379, 'ajuste': 0.3606, 'wizard': 0.3293}","{'permitir crear': 0.7444, 'crear impuesto': 0.6677}",1.0
 Issue,3680,Problemas con el modulo payment_redsys en Odoo16,"Hola,
 ante todo muchas gracias por el proyecto.
 He instalado un sitio web de comercio electrónico con Odoo16 y al efectuar el pago online
