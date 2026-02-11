@@ -11493,7 +11493,7 @@ Un saludo.","Hola entonces tengo que mepear los impuestos del OSS en Contabilida
 
 
 Gracias.
-Un saludo.",hola mepear impuesto oss contabilidad configuracion sii mapeo impuesto impuesto crean.¿es  correcto indicar gracia saludo,"{'hola': 0.1825, 'impuesto': 0.5389, 'mapeo': 0.2612, 'gracia': 0.1948, 'saludo': 0.2519, 'sii': 0.1957, 'contabilidad': 0.277, 'indicar': 0.2275, 'correcto': 0.2051, 'oss': 0.308, 'configuracion': 0.3287, 'es': 0.308}","{'mapeo impuesto': 0.6581, 'gracia saludo': 0.753}",
+Un saludo.",hola mepear impuesto oss contabilidad configuracion sii mapeo impuesto impuesto crean.¿es  correcto indicar gracia saludo,"{'hola': 0.1825, 'impuesto': 0.5389, 'mapeo': 0.2612, 'gracia': 0.1948, 'saludo': 0.2519, 'sii': 0.1957, 'contabilidad': 0.277, 'indicar': 0.2275, 'correcto': 0.2051, 'oss': 0.308, 'configuracion': 0.3287, 'es': 0.308}","{'mapeo impuesto': 0.6581, 'gracia saludo': 0.753}",1.0
 Issue,3699,Error de validación al actualizar plan contable - La opción IVA requerido debe estar activada [l10n_es_IGIC],"Hola,
 
 Tras instalar correctamente el módulo l10n_es_igic, a la hora de actualizar el plan contable se obtiene el siguiente error:
