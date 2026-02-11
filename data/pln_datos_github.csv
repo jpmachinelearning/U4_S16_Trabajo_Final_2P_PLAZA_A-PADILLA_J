@@ -8653,7 +8653,7 @@ l10n_es_aeat_mod349
 Esos 111 en este caso parecen corresponden al número de OPERACIONES, no de operadores.
 
 ## To Reproduce
-Versión 17","Hola, esa captura que enseñas no corresponde al módulo de OCA. Debe ser de los informes enterprise, y por tanto, tendrías que reportarlo a Odoo S. A., no aquí, o empezar a utilizar el 349 de OCA.",hola captura enseñar corresponder módulo oca informe enterprise tendriar reportar él odoo s. a. empezar utilizar oca,"{'odoo': 0.1719, 'utilizar': 0.2073, 'módulo': 0.1536, 'hola': 0.1824, 'él': 0.1368, 'oca': 0.4327, 'corresponder': 0.2769, 'informe': 0.3171, 'empezar': 0.2577, 'captura': 0.3078, 'enterprise': 0.3171, 'tendriar': 0.3432, 'reportar': 0.3285}",{'módulo oca': 1.0},
+Versión 17","Hola, esa captura que enseñas no corresponde al módulo de OCA. Debe ser de los informes enterprise, y por tanto, tendrías que reportarlo a Odoo S. A., no aquí, o empezar a utilizar el 349 de OCA.",hola captura enseñar corresponder módulo oca informe enterprise tendriar reportar él odoo s. a. empezar utilizar oca,"{'odoo': 0.1719, 'utilizar': 0.2073, 'módulo': 0.1536, 'hola': 0.1824, 'él': 0.1368, 'oca': 0.4327, 'corresponder': 0.2769, 'informe': 0.3171, 'empezar': 0.2577, 'captura': 0.3078, 'enterprise': 0.3171, 'tendriar': 0.3432, 'reportar': 0.3285}",{'módulo oca': 1.0},0.0
 Issue,3886,Modelo 349 - número de operadores erróneo,"El modelo me muestra 111 operadores, cuando tengo 38.
 
 
