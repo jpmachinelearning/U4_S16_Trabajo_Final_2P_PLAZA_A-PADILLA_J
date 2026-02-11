@@ -2511,7 +2511,7 @@ Observaciones:
        •	Posiblemente algunos registros existentes no tienen valores asignados para estos campos, ¿puede ser?
 
 ¿Podrías decidme  por qué ocurre esto y cómo solucionarlo?
-","Ahora mismo la verdad es que no sabría decirte, porque no es un error ""normal"". Prueba a instalar el módulo en una instancia limpia a ver.",saber decir tú error normal probar instalar módulo instancia limpio,"{'módulo': 0.1879, 'error': 0.2067, 'probar': 0.2874, 'limpio': 0.3669, 'normal': 0.3193, 'decir': 0.2629, 'saber': 0.4019, 'tú': 0.3669, 'instalar': 0.3446, 'instancia': 0.3446}","{'decir tú': 0.5605, 'instalar módulo': 0.5856, 'módulo instancia': 0.5856}",
+","Ahora mismo la verdad es que no sabría decirte, porque no es un error ""normal"". Prueba a instalar el módulo en una instancia limpia a ver.",saber decir tú error normal probar instalar módulo instancia limpio,"{'módulo': 0.1879, 'error': 0.2067, 'probar': 0.2874, 'limpio': 0.3669, 'normal': 0.3193, 'decir': 0.2629, 'saber': 0.4019, 'tú': 0.3669, 'instalar': 0.3446, 'instancia': 0.3446}","{'decir tú': 0.5605, 'instalar módulo': 0.5856, 'módulo instancia': 0.5856}",-1.0
 Issue,4589,[16.0] Problema tras actualización de VERI*FACTU (v16.0.1.1.0),"Hola Pedro y compis,
 
 Acabo de actualizar a la nueva versión de VERI*FACTU:
