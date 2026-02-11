@@ -8154,7 +8154,7 @@ No tiene obligación de marcar un impuesto, pero si de declarar los movimientos 
 Solución propuesta: Añadir un impuesto (ej: ""No aplica"") para poder asociarlo al mapeo de la 347. 
 
 Un saludo.","Eso me temo. Había que intentarlo. 
-Gracias.",temer intentar él gracias,"{'gracias': 0.3965, 'intentar': 0.5368, 'él': 0.2949, 'temer': 0.6838}","{'intentar él': 0.7071, 'él gracias': 0.7071}",
+Gracias.",temer intentar él gracias,"{'gracias': 0.3965, 'intentar': 0.5368, 'él': 0.2949, 'temer': 0.6838}","{'intentar él': 0.7071, 'él gracias': 0.7071}",1.0
 Issue,4008,Problemas con impuestos y tests,"Estoy teniendo problemas a la hora de pasar tests con el repositorio... y veo que el propio repositorio también tiene problemas para pasar los tests.
 Por lo que he podido comprobar el problema (o una parte de el mismo) viene de este commit: https://github.com/odoo/odoo/commit/401a961258e991151370899d4b61809879d5a5a8#diff-83dee710d59b2001661ef48dc223df6eff197f827e97b5420f2a669ea873c568
 
