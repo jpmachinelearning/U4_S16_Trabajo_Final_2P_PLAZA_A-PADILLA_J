@@ -17316,7 +17316,7 @@ Pull Request,4707,[18.0][IMP] l10n_es_aeat_sii_oca: multiple improvements,"En es
 
 > las nuevas etiquetas acortadas.
 
-@pedrobaeza?",referir etiqueta acortada,"{'etiqueta': 0.5975, 'referir': 0.4742, 'acortada': 0.6466}",{},
+@pedrobaeza?",referir etiqueta acortada,"{'etiqueta': 0.5975, 'referir': 0.4742, 'acortada': 0.6466}",{},0.0
 Pull Request,4707,[18.0][IMP] l10n_es_aeat_sii_oca: multiple improvements,"En este PR se añaden las siguientes mejoras:
 
 - Si la factura está en error, al enviarla de nuevo se crea como envío inmediato. 
