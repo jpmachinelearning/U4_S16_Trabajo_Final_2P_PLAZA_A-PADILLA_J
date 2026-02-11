@@ -3729,7 +3729,7 @@ Como las retenciones no tienen que informarse al SII, estas deben deben estar co
 
 
 @rafaelbn @pedrobaeza 
-Moduon MT-11582","OK, adelante.",ok,{'ok': 1.0},{},
+Moduon MT-11582","OK, adelante.",ok,{'ok': 1.0},{},1.0
 Issue,4389,[16] l10n_es_verifactu_oca: Error al enviar facturas intracomunitarias,"Al enviar a verifactu cualquier factura con regimen de facturación intracomunitaria nos aparece un error 1103 El valor del campo ID es incorrecto.
 
 Adjunto respuesta enviada por verifactu:
