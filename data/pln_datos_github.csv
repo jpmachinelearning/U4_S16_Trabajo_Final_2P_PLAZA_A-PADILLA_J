@@ -9053,7 +9053,7 @@ Issue,3858,Fecha de Operación en el SII,"En la información al SII no se está 
 Que ese campo aparezca en la factura y que se informe al SII. 
 **¿Por qué proponemos esto?**
 Trabajamos con productos de alimentación, los impuestos están variando mucho y ocurre que en el momento del pedido, de la entrega y de la factura se pueden dar conflictos con el impuesto aplicado.
-","@EnekoAira no es pereza, si no practicidad. Además, ¿tienes pensado tú hacer esas mejoras?",enekoaira  pereza practicidad tener pensado mejora,"{'tener': 0.268, 'mejora': 0.4174, 'pensado': 0.4867, 'enekoaira': 0.5085, 'pereza': 0.5085}",{'tener pensado': 1.0},
+","@EnekoAira no es pereza, si no practicidad. Además, ¿tienes pensado tú hacer esas mejoras?",enekoaira  pereza practicidad tener pensado mejora,"{'tener': 0.268, 'mejora': 0.4174, 'pensado': 0.4867, 'enekoaira': 0.5085, 'pereza': 0.5085}",{'tener pensado': 1.0},1.0
 Issue,3858,Fecha de Operación en el SII,"En la información al SII no se está informando de la **_Fecha de Operación_** asumiendo que sólo es necesaria si es diferente que la **_Fecha de expedición_**.
 
 **Nueva característica propuesta**
