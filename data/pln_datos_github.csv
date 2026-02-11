@@ -18832,7 +18832,7 @@ Además, a la hora de procesar las respuestas, se busca el documentos relacionad
 https://github.com/OCA/l10n-spain/blob/016933d9ba88fb920cd08f30bbb82231054eb150/l10n_es_verifactu_oca/models/verifactu_invoice_entry.py#L339-L350
 
 He añadido la implementación de la facturación de terceros al ROADMAP para que pueda ser implementada cuando antes. Pero de momento, quizás lo mejor sería no enviar estos datos como números de serie de las facturas para evitar erroes (es decir, de momento no está habilitada la facturación de terceros). Así, por ahora, evitamos errores y bloqueos.
-",@pedrobaeza @almumu,pedrobaeza almumu,"{'pedrobaeza': 0.5045, 'almumu': 0.8634}",{'pedrobaeza almumu': 1.0},,,,
+",@pedrobaeza @almumu,pedrobaeza almumu,"{'pedrobaeza': 0.5045, 'almumu': 0.8634}",{'pedrobaeza almumu': 1.0},0.0,,,
 Pull Request,4634,[18.0][FIX] l10n_es_verifactu_oca: serial number remove third-party number,"Mandar el `thirdparty_number` como número de serie de la factura, en caso de estar establecido, puede causar errores a la hora de recibir las respuestas por parte de la AEAT y incongruencias con los datos enviados.
 
 https://github.com/OCA/l10n-spain/blob/016933d9ba88fb920cd08f30bbb82231054eb150/l10n_es_verifactu_oca/models/account_move.py#L139-L147
