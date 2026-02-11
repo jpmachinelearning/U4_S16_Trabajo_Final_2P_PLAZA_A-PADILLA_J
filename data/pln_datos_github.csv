@@ -11585,7 +11585,7 @@ Gracias.
 
 ","Gracias, Pedro.
 No se como obtener un P15.
-He conseguido transformarlo a pem, pero tampoco sirve (Could not deserialize PKCS12 data).",gracia pedro obtener p15 conseguir transformar él pem servir could not deserialize pkcs12 data,"{'él': 0.1506, 'servir': 0.2955, 'gracia': 0.2144, 'pedro': 0.2635, 'obtener': 0.3049, 'conseguir': 0.378, 'not': 0.3493, 'transformar': 0.378, 'pem': 0.378, 'could': 0.3618}","{'gracia pedro': 0.6416, 'transformar él': 0.767}",
+He conseguido transformarlo a pem, pero tampoco sirve (Could not deserialize PKCS12 data).",gracia pedro obtener p15 conseguir transformar él pem servir could not deserialize pkcs12 data,"{'él': 0.1506, 'servir': 0.2955, 'gracia': 0.2144, 'pedro': 0.2635, 'obtener': 0.3049, 'conseguir': 0.378, 'not': 0.3493, 'transformar': 0.378, 'pem': 0.378, 'could': 0.3618}","{'gracia pedro': 0.6416, 'transformar él': 0.767}",1.0
 Issue,3698,Fallo carga certificado AEAT,"**1.- Contexto:**
 Odoo 16 corriendo en Docker.
 **2.- Prueba**
