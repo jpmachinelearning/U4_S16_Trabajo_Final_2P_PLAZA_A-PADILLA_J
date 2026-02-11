@@ -16177,7 +16177,7 @@ You may be interested in not importing certain statement lines if they come from
 
 This commit includes a new field at journal level for defining an excluding pattern that allows this.
 
-@Tecnativa TT59339","Congratulations, your PR was merged at ab4897a6d15731311cd9b11f7e01047e9f55c39b. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT59339","Congratulations, your PR was merged at ab4897a6d15731311cd9b11f7e01047e9f55c39b. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4807,[18.0][FIX] l10n_es_aeat_sii_oca: No double savepoint + commit,"Forward-port of #4805 
 
 Before this commit, there was a savepoint + commit in case of exception in `account.move`, but also in the method `_send_document_to_sii`, that is called from `sii.mixin`, which is not needed, and provoking that when there's a real exception (like XML schema not compliant), you get the concurrent update error.
