@@ -7226,7 +7226,7 @@ El fichero de exportacion del modelo 303 es el siguiente:
 Me podeis indicar como resolverlo.
 
 Gracias.
-Un saludo.","Me pasa exactamente lo mismo, si alguien puede dar una solucion me salva, gracias. ",pasar exactamente alguien solucion salir gracia,"{'pasar': 0.398, 'alguien': 0.4303, 'gracia': 0.3534, 'salir': 0.4194, 'exactamente': 0.5964}",{},
+Un saludo.","Me pasa exactamente lo mismo, si alguien puede dar una solucion me salva, gracias. ",pasar exactamente alguien solucion salir gracia,"{'pasar': 0.398, 'alguien': 0.4303, 'gracia': 0.3534, 'salir': 0.4194, 'exactamente': 0.5964}",{},1.0
 Issue,4138,Version 17 modelo 303,"Buenas tardes, se ha exportado el modelo 303 de la OCA de la version 17. Al subir el fichero txt que se genera en el modelo 303 a hacienda. En hacienda le muestra los siguientes errores:
 
 ![Image](https://github.com/user-attachments/assets/6124d28e-18eb-453a-a410-4e7a32c0fe6d)
