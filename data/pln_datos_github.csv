@@ -10644,7 +10644,7 @@ Hay ademas un parametro website en la definición de una url en el controller pe
 Y esta bastante bien protegido (creemos)  es decir que  con una configuración correcta, se podría hacer funcionar sin problemas... sin necesidad de instalar website..
 
 Saludos, Ignacio J Ortega","Hola @ValentinVinagre No recuerdo bien, seguramente será por herencia del pasado.
-Tendría que analizar en profundidad",hola valentinvinagre recordar seguramente herencia tener analizar profundidad,"{'hola': 0.2513, 'tener': 0.2493, 'recordar': 0.3551, 'analizar': 0.4039, 'valentinvinagre': 0.4133, 'seguramente': 0.437, 'herencia': 0.4729}",{'hola valentinvinagre': 1.0},
+Tendría que analizar en profundidad",hola valentinvinagre recordar seguramente herencia tener analizar profundidad,"{'hola': 0.2513, 'tener': 0.2493, 'recordar': 0.3551, 'analizar': 0.4039, 'valentinvinagre': 0.4133, 'seguramente': 0.437, 'herencia': 0.4729}",{'hola valentinvinagre': 1.0},0.0
 Issue,3751,"[160] payment_redsys - Porque necesita una dependencia en ""website_sale""?","Hola a todos:
 
 Nos gustaría usar el payment_redsys para hacer pagos de facturas y demás, pero no instalar website y por tanto tener acceso público a odoo,  hemos simplemente cambiado el manifest borrando la dependencia en ""website_sale""e instala correctamente con lo que la dependencia debe ser ""blanda"", la revisión del código las únicas ocurrencia de website están relacionadas con la obtención de la url pública  desde el website, ¿ estamos en lo cierto? 
