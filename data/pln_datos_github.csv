@@ -16871,7 +16871,7 @@ Pull Request,4763,[16.0] [FIX] l10n_es_ticketbai_api[_batutz]: update tax agenci
 
 <img width=""1536"" height=""565"" alt=""image"" src=""https://github.com/user-attachments/assets/56c41fa3-993c-4f7d-bea5-92d75882f5b5"" />
 
-@BinhexTeam HT15393",ping @Bilbonet @luciaavanzosc @oihane @mariancuadranetkia,ping bilbonet luciaavanzosc oihane mariancuadranetkia,"{'ping': 0.3996, 'bilbonet': 0.3864, 'luciaavanzosc': 0.466, 'oihane': 0.4868, 'mariancuadranetkia': 0.4868}",{'luciaavanzosc oihane': 1.0},
+@BinhexTeam HT15393",ping @Bilbonet @luciaavanzosc @oihane @mariancuadranetkia,ping bilbonet luciaavanzosc oihane mariancuadranetkia,"{'ping': 0.3996, 'bilbonet': 0.3864, 'luciaavanzosc': 0.466, 'oihane': 0.4868, 'mariancuadranetkia': 0.4868}",{'luciaavanzosc oihane': 1.0},0.0
 Pull Request,4763,[16.0] [FIX] l10n_es_ticketbai_api[_batutz]: update tax agencies data,"Inquietado por #4751 he revisado gipuzkuoa y bizkaia y efectivamente la metadata de la firma ha cambiado. Si deciden seguir el camino de araba ya lo tendremos cubierto.
 
 <img width=""1560"" height=""478"" alt=""image"" src=""https://github.com/user-attachments/assets/4018e18d-c776-4ed4-be91-587d10dfb97c"" />
