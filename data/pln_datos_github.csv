@@ -14183,7 +14183,7 @@ Quería exponer aquí el trabajo realizado y pedir colaboración, si os parece b
 
 ¡Gracias!
 
-@moduon MT-5363",Envase no debe ser la traducción para `product.packaging`: https://dle.rae.es/envase. Empaquetado era correcto IMO.,empaquetado correcto imo,"{'correcto': 0.4134, 'empaquetado': 0.5913, 'imo': 0.6924}","{'empaquetado correcto': 0.7071, 'correcto imo': 0.7071}",
+@moduon MT-5363",Envase no debe ser la traducción para `product.packaging`: https://dle.rae.es/envase. Empaquetado era correcto IMO.,empaquetado correcto imo,"{'correcto': 0.4134, 'empaquetado': 0.5913, 'imo': 0.6924}","{'empaquetado correcto': 0.7071, 'correcto imo': 0.7071}",1.0
 Issue,3482,Homogeneizar términos: envase - paquete,"Buenos días.
 
 Desde Moduon hemos estado trabajando para homogeneizar unos términos de traducción y queríamos compartir con AEOdoo el trabajo realizado y las conclusiones para poder unificar esfuerzos en una misma dirección.
