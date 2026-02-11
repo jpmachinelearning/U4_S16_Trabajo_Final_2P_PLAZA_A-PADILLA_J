@@ -5830,7 +5830,7 @@ Personalmente se me ocurren 3 opciones:
 2. Crear de nuevo unos modelos sencillos dentro de FACe. Al no tener e.Fact, la cosa es mucho más sencilla ahora, aunque implicará hacer algo ""parecido"" pero mucho más simplificado a lo hecho por el framework
 3. Seguir con el framework de OCA
 
-¿Cual es vuestra opinión?",Se puede hablar con el equipo EDI y hacer comunicacion en el contributors de la OCA si es necesario y el concepto cuadra para todos,hablar equipo edi comunicacion contributors oca necesario concepto cuadra,"{'oca': 0.3262, 'necesario': 0.3402, 'hablar': 0.384, 'edi': 0.4248, 'concepto': 0.4523, 'cuadra': 0.4954}",{},
+¿Cual es vuestra opinión?",Se puede hablar con el equipo EDI y hacer comunicacion en el contributors de la OCA si es necesario y el concepto cuadra para todos,hablar equipo edi comunicacion contributors oca necesario concepto cuadra,"{'oca': 0.3262, 'necesario': 0.3402, 'hablar': 0.384, 'edi': 0.4248, 'concepto': 0.4523, 'cuadra': 0.4954}",{},0.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
