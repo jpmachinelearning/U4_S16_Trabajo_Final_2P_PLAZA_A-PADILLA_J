@@ -18483,7 +18483,7 @@ This change avoids unnecessary prefetch and significantly improving the action's
 
 ","> Algo intermedio es hacer prefetch solo de los campos necesarios para el proceso.
 
-Esta es la solución ideal, el problema será que el prefetch estará calculando computes complejos que luego no se usan aquí",intermedio prefetch campo necesario proceso solución ideal problema prefetch calcular comput complejo,"{'problema': 0.1674, 'campo': 0.1912, 'solución': 0.2208, 'ideal': 0.2872, 'intermedio': 0.3286, 'necesario': 0.2257, 'proceso': 0.2725, 'complejo': 0.2872, 'calcular': 0.2932, 'prefetch': 0.6345}","{'solución ideal': 0.4472, 'intermedio prefetch': 0.4472, 'prefetch campo': 0.4472, 'campo necesario': 0.4472, 'necesario proceso': 0.4472}",,,,
+Esta es la solución ideal, el problema será que el prefetch estará calculando computes complejos que luego no se usan aquí",intermedio prefetch campo necesario proceso solución ideal problema prefetch calcular comput complejo,"{'problema': 0.1674, 'campo': 0.1912, 'solución': 0.2208, 'ideal': 0.2872, 'intermedio': 0.3286, 'necesario': 0.2257, 'proceso': 0.2725, 'complejo': 0.2872, 'calcular': 0.2932, 'prefetch': 0.6345}","{'solución ideal': 0.4472, 'intermedio prefetch': 0.4472, 'prefetch campo': 0.4472, 'campo necesario': 0.4472, 'necesario proceso': 0.4472}",-1.0,,,
 Pull Request,4673,[18.0][IMP] l10n_es_vat_book: improve search for Ram consume,"The invoice search in the vat book calculation has been modified to optimize performance on large databases.
 
 This change avoids unnecessary prefetch and significantly improving the action's speed and memory consumption.
