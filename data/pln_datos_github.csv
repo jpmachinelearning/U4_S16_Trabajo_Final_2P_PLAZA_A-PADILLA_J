@@ -7535,7 +7535,7 @@ Creamos este issue para ver si nuestro enfoque es correcto y si alguien más tie
 
 @pedrobaeza y @chienandalu os hago ping como autores del 'l10n_es_pos' OCA ahora 'l10n_es_pos_oca' 
 
-Gracias.","Esto se ha discutido anteriormente por issues o en los PRs de `l10n_es_pos`. Haz una búsqueda para echar un vistazo. Básicamente, es utilizar `pos_default_partner` o desarrollar una extensión `l10n_es_vat_book_pos`.",discutir anteriormente issu prs l10n_es_pos haz búsqueda echar vistazo básicamente utilizar pos_default_partner desarrollar extensión l10n_es_vat_book_pos,"{'utilizar': 0.1965, 'echar': 0.2544, 'extensión': 0.2844, 'issu': 0.3007, 'vistazo': 0.3115, 'prs': 0.2625, 'básicamente': 0.2779, 'discutir': 0.3115, 'haz': 0.3254, 'pos_default_partner': 0.3115, 'desarrollar': 0.2919, 'l10n_es_vat_book_pos': 0.3115}",{'echar vistazo': 1.0},
+Gracias.","Esto se ha discutido anteriormente por issues o en los PRs de `l10n_es_pos`. Haz una búsqueda para echar un vistazo. Básicamente, es utilizar `pos_default_partner` o desarrollar una extensión `l10n_es_vat_book_pos`.",discutir anteriormente issu prs l10n_es_pos haz búsqueda echar vistazo básicamente utilizar pos_default_partner desarrollar extensión l10n_es_vat_book_pos,"{'utilizar': 0.1965, 'echar': 0.2544, 'extensión': 0.2844, 'issu': 0.3007, 'vistazo': 0.3115, 'prs': 0.2625, 'básicamente': 0.2779, 'discutir': 0.3115, 'haz': 0.3254, 'pos_default_partner': 0.3115, 'desarrollar': 0.2919, 'l10n_es_vat_book_pos': 0.3115}",{'echar vistazo': 1.0},0.0
 Issue,4102,[17.0] l10n_es_vat_book: Asientos de ventas por caja sin partner,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
