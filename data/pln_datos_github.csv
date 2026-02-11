@@ -12137,7 +12137,7 @@ tal como se encuentra aquí:
  [ InfinityLoop-Sistemas-S-L:16.0-l10n_es_atc_dua
 ](https://github.com/InfinityLoop-Sistemas-S-L/l10n-spain/tree/16.0-l10n_es_atc_dua)
 
-Ya lo valoran  @pedrobaeza @HaraldPanten","Puesto que está el PR #3667, no es necesario tener también una issue, así que cierro.",puesto pr necesario issue cerrar,"{'issue': 0.4438, 'cerrar': 0.4154, 'necesario': 0.4598, 'pr': 0.3949, 'puesto': 0.513}",{'issue cerrar': 1.0},
+Ya lo valoran  @pedrobaeza @HaraldPanten","Puesto que está el PR #3667, no es necesario tener también una issue, así que cierro.",puesto pr necesario issue cerrar,"{'issue': 0.4438, 'cerrar': 0.4154, 'necesario': 0.4598, 'pr': 0.3949, 'puesto': 0.513}",{'issue cerrar': 1.0},1.0
 Issue,3660,Cambios en Redsys,"Hola,
 
 En principio por lo que intepreto yo, no nos afecta: https://sis-d.redsys.es/sis/CAs/comunicadoCertificado.html
