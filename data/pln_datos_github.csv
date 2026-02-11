@@ -6179,7 +6179,7 @@ También hemos comprobado que no hay forma de enviar una factura simplificada si
 Issue,4286,Sii Grecia,"Hola, en una 17 al enviar factura de un cliente Griego al sii devuelve con el 1104 valor del campo ID incorrecto hasta que he cambiado el código del país de GR a EL, cosa que luego gereraria otros errores?
 
 alguien mas tiene esto?
-saludos","Hola, ¿podéis identificaros adecuadamente en lugar de un nick genérico? Así se sabe con quién se está hablando.",hola poder identificar tú adecuadamente lugar nick genérico hablar,"{'poder': 0.2201, 'hola': 0.2336, 'tú': 0.3842, 'lugar': 0.3093, 'hablar': 0.3261, 'genérico': 0.4396, 'identificar': 0.4208, 'adecuadamente': 0.4208}",{},
+saludos","Hola, ¿podéis identificaros adecuadamente en lugar de un nick genérico? Así se sabe con quién se está hablando.",hola poder identificar tú adecuadamente lugar nick genérico hablar,"{'poder': 0.2201, 'hola': 0.2336, 'tú': 0.3842, 'lugar': 0.3093, 'hablar': 0.3261, 'genérico': 0.4396, 'identificar': 0.4208, 'adecuadamente': 0.4208}",{},0.0
 Issue,4286,Sii Grecia,"Hola, en una 17 al enviar factura de un cliente Griego al sii devuelve con el 1104 valor del campo ID incorrecto hasta que he cambiado el código del país de GR a EL, cosa que luego gereraria otros errores?
 
 alguien mas tiene esto?
