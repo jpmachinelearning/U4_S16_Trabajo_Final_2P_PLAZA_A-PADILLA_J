@@ -18554,7 +18554,7 @@ Cuando esté fusionado en 18.0 lo llevo a 17.0
 
 ¿@rafaelbn @Shide @pedrobaeza @ArantxaSudon podéis revisarlo? Gracias
 
-MT-13024 @moduon","Congratulations, your PR was merged at a1afcd8d78181a09b94868b0e103a46936d468f7. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+MT-13024 @moduon","Congratulations, your PR was merged at a1afcd8d78181a09b94868b0e103a46936d468f7. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4668, [18.0][FIX] l10n_es_aeat_sii_oca: allow deletion when aeat_state is False,"Fixes invoice deletion for records created before `l10n_es_aeat_sii_oca` module activation.
 
 Previously, invoices created before activating `l10n_es_aeat_sii_oca` had `aeat_state = False` and couldn't be deleted. Now deletion is allowed when `aeat_state` is either `'not_sent'` or `False`.","Congratulations, your PR was merged at fdf41b11a53eec1565f7f2694a68aeb8df938e6a. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
