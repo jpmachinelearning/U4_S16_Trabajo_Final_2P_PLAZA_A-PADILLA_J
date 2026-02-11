@@ -13868,7 +13868,7 @@ Si la opción es a domiciliar, debe estar indicada la cuenta bancaria.
 Ahora el código está así: https://github.com/OCA/l10n-spain/blob/fc2a79ffe96832030fffed3c3d41b251ba63d12c/l10n_es_aeat_mod303/data/2023/aeat.model.export.config.line.csv#L123 (_línea 123; columna: expression_) 
 Solo es visible con el `result_type` X y D
 
-Gracias",tipo i visible deber ser él,"{'él': 0.2468, 'deber': 0.3497, 'visible': 0.5556, 'tipo': 0.3957, 'ser': 0.5929}",{},
+Gracias",tipo i visible deber ser él,"{'él': 0.2468, 'deber': 0.3497, 'visible': 0.5556, 'tipo': 0.3957, 'ser': 0.5929}",{},-1.0
 Issue,3514,l10n_es_aeat_mod303: la cuenta bancaria no siempre se notifica en el fichero .txt,"Mejora para 16.0
 
 El modelo 303 presenta un comportamiento inconsistente en el campo de la cuenta bancaria. Según la especificación, este campo debería comportarse de manera específica dependiendo del tipo de resultado, sin embargo, la implementación actual no cumple adecuadamente con esta especificación.
