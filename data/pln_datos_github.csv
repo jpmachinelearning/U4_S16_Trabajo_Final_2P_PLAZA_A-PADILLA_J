@@ -19250,7 +19250,7 @@ Pull Request,4588,[18.0][FIX] l10n_es_verifactu_oca: registro de facturas rechaz
 - mejorado alguna vista
 - añadido contribuidor que faltaba
 
-@Tecnativa","Congratulations, your PR was merged at c887d9e624468fa97da94034359635e607eefa83. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+@Tecnativa","Congratulations, your PR was merged at c887d9e624468fa97da94034359635e607eefa83. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4587,[17.0][FIX] l10n_es_verifactu_oca: registro de facturas rechazadas: alta por rechazo,"Forward-port of #4429
 
 - arreglado el envío de facturas incorrectas y por tanto rechazadas, se deben subsanar igual que se hace con las que están aceptadas con errores, pulsando manualmente el botón de volver a enviar desde la factura una vez arreglado el motivo del rechazo por el usuario, y se envían como alta por rechazo con los valores Subsanacion=""S"" y RechazoPrevio=""X"".
