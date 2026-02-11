@@ -16933,7 +16933,7 @@ BEFORE:
 AFTER:
 
 <img width=""791"" height=""152"" alt=""image"" src=""https://github.com/user-attachments/assets/d945999a-de73-45a3-b50e-9b1ff75cb0f8"" />
-","Congratulations, your PR was merged at 1ab4e2fa97731392287419e900d86c27c31fe9e9. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+","Congratulations, your PR was merged at 1ab4e2fa97731392287419e900d86c27c31fe9e9. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4754,[17.0][FIX] l10n_es_aeat: Take into account mapped country codes when get countr_code from vat prefix,"En este método se extrae el country_code del prefijo del vat pero no se tiene en cuenta el mapeo de algunos vat como el Griego.. 
 Por ejemplo para un NIF con el formato ELnnnnn se devuelve como country_code EL en lugar de GR
 
