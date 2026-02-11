@@ -16626,7 +16626,7 @@ Pull Request,4771,[18.0][FIX] l10n_es_aeat_mod390: Casilla 28 restringida a la c
 
 Fuente: https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G412/Instrucciones_modelo_390-2025.pdf
 
-MT-13476 @moduon","Vale, el título me despistó que pusiera 347. Es el 390... Cámbialo, por favor.",valer título despistar poner cámbialir favor,"{'poner': 0.2726, 'favor': 0.3099, 'valer': 0.3519, 'título': 0.4851, 'despistar': 0.4851, 'cámbialir': 0.4851}","{'valer título': 0.4472, 'título despistar': 0.4472, 'despistar poner': 0.4472, 'poner cámbialir': 0.4472, 'cámbialir favor': 0.4472}",
+MT-13476 @moduon","Vale, el título me despistó que pusiera 347. Es el 390... Cámbialo, por favor.",valer título despistar poner cámbialir favor,"{'poner': 0.2726, 'favor': 0.3099, 'valer': 0.3519, 'título': 0.4851, 'despistar': 0.4851, 'cámbialir': 0.4851}","{'valer título': 0.4472, 'título despistar': 0.4472, 'despistar poner': 0.4472, 'poner cámbialir': 0.4472, 'cámbialir favor': 0.4472}",0.0
 Pull Request,4771,[18.0][FIX] l10n_es_aeat_mod390: Casilla 28 restringida a la cuenta 477,"La casilla 28 es ""IVA devengado"", por lo que debe leer de la cuenta 477.
 
 <img width=""634"" height=""89"" alt=""image"" src=""https://github.com/user-attachments/assets/a799506b-3d0f-4b80-8afc-e4edb318d359"" />
