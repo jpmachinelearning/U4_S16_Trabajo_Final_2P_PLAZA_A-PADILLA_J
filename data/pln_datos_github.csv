@@ -16279,7 +16279,7 @@ Let's fix it handling properly the no breakdown, and only performing it when nee
 
 @Tecnativa TT60718","Gracias Pedro,
 
-Le echaremos un ojo junto con @ValentinVinagre y te damos feedback. De momento no fusiones 🙏",gracia pedro echar ojo valentinvinagre dar feedback momento fusión mano oración,"{'dar': 0.2893, 'feedback': 0.4067, 'echar': 0.3441, 'ojo': 0.304, 'gracia': 0.2497, 'pedro': 0.3067, 'momento': 0.2962, 'mano': 0.3846, 'valentinvinagre': 0.3846}","{'dar feedback': 0.6015, 'gracia pedro': 0.5257, 'echar ojo': 0.6015}",
+Le echaremos un ojo junto con @ValentinVinagre y te damos feedback. De momento no fusiones 🙏",gracia pedro echar ojo valentinvinagre dar feedback momento fusión mano oración,"{'dar': 0.2893, 'feedback': 0.4067, 'echar': 0.3441, 'ojo': 0.304, 'gracia': 0.2497, 'pedro': 0.3067, 'momento': 0.2962, 'mano': 0.3846, 'valentinvinagre': 0.3846}","{'dar feedback': 0.6015, 'gracia pedro': 0.5257, 'echar ojo': 0.6015}",0.0
 Pull Request,4797,[18.0][FIX] l10n_es_*_sii: Do breakdown only when needed and mix services and goods properly by default,"For simplified invoices, the taxes breakdown is not required, but right now if you make a PoS order mixing goods and services, the dictionary structure is a mix between breakdown and not breakdown.
 
 Let's fix it handling properly the no breakdown, and only performing it when needed. But this has led to change the base module, so not doing breakdown on other ocassions that previously were done.
