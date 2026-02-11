@@ -17134,7 +17134,7 @@ Pull Request,4728,[18.0][IMP] l10n_es_aeat_mod111: Compute report type,"FWP http
 MT-12714 @moduon ","Congratulations, your PR was merged at 0ba76c2742d8add304d1abad7d939af770a1c3ff. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4726,[18.0][FIX] l10n_es_aeat_sii_oca: Raise exception is partner has not a vat but has a aeat_identification,"Forward-port of #4710
 
-@Tecnativa ","Congratulations, your PR was merged at a24b63c6f5e85cdf3aea31dd4062561a0fe28f8e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at a24b63c6f5e85cdf3aea31dd4062561a0fe28f8e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4724,[17.0][FIX] l10n_es_aeat_sii_oca: Don't retry forever,"Backport of #4723 
 
 In the case an invoice is accepted with errors, the sending date is not reset, and the system is trying to send it on each cron run, which is not correct. With accepted invoices, there's no problem, as they are not selected anymore for being sent.
