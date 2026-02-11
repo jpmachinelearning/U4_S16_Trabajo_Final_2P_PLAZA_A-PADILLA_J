@@ -8161,7 +8161,7 @@ Por lo que he podido comprobar el problema (o una parte de el mismo) viene de es
 En el cual se borran entre otros, el impuesto llamado ""iva21isp"". El cual se usa en el modulo ""l10n_es_facturae"" (account_tax_template.xml)
 
 ** Comentar que este apartado de Odoo es totalmente desconocido para mi, no se si lo que comento puede resultar de ayuda... pero aquí lo dejo por si pudiera servir para corregir el ""atasque"". Disculpad si estoy metiendo ruido.
-",Se está analizando en #3996,analizar,{'analizar': 1.0},{},
+",Se está analizando en #3996,analizar,{'analizar': 1.0},{},0.0
 Issue,3999,Tratamiento de los impuestos [old],"Buenas tardes!
 
 De vez en cuando Odoo actualiza algunos impuestos y los desactiva poniendoles un [old] delante y creando un nuevo impuesto que tiene el mismo nombre, pero sin el [old]. Al hacerlo, el impuesto viejo pierde su plantilla, por lo que si se continúa usando (cosa muy frecuente, ya que no siempre se detecta el cambio al momento) los apuntes contables que lo contienen no van a las declaraciones AEAT (Modelo 303, 347, 349, etc.) teniendo que crearles una nueva plantilla para solucionarlo o reemplazar el impuesto viejo por el nuevo en todos los apuntes contables (a nivel funcional esto ultimo suele ser inviable por el volumen de información).
