@@ -2367,7 +2367,7 @@ Observaciones:
        •	Posiblemente algunos registros existentes no tienen valores asignados para estos campos, ¿puede ser?
 
 ¿Podrías decidme  por qué ocurre esto y cómo solucionarlo?
-","@alvrico esto último que envías no sé qué tiene que ver con lo primero que pusiste, porque este código que pones es para cuando haces una rectificativa.",alvrico enviar pusistar código poner rectificativo,"{'poner': 0.4308, 'enviar': 0.4552, 'rectificativo': 0.6184, 'código': 0.4741}",{},
+","@alvrico esto último que envías no sé qué tiene que ver con lo primero que pusiste, porque este código que pones es para cuando haces una rectificativa.",alvrico enviar pusistar código poner rectificativo,"{'poner': 0.4308, 'enviar': 0.4552, 'rectificativo': 0.6184, 'código': 0.4741}",{},0.0
 Issue,4589,[16.0] Problema tras actualización de VERI*FACTU (v16.0.1.1.0),"Hola Pedro y compis,
 
 Acabo de actualizar a la nueva versión de VERI*FACTU:
