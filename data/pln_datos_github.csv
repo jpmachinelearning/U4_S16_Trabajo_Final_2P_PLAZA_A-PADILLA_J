@@ -9424,7 +9424,7 @@ Issue,3829,[BUG] l10n_es_ticketbai_batuz method not called,"Hi,
 
 in the next Link u can check the call to the method batuz_get_supplier_num_factura inside _get_lroe_140_2_1_dict function is not getting called never missing parenthesis
 
-https://github.com/OCA/l10n-spain/blob/e1107ce2adfb333daa948cc441970284800555f3/l10n_es_ticketbai_batuz/models/account_move.py#L596",Puedes proponer un PR arreglándolo.,poder proponer pr arreglando él,"{'poder': 0.4296, 'él': 0.3419, 'proponer': 0.6811, 'pr': 0.4844}","{'poder proponer': 0.7071, 'proponer pr': 0.7071}",
+https://github.com/OCA/l10n-spain/blob/e1107ce2adfb333daa948cc441970284800555f3/l10n_es_ticketbai_batuz/models/account_move.py#L596",Puedes proponer un PR arreglándolo.,poder proponer pr arreglando él,"{'poder': 0.4296, 'él': 0.3419, 'proponer': 0.6811, 'pr': 0.4844}","{'poder proponer': 0.7071, 'proponer pr': 0.7071}",0.0
 Issue,3829,[BUG] l10n_es_ticketbai_batuz method not called,"Hi,
 
 in the next Link u can check the call to the method batuz_get_supplier_num_factura inside _get_lroe_140_2_1_dict function is not getting called never missing parenthesis
