@@ -11481,7 +11481,7 @@ La nueva casilla 108, tiene por objeto permitir aquellas rectificaciones para la
 
 La nueva casilla 111 se crea para permitir que, en los casos de solicitudes de devolución, el contribuyente pueda diferenciar las que derivan de la aplicación de la normativa del Impuesto de aquellas que puedan corresponderse con una solicitud de ingresos indebidos teniendo en cuenta el diferente régimen de unas y otras devoluciones.","Correcto @pedrobaeza . Adicionalmente se necesita en ciertos casos rellenar estas casillas.
 
-https://github.com/OCA/l10n-spain/pull/3770",correcto pedrobaeza adicionalmente necesitar caso rellenar casilla,"{'caso': 0.2516, 'pedrobaeza': 0.2657, 'rellenar': 0.4776, 'necesitar': 0.3401, 'casilla': 0.3711, 'correcto': 0.3179, 'adicionalmente': 0.5325}",{'correcto pedrobaeza': 1.0},
+https://github.com/OCA/l10n-spain/pull/3770",correcto pedrobaeza adicionalmente necesitar caso rellenar casilla,"{'caso': 0.2516, 'pedrobaeza': 0.2657, 'rellenar': 0.4776, 'necesitar': 0.3401, 'casilla': 0.3711, 'correcto': 0.3179, 'adicionalmente': 0.5325}",{'correcto pedrobaeza': 1.0},1.0
 Issue,3700,"Error Codigo[4102].El XML no cumple el esquema. Falta informar campo obligatorio.: DesgloseTipoOperacion en el modulo ""l10n_es_aeat_sii_oss""","Hola, cuando voy a enviar la facturas con el IVA OSS de cualquier pais me da el error ""Codigo[4102].El XML no cumple el esquema. Falta informar campo obligatorio.: DesgloseTipoOperacion"". Me podeis indicar si es un error del codigo o no esta bien configurado.
 
 Gracias.
