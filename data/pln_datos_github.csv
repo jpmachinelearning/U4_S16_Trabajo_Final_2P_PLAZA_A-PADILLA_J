@@ -17063,7 +17063,7 @@ complete_name is the field used to sort res.partner, but when calculated without
 
 @Tecnativa TT59646
 
-@pedrobaeza @victoralmau please review","Congratulations, your PR was merged at 9bf2a1d793c262765735f5c68b3a6549cf3bd39d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@pedrobaeza @victoralmau please review","Congratulations, your PR was merged at 9bf2a1d793c262765735f5c68b3a6549cf3bd39d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4736,[16.0][FIX] l10n_es_verifactu_oca: Fix tests,"Corrección de diferentes tests KO en l10n_es_verifactu_oca. 
 
 Se ha ajustado el código del método test_send_invoices_to_verifactu para homogeneizar su estructura con el resto del módulo y mejorar su legibilidad.","Congratulations, your PR was merged at e936d3af1229c954d2450bed3d4fc49755b40915. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
