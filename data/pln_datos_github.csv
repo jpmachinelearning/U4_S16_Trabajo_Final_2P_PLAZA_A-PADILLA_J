@@ -9674,7 +9674,7 @@ Este problema afecta la correcta declaración de impuestos a la Agencia Tributar
 
 MT-8100 @moduon
 
-",Falta hacer backport/fw-port.,faltar backport fw-port,"{'backport': 0.4424, 'faltar': 0.4502, 'fw': 0.5484, 'port': 0.5484}",{'fw port': 1.0},
+",Falta hacer backport/fw-port.,faltar backport fw-port,"{'backport': 0.4424, 'faltar': 0.4502, 'fw': 0.5484, 'port': 0.5484}",{'fw port': 1.0},0.0
 Issue,3812,[16] vat_book: Impuestos temporales no incluidos en mapeo,"Módulo
 l10n_es_vat_book
 
