@@ -9924,7 +9924,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Additional context**
-Add any other context about the problem here. (e.g. OS, Python version, ...)",Diría que has cambiado las cuentas estándar 472/477.,decir haber cambiar cuenta estándar,"{'haber': 0.371, 'estándar': 0.5197, 'decir': 0.389, 'cambiar': 0.3612, 'cuenta': 0.5572}",{'haber cambiar': 1.0},
+Add any other context about the problem here. (e.g. OS, Python version, ...)",Diría que has cambiado las cuentas estándar 472/477.,decir haber cambiar cuenta estándar,"{'haber': 0.371, 'estándar': 0.5197, 'decir': 0.389, 'cambiar': 0.3612, 'cuenta': 0.5572}",{'haber cambiar': 1.0},0.0
 Issue,3787,Cuotas en casillas 11 y 37  de compras intracomunitarias  en modelo 303,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 version 17
