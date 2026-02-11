@@ -4607,7 +4607,7 @@ Se han realizado pruebas basadas en la declaración responsable de Odoo o inclus
 
 <img width=""755"" height=""394"" alt=""Image"" src=""https://github.com/user-attachments/assets/ef0d71e5-53f9-4c1f-956d-5694e7f39b28"" />
 
-<img width=""1343"" height=""561"" alt=""Image"" src=""https://github.com/user-attachments/assets/4cb157e6-656f-4f06-a361-aa267db1e601"" />",El ID del SIF y el NIF informados deben haber sido dados de alta en Hacienda para poder hacer estas pruebas.,id sif nif informado dar alta hacienda prueba,"{'dar': 0.2833, 'sif': 0.3236, 'prueba': 0.3062, 'id': 0.3766, 'nif': 0.3605, 'informado': 0.4309, 'alta': 0.4125, 'hacienda': 0.3062}",{},
+<img width=""1343"" height=""561"" alt=""Image"" src=""https://github.com/user-attachments/assets/4cb157e6-656f-4f06-a361-aa267db1e601"" />",El ID del SIF y el NIF informados deben haber sido dados de alta en Hacienda para poder hacer estas pruebas.,id sif nif informado dar alta hacienda prueba,"{'dar': 0.2833, 'sif': 0.3236, 'prueba': 0.3062, 'id': 0.3766, 'nif': 0.3605, 'informado': 0.4309, 'alta': 0.4125, 'hacienda': 0.3062}",{},0.0
 Issue,4374,[16.0] [FIX] l10n_es_verifactu_oca Error 1100 en el envío de facturas,"****Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created **
 
