@@ -13201,7 +13201,7 @@ requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='egoitza.gipuzkoa.e
 
 Parece ser que no está disponible.
 
-Los que tenéis allí SII, ¿sabéis qué puede ocurrir? Tal vez @JuaniFreedoo ?","Hacienda Gipuzkoa notifica que los problemas de conectividad ya están resueltos. @pedrobaeza, si lo puedes confirma se podría cerrar este ticket sin problemas.",hacienda gipuzkoa notificar problema conectividad resuelto pedrobaeza poder confirmar cerrar ticket problema,"{'poder': 0.1838, 'problema': 0.3579, 'pedrobaeza': 0.1832, 'confirmar': 0.2961, 'cerrar': 0.218, 'hacienda': 0.2608, 'notificar': 0.3514, 'ticket': 0.2914, 'gipuzkoa': 0.3671, 'resuelto': 0.3514, 'conectividad': 0.3671}","{'pedrobaeza poder': 0.517, 'hacienda gipuzkoa': 0.6053, 'problema conectividad': 0.6053}",
+Los que tenéis allí SII, ¿sabéis qué puede ocurrir? Tal vez @JuaniFreedoo ?","Hacienda Gipuzkoa notifica que los problemas de conectividad ya están resueltos. @pedrobaeza, si lo puedes confirma se podría cerrar este ticket sin problemas.",hacienda gipuzkoa notificar problema conectividad resuelto pedrobaeza poder confirmar cerrar ticket problema,"{'poder': 0.1838, 'problema': 0.3579, 'pedrobaeza': 0.1832, 'confirmar': 0.2961, 'cerrar': 0.218, 'hacienda': 0.2608, 'notificar': 0.3514, 'ticket': 0.2914, 'gipuzkoa': 0.3671, 'resuelto': 0.3514, 'conectividad': 0.3671}","{'pedrobaeza poder': 0.517, 'hacienda gipuzkoa': 0.6053, 'problema conectividad': 0.6053}",1.0
 Issue,3589,Fallo de los tests al conectar a la Hacienda de Gipúzcoa,"En todas las ramas está dando este error:
 
 ```
