@@ -12245,7 +12245,7 @@ Si se mantiene una copia del repo en local, la forma de actualizarlo es:
 - `git fetch origin 17.0`
 - `git reset --hard origin/17.0`
 
-Gracias por la comprensión y perdonad las molestias.",Cierro ya después de un tiempo publicado.,cerrar tiempo publicado,"{'cerrar': 0.4351, 'tiempo': 0.5647, 'publicado': 0.7013}",{},
+Gracias por la comprensión y perdonad las molestias.",Cierro ya después de un tiempo publicado.,cerrar tiempo publicado,"{'cerrar': 0.4351, 'tiempo': 0.5647, 'publicado': 0.7013}",{},1.0
 Issue,3641,[16.0] instalando l10n_es_aeat_mod123 da un error no encuentra  account_tax_template_p_irpf19cs ,"```
 2024-06-21 09:34:58,678 124 INFO xxxx odoo.modules.loading: loading l10n_es_aeat_mod123/data/2024/tax_code_map_mod123.xml 
 2024-06-21 09:34:58,682 124 ERROR xxxx odoo.tools.convert.init: Could not eval([(4, ref('l10n_es.account_tax_template_p_irpf19cs'))]) for tax_ids in {} 
