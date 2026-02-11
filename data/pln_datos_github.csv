@@ -3297,7 +3297,7 @@ Este módulo al heredar de account_invoice_refund_link que en su rama 16.0 esta 
 https://github.com/OCA/account-invoicing/blob/d0f39d06b2a703100feb3b5374652e802f802df4/account_invoice_refund_link/wizards/account_move_reversal.py#L10
 Mientras que en la rama 17.0:
 https://github.com/OCA/account-invoicing/blob/e34d6cfa741003d4668c4b8325782ea8798612b4/account_invoice_refund_link/wizards/account_move_reversal.py#L10
-",ocurrir,{'ocurrir': 1.0},{},
+",ocurrir,{'ocurrir': 1.0},{},0.0
 Issue,4463,[17.0] l10n_es_verifactu_oca: Falla factura rectificativa con error unexpected keyword argument 'is_modify',"Perdonad que no soy desarrollador de Odoo y puede que me equivoque. En la descripción del módulo se comenta que la modificación de facturas enviadas no está soportada, pero la creación de rectificativa creo que sí. 
 
 En versión 17 cuando vas a hacer una factura de rectificativa falla
