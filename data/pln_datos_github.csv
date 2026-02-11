@@ -13268,7 +13268,7 @@ Poder acceder a las facturas tras instalar el módulo l10n_es_aeat_mod349 tal y 
 
 ¿Solo falla en V16? ¿O te has encontrado lo mismo en V15, por ejemplo?
 
-Saludos.",hola gelo gracias reporte fallar v16 haber encontrar v15 ejemplo saludo,"{'gracias': 0.2099, 'haber': 0.234, 'hola': 0.2083, 'v16': 0.3515, 'encontrar': 0.2732, 'ejemplo': 0.2409, 'saludo': 0.2874, 'reporte': 0.3751, 'v15': 0.3751, 'fallar': 0.3111, 'gelo': 0.3751}",{'haber encontrar': 1.0},
+Saludos.",hola gelo gracias reporte fallar v16 haber encontrar v15 ejemplo saludo,"{'gracias': 0.2099, 'haber': 0.234, 'hola': 0.2083, 'v16': 0.3515, 'encontrar': 0.2732, 'ejemplo': 0.2409, 'saludo': 0.2874, 'reporte': 0.3751, 'v15': 0.3751, 'fallar': 0.3111, 'gelo': 0.3751}",{'haber encontrar': 1.0},1.0
 Issue,3538,[IMP] l10n_es_aeat_mod303: Permitir trasladar la compensación al año siguiente,"En estos momentos cuando se declara el modelo 303 en el 4º trimestre del año, si hay un importe pendiente de compensar la opción que se propone es 'Devolución'. Pero legalmente es posible seguir compensando hasta 4 años.
 
 El campo 'result_type' es ahora mismo calculado. Quizás debería existir un booleano 'Trasladar compensación al siguiente año', que sólo aparezca en el último trimestre?
