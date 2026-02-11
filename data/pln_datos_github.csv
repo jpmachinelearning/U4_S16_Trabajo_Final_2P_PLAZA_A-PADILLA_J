@@ -2020,7 +2020,7 @@ Se hace un asiento manual
 5000€ 705000   a   700000 5000€
 
 
-Y queda mas robusto el verifactu siendo inmodificable",corrección asiento manual ejemplo factura euros deber asiento manual € € quedar robusto verifactu inmodificable,"{'verifactu': 0.2237, 'factura': 0.168, 'ejemplo': 0.2153, 'deber': 0.1977, 'quedar': 0.232, 'manual': 0.6121, 'corrección': 0.3141, 'asiento': 0.556}",{'asiento manual': 1.0},
+Y queda mas robusto el verifactu siendo inmodificable",corrección asiento manual ejemplo factura euros deber asiento manual € € quedar robusto verifactu inmodificable,"{'verifactu': 0.2237, 'factura': 0.168, 'ejemplo': 0.2153, 'deber': 0.1977, 'quedar': 0.232, 'manual': 0.6121, 'corrección': 0.3141, 'asiento': 0.556}",{'asiento manual': 1.0},0.0
 Issue,4613,[16.0] l10n_es_verifactu_oca: Permitir la modificación de cuentas contables en account.move con VeriFactu activado,"**### Descripción del problema**
 Al validar una factura con VeriFactu activado, el documento queda completamente bloqueado. Esto implica que no es posible modificar los apuntes contables, incluyendo cambios en las cuentas contables asignadas.
 
