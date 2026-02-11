@@ -2676,7 +2676,7 @@ Línea 280: Element 'RegulatoryReportingData': [facet 'length'] The value has a 
 Línea 280: Element 'RegulatoryReportingData': '' is not a valid value of the atomic type '{http://www.facturae.gob.es/formato/Versiones/Facturaev3_2_2.xml}RegulatoryReportingDataType'.
 
 A alguien le ha pasado esto??
-Tengo que emitir facturas a administración pública y sin este módulo no puedo hacerlo.",Has seleccionado la versión 3.2.2 en el formato de Facturae?,haber seleccionar versión formato facturae,"{'versión': 0.3712, 'haber': 0.3691, 'seleccionar': 0.5074, 'formato': 0.4484, 'facturae': 0.5171}",{},
+Tengo que emitir facturas a administración pública y sin este módulo no puedo hacerlo.",Has seleccionado la versión 3.2.2 en el formato de Facturae?,haber seleccionar versión formato facturae,"{'versión': 0.3712, 'haber': 0.3691, 'seleccionar': 0.5074, 'formato': 0.4484, 'facturae': 0.5171}",{},0.0
 Issue,4489,Error al crear facturas face. xml incorrecto,"## Module
 l10n_es_facturae
 versión odoo 18
