@@ -16198,7 +16198,7 @@ Removing the upper savepoint and commit on exception, solves the problem.
 
 The code has also been adjusted for resetting `sii_send_date` in the proper method, and annotated a TODO refactoring for moving the cancellation code to the mixin.
 
-@Tecnativa TT60762","Congratulations, your PR was merged at 1e4101c0fe319e5b763e9f559aabb965c85cc78d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT60762","Congratulations, your PR was merged at 1e4101c0fe319e5b763e9f559aabb965c85cc78d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4804,[MIG] l10n_es_pos_oca: Migration to Odoo 19.0,"## Migration Summary
 
 This PR migrates the `l10n_es_pos_oca` module from version 18.0 to 19.0.
