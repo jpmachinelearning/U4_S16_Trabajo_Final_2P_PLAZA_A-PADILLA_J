@@ -19235,7 +19235,7 @@ Pull Request,4593,[18.0][FIX] l10n_es_aeat_sii_oca: Send cancellations if previo
 
 The filtering was not done correctly for cancel operations if they were on ""sent"" state.
 
-@Tecnativa","Congratulations, your PR was merged at 3553e282cd4cad0d5a5f452ee61c695e4f3b5b48. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+@Tecnativa","Congratulations, your PR was merged at 3553e282cd4cad0d5a5f452ee61c695e4f3b5b48. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4592,[17.0][FIX] l10n_es_aeat_sii_oca: Send cancellations if previously sent,"The filtering was not done correctly for cancel operations if they were on ""sent"" state.
 
 @Tecnativa ","Congratulations, your PR was merged at cd13b882929971aa0f9f784ce50fb3954dc25fec. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
