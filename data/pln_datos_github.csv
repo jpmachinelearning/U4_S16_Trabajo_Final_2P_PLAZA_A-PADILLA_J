@@ -9279,7 +9279,7 @@ Issue,3858,Fecha de Operación en el SII,"En la información al SII no se está 
 Que ese campo aparezca en la factura y que se informe al SII. 
 **¿Por qué proponemos esto?**
 Trabajamos con productos de alimentación, los impuestos están variando mucho y ocurre que en el momento del pedido, de la entrega y de la factura se pueden dar conflictos con el impuesto aplicado.
-","Ya, pero sin esa confirmación de qué supone la fecha de operación en ese caso, la verdad es que es arriesgado aventurarse a poner un dato.",confirmación suponer fecha operación caso arriesgado aventurar él dato,"{'caso': 0.2325, 'él': 0.1961, 'operación': 0.3235, 'arriesgado': 0.471, 'dato': 0.3081, 'suponer': 0.3906, 'fecha': 0.3024, 'confirmación': 0.492}","{'fecha operación': 0.6126, 'operación caso': 0.7904}",
+","Ya, pero sin esa confirmación de qué supone la fecha de operación en ese caso, la verdad es que es arriesgado aventurarse a poner un dato.",confirmación suponer fecha operación caso arriesgado aventurar él dato,"{'caso': 0.2325, 'él': 0.1961, 'operación': 0.3235, 'arriesgado': 0.471, 'dato': 0.3081, 'suponer': 0.3906, 'fecha': 0.3024, 'confirmación': 0.492}","{'fecha operación': 0.6126, 'operación caso': 0.7904}",0.0
 Issue,3858,Fecha de Operación en el SII,"En la información al SII no se está informando de la **_Fecha de Operación_** asumiendo que sólo es necesaria si es diferente que la **_Fecha de expedición_**.
 
 **Nueva característica propuesta**
