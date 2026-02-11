@@ -12164,7 +12164,7 @@ Rafa
 
 @moduon MT-6620 ping @yajo @edlopen ","Y por que necesitais que sea LGPL?
 
-No deberiais necesitar un glue module",necesitais lgpl deberiai necesitar glue module,"{'necesitar': 0.4328, 'glue': 0.6261, 'module': 0.6486}","{'glue module': 0.6915, 'necesitar glue': 0.7224}",
+No deberiais necesitar un glue module",necesitais lgpl deberiai necesitar glue module,"{'necesitar': 0.4328, 'glue': 0.6261, 'module': 0.6486}","{'glue module': 0.6915, 'necesitar glue': 0.7224}",1.0
 Issue,3650,l10n_es_vat_prorate: cambio de licencia a LGPL,"Hola @etobella @pedrobaeza ,
 
 ¿Pensáis que podemos cambiar la licencia de AGPL a LGPL?
