@@ -13242,7 +13242,7 @@ Issue,3552,Como reflejar bienes amortizados en el modelo 130?,"Buenas, aclarar p
 
 He tratado de categorizarlo en IVA 21% Bienes de inversión para probar y sin embargo aparece la cantidad total en el cómputo del modelo 130.
 
-Gracias!","Hola, realiza por favor la pregunta en el foro de AEOdoo (https://www.aeodoo.org/forum), ya que este espacio es para bugs/problemas con el código.",hola realizar favor pregunta foro aeodoo espacio bug problema código,"{'problema': 0.2067, 'hola': 0.2253, 'bug': 0.3225, 'favor': 0.2709, 'código': 0.2622, 'realizar': 0.3184, 'foro': 0.3547, 'pregunta': 0.3621, 'aeodoo': 0.3706, 'espacio': 0.4059}",{'foro aeodoo': 1.0},
+Gracias!","Hola, realiza por favor la pregunta en el foro de AEOdoo (https://www.aeodoo.org/forum), ya que este espacio es para bugs/problemas con el código.",hola realizar favor pregunta foro aeodoo espacio bug problema código,"{'problema': 0.2067, 'hola': 0.2253, 'bug': 0.3225, 'favor': 0.2709, 'código': 0.2622, 'realizar': 0.3184, 'foro': 0.3547, 'pregunta': 0.3621, 'aeodoo': 0.3706, 'espacio': 0.4059}",{'foro aeodoo': 1.0},-1.0
 Issue,3539,[16]  l10n_es_aeat_mod349 -Error de permisos al entrar en facturas tras instalar 349 l10n_es_aeat_mod349 ,"<!-- Provide a general summary of the issue in the Title above.-->
 Un usuario con los siguientes permisos:
 - Mostrar sólo documentos propios
