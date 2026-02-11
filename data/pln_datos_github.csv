@@ -6183,7 +6183,7 @@ saludos","Hola, ¿podéis identificaros adecuadamente en lugar de un nick genér
 Issue,4286,Sii Grecia,"Hola, en una 17 al enviar factura de un cliente Griego al sii devuelve con el 1104 valor del campo ID incorrecto hasta que he cambiado el código del país de GR a EL, cosa que luego gereraria otros errores?
 
 alguien mas tiene esto?
-saludos","lo detecte esta mañana y le dije de cambiarlo para que funcionará, se llama Patrick. En ocasiones algunos impuestos usan para grecia GR y otros EL (el nuevo es EL desde hace muchos años) ",detectar mañana decir cambiar él funcionar llamar patrick ocasión impuesto grecia gr año,"{'funcionar': 0.2209, 'él': 0.149, 'impuesto': 0.1956, 'año': 0.2809, 'decir': 0.2342, 'cambiar': 0.2175, 'detectar': 0.2969, 'llamar': 0.2924, 'mañana': 0.374, 'ocasión': 0.374, 'grecia': 0.358, 'gr': 0.358}",{'cambiar él': 1.0},
+saludos","lo detecte esta mañana y le dije de cambiarlo para que funcionará, se llama Patrick. En ocasiones algunos impuestos usan para grecia GR y otros EL (el nuevo es EL desde hace muchos años) ",detectar mañana decir cambiar él funcionar llamar patrick ocasión impuesto grecia gr año,"{'funcionar': 0.2209, 'él': 0.149, 'impuesto': 0.1956, 'año': 0.2809, 'decir': 0.2342, 'cambiar': 0.2175, 'detectar': 0.2969, 'llamar': 0.2924, 'mañana': 0.374, 'ocasión': 0.374, 'grecia': 0.358, 'gr': 0.358}",{'cambiar él': 1.0},0.0
 Issue,4286,Sii Grecia,"Hola, en una 17 al enviar factura de un cliente Griego al sii devuelve con el 1104 valor del campo ID incorrecto hasta que he cambiado el código del país de GR a EL, cosa que luego gereraria otros errores?
 
 alguien mas tiene esto?
