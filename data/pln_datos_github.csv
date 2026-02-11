@@ -8592,7 +8592,7 @@ Steps to reproduce the behavior:
 Al asubirlo deberia de haber pasado ok firmando el archivo y termiando el proceso. 
 
 **Additional context**
-Exportar el archivo por lotes para subir a AEAT","Emilio, prueba a quitar eso a ver si funciona. Se que por ejemplo en Navarra es al revés: que algunos modelos, sin LF+CR, no funcionan.",emilio probar quitar funcionar ejemplo navarra revés modelo lf cr funcionar,"{'modelo': 0.2817, 'funcionar': 0.5279, 'revés': 0.4469, 'ejemplo': 0.2746, 'probar': 0.3059, 'quitar': 0.3207, 'emilio': 0.4129}",{},
+Exportar el archivo por lotes para subir a AEAT","Emilio, prueba a quitar eso a ver si funciona. Se que por ejemplo en Navarra es al revés: que algunos modelos, sin LF+CR, no funcionan.",emilio probar quitar funcionar ejemplo navarra revés modelo lf cr funcionar,"{'modelo': 0.2817, 'funcionar': 0.5279, 'revés': 0.4469, 'ejemplo': 0.2746, 'probar': 0.3059, 'quitar': 0.3207, 'emilio': 0.4129}",{},0.0
 Issue,3896,Error en MOD 111 ODOO 17 de AEAT al crear archivo de exportación para subirlo a la web de AEAT por lotes,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
