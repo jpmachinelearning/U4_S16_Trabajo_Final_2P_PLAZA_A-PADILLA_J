@@ -5988,7 +5988,7 @@ Issue,4291,[16] l10n_es_ticketbai_pos: Ticketbai no construida aun.,"Se ha gener
 También hemos comprobado que no hay forma de enviar una factura simplificada sin identificación, cuando no deberia de ser imprescindible el NIF en las facturas simplificadas no?","Genial @rrebollo , para todo lo que necesites no dudes en contactarme.
 
 Respecto a lo que comentas de los duplicados mira esto #3984 
-Cualquier cosa me comentas.",genial rrebollo necesitser dudser contactar yo comentar duplicado mirar cosa comentas,"{'comentar': 0.2835, 'cosa': 0.2963, 'comentas': 0.3643, 'yo': 0.3185, 'mirar': 0.3012, 'rrebollo': 0.398, 'genial': 0.4248, 'duplicado': 0.41}",{},
+Cualquier cosa me comentas.",genial rrebollo necesitser dudser contactar yo comentar duplicado mirar cosa comentas,"{'comentar': 0.2835, 'cosa': 0.2963, 'comentas': 0.3643, 'yo': 0.3185, 'mirar': 0.3012, 'rrebollo': 0.398, 'genial': 0.4248, 'duplicado': 0.41}",{},1.0
 Issue,4291,[16] l10n_es_ticketbai_pos: Ticketbai no construida aun.,"Se ha generado la primera factura simplificada sin problema, la comunicación correcta. Pero al ir a realizar la segunda factura ""FS2500002"" aparece un error de que Ticketbai no esta construido aun.
 
 ![Image](https://github.com/user-attachments/assets/bbfc13bc-0186-4c18-b243-19ef62d4ae5b)
