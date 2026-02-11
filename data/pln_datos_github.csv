@@ -17082,7 +17082,7 @@ Subido archivo al pre-portal de AEAT, antes daba este error
 
 Y ahora se valida sin ningún error.
 
-MT-13343 @moduon","Congratulations, your PR was merged at 889ffbd41b2a65471674d8901223740a8b0f3689. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+MT-13343 @moduon","Congratulations, your PR was merged at 889ffbd41b2a65471674d8901223740a8b0f3689. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4733,[15.0][FIX] l10n_es_aeat_mod592: No indicar Régimen fiscal en algunos casos,"Cambios hechos:
 - [x] No indicar Régimen fiscal en algunos casos (4). Relacionado con https://github.com/OCA/l10n-spain/pull/4460
 - [x] No indicar Prov./Dest.: Tipo Documento si el concepto es 3
