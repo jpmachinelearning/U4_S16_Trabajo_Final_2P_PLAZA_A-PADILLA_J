@@ -16879,7 +16879,7 @@ Pull Request,4763,[16.0] [FIX] l10n_es_ticketbai_api[_batutz]: update tax agenci
 
 <img width=""1536"" height=""565"" alt=""image"" src=""https://github.com/user-attachments/assets/56c41fa3-993c-4f7d-bea5-92d75882f5b5"" />
 
-@BinhexTeam HT15393","Congratulations, your PR was merged at ff164db495c98271469173900f3fab8049da0b2f. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@BinhexTeam HT15393","Congratulations, your PR was merged at ff164db495c98271469173900f3fab8049da0b2f. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4762,"[18.0][FIX] l10n_es_aeat_mod123: Error casillas para ""19% WH L""","En el Modelo 123 hay un error en la clasificación de las retenciones procedentes de préstamos concedidos por empresas, no entidades bancarias, y que corresponden al impuesto ‘19% WH L – Retención 19% (préstamo)’.
 
 El modelo 123 clasifica la base de la retención en la casilla [4], pero realmente no se trata de ‘Dividendos y otras rentas de participación en fondos propios de entidades’, por lo que debe aparecer en la casilla [5] ‘Resto de rentas’.
