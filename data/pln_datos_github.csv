@@ -12393,7 +12393,7 @@ Me parece curioso que aparece la base imponible y el total en positivo, pero los
 
 ¿Alguien sabe algo al respecto?
 
-Saludos,",#4012 incluye el parche para los signos.,incluir parche signo,"{'parche': 0.5282, 'incluir': 0.4886, 'signo': 0.6945}",{},
+Saludos,",#4012 incluye el parche para los signos.,incluir parche signo,"{'parche': 0.5282, 'incluir': 0.4886, 'signo': 0.6945}",{},1.0
 Issue,3622,[14.0] Errores en l10n_es_payment_order_confirming_aef,"Hola!
 
 Desde la actualización más reciente hecha al modulo de Confirming, la manera de la que salen los ficheros ha cambiado, con 2 errores principales:
