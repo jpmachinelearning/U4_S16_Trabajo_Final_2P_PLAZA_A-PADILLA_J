@@ -17455,7 +17455,7 @@ Este error se producía cuando había más de dos compañías seleccionadas. Par
 <img width=""1895"" height=""934"" alt=""Captura desde 2026-01-08 13-13-15"" src=""https://github.com/user-attachments/assets/924e28c3-78fe-418b-96cd-8177d36ecc11"" />
 
 @moduon
-MT-13271","Congratulations, your PR was merged at a4ff6c54d1f80c3284fdc94228710a5f196db037. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+MT-13271","Congratulations, your PR was merged at a4ff6c54d1f80c3284fdc94228710a5f196db037. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4704,[18.0][FIX] l10n_es_aeat_mod303_vat_prorate: error ZeroDivisionError,"Pequeño fix para evitar un ZeroDivisionError.
 Por ejemplo, si el usuario crea un informe 303 y posteriormente cambia el año de la línea de prorrata en los ajustes de la empresa, al intentar recalcular ese mismo informe se produce un error ZeroDivisionError, ya que la variable theoretical_prorate tiene un valor igual a 0.
 <img width=""1895"" height=""934"" alt=""Captura desde 2026-01-08 12-46-25"" src=""https://github.com/user-attachments/assets/8b7efed9-1ddc-4a70-936b-6ea04b69dbb1"" />
