@@ -13077,7 +13077,7 @@ Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata
 
 @pedrobaeza Hace unos meses participaste en el hilo. Qué opinas? Nuestra idea es hacer algo genérico y sostenible en la localización, para no tenerlo en un custom.
 
-Gracias.",Creo que no merece la pena separar en 2 módulos. No se gana tanto en este caso.,merecer pena separar módulo ganar caso,"{'módulo': 0.248, 'caso': 0.2618, 'pena': 0.5305, 'separar': 0.5305, 'merecer': 0.5542}",{'merecer pena': 1.0},
+Gracias.",Creo que no merece la pena separar en 2 módulos. No se gana tanto en este caso.,merecer pena separar módulo ganar caso,"{'módulo': 0.248, 'caso': 0.2618, 'pena': 0.5305, 'separar': 0.5305, 'merecer': 0.5542}",{'merecer pena': 1.0},1.0
 Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata Especial de IVA),"**Contexto:**
 
 - Trabajamos con nuestra Compañía 1
