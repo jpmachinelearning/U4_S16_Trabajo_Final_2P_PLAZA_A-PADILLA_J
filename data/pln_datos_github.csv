@@ -16816,7 +16816,7 @@ En caso de cumplirse estas condiciones, recalcular la prorrata llamando al méto
 `_apply_vat_prorate` del modelo _account.move_.
 
 @moduon
-MT-13468",¿@Andrii9090-tecnativa @pedrobaeza @yajo podéis revisar el nuevo enfoque?,andrii9090-tecnativo pedrobaeza yajo poder revisar enfoque,"{'poder': 0.2759, 'pedrobaeza': 0.2749, 'revisar': 0.3171, 'yajo': 0.5509, 'tecnativo': 0.4815, 'enfoque': 0.4609}",{'poder revisar': 1.0},
+MT-13468",¿@Andrii9090-tecnativa @pedrobaeza @yajo podéis revisar el nuevo enfoque?,andrii9090-tecnativo pedrobaeza yajo poder revisar enfoque,"{'poder': 0.2759, 'pedrobaeza': 0.2749, 'revisar': 0.3171, 'yajo': 0.5509, 'tecnativo': 0.4815, 'enfoque': 0.4609}",{'poder revisar': 1.0},0.0
 Pull Request,4765,"[18.0][FIX] l10n_es_vat_prorate: Antes de publicar la factura, verificar que la prorrata se ha aplicado","En algunas instancias de nuestros clientes se ha detectado una situación rara en la que facturas de proveedor que deberían incluir líneas de prorrata no las generan.
 
 El problema se ha resuelto manualmente volviendo la factura a borrador y confirmándola de nuevo (sin cambiar nada), lo que provoca que la prorrata se calcule correctamente.
