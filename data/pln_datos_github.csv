@@ -7914,7 +7914,7 @@ l10n_es_ticketbai
 
 **Additional context**
 En la guía de migración a 16 encontramos:
-`One2many fields outside of a notebook are now not expanding to the full form width by default. You should put colspan=""2"" for achieving such effect`","Rolando, no es necesario abrir un issue cuando vais a abrir el PR. Simplemente abre el PR directamente con el texto del issue. Cierro y se sigue por #4040 ",rolar necesario abrir issue abrir pr simplemente abrir pr directamente texto issue cerrar,"{'directamente': 0.2063, 'issue': 0.372, 'cerrar': 0.1741, 'necesario': 0.1927, 'pr': 0.331, 'simplemente': 0.2175, 'abrir': 0.722, 'texto': 0.2709}","{'abrir issue': 0.3389, 'necesario abrir': 0.351, 'issue abrir': 0.3667, 'abrir pr': 0.7021, 'issue cerrar': 0.3667}",
+`One2many fields outside of a notebook are now not expanding to the full form width by default. You should put colspan=""2"" for achieving such effect`","Rolando, no es necesario abrir un issue cuando vais a abrir el PR. Simplemente abre el PR directamente con el texto del issue. Cierro y se sigue por #4040 ",rolar necesario abrir issue abrir pr simplemente abrir pr directamente texto issue cerrar,"{'directamente': 0.2063, 'issue': 0.372, 'cerrar': 0.1741, 'necesario': 0.1927, 'pr': 0.331, 'simplemente': 0.2175, 'abrir': 0.722, 'texto': 0.2709}","{'abrir issue': 0.3389, 'necesario abrir': 0.351, 'issue abrir': 0.3667, 'abrir pr': 0.7021, 'issue cerrar': 0.3667}",0.0
 Issue,4024,Error en la exportación del fichero 303,"<!-- Al importar el fichero del 303 en la página de Hacienda devuelve que el contenido es incorrecto en alguna de las casillas del apartado ""IVA devengado"" -->
 
 ## Module
