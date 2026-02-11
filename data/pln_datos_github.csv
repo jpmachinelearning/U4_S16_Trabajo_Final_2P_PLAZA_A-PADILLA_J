@@ -9723,7 +9723,7 @@ Este problema afecta la correcta declaración de impuestos a la Agencia Tributar
 
 MT-8100 @moduon
 
-",Ya está llevado a 15.0 y rehecho en 17.0. Los nuevos IVAs no deducibles estaban mapeados incorrectamente en 16.0 y ya está también arreglado.,llevado rehacer iva deducibl mapeado incorrectamente arreglado,"{'iva': 0.3166, 'arreglado': 0.5317, 'deducibl': 0.5555, 'mapeado': 0.5555}",{},
+",Ya está llevado a 15.0 y rehecho en 17.0. Los nuevos IVAs no deducibles estaban mapeados incorrectamente en 16.0 y ya está también arreglado.,llevado rehacer iva deducibl mapeado incorrectamente arreglado,"{'iva': 0.3166, 'arreglado': 0.5317, 'deducibl': 0.5555, 'mapeado': 0.5555}",{},1.0
 Issue,3806,"Error al importar el módulo ""payment_redsys"" en Odoo v17","<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
