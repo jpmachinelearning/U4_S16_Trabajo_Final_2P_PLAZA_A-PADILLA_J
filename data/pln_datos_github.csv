@@ -6665,7 +6665,7 @@ Hacer una venta con la posición fiscal ""Recargo de Equivalencia""
 
 ","Ok entiendo.
 Entonces mas que un bug ya estamos hablando de una mejora que habría que implementar.
- ",ok entender bug hablar mejora haber implementar,"{'haber': 0.2958, 'entender': 0.321, 'bug': 0.3768, 'mejora': 0.4067, 'ok': 0.3768, 'hablar': 0.3676, 'implementar': 0.4743}",{},
+ ",ok entender bug hablar mejora haber implementar,"{'haber': 0.2958, 'entender': 0.321, 'bug': 0.3768, 'mejora': 0.4067, 'ok': 0.3768, 'hablar': 0.3676, 'implementar': 0.4743}",{},1.0
 Issue,4211,[14.0] l10n_es_ticketbai_pos: Error en recargo de equivalencia,"## Module
 l10n_es_ticketbai_pos
 
