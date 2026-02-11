@@ -16894,7 +16894,7 @@ Pull Request,4762,"[18.0][FIX] l10n_es_aeat_mod123: Error casillas para ""19% WH
 
 El modelo 123 clasifica la base de la retención en la casilla [4], pero realmente no se trata de ‘Dividendos y otras rentas de participación en fondos propios de entidades’, por lo que debe aparecer en la casilla [5] ‘Resto de rentas’.
 
-Por el mismo motivo, las retenciones no deben ir a la casilla [7] ‘Dividendos y otras rentas de participación en fondos propios de entidades’, sino que deben aparecer en la casilla [8] ‘Resto de rentas’.","Congratulations, your PR was merged at 26f707d16e71b36049f4383ecbaf7a1c4d2678f6. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+Por el mismo motivo, las retenciones no deben ir a la casilla [7] ‘Dividendos y otras rentas de participación en fondos propios de entidades’, sino que deben aparecer en la casilla [8] ‘Resto de rentas’.","Congratulations, your PR was merged at 26f707d16e71b36049f4383ecbaf7a1c4d2678f6. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4761,[17.0][IMP] l10n_es_atc_mod417: Update JAR to v2.2.1,"TT60489
 
 @Tecnativa @pedrobaeza @sergio-teruel @christian-ramos-tecnativa could you please review this?","> ¿No habría que cambiar el `freeze_time` de los tests para poner 2026?
