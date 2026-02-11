@@ -3505,7 +3505,7 @@ No se han implementado las causas de exención para las facturas exentas.
 Documento de validaciones: 
 https://www.agenciatributaria.es/static_files/AEAT_Desarrolladores/EEDD/IVA/VERI-FACTU/Validaciones_Errores_Veri-Factu.pdf  páginas 11-12
 
-Tambíen habría que revisar la configuración y mapeo de los impuestos para estos casos.",Cierro como ya está el PR en marcha.,cerrar pr marcha,"{'cerrar': 0.7247, 'pr': 0.689}",{'cerrar pr': 1.0},
+Tambíen habría que revisar la configuración y mapeo de los impuestos para estos casos.",Cierro como ya está el PR en marcha.,cerrar pr marcha,"{'cerrar': 0.7247, 'pr': 0.689}",{'cerrar pr': 1.0},1.0
 Issue,4421,[16.0] l10n_es_verifactu_oca: Anulación de Facturas,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
