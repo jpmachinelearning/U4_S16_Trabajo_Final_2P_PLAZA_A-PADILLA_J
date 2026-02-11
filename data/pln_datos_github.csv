@@ -17497,7 +17497,7 @@ Pull Request,4698,[17.0][FIX] l10n_es_atc_mod4*: Freeze time in tests for avoidi
 
 It seems the ATC libraries are still not prepared for 2026, so let's freeze for now the tests on 2025. When they switch, we will probably need to reset this.
 
-@Tecnativa","Congratulations, your PR was merged at 6bfe0a426fc873ec61a9d984076344c81c3a6bfe. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa","Congratulations, your PR was merged at 6bfe0a426fc873ec61a9d984076344c81c3a6bfe. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4697,[17.0][FIX] l10n_es_pos_sii: Send date visibility,"Backport of #4693 
 
 To know when it's going to be sent, and to be able to send it now.
