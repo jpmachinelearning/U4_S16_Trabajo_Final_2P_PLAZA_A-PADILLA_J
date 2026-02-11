@@ -19128,7 +19128,7 @@ La “modernización” rompió la cadena segura de Promise original, provocando
 **Resultado:** desaparecen los errores de ejecución, todos los fallos son visibles para el cajero y los pedidos sin TicketBAI firmado válido quedan correctamente bloqueados. El comportamiento vuelve a ser idéntico a la versión estable de Odoo 15, manteniendo la sintaxis moderna con async/await.
 
 
-@BinhexTeam T17055","Congratulations, your PR was merged at 9587712879dbcb63e709f541cb515964709fea74. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+@BinhexTeam T17055","Congratulations, your PR was merged at 9587712879dbcb63e709f541cb515964709fea74. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4608,[16.0][FIX] l10n_es_igic_verifactu_oca: Mapeos impuestos IGIC a las nuevas claves de Exención,"Corregido los mapeos de impuestos del IGIC en las nuevas claves de exención de VERI*FACTU según #4499 . 
 
 ### Nota legal y de cumplimiento
