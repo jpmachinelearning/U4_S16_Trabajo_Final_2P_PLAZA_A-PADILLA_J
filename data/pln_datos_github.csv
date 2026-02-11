@@ -17104,7 +17104,7 @@ Pull Request,4731,[18.0][IMP] payment_redsys: Define a specific string for the r
 
 Please @pedrobaeza can you review it?
 
-@Tecnativa","Congratulations, your PR was merged at 6aedd2a4047a29fb9b247fef4a245df469dacf25. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa","Congratulations, your PR was merged at 6aedd2a4047a29fb9b247fef4a245df469dacf25. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4730,[15.0][FIX] l10n_es_verifactu_oca: Fix test test_create_send_activity,"Fix donde reordenamos el código para:
 
 1. Primero postear la factura → `action_post()`
