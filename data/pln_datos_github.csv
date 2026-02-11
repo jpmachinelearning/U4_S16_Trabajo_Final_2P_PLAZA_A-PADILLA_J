@@ -12850,7 +12850,7 @@ Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata
 
 @pedrobaeza Hace unos meses participaste en el hilo. Qué opinas? Nuestra idea es hacer algo genérico y sostenible en la localización, para no tenerlo en un custom.
 
-Gracias.",y que haremos con los casos raros como el IVA de Bienes de inversión?,hacer caso raro iva bien inversión,"{'hacer': 0.3259, 'caso': 0.2648, 'iva': 0.3194, 'bien': 0.4787, 'inversión': 0.5026, 'raro': 0.4898}","{'bien inversión': 0.6915, 'hacer caso': 0.7224}",
+Gracias.",y que haremos con los casos raros como el IVA de Bienes de inversión?,hacer caso raro iva bien inversión,"{'hacer': 0.3259, 'caso': 0.2648, 'iva': 0.3194, 'bien': 0.4787, 'inversión': 0.5026, 'raro': 0.4898}","{'bien inversión': 0.6915, 'hacer caso': 0.7224}",1.0
 Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata Especial de IVA),"**Contexto:**
 
 - Trabajamos con nuestra Compañía 1
