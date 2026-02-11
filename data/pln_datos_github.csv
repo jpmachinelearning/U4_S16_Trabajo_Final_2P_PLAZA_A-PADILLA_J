@@ -210,7 +210,7 @@ odoo-1        |     vat_book_line[""base_amount""] += res[tax][""base""]
 odoo-1        | KeyError: account.tax(157,)
 ```
 
-As can see, the system tries to search for the tax grouped by the tax breakdowns. Something at this point has not been changed correctly in the commit.",@pedrobaeza Podéis echarle un ojo? O proponemos parche directamente?,pedrobaeza poder echar él ojo proponer parche directamente,,,
+As can see, the system tries to search for the tax grouped by the tax breakdowns. Something at this point has not been changed correctly in the commit.",@pedrobaeza Podéis echarle un ojo? O proponemos parche directamente?,pedrobaeza poder echar él ojo proponer parche directamente,,,0.0
 Issue,4652,[17.0][‎‎l10n_es_vat_book] DUA grouped tax error,"The VAT book calculation gives an error when grouped taxes are used.
 
 ## Module
