@@ -9525,7 +9525,7 @@ Este problema afecta la correcta declaración de impuestos a la Agencia Tributar
 
 MT-8100 @moduon
 
-",@fcvalgar es correcto. El libro de IVA no se ha actualizado conforme a los nuevos impuestos.,fcvalgar correcto libro iva actualizar conforme impuesto,"{'impuesto': 0.2668, 'iva': 0.2908, 'libro': 0.388, 'conforme': 0.4883, 'actualizar': 0.3523, 'correcto': 0.3046, 'fcvalgar': 0.4883}",{'libro iva': 1.0},
+",@fcvalgar es correcto. El libro de IVA no se ha actualizado conforme a los nuevos impuestos.,fcvalgar correcto libro iva actualizar conforme impuesto,"{'impuesto': 0.2668, 'iva': 0.2908, 'libro': 0.388, 'conforme': 0.4883, 'actualizar': 0.3523, 'correcto': 0.3046, 'fcvalgar': 0.4883}",{'libro iva': 1.0},1.0
 Issue,3812,[16] vat_book: Impuestos temporales no incluidos en mapeo,"Módulo
 l10n_es_vat_book
 
