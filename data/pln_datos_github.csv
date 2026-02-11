@@ -4185,7 +4185,7 @@ account_to_be_credited: Cuenta bancaria de la entidad cesionaria.
 
 Quedo atento a tu respuesta.
 
-Saludos.",Para esto lo correcto es hacer un modulo que extienda la funcionalidad. Obviamente se puede hacer en la OCA y lo revisaremos cuando se publique,correcto modulo extender funcionalidad obviamente oca revisar publicar,"{'oca': 0.3124, 'funcionalidad': 0.3875, 'revisar': 0.2853, 'modulo': 0.3875, 'correcto': 0.2959, 'obviamente': 0.4331, 'publicar': 0.4956}",{},
+Saludos.",Para esto lo correcto es hacer un modulo que extienda la funcionalidad. Obviamente se puede hacer en la OCA y lo revisaremos cuando se publique,correcto modulo extender funcionalidad obviamente oca revisar publicar,"{'oca': 0.3124, 'funcionalidad': 0.3875, 'revisar': 0.2853, 'modulo': 0.3875, 'correcto': 0.2959, 'obviamente': 0.4331, 'publicar': 0.4956}",{},1.0
 Issue,4385,l10n_es_facturae: Agregar factoring,"**Is your feature request related to a problem?**
 No de forma directa, pero actualmente el archivo Facturae generado no contempla la posibilidad de incluir información sobre factoring (cesión de facturas), lo que limita su uso en operaciones financieras habituales.
 
