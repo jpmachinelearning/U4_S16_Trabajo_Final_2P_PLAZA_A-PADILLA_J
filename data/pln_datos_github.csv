@@ -2601,7 +2601,7 @@ Buenas, a la hora de instalar el módulo me da error que no existe l10n_es_igic.
 
 
 ","Prueba en el [runboat de 16.0 de OCA/l10n-spain](https://runboat.odoo-community.org/builds?repo=OCA/l10n-spain&target_branch=16.0) si eres capaz de reproducir el problema.
-",prueba runboat oca l10n-spain repo oca l10n-spain&target_branch capaz reproducir problema,"{'problema': 0.1427, 'reproducir': 0.25, 'oca': 0.3689, 'prueba': 0.2079, 'runboat': 0.2361, 'l10n': 0.5115, 'spain': 0.5115, 'repo': 0.2704, 'capaz': 0.2927}","{'oca l10n': 0.7444, 'l10n spain': 0.6677}",
+",prueba runboat oca l10n-spain repo oca l10n-spain&target_branch capaz reproducir problema,"{'problema': 0.1427, 'reproducir': 0.25, 'oca': 0.3689, 'prueba': 0.2079, 'runboat': 0.2361, 'l10n': 0.5115, 'spain': 0.5115, 'repo': 0.2704, 'capaz': 0.2927}","{'oca l10n': 0.7444, 'l10n spain': 0.6677}",-1.0
 Issue,4534,[16.0] ln_es_igic_verifactu_oca - l10n_es_igic," ln_es_igic_verifactu_oca 
 Buenas, a la hora de instalar el módulo me da error que no existe l10n_es_igic.account_tax_template_igic_r_5, no se si alguno más, se queda ahí. El módulo instalado de IGIC  ""name"": ""IGIC (Impuesto General Indirecto Canario"",
     ""version"": ""16.0.1.4.0"", veo en los archivos DATA los impuestos, pero en el Odoo no veo los de 5%.
