@@ -2582,7 +2582,7 @@ mil gracias de nuevo ",pedro arte magia funcionar perfecto mil gracias,"{'gracia
 Issue,4586,"Vale, creo que lo he entendido.","Vale, creo que lo he entendido.
 Quedo entonces a la espera de que revisen el PR para su aprobación, y sobre todo daros las gracias a todos los que estáis haciendo esta implementación porque es un currazo
 
-_Originally posted by @andresdrew33 in https://github.com/OCA/l10n-spain/discussions/4578#discussioncomment-14958924_",Cierro porque ya se está tratando en el PR y esto añade ruido.,cerrar tratar pr añadir ruido,"{'tratar': 0.4553, 'cerrar': 0.3767, 'añadir': 0.3923, 'pr': 0.3581, 'ruido': 0.6072}","{'cerrar tratar': 0.7071, 'pr añadir': 0.7071}",
+_Originally posted by @andresdrew33 in https://github.com/OCA/l10n-spain/discussions/4578#discussioncomment-14958924_",Cierro porque ya se está tratando en el PR y esto añade ruido.,cerrar tratar pr añadir ruido,"{'tratar': 0.4553, 'cerrar': 0.3767, 'añadir': 0.3923, 'pr': 0.3581, 'ruido': 0.6072}","{'cerrar tratar': 0.7071, 'pr añadir': 0.7071}",-1.0
 Issue,4534,[16.0] ln_es_igic_verifactu_oca - l10n_es_igic," ln_es_igic_verifactu_oca 
 Buenas, a la hora de instalar el módulo me da error que no existe l10n_es_igic.account_tax_template_igic_r_5, no se si alguno más, se queda ahí. El módulo instalado de IGIC  ""name"": ""IGIC (Impuesto General Indirecto Canario"",
     ""version"": ""16.0.1.4.0"", veo en los archivos DATA los impuestos, pero en el Odoo no veo los de 5%.
