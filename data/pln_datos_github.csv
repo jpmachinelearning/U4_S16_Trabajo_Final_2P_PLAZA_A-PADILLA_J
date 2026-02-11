@@ -3491,7 +3491,7 @@ Gracias,
 Issue,4424,[16.0] l10n_es_verifactu_oca: Impuestos OSS,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
-Habría que crear un nuevo módulo para mapear los impuestos de OSS","Edit: no sé por qué he leído SII. Efectivamente, habría que hacer el equivalente al del SII para OSS.",edit leer sii efectivamente haber equivalente sii oss,"{'haber': 0.2779, 'sii': 0.5306, 'efectivamente': 0.3414, 'leer': 0.4301, 'equivalente': 0.4068, 'oss': 0.4175}",{},
+Habría que crear un nuevo módulo para mapear los impuestos de OSS","Edit: no sé por qué he leído SII. Efectivamente, habría que hacer el equivalente al del SII para OSS.",edit leer sii efectivamente haber equivalente sii oss,"{'haber': 0.2779, 'sii': 0.5306, 'efectivamente': 0.3414, 'leer': 0.4301, 'equivalente': 0.4068, 'oss': 0.4175}",{},1.0
 Issue,4423,[16.0] l10n_es_verifactu_oca: Facturas exentas y causa de exención,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
