@@ -6996,7 +6996,7 @@ La actualización incorporará:
 - Tabla de correspondencia entre CNAE 2009 y 2025.
 ","Exel oficial de equivalencias
 
-https://www.ine.es/daco/daco42/clasificaciones/cnae25/Correspondencia_CNAE25_CNAE09.xlsx",exel oficial equivalencia .xlsx,"{'oficial': 0.584, 'xlsx': 0.584, 'equivalencia': 0.5638}",{},
+https://www.ine.es/daco/daco42/clasificaciones/cnae25/Correspondencia_CNAE25_CNAE09.xlsx",exel oficial equivalencia .xlsx,"{'oficial': 0.584, 'xlsx': 0.584, 'equivalencia': 0.5638}",{},0.0
 Issue,4185,[17.0] l10n_es_aeat_mod303 Error en laz casillaz 74 y 62 del mapeo.,"Buenos días!
 
 Revisando el mapeo del modelo 303, me he dado cuenta de que la casilla 74 ""Importe de las adquisiciones de bienes y servicios a las que sea de aplicación o afecte el régimen especial del criterio de caja conforme a la ley general de devengo contenida en el artículo 75 de LIVA - Base imponible"" tiene un error en el campo ""Tipo de campo"" (field_type). Por la naturaleza de la casilla, debería ser de tipo ""Base"". Sin embargo, es del tipo ""Importe"", igual que la casilla 75 (donde esa configuración si que es correcta), por lo que cuando se usa el criterio de caja, las 2 casillas van a mostrar la misma información:
