@@ -8241,7 +8241,7 @@ Las facturas del POS no tienen el mecanismo para cancelar el envío y recrearlo 
 Pero parece que no se ha aportado ninguna solución por el momento.
 
 Alguna novedad @xabispacebiker @omar7r  
-",acabar bug registrar aportar solución momento novedad xabispacebiker omar7r,"{'solución': 0.2777, 'bug': 0.3283, 'registrar': 0.3543, 'momento': 0.2905, 'acabar': 0.3375, 'aportar': 0.3871, 'novedad': 0.4132, 'omar7r': 0.4132}",{},
+",acabar bug registrar aportar solución momento novedad xabispacebiker omar7r,"{'solución': 0.2777, 'bug': 0.3283, 'registrar': 0.3543, 'momento': 0.2905, 'acabar': 0.3375, 'aportar': 0.3871, 'novedad': 0.4132, 'omar7r': 0.4132}",{},0.0
 Issue,3984,[14.0] l10n_es_ticketbai_pos B4_2000003:(ES): Registro duplicado,"Este comportamiento esta comprobado en la versiones 14.0 y 15.0
 
 ## Modulo
