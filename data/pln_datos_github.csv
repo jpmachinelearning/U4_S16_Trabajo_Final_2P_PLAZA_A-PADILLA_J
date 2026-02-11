@@ -17511,7 +17511,7 @@ TT60063","Congratulations, your PR was merged at 268afce573c36a58d9393e905fd4b6d
 Pull Request,4695,[18.0][FIX] l10n_es_atc_mod420: Update maintainers,@Tecnativa ,"Congratulations, your PR was merged at c8d89ad439e6793fa8618dd76710b08e80b6b962. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4694,[18.0][FIX] l10n_es_atc_mod420: Freeze time in tests for avoiding 2026 problem,"It seems the ATC libraries are still not prepared for 2026, so let's freeze for now the tests on 2025. When they switch, we will probably need to reset this.
 
-@Tecnativa ","Congratulations, your PR was merged at 5f07ac229231c2d309f7071dad13e1dd21392792. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at 5f07ac229231c2d309f7071dad13e1dd21392792. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4693,[18.0][FIX] l10n_es_pos_sii: Send date visibility,"To know when it's going to be sent, and to be able to send it now.
 
 @Tecnativa ","Congratulations, your PR was merged at ac3d26175131d56d9e2436a571016dbb6a102227. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
