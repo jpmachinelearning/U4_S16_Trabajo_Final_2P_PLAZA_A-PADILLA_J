@@ -5668,7 +5668,7 @@ Personalmente se me ocurren 3 opciones:
 2. Crear de nuevo unos modelos sencillos dentro de FACe. Al no tener e.Fact, la cosa es mucho más sencilla ahora, aunque implicará hacer algo ""parecido"" pero mucho más simplificado a lo hecho por el framework
 3. Seguir con el framework de OCA
 
-¿Cual es vuestra opinión?","En eso estoy de acuerdo @pedrobaeza De todas formas, el problema no es el edi-framework, es todo lo que lleva incorporado (queue job, connector....) que tiene una arquitectura demasiado compleja 😢 ",pedrobaeza forma problema edi-framework incorporado queue job connector arquitectura complejo cara llorar,"{'problema': 0.1962, 'pedrobaeza': 0.2008, 'cara': 0.2732, 'arquitectura': 0.3853, 'forma': 0.2489, 'framework': 0.3367, 'edi': 0.3304, 'complejo': 0.3367, 'queue': 0.3719, 'job': 0.4025}",{'edi framework': 1.0},
+¿Cual es vuestra opinión?","En eso estoy de acuerdo @pedrobaeza De todas formas, el problema no es el edi-framework, es todo lo que lleva incorporado (queue job, connector....) que tiene una arquitectura demasiado compleja 😢 ",pedrobaeza forma problema edi-framework incorporado queue job connector arquitectura complejo cara llorar,"{'problema': 0.1962, 'pedrobaeza': 0.2008, 'cara': 0.2732, 'arquitectura': 0.3853, 'forma': 0.2489, 'framework': 0.3367, 'edi': 0.3304, 'complejo': 0.3367, 'queue': 0.3719, 'job': 0.4025}",{'edi framework': 1.0},-1.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
