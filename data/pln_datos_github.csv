@@ -11290,7 +11290,7 @@ La nueva casilla 108, tiene por objeto permitir aquellas rectificaciones para la
 
 La nueva casilla 111 se crea para permitir que, en los casos de solicitudes de devolución, el contribuyente pueda diferenciar las que derivan de la aplicación de la normativa del Impuesto de aquellas que puedan corresponderse con una solicitud de ingresos indebidos teniendo en cuenta el diferente régimen de unas y otras devoluciones.","REABRO porque tenemos errores. Creo que no están implementsdos todos los cambios. Estoy viendo que se puso en Known issues 
 
-@Shide ",reabro error implementsdo cambio ver poner known issues shide,"{'error': 0.2487, 'cambio': 0.2866, 'poner': 0.2839, 'ver': 0.2717, 'issues': 0.4836, 'reabro': 0.4836, 'shide': 0.4836}",{},
+@Shide ",reabro error implementsdo cambio ver poner known issues shide,"{'error': 0.2487, 'cambio': 0.2866, 'poner': 0.2839, 'ver': 0.2717, 'issues': 0.4836, 'reabro': 0.4836, 'shide': 0.4836}",{},1.0
 Issue,3703,Actualizar el Modelo 303 casillas 108 y 111 (Orden HAC/819/2024 de España),"Esta issue Tiene un impacto específico en empresas que se benefician de la aplicación de tipos impositivos reducidos en la entrega de alimentos. 
 
 ### Descripción:
