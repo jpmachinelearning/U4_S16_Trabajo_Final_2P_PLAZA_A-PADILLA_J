@@ -4704,7 +4704,7 @@ Disculpa, pero si el software es Odoo, hay que poner lo que indica la declaraci�
 ¿Será que cada partner deberá hacer una declaración responsable y darse de alta en la AEAT?
 
 Gracias de antemano por la ayuda.
-",pedro disculpa software odoo indicar declaración responsable odoo haber desarrollador módulo adjunto captura,"{'odoo': 0.3617, 'módulo': 0.1616, 'software': 0.3022, 'haber': 0.2157, 'disculpa': 0.3085, 'responsable': 0.3085, 'pedro': 0.2517, 'desarrollador': 0.3157, 'indicar': 0.2393, 'declaración': 0.2649, 'adjunto': 0.3457, 'captura': 0.3239}","{'declaración responsable': 0.547, 'odoo haber': 0.592, 'adjunto captura': 0.592}",
+",pedro disculpa software odoo indicar declaración responsable odoo haber desarrollador módulo adjunto captura,"{'odoo': 0.3617, 'módulo': 0.1616, 'software': 0.3022, 'haber': 0.2157, 'disculpa': 0.3085, 'responsable': 0.3085, 'pedro': 0.2517, 'desarrollador': 0.3157, 'indicar': 0.2393, 'declaración': 0.2649, 'adjunto': 0.3457, 'captura': 0.3239}","{'declaración responsable': 0.547, 'odoo haber': 0.592, 'adjunto captura': 0.592}",-1.0
 Issue,4374,[16.0] [FIX] l10n_es_verifactu_oca Error 1100 en el envío de facturas,"****Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created **
 
