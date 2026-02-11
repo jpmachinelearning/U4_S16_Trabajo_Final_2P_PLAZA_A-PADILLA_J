@@ -19074,7 +19074,7 @@ Installing both causes a validation error that blocks the registry load.
 <img width=""1143"" height=""171"" alt=""image"" src=""https://github.com/user-attachments/assets/3c7f0533-6c73-439e-b77a-eb3724129f79"" />
 ","> En lugar de esto, simplemente pon en la clave `excludes` el otro módulo y deja que Odoo ya haga esta comprobación.
 
-Okay! Es verdad, mucho mas simple :sweat_smile: ",lugar simplemente pon clave excludes módulo dejar odoo hacer comprobación simple sweat_smile,"{'odoo': 0.2009, 'módulo': 0.1796, 'hacer': 0.2333, 'dejar': 0.2563, 'clave': 0.3185, 'simplemente': 0.2977, 'pon': 0.3427, 'lugar': 0.2823, 'simple': 0.3599, 'comprobación': 0.3599, 'excludes': 0.4013}","{'odoo hacer': 0.3206, 'lugar simplemente': 0.3349, 'simplemente pon': 0.3349, 'pon clave': 0.3349, 'clave excludes': 0.3349, 'excludes módulo': 0.3349, 'módulo dejar': 0.3349, 'dejar odoo': 0.3349, 'hacer comprobación': 0.3349}",,,1,Desarrollo
+Okay! Es verdad, mucho mas simple :sweat_smile: ",lugar simplemente pon clave excludes módulo dejar odoo hacer comprobación simple sweat_smile,"{'odoo': 0.2009, 'módulo': 0.1796, 'hacer': 0.2333, 'dejar': 0.2563, 'clave': 0.3185, 'simplemente': 0.2977, 'pon': 0.3427, 'lugar': 0.2823, 'simple': 0.3599, 'comprobación': 0.3599, 'excludes': 0.4013}","{'odoo hacer': 0.3206, 'lugar simplemente': 0.3349, 'simplemente pon': 0.3349, 'pon clave': 0.3349, 'clave excludes': 0.3349, 'excludes módulo': 0.3349, 'módulo dejar': 0.3349, 'dejar odoo': 0.3349, 'hacer comprobación': 0.3349}",0.0,,1,Desarrollo
 Pull Request,4612,[18.0][IMP] l10n_es_verifactu_oca: Add conflict check for account_journal_restrict_mode,"Add a check to prevent conflicts with the module `account_journal_restrict_mode`.
 
 **The issue:**
