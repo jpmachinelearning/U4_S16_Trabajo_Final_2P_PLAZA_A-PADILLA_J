@@ -18547,7 +18547,7 @@ Cuando esté fusionado en 18.0 lo llevo a 17.0
 
 MT-13024 @moduon","> Añade por favor en los tests dicho impuesto para verificar las casillas - que cambiarán -, y así detectar si en el futuro cambian los XML-IDs, que salte el error.
 
-Hecho. Gracias.",añadir favor test impuesto verificar casilla cambiar detectar futuro cambiar xml-id saltar error gracias,"{'error': 0.1713, 'gracias': 0.1864, 'impuesto': 0.182, 'añadir': 0.2152, 'favor': 0.2223, 'casilla': 0.2425, 'cambiar': 0.4046, 'detectar': 0.2762, 'id': 0.3041, 'xml': 0.2682, 'saltar': 0.2762, 'test': 0.2305, 'futuro': 0.3215, 'verificar': 0.3331}","{'saltar error': 0.4598, 'cambiar xml': 0.5127, 'xml id': 0.5127, 'futuro cambiar': 0.5127}",,,,
+Hecho. Gracias.",añadir favor test impuesto verificar casilla cambiar detectar futuro cambiar xml-id saltar error gracias,"{'error': 0.1713, 'gracias': 0.1864, 'impuesto': 0.182, 'añadir': 0.2152, 'favor': 0.2223, 'casilla': 0.2425, 'cambiar': 0.4046, 'detectar': 0.2762, 'id': 0.3041, 'xml': 0.2682, 'saltar': 0.2762, 'test': 0.2305, 'futuro': 0.3215, 'verificar': 0.3331}","{'saltar error': 0.4598, 'cambiar xml': 0.5127, 'xml id': 0.5127, 'futuro cambiar': 0.5127}",-1.0,,,
 Pull Request,4669,[18.0][IMP] l10n_es_aeat_mod190: Add account_tax_template_p_irpf24 to tax mapping,"Add ""24% Ret IRPF"" to tax mapping for field numbers 15 and 16.
 
 Cuando esté fusionado en 18.0 lo llevo a 17.0
