@@ -2797,7 +2797,7 @@ Línea 280: Element 'RegulatoryReportingData': [facet 'length'] The value has a 
 Línea 280: Element 'RegulatoryReportingData': '' is not a valid value of the atomic type '{http://www.facturae.gob.es/formato/Versiones/Facturaev3_2_2.xml}RegulatoryReportingDataType'.
 
 A alguien le ha pasado esto??
-Tengo que emitir facturas a administración pública y sin este módulo no puedo hacerlo.",Yo hice una factura hace una semana con el módulo y lo subí a FACe sin tener ningún problema. ¿Por qué no la subes directamente a ver?,hacer factura semana módulo subir face problema subir directamente,"{'problema': 0.2193, 'módulo': 0.2013, 'hacer': 0.2615, 'directamente': 0.3165, 'factura': 0.2158, 'subir': 0.6213, 'face': 0.3842, 'semana': 0.4034}",{'subir face': 1.0},
+Tengo que emitir facturas a administración pública y sin este módulo no puedo hacerlo.",Yo hice una factura hace una semana con el módulo y lo subí a FACe sin tener ningún problema. ¿Por qué no la subes directamente a ver?,hacer factura semana módulo subir face problema subir directamente,"{'problema': 0.2193, 'módulo': 0.2013, 'hacer': 0.2615, 'directamente': 0.3165, 'factura': 0.2158, 'subir': 0.6213, 'face': 0.3842, 'semana': 0.4034}",{'subir face': 1.0},-1.0
 Issue,4489,Error al crear facturas face. xml incorrecto,"## Module
 l10n_es_facturae
 versión odoo 18
