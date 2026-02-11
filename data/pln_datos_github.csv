@@ -17020,7 +17020,7 @@ Pull Request,4744,[15.0][IMP] l10n_es_aeat_mod390: 2025 BOE export format,"Backp
 
 Updated according https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_25/dr390e2025.xlsx
 
-@Tecnativa ","Congratulations, your PR was merged at d0c1b0c0a53259c576191e91e5d8fc52b4aa34a3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at d0c1b0c0a53259c576191e91e5d8fc52b4aa34a3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4742,[16.0][IMP] l10n_es_vat_book: update vat book format + added IRPF,"Backport https://github.com/OCA/l10n-spain/pull/4709
 cc @Tecnativa
 ping @sergio-teruel @carlosdauden @pedrobaeza
