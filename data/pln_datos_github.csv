@@ -12481,7 +12481,7 @@ Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata
 
 Gracias.","Gracias Pedro,
 
-Perfecto, a ver si Enric puede corroborar la idoneidad del cambio.",gracia pedro perfecto enric corroborar idoneidad cambio,"{'cambio': 0.295, 'gracia': 0.295, 'pedro': 0.3625, 'perfecto': 0.4545, 'enric': 0.4664, 'idoneidad': 0.5201}",{'gracia pedro': 1.0},
+Perfecto, a ver si Enric puede corroborar la idoneidad del cambio.",gracia pedro perfecto enric corroborar idoneidad cambio,"{'cambio': 0.295, 'gracia': 0.295, 'pedro': 0.3625, 'perfecto': 0.4545, 'enric': 0.4664, 'idoneidad': 0.5201}",{'gracia pedro': 1.0},1.0
 Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata Especial de IVA),"**Contexto:**
 
 - Trabajamos con nuestra Compañía 1
