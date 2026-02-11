@@ -8536,7 +8536,7 @@ Normativa AEAT (Página 65): https://sede.agenciatributaria.gob.es/static_files
 
 
 
-","Hola, efectivamente no está cubierto. He anotado la falta para que conste en https://github.com/OCA/l10n-spain/commit/5c46443507ba3da27ae3e1158894df1a651312e8, pero a no ser que contribuyáis vosotros con esa mejora, no está previsto incluirlo, así que cierro.",hola efectivamente cubierto,"{'hola': 0.4268, 'efectivamente': 0.5892, 'cubierto': 0.6861}",{},
+","Hola, efectivamente no está cubierto. He anotado la falta para que conste en https://github.com/OCA/l10n-spain/commit/5c46443507ba3da27ae3e1158894df1a651312e8, pero a no ser que contribuyáis vosotros con esa mejora, no está previsto incluirlo, así que cierro.",hola efectivamente cubierto,"{'hola': 0.4268, 'efectivamente': 0.5892, 'cubierto': 0.6861}",{},1.0
 Issue,3896,Error en MOD 111 ODOO 17 de AEAT al crear archivo de exportación para subirlo a la web de AEAT por lotes,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
