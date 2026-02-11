@@ -16923,7 +16923,7 @@ BEFORE:
 AFTER:
 
 <img width=""791"" height=""152"" alt=""image"" src=""https://github.com/user-attachments/assets/d945999a-de73-45a3-b50e-9b1ff75cb0f8"" />
-",@pedrobaeza Puedes revisar el pr y si esta correcto le puedes dar el aprobado para que se fusione lo antes posible,pedrobaeza poder revisar pr correcto poder aprobado fusionar,"{'poder': 0.5929, 'pedrobaeza': 0.2955, 'pr': 0.3343, 'revisar': 0.3408, 'correcto': 0.3535, 'fusionar': 0.4564}","{'pedrobaeza poder': 0.5509, 'poder revisar': 0.5295, 'correcto poder': 0.6451}",
+",@pedrobaeza Puedes revisar el pr y si esta correcto le puedes dar el aprobado para que se fusione lo antes posible,pedrobaeza poder revisar pr correcto poder aprobado fusionar,"{'poder': 0.5929, 'pedrobaeza': 0.2955, 'pr': 0.3343, 'revisar': 0.3408, 'correcto': 0.3535, 'fusionar': 0.4564}","{'pedrobaeza poder': 0.5509, 'poder revisar': 0.5295, 'correcto poder': 0.6451}",1.0
 Pull Request,4755,[18.0][FIX] l10n_es_aeat_mod347: Fix report style,"- The style of the report had to be modified because if the 'col-3' tag was added to the style, the 'Amount 4Q' option was removed from the report and it was impossible to understand what it said, so it has been changed to 'col-2'
 
 BEFORE:
