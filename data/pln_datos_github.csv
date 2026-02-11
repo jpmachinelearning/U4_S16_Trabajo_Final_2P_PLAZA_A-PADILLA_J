@@ -11565,7 +11565,7 @@ No sé si es un bug.
 
 Gracias.
 
-",Prueba a subirlo en formato p12.,prueba subir él formato p12,"{'él': 0.2479, 'subir': 0.4297, 'prueba': 0.4421, 'formato': 0.4513, 'p12': 0.5956}","{'subir él': 0.6677, 'formato p12': 0.7444}",
+",Prueba a subirlo en formato p12.,prueba subir él formato p12,"{'él': 0.2479, 'subir': 0.4297, 'prueba': 0.4421, 'formato': 0.4513, 'p12': 0.5956}","{'subir él': 0.6677, 'formato p12': 0.7444}",1.0
 Issue,3698,Fallo carga certificado AEAT,"**1.- Contexto:**
 Odoo 16 corriendo en Docker.
 **2.- Prueba**
