@@ -11671,7 +11671,7 @@ En la descripción de la aplicación en Odoo comenta que si hay mas de una base 
 Pero como se puede aplicar esto en Odoo.sh
 Hoy todas las transaciones que se pasan por Redsys no se confirman en Odoo porque no recibe el ok de transacción
 ![image](https://github.com/user-attachments/assets/c072561e-718e-4264-8ae4-9e284d738431)
-","Hola, en mi caso el problema estaba con otro modulo de pagos (Klarna) que capturaba todos los token de pago y no devolvia el estado de la transaccion al modulo de Redsys, corrgiendo esto se solucionó el problema.",hola caso problema modulo pago klarna capturar token pago devolvia transaccion modulo redsys corrgeir solucionar problema,"{'problema': 0.325, 'caso': 0.1575, 'hola': 0.1771, 'solucionar': 0.2535, 'modulo': 0.5213, 'pago': 0.5378, 'capturar': 0.3191, 'redsys': 0.3334}","{'solucionar problema': 0.7345, 'caso problema': 0.6786}",
+","Hola, en mi caso el problema estaba con otro modulo de pagos (Klarna) que capturaba todos los token de pago y no devolvia el estado de la transaccion al modulo de Redsys, corrgiendo esto se solucionó el problema.",hola caso problema modulo pago klarna capturar token pago devolvia transaccion modulo redsys corrgeir solucionar problema,"{'problema': 0.325, 'caso': 0.1575, 'hola': 0.1771, 'solucionar': 0.2535, 'modulo': 0.5213, 'pago': 0.5378, 'capturar': 0.3191, 'redsys': 0.3334}","{'solucionar problema': 0.7345, 'caso problema': 0.6786}",1.0
 Issue,3689,[16] [l10n_es_aeat] Pestaña AEAT visible en dirección privada,"## Module
 l10n_es_aeat
 
