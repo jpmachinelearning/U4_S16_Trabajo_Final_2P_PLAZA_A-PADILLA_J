@@ -6203,7 +6203,7 @@ Por lo que hemos podido analizar, el envío actual utiliza el mismo prefijo tant
 Issue,4286,Sii Grecia,"Hola, en una 17 al enviar factura de un cliente Griego al sii devuelve con el 1104 valor del campo ID incorrecto hasta que he cambiado el código del país de GR a EL, cosa que luego gereraria otros errores?
 
 alguien mas tiene esto?
-saludos",Esto se solucionó en #4753 y #4754,solucionar,{'solucionar': 1.0},{},
+saludos",Esto se solucionó en #4753 y #4754,solucionar,{'solucionar': 1.0},{},1.0
 Issue,4272,Verifactu,"¿Sabemos si ya hay algún modulo o está previsto hacer alguno para integrar Verifactu en odoo 17? el 1 de enero ya es obligatorio y deberíamos poder comenzar a realizar pruebas.
 
 Recordad que también para los tickets de tpv/pos
