@@ -18749,7 +18749,7 @@ Pull Request,4656,[18.0][MIG] l10n_es_pos_sii: Migration to version 18.0,"Migrac
 Pull Request,4656,[18.0][MIG] l10n_es_pos_sii: Migration to version 18.0,"Migración estándar, a partir de https://github.com/OCA/l10n-spain/pull/4450
 @Tecnativa TT59666","Parece que el CI está caído por la imagen de postgres, en un rato lo vuelvo a lanzar",ci caer imagen postgr rato volver lanzar,"{'volver': 0.2975, 'imagen': 0.4332, 'ci': 0.3865, 'postgr': 0.4526, 'lanzar': 0.4059, 'rato': 0.4526}",{'volver lanzar': 1.0},-1.0,,,
 Pull Request,4656,[18.0][MIG] l10n_es_pos_sii: Migration to version 18.0,"Migración estándar, a partir de https://github.com/OCA/l10n-spain/pull/4450
-@Tecnativa TT59666","Congratulations, your PR was merged at 68807f45a87a317e10d271b0e1b783ed470f4b65. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+@Tecnativa TT59666","Congratulations, your PR was merged at 68807f45a87a317e10d271b0e1b783ed470f4b65. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4655,[18.0][IMP] l10n_es_verifactu_oca: Invoice cancellation,"Forward-port de #4548 y #4636
 
 - Permite la anulación de facturas en verifactu, con la posibilidad de indicar un motivo opcional de cancelación a nivel interno.
