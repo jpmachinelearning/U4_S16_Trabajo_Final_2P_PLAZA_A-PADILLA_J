@@ -3406,7 +3406,7 @@ if prorate_line:
 
 Quedo atento a tus comentarios.
 
-¡Gracias y un saludo!",Cubierto con #4565,cubierto,{'cubierto': 1.0},{},
+¡Gracias y un saludo!",Cubierto con #4565,cubierto,{'cubierto': 1.0},{},1.0
 Issue,4457,[12.0] Error al actualizar el módulo l10n_es_aeat_mod303 a la última versión,"Buenos días,
 
 Estoy actualizando toda mi bbdd con openupgrade de la versión actual en producción v12 a la última versión disponible que hay de la v12, para así poder ir pasando de versiones con openupgrade.
