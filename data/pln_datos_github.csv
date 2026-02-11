@@ -6175,7 +6175,7 @@ Issue,4291,[16] l10n_es_ticketbai_pos: Ticketbai no construida aun.,"Se ha gener
 
 ![Image](https://github.com/user-attachments/assets/bbfc13bc-0186-4c18-b243-19ef62d4ae5b)
 
-También hemos comprobado que no hay forma de enviar una factura simplificada sin identificación, cuando no deberia de ser imprescindible el NIF en las facturas simplificadas no?",@Joaco1980 ¿podremos cerrar este issue entonces?,joaco1980 poder cerrar issue,"{'poder': 0.3764, 'issue': 0.4769, 'cerrar': 0.4464, 'joaco1980': 0.6569}",{'cerrar issue': 1.0},
+También hemos comprobado que no hay forma de enviar una factura simplificada sin identificación, cuando no deberia de ser imprescindible el NIF en las facturas simplificadas no?",@Joaco1980 ¿podremos cerrar este issue entonces?,joaco1980 poder cerrar issue,"{'poder': 0.3764, 'issue': 0.4769, 'cerrar': 0.4464, 'joaco1980': 0.6569}",{'cerrar issue': 1.0},1.0
 Issue,4286,Sii Grecia,"Hola, en una 17 al enviar factura de un cliente Griego al sii devuelve con el 1104 valor del campo ID incorrecto hasta que he cambiado el código del país de GR a EL, cosa que luego gereraria otros errores?
 
 alguien mas tiene esto?
