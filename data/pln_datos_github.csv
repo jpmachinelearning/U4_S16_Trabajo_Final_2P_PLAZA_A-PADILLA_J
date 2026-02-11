@@ -16339,7 +16339,7 @@ Acorde a https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25390, Artículo 1
 MT-13422 @moduon","Congratulations, your PR was merged at 391a4f5fb86090dd94aed568c95023db035cde68. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4792,[18.0][IMP] l10n_es_aeat_sii_oca: Remove duplicated method _get_sii_out_taxes,"The method `_get_sii_out_taxes` was duplicated both in account.move and sii.mixin (since the mixin extraction), with only a slight difference, that is the method that is called for getting the tax info: `_get_tax_info` in the mixin against `_get_aeat_tax_info` in `accont.move`, so the solution is to override the first one to call the second in `account.move`.
 
-@Tecnativa ","Congratulations, your PR was merged at 835942345db56aefbb77af1f1c43e6e5d94b3990. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at 835942345db56aefbb77af1f1c43e6e5d94b3990. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4791,[18.0] [FWP][IMP] l10n_es_vat_prorate: update prorate data with wizard,"FWP de #4788
 
 - #4788
