@@ -15595,7 +15595,7 @@ odoo.tools.convert.ParseError: while parsing /opt/odoo15dev/oca-github/l10n-spai
         <field name=""facturae_code"">01</field>
     </record>
 
-","Me refería a l10n_es_facturae. Correcto, al actualizar l10n_es sí es posible instalar l10n_es_facturae. Gracias!",referir l10n_es_facturae correcto actualizar l10n_es instalar l10n_es_facturae gracias,"{'gracias': 0.2093, 'actualizar': 0.2698, 'referir': 0.2865, 'instalar': 0.3207, 'correcto': 0.2333, 'l10n_es': 0.3504, 'l10n_es_facturae': 0.722}",{},
+","Me refería a l10n_es_facturae. Correcto, al actualizar l10n_es sí es posible instalar l10n_es_facturae. Gracias!",referir l10n_es_facturae correcto actualizar l10n_es instalar l10n_es_facturae gracias,"{'gracias': 0.2093, 'actualizar': 0.2698, 'referir': 0.2865, 'instalar': 0.3207, 'correcto': 0.2333, 'l10n_es': 0.3504, 'l10n_es_facturae': 0.722}",{},1.0
 Issue,3456,[14.0] l10n_es_dua_ticketbai_batuz: impuestos de servicios extracomunitarios incluídos en mapeo de DUA,"En el l10n_es_dua_ticketbai_batuz se crea un mapeo específico para el DUA, y se incluyen los impuestos lógicos: importaciones de bienes (corrientes y de inversión, es decir 6 impuestos). Pero además se añaden los 3 impuestos de adquisiciones de servicios extracomunitarios, que no deberían verse afectados por el módulo. El [xml](https://github.com/OCA/l10n-spain/blob/c248db0b81015f113050d981086bb0fe1a8a84c8/l10n_es_dua_ticketbai_batuz/data/tax_code_map_dua_ticketbai_data.xml#L17)
 
 Esto hace que cualquier compra de servicios extracomunitarios se considere DUA, y acaba mandando una factura como F5 y con Inversión del Sujeto Pasivo, que es rechazada (código de error B4_2000311:(ES): Inversión sujeto pasivo no puede ser S si Tipo de factura es F5 o LC).
