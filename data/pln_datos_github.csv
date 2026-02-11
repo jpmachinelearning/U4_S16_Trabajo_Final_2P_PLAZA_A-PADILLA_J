@@ -16939,7 +16939,7 @@ Por ejemplo para un NIF con el formato ELnnnnn se devuelve como country_code EL 
 
 @Tecnativa TT60396
 
-ping @carlosdauden @christian-ramos-tecnativa @victoralmau ",Habría que comprobar si esto tiene algún efecto lateral fuera del SII. Creo recordar que el 349 también utiliza esto.,haber comprobar efecto lateral sii recordar utilizar,"{'comprobar': 0.3883, 'utilizar': 0.3122, 'haber': 0.3087, 'sii': 0.2947, 'recordar': 0.3883, 'efecto': 0.4171, 'lateral': 0.4949}",{'efecto lateral': 1.0},
+ping @carlosdauden @christian-ramos-tecnativa @victoralmau ",Habría que comprobar si esto tiene algún efecto lateral fuera del SII. Creo recordar que el 349 también utiliza esto.,haber comprobar efecto lateral sii recordar utilizar,"{'comprobar': 0.3883, 'utilizar': 0.3122, 'haber': 0.3087, 'sii': 0.2947, 'recordar': 0.3883, 'efecto': 0.4171, 'lateral': 0.4949}",{'efecto lateral': 1.0},0.0
 Pull Request,4754,[17.0][FIX] l10n_es_aeat: Take into account mapped country codes when get countr_code from vat prefix,"En este método se extrae el country_code del prefijo del vat pero no se tiene en cuenta el mapeo de algunos vat como el Griego.. 
 Por ejemplo para un NIF con el formato ELnnnnn se devuelve como country_code EL en lugar de GR
 
