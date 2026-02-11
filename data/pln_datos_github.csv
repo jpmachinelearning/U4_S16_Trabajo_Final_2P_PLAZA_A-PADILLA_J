@@ -18916,7 +18916,7 @@ Antes del fix sólo se recogía la casilla 87 del último periodo lo que no reco
 
 @ArantxaSudon revisa por favor.
 
-MT-8899 @moduon","¿@pedrobaeza, @LauraCForgeFlow podéis revisar los cambios por favor?",pedrobaeza lauracforgeflow poder revisar cambio favor,"{'poder': 0.4008, 'cambio': 0.454, 'pedrobaeza': 0.3994, 'favor': 0.5113, 'revisar': 0.4607}",{'poder revisar': 1.0},,,4,Comunidad
+MT-8899 @moduon","¿@pedrobaeza, @LauraCForgeFlow podéis revisar los cambios por favor?",pedrobaeza lauracforgeflow poder revisar cambio favor,"{'poder': 0.4008, 'cambio': 0.454, 'pedrobaeza': 0.3994, 'favor': 0.5113, 'revisar': 0.4607}",{'poder revisar': 1.0},1.0,,4,Comunidad
 Pull Request,4617,[16.0][FIX] l10n_es_aeat_mod390: Calculate casilla 662,"En la casilla 662 se deben incluir las cuotas a compensar generadas en este año que no se hayan aplicado en el año.
 <img width=""612"" height=""73"" alt=""image"" src=""https://github.com/user-attachments/assets/ed061c8b-3cd5-4040-9d21-ca4ec83c6d9b"" />
 https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G412/instr390.pdf
