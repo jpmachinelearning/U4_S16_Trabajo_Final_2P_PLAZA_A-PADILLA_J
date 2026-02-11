@@ -7503,7 +7503,7 @@ Issue,4103,17.0 l10n_es_aeat_mod303: 303_informe_BOE error when import from aeat
 ![Image](https://github.com/user-attachments/assets/93fc6d9d-a6ef-4d27-9d36-b322386d9ed0)
 
 I was testing this system and this module for months in year 24 without problems, today I went to generate the model 303 of year 25 t1 and it generated it without errors and without problems but when importing it from the Spanish Treasury website I got these errors, I suppose there is something that has changed and it will have to be updated.
-It seems that there are new boxes in the model that are not in the Odoo module.","ok gracias sin problemas , hare antes una copia de esta maquina en el proxmox.",ok gracia problema hare copia maquina proxmox,"{'problema': 0.3334, 'gracia': 0.388, 'ok': 0.5202, 'copia': 0.6839}",{'ok gracia': 1.0},
+It seems that there are new boxes in the model that are not in the Odoo module.","ok gracias sin problemas , hare antes una copia de esta maquina en el proxmox.",ok gracia problema hare copia maquina proxmox,"{'problema': 0.3334, 'gracia': 0.388, 'ok': 0.5202, 'copia': 0.6839}",{'ok gracia': 1.0},-1.0
 Issue,4102,[17.0] l10n_es_vat_book: Asientos de ventas por caja sin partner,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
