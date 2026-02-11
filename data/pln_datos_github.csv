@@ -9574,7 +9574,7 @@ Este problema afecta la correcta declaración de impuestos a la Agencia Tributar
 
 MT-8100 @moduon
 
-",@HaraldPanten a ver si mi compañero @edlopen nos puede lanzar un PR para añadir esos mapeos. ,haraldpantar compañero edlopen lanzar pr añadir mapeo,"{'añadir': 0.3843, 'mapeo': 0.4727, 'pr': 0.3509, 'haraldpantar': 0.4416, 'lanzar': 0.5574}","{'añadir mapeo': 0.7071, 'pr añadir': 0.7071}",
+",@HaraldPanten a ver si mi compañero @edlopen nos puede lanzar un PR para añadir esos mapeos. ,haraldpantar compañero edlopen lanzar pr añadir mapeo,"{'añadir': 0.3843, 'mapeo': 0.4727, 'pr': 0.3509, 'haraldpantar': 0.4416, 'lanzar': 0.5574}","{'añadir mapeo': 0.7071, 'pr añadir': 0.7071}",1.0
 Issue,3812,[16] vat_book: Impuestos temporales no incluidos en mapeo,"Módulo
 l10n_es_vat_book
 
