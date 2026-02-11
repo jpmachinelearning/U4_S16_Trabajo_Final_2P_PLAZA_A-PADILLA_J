@@ -17608,7 +17608,7 @@ Pull Request,4684,[16.0][IMP] l10n_es_sigaus_stock_picking_report_valued: Remove
 - Remove the SIGAUS total block.  Now the stock_picking_report_valued module now includes logic to add totals through the `get_report_valued_total_amount method` (OCA/stock-logistics-reporting#457)
 
 [T-9158]
-","Congratulations, your PR was merged at dfb5e3fb2a006eb6a7cd9f36e530ba77a21fcb45. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+","Congratulations, your PR was merged at dfb5e3fb2a006eb6a7cd9f36e530ba77a21fcb45. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4683,[17.0][FIX] l10n_es_atc_mod417: Rectificaciones de compra en la 34 y 35,"Siguiendo el PR https://github.com/OCA/l10n-spain/pull/4454 el modelo 417 debería ser ajustado de igual manera.
 
 @Tecnativa TT59950
