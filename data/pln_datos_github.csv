@@ -15680,7 +15680,7 @@ He visto problemas similares como el #1559 o el #1034 , pero xmlsig esta actuali
 Por ultimo, si genero la factura sin firmarla, la firmo con autofirma y el mismo certificado que esta subido y la compruebo, muestra que el certificado esta correcto.
 
 Muchas gracias. 
-",El mismo problema en Odoo 16.  Comparando el fichero firmado con autofirma y el fichero firmado con Odoo veo que autofirma usa el sha-256 mientras que el que me sale de odoo usa sha1. No sé donde se cambia eso en Odoo.,problema odoo comparar fichero firmado autofirma fichero firmado odoo ver autofirmar sha salir odoo sha1 cambiar odoo,"{'problema': 0.1393, 'odoo': 0.5723, 'fichero': 0.4291, 'ver': 0.1537, 'firmado': 0.547, 'salir': 0.1923, 'cambiar': 0.1661, 'comparar': 0.2857}","{'fichero firmado': 0.7605, 'firmado odoo': 0.3802, 'problema odoo': 0.364, 'odoo ver': 0.3802}",
+",El mismo problema en Odoo 16.  Comparando el fichero firmado con autofirma y el fichero firmado con Odoo veo que autofirma usa el sha-256 mientras que el que me sale de odoo usa sha1. No sé donde se cambia eso en Odoo.,problema odoo comparar fichero firmado autofirma fichero firmado odoo ver autofirmar sha salir odoo sha1 cambiar odoo,"{'problema': 0.1393, 'odoo': 0.5723, 'fichero': 0.4291, 'ver': 0.1537, 'firmado': 0.547, 'salir': 0.1923, 'cambiar': 0.1661, 'comparar': 0.2857}","{'fichero firmado': 0.7605, 'firmado odoo': 0.3802, 'problema odoo': 0.364, 'odoo ver': 0.3802}",-1.0
 Issue,3452,[15.0][l10n_es_facturae] El servicio de validación de facturas electrónicas no valida la factura firmada,"Buenos días.
 
 Cuando subo una factura firmada al [servicio de validación de  facturas electrónicas](https://sedeaplicaciones2.minetur.gob.es/FacturaE/) manualmente, la plataforma muestra:
