@@ -16683,7 +16683,7 @@ Tiene todo el sentido lo que indica @acysos, gracias por la aclaración. La mejo
 https://github.com/OCA/l10n-spain/blob/163c6de6b6329c766d37aaebd590afa051bb4658/l10n_es_aeat_mod303/data/2024-10/l10n.es.aeat.map.tax.line.csv#L38
 
 El problema que habíamos detectado es un descuadre entre los totales del Modelo 390 y lo declarado en los modelos 303, ya que la implementación actual del 390 no estaba teniendo en cuenta las rectificaciones.
-",hola sentido indicar acysos gracias aclaración,"{'gracias': 0.2867, 'aclaración': 0.4945, 'hola': 0.2844, 'sentido': 0.4248, 'indicar': 0.3545, 'acysos': 0.5351}",{'gracias aclaración': 1.0},
+",hola sentido indicar acysos gracias aclaración,"{'gracias': 0.2867, 'aclaración': 0.4945, 'hola': 0.2844, 'sentido': 0.4248, 'indicar': 0.3545, 'acysos': 0.5351}",{'gracias aclaración': 1.0},1.0
 Pull Request,4769,[17.0][FIX] l10n_es_pos_sii: Fix tests,"Este PR corrige el error detectado en https://github.com/OCA/l10n-spain/pull/4767
 `AttributeError: type object 'TestSpainPosSii' has no attribute 'partner_a' `
 Se ha aplicado el mismo cambio que en el commit https://github.com/OCA/l10n-spain/commit/db0fb6121cc48bd9b90d4d99ccc187f9e785a92e#diff-9ffe4db9f53c810ba35a024a6cc8d278d3e2641c7738c1f309496ff694add35c durante la migración a 18.0
