@@ -12126,7 +12126,7 @@ OSError: Could not find the TLS certificate file, invalid path: /opt/certificate
 The above server error caused the following client error:
 null
 ```
-",La traza que aparece en tu reporte no tiene nada que ver con que tenga el `ES` o no lo tenga. El problema es que no tienes configurado el certificado.,traza aparecer reporte problema tener configurado certificado,"{'problema': 0.2391, 'aparecer': 0.3451, 'tener': 0.2586, 'traza': 0.4695, 'reporte': 0.4695, 'certificado': 0.3639, 'configurado': 0.4286}",{'problema tener': 1.0},
+",La traza que aparece en tu reporte no tiene nada que ver con que tenga el `ES` o no lo tenga. El problema es que no tienes configurado el certificado.,traza aparecer reporte problema tener configurado certificado,"{'problema': 0.2391, 'aparecer': 0.3451, 'tener': 0.2586, 'traza': 0.4695, 'reporte': 0.4695, 'certificado': 0.3639, 'configurado': 0.4286}",{'problema tener': 1.0},1.0
 Issue,3668,[16.0] l10n_es_atc_dua,"Las importaciones en Canarias  son equivalentes a las de territorio peninsular, con la diferencia que las extracomunitarias y comunitarias tienen similar tratamiento, por tal motivo la posición fiscal Régimen Extracomunitario Islas Canarias  creo que complica gestión de las importaciones.
 
 La solución pasaría por dar el mismo tratamiento que se da a las importaciones con DUA en territorio peninsular
