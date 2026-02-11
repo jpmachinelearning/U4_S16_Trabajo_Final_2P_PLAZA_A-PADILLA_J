@@ -16908,7 +16908,7 @@ Pull Request,4761,[17.0][IMP] l10n_es_atc_mod417: Update JAR to v2.2.1,"TT60489
 Pull Request,4759,[15.0][IMP] l10n_es_aeat_mod190: Diseño de registro 2025,"Backport de https://github.com/OCA/l10n-spain/pull/4718
 
 TT60426
-@Tecnativa @EmilioPascual @etobella @pedrobaeza @carlosdauden ¿Pueden darle una mirada a este PR por favor?","Congratulations, your PR was merged at 4c3b798da72d7ba3c88466afd69721cab129dc27. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa @EmilioPascual @etobella @pedrobaeza @carlosdauden ¿Pueden darle una mirada a este PR por favor?","Congratulations, your PR was merged at 4c3b798da72d7ba3c88466afd69721cab129dc27. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4756,[FIX] l10n_es_aeat_mod130: Support multi-company environments,"The module was not working correctly in multi-company environments. The _calc_ingresos_gastos_retenciones method only searched for accounting entries in self.company_id.id, ignoring the allowed_company_ids context.
 
 This caused calculations to return 0.00 when users switched companies in the UI.
