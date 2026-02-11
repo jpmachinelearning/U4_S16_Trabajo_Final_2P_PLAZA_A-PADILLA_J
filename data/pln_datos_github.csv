@@ -17141,7 +17141,7 @@ In the case an invoice is accepted with errors, the sending date is not reset, a
 
 Let's reset anyway for both cases the sending date for avoiding this hammering.
 
-@Tecnativa","Congratulations, your PR was merged at cd45131687afe7a1176cb11215196ecd0cc2b3a3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa","Congratulations, your PR was merged at cd45131687afe7a1176cb11215196ecd0cc2b3a3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4723,[18.0][FIX] l10n_es_aeat_sii_oca: Don't retry forever,"In the case an invoice is accepted with errors, the sending date is not reset, and the system is trying to send it on each cron run, which is not correct. With accepted invoices, there's no problem, as they are not selected anymore for being sent.
 
 Let's reset anyway for both cases the sending date for avoiding this hammering.
