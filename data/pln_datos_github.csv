@@ -5499,7 +5499,7 @@ Crear un **módulo específico para ZEC** que permita:
   * Crear un nuevo régimen/fiscalidad llamado “ZEC” dentro de las opciones de fiscalidad de Odoo.
   * Registrar entidades/empresas bajo este régimen.
   * Aplicar reglas de cálculo de impuestos específicas para ZEC (tipos impositivos, bases, exenciones, deducciones, etc.).
-  * Integración con facturación, libros contables y reportes fiscales para ZEC.","De acuerdo, entonces entiendo que será un nuevo plan contable ""IGIC (ZEC)"" o similar.",entender plan contable igic zec similar,"{'similar': 0.4401, 'entender': 0.3699, 'contable': 0.3979, 'igic': 0.499, 'plan': 0.5121}",{'plan contable': 1.0},
+  * Integración con facturación, libros contables y reportes fiscales para ZEC.","De acuerdo, entonces entiendo que será un nuevo plan contable ""IGIC (ZEC)"" o similar.",entender plan contable igic zec similar,"{'similar': 0.4401, 'entender': 0.3699, 'contable': 0.3979, 'igic': 0.499, 'plan': 0.5121}",{'plan contable': 1.0},0.0
 Issue,4358,[IMP] Fiscalidad Zona Especial Canaria (ZEC),"Artículo sobre la **Fiscalidad de la Zona Especial Canaria (ZEC):**
 [Fiscalidad en la Zona Especial Canaria (ZEC)](https://www.youasesoria.com/fiscalidad-de-la-zona-zec-en-canarias/) 
 
