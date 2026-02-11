@@ -16612,7 +16612,7 @@ Pull Request,4771,[18.0][FIX] l10n_es_aeat_mod390: Casilla 28 restringida a la c
 
 Fuente: https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G412/Instrucciones_modelo_390-2025.pdf
 
-MT-13476 @moduon",¿Qué caso de impuesto tiene valores en otra cuenta contable?,caso impuesto valor contable,"{'caso': 0.3832, 'impuesto': 0.4242, 'contable': 0.5652, 'valor': 0.5948}",{},
+MT-13476 @moduon",¿Qué caso de impuesto tiene valores en otra cuenta contable?,caso impuesto valor contable,"{'caso': 0.3832, 'impuesto': 0.4242, 'contable': 0.5652, 'valor': 0.5948}",{},0.0
 Pull Request,4771,[18.0][FIX] l10n_es_aeat_mod390: Casilla 28 restringida a la cuenta 477,"La casilla 28 es ""IVA devengado"", por lo que debe leer de la cuenta 477.
 
 <img width=""634"" height=""89"" alt=""image"" src=""https://github.com/user-attachments/assets/a799506b-3d0f-4b80-8afc-e4edb318d359"" />
