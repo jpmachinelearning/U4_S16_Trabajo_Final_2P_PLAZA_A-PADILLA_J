@@ -19345,7 +19345,7 @@ Falta ver cuales seran las URLs definitivas, por lo que aún no puede mergearse,
 
 TODO:
 
-- [ ] Migration script para pasar las URLs a lo que sea conveniente (De test a producción)","Con el onchange no se ve mal tampoco, ¿no?",onchange ver,"{'ver': 0.5031, 'onchange': 0.8642}",{},,,0,Desarrollo
+- [ ] Migration script para pasar las URLs a lo que sea conveniente (De test a producción)","Con el onchange no se ve mal tampoco, ¿no?",onchange ver,"{'ver': 0.5031, 'onchange': 0.8642}",{},0.0,,0,Desarrollo
 Pull Request,4581,[16.0][IMP] l10n_es_facturae_face: Use new REST Services,"Después de años de espera, FACe cambia la semana que viene el sistema de envío de facturas:
 
 <img width=""1008"" height=""254"" alt=""image"" src=""https://github.com/user-attachments/assets/9e22913f-8370-4e20-9ae6-76a2c327dcef"" />
