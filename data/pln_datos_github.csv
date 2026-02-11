@@ -16605,7 +16605,7 @@ Pull Request,4772,[17.0][FIX] l10n_es_vat_book: The 'p_dua_exempt' tax is elimin
 
 Al no tener IVA, no debe aparecer en el libro de IVA, así como tampoco debe ser enviado al SII.
 
-Este impuesto sobra en el mapeo del libro de IVA, ya que la factura del proveedor extranjero no figurará en el libro de facturas recibidas. Los datos que aparecen en el libro de facturas recibidas serán las del propio DUA.","Congratulations, your PR was merged at 5a70778400a2712ca097c6344c0e71b1a7783ea7. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+Este impuesto sobra en el mapeo del libro de IVA, ya que la factura del proveedor extranjero no figurará en el libro de facturas recibidas. Los datos que aparecen en el libro de facturas recibidas serán las del propio DUA.","Congratulations, your PR was merged at 5a70778400a2712ca097c6344c0e71b1a7783ea7. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4771,[18.0][FIX] l10n_es_aeat_mod390: Casilla 28 restringida a la cuenta 477,"La casilla 28 es ""IVA devengado"", por lo que debe leer de la cuenta 477.
 
 <img width=""634"" height=""89"" alt=""image"" src=""https://github.com/user-attachments/assets/a799506b-3d0f-4b80-8afc-e4edb318d359"" />
