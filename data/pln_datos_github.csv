@@ -10177,7 +10177,7 @@ https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
 - [x] l10n_es_verifactu_oca - By @pedrobaeza - #4446
 - [x] payment_redsys - By @carlos-lopez-tecnativa - #4486
 
-Missing module? Check https://github.com/OCA/maintainer-tools/wiki/%5BFAQ%5D-Missing-modules-in-migration-issue-list","Nota para cuando comencemos con la migración de AEAT, SII, etc: revisar el módulo core `certificate` para ver si provee ya de base las herramientas para la gestión de certificados.",nota comencer migración aeat sii etc revisar módulo core certificatar proveer base herramienta gestión certificado,"{'módulo': 0.1643, 'aeat': 0.2192, 'core': 0.2914, 'etc': 0.2914, 'sii': 0.2093, 'gestión': 0.3136, 'base': 0.2345, 'nota': 0.3514, 'revisar': 0.2113, 'migración': 0.2693, 'certificado': 0.2724, 'herramienta': 0.3293, 'certificatar': 0.3671}",{},
+Missing module? Check https://github.com/OCA/maintainer-tools/wiki/%5BFAQ%5D-Missing-modules-in-migration-issue-list","Nota para cuando comencemos con la migración de AEAT, SII, etc: revisar el módulo core `certificate` para ver si provee ya de base las herramientas para la gestión de certificados.",nota comencer migración aeat sii etc revisar módulo core certificatar proveer base herramienta gestión certificado,"{'módulo': 0.1643, 'aeat': 0.2192, 'core': 0.2914, 'etc': 0.2914, 'sii': 0.2093, 'gestión': 0.3136, 'base': 0.2345, 'nota': 0.3514, 'revisar': 0.2113, 'migración': 0.2693, 'certificado': 0.2724, 'herramienta': 0.3293, 'certificatar': 0.3671}",{},0.0
 Issue,3754,Migration to version 18.0,"# Todo
 
 https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
