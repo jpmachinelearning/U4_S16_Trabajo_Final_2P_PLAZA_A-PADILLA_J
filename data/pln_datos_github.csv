@@ -13192,7 +13192,7 @@ Los que tenéis allí SII, ¿sabéis qué puede ocurrir? Tal vez @JuaniFreedoo ?
 >
 > Esta incidencia se tendrá en cuenta, en su caso,  a todos los efectos del cumplimiento de las obligaciones tributarias.
 >
-> Disculpen las molestias ocasionadas.",acabar llegar hacienda mañana viernes tener problema conectividad trabajar solventar él brevedad incidencia caso efecto cumplimiento obligación tributario disculpen molestia ocasionado,"{'problema': 0.146, 'caso': 0.1415, 'él': 0.1194, 'llegar': 0.2506, 'incidencia': 0.2618, 'tener': 0.1579, 'obligación': 0.2618, 'cumplimiento': 0.2996, 'trabajar': 0.2309, 'acabar': 0.2342, 'hacienda': 0.2128, 'efecto': 0.2417, 'solventar': 0.2687, 'mañana': 0.2996, 'tributario': 0.2768, 'viernes': 0.2996, 'conectividad': 0.2996}","{'tener problema': 0.4707, 'acabar llegar': 0.5094, 'solventar él': 0.5094, 'problema conectividad': 0.5094}",
+> Disculpen las molestias ocasionadas.",acabar llegar hacienda mañana viernes tener problema conectividad trabajar solventar él brevedad incidencia caso efecto cumplimiento obligación tributario disculpen molestia ocasionado,"{'problema': 0.146, 'caso': 0.1415, 'él': 0.1194, 'llegar': 0.2506, 'incidencia': 0.2618, 'tener': 0.1579, 'obligación': 0.2618, 'cumplimiento': 0.2996, 'trabajar': 0.2309, 'acabar': 0.2342, 'hacienda': 0.2128, 'efecto': 0.2417, 'solventar': 0.2687, 'mañana': 0.2996, 'tributario': 0.2768, 'viernes': 0.2996, 'conectividad': 0.2996}","{'tener problema': 0.4707, 'acabar llegar': 0.5094, 'solventar él': 0.5094, 'problema conectividad': 0.5094}",0.0
 Issue,3589,Fallo de los tests al conectar a la Hacienda de Gipúzcoa,"En todas las ramas está dando este error:
 
 ```
