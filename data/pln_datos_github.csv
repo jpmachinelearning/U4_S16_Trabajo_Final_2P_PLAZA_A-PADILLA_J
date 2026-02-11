@@ -17119,7 +17119,7 @@ Pull Request,4730,[15.0][FIX] l10n_es_verifactu_oca: Fix test test_create_send_a
 
 1. Primero postear la factura → `action_post()`
 2. Luego actualizar el mock con el nombre real → `invoice.name`
-3. Finalmente ejecutar el cron","Sí, en el PR 4736 he mirado de corregir los tests KO en este módulo...",pr mirar corregir tests ko módulo,"{'módulo': 0.3527, 'corregir': 0.6256, 'pr': 0.445, 'mirar': 0.535}",{},
+3. Finalmente ejecutar el cron","Sí, en el PR 4736 he mirado de corregir los tests KO en este módulo...",pr mirar corregir tests ko módulo,"{'módulo': 0.3527, 'corregir': 0.6256, 'pr': 0.445, 'mirar': 0.535}",{},-1.0
 Pull Request,4729,[17.0][IMP] l10n_es_aeat_mod111: Compute report type,"FWP https://github.com/OCA/l10n-spain/pull/4616
 
 ¿Podrías revisarlo, @pedrobaeza ? ¡Gracias!
