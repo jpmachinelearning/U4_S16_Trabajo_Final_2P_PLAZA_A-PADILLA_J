@@ -16831,7 +16831,7 @@ En caso de cumplirse estas condiciones, recalcular la prorrata llamando al méto
 `_apply_vat_prorate` del modelo _account.move_.
 
 @moduon
-MT-13468","Acabo de ver tu último comentario. A ver si puedes reflejar eso que comentas en un test, y vemos si esta solución es la más adecuada para eso.",acabar comentario poder reflejar comentas test ver solución adecuado,"{'poder': 0.227, 'solución': 0.2916, 'comentario': 0.3544, 'adecuado': 0.3447, 'ver': 0.2438, 'comentas': 0.3721, 'acabar': 0.3544, 'test': 0.3003, 'reflejar': 0.4533}",{'test ver': 1.0},
+MT-13468","Acabo de ver tu último comentario. A ver si puedes reflejar eso que comentas en un test, y vemos si esta solución es la más adecuada para eso.",acabar comentario poder reflejar comentas test ver solución adecuado,"{'poder': 0.227, 'solución': 0.2916, 'comentario': 0.3544, 'adecuado': 0.3447, 'ver': 0.2438, 'comentas': 0.3721, 'acabar': 0.3544, 'test': 0.3003, 'reflejar': 0.4533}",{'test ver': 1.0},1.0
 Pull Request,4764,[18.0][IMP] l10n_es_facturae: Clean XML file when it is not signed,"Otherwise, when creating the XML file without signature, extra empty tags are added, but they shouldn't exist.
 
 Before:
