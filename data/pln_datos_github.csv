@@ -6878,7 +6878,7 @@ A clear and concise description of what you expected to happen.
 Add any other context about the problem here. (e.g. OS, Python version, ...)
 El `_tipo` siempre me devuelve una ""C"" en vez de una ""N"" y no se si es por alguna configuración o es que no funciona de forma correcta el modulo con el magic button
 
-![Image](https://github.com/user-attachments/assets/a41dc038-0dd1-48da-848b-7da58a1e6865)","No te puedo decir ahora mismo, porque ahora mismo no tenemos ninguno en activo con este transportista. Hasta hace poco, la antigua URL de ASM funcionaba. Tal vez la han cambiado.",activo transportista antiguo url asm funcionar cambiar,"{'funcionar': 0.3532, 'activo': 0.4824, 'url': 0.5107, 'cambiar': 0.3477, 'antiguo': 0.5107}",{},
+![Image](https://github.com/user-attachments/assets/a41dc038-0dd1-48da-848b-7da58a1e6865)","No te puedo decir ahora mismo, porque ahora mismo no tenemos ninguno en activo con este transportista. Hasta hace poco, la antigua URL de ASM funcionaba. Tal vez la han cambiado.",activo transportista antiguo url asm funcionar cambiar,"{'funcionar': 0.3532, 'activo': 0.4824, 'url': 0.5107, 'cambiar': 0.3477, 'antiguo': 0.5107}",{},-1.0
 Issue,4206,[18.0] delivery_gls_asm: url incorrect,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
