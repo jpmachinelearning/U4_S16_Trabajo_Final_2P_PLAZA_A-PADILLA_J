@@ -7086,7 +7086,7 @@ https://github.com/user-attachments/assets/17609168-fc81-434b-bbc3-6f953fbd8150
 
 Si necesitáis más información decidnos. Yo en cuanto pueda intentaré encontrar en qué punto salta el error debugeando el proceso, pero si con esto se os ocurre algo o si alguien más ha tenido este problema. 
 ¿El error puede ir por el IDType que lleva y que requiere NIF? No estoy muy puesto en los códigos que informan al SII.
-¡Saludos!",¿En la posición fiscal del régimen extracomunitario habéis puesto que el tipo de identificación SII sea de exportación?,posición fiscal régimen extracomunitario habéis poner tipo identificación sii exportación,"{'poner': 0.2272, 'posición': 0.2999, 'fiscal': 0.2872, 'tipo': 0.2582, 'sii': 0.2304, 'identificación': 0.3735, 'habéis': 0.387, 'régimen': 0.3261, 'extracomunitario': 0.4043, 'exportación': 0.3116}","{'posición fiscal': 0.6005, 'fiscal régimen': 0.7996}",
+¡Saludos!",¿En la posición fiscal del régimen extracomunitario habéis puesto que el tipo de identificación SII sea de exportación?,posición fiscal régimen extracomunitario habéis poner tipo identificación sii exportación,"{'poner': 0.2272, 'posición': 0.2999, 'fiscal': 0.2872, 'tipo': 0.2582, 'sii': 0.2304, 'identificación': 0.3735, 'habéis': 0.387, 'régimen': 0.3261, 'extracomunitario': 0.4043, 'exportación': 0.3116}","{'posición fiscal': 0.6005, 'fiscal régimen': 0.7996}",-1.0
 Issue,4169,[17.0] l10n_es_aeat_sii_oca: NIF requerido en cliente para facturas extracomunitarias,"Hemos detectado que con clientes extracomunitarios no se pueden enviar las facturas al SII porque pide que el NIF esté rellenado en el contacto. El contacto, aparte del país, tiene Posición Fiscal extracomunitaria.
 Si rellenamos con algún caracter para evitar el error se envía:
 
