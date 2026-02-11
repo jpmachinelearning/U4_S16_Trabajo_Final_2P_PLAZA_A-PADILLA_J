@@ -5634,7 +5634,7 @@ Personalmente se me ocurren 3 opciones:
 
 ¿Cual es vuestra opinión?","También depende de otros módulos, aunque el edi-framework acostumbra a ser el más complejo.
 
-Además, la ley crea y crece no irá con facturae, así que si deberá ser con un módulo diferente (y sus respectivos campos y tal)",depender módulo edi-framework acostumbrar complejo ley creer crecer ir facturae deber módulo respectivo campo,"{'módulo': 0.3054, 'campo': 0.19, 'deber': 0.1926, 'facturae': 0.2854, 'depender': 0.2668, 'framework': 0.2854, 'edi': 0.2801, 'ir': 0.2595, 'ley': 0.2914, 'creer': 0.2532, 'crecer': 0.3412, 'acostumbrar': 0.3266, 'complejo': 0.2854}","{'deber módulo': 0.4297, 'depender módulo': 0.4451, 'edi framework': 0.4297, 'ley creer': 0.4651, 'creer crecer': 0.4651}",
+Además, la ley crea y crece no irá con facturae, así que si deberá ser con un módulo diferente (y sus respectivos campos y tal)",depender módulo edi-framework acostumbrar complejo ley creer crecer ir facturae deber módulo respectivo campo,"{'módulo': 0.3054, 'campo': 0.19, 'deber': 0.1926, 'facturae': 0.2854, 'depender': 0.2668, 'framework': 0.2854, 'edi': 0.2801, 'ir': 0.2595, 'ley': 0.2914, 'creer': 0.2532, 'crecer': 0.3412, 'acostumbrar': 0.3266, 'complejo': 0.2854}","{'deber módulo': 0.4297, 'depender módulo': 0.4451, 'edi framework': 0.4297, 'ley creer': 0.4651, 'creer crecer': 0.4651}",0.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
