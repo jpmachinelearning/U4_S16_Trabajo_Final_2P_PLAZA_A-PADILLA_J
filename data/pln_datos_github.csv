@@ -18745,7 +18745,7 @@ Pull Request,4658,[18.0][FIX] l10n_es_partner: Force context to calculate comple
 
 @pedrobaeza @victoralmau please review","Congratulations, your PR was merged at 3dcc7dd0d35d4e65db46332557db0354dd17f104. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4656,[18.0][MIG] l10n_es_pos_sii: Migration to version 18.0,"Migración estándar, a partir de https://github.com/OCA/l10n-spain/pull/4450
-@Tecnativa TT59666",Listo para revisión,listo revisión,"{'revisión': 0.7377, 'listo': 0.6752}",{},,,,
+@Tecnativa TT59666",Listo para revisión,listo revisión,"{'revisión': 0.7377, 'listo': 0.6752}",{},1.0,,,
 Pull Request,4656,[18.0][MIG] l10n_es_pos_sii: Migration to version 18.0,"Migración estándar, a partir de https://github.com/OCA/l10n-spain/pull/4450
 @Tecnativa TT59666","Parece que el CI está caído por la imagen de postgres, en un rato lo vuelvo a lanzar",ci caer imagen postgr rato volver lanzar,"{'volver': 0.2975, 'imagen': 0.4332, 'ci': 0.3865, 'postgr': 0.4526, 'lanzar': 0.4059, 'rato': 0.4526}",{'volver lanzar': 1.0},,,,
 Pull Request,4656,[18.0][MIG] l10n_es_pos_sii: Migration to version 18.0,"Migración estándar, a partir de https://github.com/OCA/l10n-spain/pull/4450
