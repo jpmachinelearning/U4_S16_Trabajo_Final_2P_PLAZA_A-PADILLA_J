@@ -4747,7 +4747,7 @@ Se han realizado pruebas basadas en la declaración responsable de Odoo o inclus
 
 <img width=""755"" height=""394"" alt=""Image"" src=""https://github.com/user-attachments/assets/ef0d71e5-53f9-4c1f-956d-5694e7f39b28"" />
 
-<img width=""1343"" height=""561"" alt=""Image"" src=""https://github.com/user-attachments/assets/4cb157e6-656f-4f06-a361-aa267db1e601"" />","Bueno, Odoo puede no cubrirte si no es un Odoo online. Cuando llegue la primera denuncia se sabra... Pon ahí lo que estiméis oportuno.",odoo cubrirte odoo online llegar denuncia sabrir pon estiméis oportuno,"{'odoo': 0.6422, 'llegar': 0.5364, 'pon': 0.5476}",{},
+<img width=""1343"" height=""561"" alt=""Image"" src=""https://github.com/user-attachments/assets/4cb157e6-656f-4f06-a361-aa267db1e601"" />","Bueno, Odoo puede no cubrirte si no es un Odoo online. Cuando llegue la primera denuncia se sabra... Pon ahí lo que estiméis oportuno.",odoo cubrirte odoo online llegar denuncia sabrir pon estiméis oportuno,"{'odoo': 0.6422, 'llegar': 0.5364, 'pon': 0.5476}",{},-1.0
 Issue,4374,[16.0] [FIX] l10n_es_verifactu_oca Error 1100 en el envío de facturas,"****Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created **
 
