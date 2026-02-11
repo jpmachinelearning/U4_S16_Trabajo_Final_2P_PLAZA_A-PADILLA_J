@@ -3366,7 +3366,7 @@ grep -Rns --include='*.py' \
 /opt/odoo/src/oca/account-invoicing/account_invoice_refund_link/wizards/account_move_reversal.py:7:class AccountMoveReversal(models.TransientModel): 
 /opt/odoo/src/oca/account-invoicing/account_invoice_refund_link/wizards/account_move_reversal.py:10: def reverse_moves(self, is_modify=False):
 
-Lo reporto por si puede ser de ayuda, espero no hacer perder el tiempo a nadie. ",Arreglado en #4470 ,arreglado,{'arreglado': 1.0},{},
+Lo reporto por si puede ser de ayuda, espero no hacer perder el tiempo a nadie. ",Arreglado en #4470 ,arreglado,{'arreglado': 1.0},{},1.0
 Issue,4462,Migración a la v17 l10n_es_aeat_vat_prorrate_asset,"Hola a todos,
 
 Estoy revisando la generación de activos cuando hay prorrata de IVA. En v14 existía l10n_es_aeat_vat_prorrate_asset y me gustaría migrar/adaptar ese comportamiento para que la prorrata se incorpore correctamente al valor del activo, porque ahora mismo el total del activo se calcula sin la parte no deducible del IVA.
