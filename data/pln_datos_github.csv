@@ -11789,7 +11789,7 @@ Issue,3682,[16] [BUG] 10n_es_aeat_sii_oss: Error al enviar al SII ,"Buenos días
 
 Cuando esté claro que es un error real del módulo, se puede reabrir esto.
 
-Ana, no hagas cross-posting. Punto 16 de la FAQ de los foros, que aplica aquí también: https://www.aeodoo.org/forum/localizacion-espanola-3/faq",duplicado foro estar error real módulo reabrir ana hagar cross-posting punto faq foro aplicar,"{'módulo': 0.1592, 'error': 0.1752, 'estar': 0.2228, 'real': 0.287, 'punto': 0.2436, 'faq': 0.3287, 'aplicar': 0.2357, 'reabrir': 0.3558, 'duplicado': 0.3287, 'foro': 0.5953}",{},
+Ana, no hagas cross-posting. Punto 16 de la FAQ de los foros, que aplica aquí también: https://www.aeodoo.org/forum/localizacion-espanola-3/faq",duplicado foro estar error real módulo reabrir ana hagar cross-posting punto faq foro aplicar,"{'módulo': 0.1592, 'error': 0.1752, 'estar': 0.2228, 'real': 0.287, 'punto': 0.2436, 'faq': 0.3287, 'aplicar': 0.2357, 'reabrir': 0.3558, 'duplicado': 0.3287, 'foro': 0.5953}",{},1.0
 Issue,3682,[16] [BUG] 10n_es_aeat_sii_oss: Error al enviar al SII ,"Buenos días, tenemos problemas para enviar facturas OSS al SII
 1. Hemos instalado los módulos para el SII, SII con importaciones con DUA y SII con OSS
 2. En la posición fiscal se informa la clave 17, ""Consumidor final B2C"" y el país.
