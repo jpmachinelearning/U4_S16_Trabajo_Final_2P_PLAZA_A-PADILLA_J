@@ -12034,7 +12034,7 @@ Se han enviado otras facturas similares con IVA e IRPF sin problema pero esta co
 Gracias por la ayuda","Te faltará mapear el impuesto ""IVA Soportado exento (operaciones corrientes)"" en el apartado SFRS del SII.",faltar mapear impuesto ivo soportado exento operación corriente apartado sfrs sii,"{'faltar': 0.3169, 'impuesto': 0.202, 'sii': 0.2201, 'operación': 0.2538, 'soportado': 0.3169, 'apartado': 0.3463, 'ivo': 0.3463, 'exento': 0.3463, 'mapear': 0.3696, 'corriente': 0.3861}",{'ivo soportado': 1.0},1.0
 Issue,3670,import facturae,"veo que account_invoice_import_facturae ya se quedo en la versión 12 hay alguna cosa parecida para importar facturae ?
 
-en caso de l10n_es_facturae dice que es para creación no dice nada de importar ",Utiliza por favor los foros (https://www.aeodoo.org/forum) para este tipo de preguntas.,utilizar favor foro tipo pregunta,"{'utilizar': 0.3738, 'tipo': 0.3954, 'favor': 0.3954, 'foro': 0.5178, 'pregunta': 0.5287}",{'tipo pregunta': 1.0},
+en caso de l10n_es_facturae dice que es para creación no dice nada de importar ",Utiliza por favor los foros (https://www.aeodoo.org/forum) para este tipo de preguntas.,utilizar favor foro tipo pregunta,"{'utilizar': 0.3738, 'tipo': 0.3954, 'favor': 0.3954, 'foro': 0.5178, 'pregunta': 0.5287}",{'tipo pregunta': 1.0},1.0
 Issue,3669,[16.0]verificar con aeat error si hay codigo pais en el IVA,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
