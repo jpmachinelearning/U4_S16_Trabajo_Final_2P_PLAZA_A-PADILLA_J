@@ -17612,7 +17612,7 @@ Pull Request,4684,[16.0][IMP] l10n_es_sigaus_stock_picking_report_valued: Remove
 Pull Request,4683,[17.0][FIX] l10n_es_atc_mod417: Rectificaciones de compra en la 34 y 35,"Siguiendo el PR https://github.com/OCA/l10n-spain/pull/4454 el modelo 417 debería ser ajustado de igual manera.
 
 @Tecnativa TT59950
-@pedrobaeza @sergio-teruel ","Ciertamente, para mi tampoco tiene sentido...",ciertamente sentido,"{'sentido': 0.6217, 'ciertamente': 0.7833}",{},,,,
+@pedrobaeza @sergio-teruel ","Ciertamente, para mi tampoco tiene sentido...",ciertamente sentido,"{'sentido': 0.6217, 'ciertamente': 0.7833}",{},0.0,,,
 Pull Request,4683,[17.0][FIX] l10n_es_atc_mod417: Rectificaciones de compra en la 34 y 35,"Siguiendo el PR https://github.com/OCA/l10n-spain/pull/4454 el modelo 417 debería ser ajustado de igual manera.
 
 @Tecnativa TT59950
