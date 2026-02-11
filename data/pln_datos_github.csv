@@ -12407,7 +12407,7 @@ Es posible que nos falte algo por configurar correctamente, o que se trate de un
 [PAY0001.txt](https://github.com/user-attachments/files/15532603/PAY0001.txt)
 
 
-Un saludo","Esto no ha cambiado, ya que nunca ha exportado el IBAN completo. Se está revisando si incluirlo si es compatible con todos aquí: https://github.com/OCA/l10n-spain/pull/3332",cambiar exportar ir completo,"{'exportar': 0.5402, 'completo': 0.5844, 'cambiar': 0.3677, 'ir': 0.481}",{},
+Un saludo","Esto no ha cambiado, ya que nunca ha exportado el IBAN completo. Se está revisando si incluirlo si es compatible con todos aquí: https://github.com/OCA/l10n-spain/pull/3332",cambiar exportar ir completo,"{'exportar': 0.5402, 'completo': 0.5844, 'cambiar': 0.3677, 'ir': 0.481}",{},1.0
 Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata Especial de IVA),"**Contexto:**
 
 - Trabajamos con nuestra Compañía 1
