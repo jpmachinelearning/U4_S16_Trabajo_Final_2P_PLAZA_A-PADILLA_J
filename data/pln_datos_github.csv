@@ -8172,7 +8172,7 @@ Quedo a la espera de su respuesta.
 
 Un saludo y gracias de antemano.","Hola, esto es algo que debe arreglarse a nivel de Odoo, no aquí. Sé que han hecho algunos fixes y creo que no volverá a ocurrir, pero no tengo la certeza, y cuando pasa, hay que arreglarlo manualmente. 
 
-Cierro al no ser algo de este repositorio.",hola arreglar él nivel odoo fix volver ocurrir certeza pasar arreglar él manualmente cerrar repositorio,"{'odoo': 0.1723, 'pasar': 0.2198, 'hola': 0.1828, 'él': 0.2742, 'cerrar': 0.2043, 'fix': 0.2825, 'volver': 0.2262, 'nivel': 0.2376, 'repositorio': 0.3007, 'ocurrir': 0.2617, 'arreglar': 0.5878, 'manualmente': 0.2825}","{'arreglar él': 0.7468, 'él manualmente': 0.3734, 'él nivel': 0.3734, 'volver ocurrir': 0.4041}",
+Cierro al no ser algo de este repositorio.",hola arreglar él nivel odoo fix volver ocurrir certeza pasar arreglar él manualmente cerrar repositorio,"{'odoo': 0.1723, 'pasar': 0.2198, 'hola': 0.1828, 'él': 0.2742, 'cerrar': 0.2043, 'fix': 0.2825, 'volver': 0.2262, 'nivel': 0.2376, 'repositorio': 0.3007, 'ocurrir': 0.2617, 'arreglar': 0.5878, 'manualmente': 0.2825}","{'arreglar él': 0.7468, 'él manualmente': 0.3734, 'él nivel': 0.3734, 'volver ocurrir': 0.4041}",-1.0
 Issue,3995,[16.0] l10n_es_facturae Campo de IVA muestra más de 3 decimales en vez de redondear,"Buenas tardes!
 
 Adjunto la imagen de un archivo de factura electrónica que hice en el Runboat de la V16. Es una factura de una sola línea por valor de 1033,33 euros con un IVA del 21%.
