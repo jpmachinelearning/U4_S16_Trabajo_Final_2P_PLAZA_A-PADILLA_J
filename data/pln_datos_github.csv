@@ -13428,7 +13428,7 @@ Saludos,
 
 
 
-",*** Editado punto 4 y añadido punto 5.,editado punto añadir punto,"{'añadir': 0.4116, 'punto': 0.9113}",{'añadir punto': 1.0},
+",*** Editado punto 4 y añadido punto 5.,editado punto añadir punto,"{'añadir': 0.4116, 'punto': 0.9113}",{'añadir punto': 1.0},0.0
 Issue,3521,Recopilación de problemas encontrados con l10n_es_pos_sii,"### Contexto:
 
 * https://github.com/OCA/l10n-spain/tree/16.0/l10n_es_pos_sii
