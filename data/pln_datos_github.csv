@@ -17232,7 +17232,7 @@ Hemos añadido las retenciones  al libro de IVA y ademas hemos actualizado el fo
 
 Financiado por Contaldia @AlbertCabedo ","> @eduezerouali-tecnativa ¿Puedes hacer backport a 17?
 
-Si está previsto hacer backport a 16 y 17",eduezerouali-tecnativa poder backport previsto backport,"{'poder': 0.2152, 'backport': 0.6933, 'previsto': 0.4113, 'tecnativa': 0.367, 'eduezerouali': 0.4113}","{'eduezerouali tecnativa': 0.5687, 'poder backport': 0.5687, 'tecnativa poder': 0.5942}",
+Si está previsto hacer backport a 16 y 17",eduezerouali-tecnativa poder backport previsto backport,"{'poder': 0.2152, 'backport': 0.6933, 'previsto': 0.4113, 'tecnativa': 0.367, 'eduezerouali': 0.4113}","{'eduezerouali tecnativa': 0.5687, 'poder backport': 0.5687, 'tecnativa poder': 0.5942}",0.0
 Pull Request,4709,[18.0][IMP] l10n_es_vat_book: update vat book format + added IRPF,"cc @Tecnativa TT59220
 ping @pedrobaeza @carlosdauden
 
