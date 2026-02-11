@@ -19238,7 +19238,7 @@ The filtering was not done correctly for cancel operations if they were on ""sen
 @Tecnativa","Congratulations, your PR was merged at 3553e282cd4cad0d5a5f452ee61c695e4f3b5b48. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4592,[17.0][FIX] l10n_es_aeat_sii_oca: Send cancellations if previously sent,"The filtering was not done correctly for cancel operations if they were on ""sent"" state.
 
-@Tecnativa ","Congratulations, your PR was merged at cd13b882929971aa0f9f784ce50fb3954dc25fec. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+@Tecnativa ","Congratulations, your PR was merged at cd13b882929971aa0f9f784ce50fb3954dc25fec. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4590,[18.0][MIG] l10n_es_digital_canon: Migration to version 18.0,"@Tecnativa TT56706
 @sergio-teruel @carlosdauden @pedrobaeza ",ping @juancarlosonate-tecnativa he añadido el cuando se cambie el partner recalcule los impuestos en `sale.order`. En el caso de `purchase.order` y `account.move` ya se hace.,ping juancarlosonate-tecnativo añadir cambiar partner recalcular impuesto sale.order caso purchase.order account.move,"{'caso': 0.1543, 'impuesto': 0.1709, 'añadir': 0.202, 'account': 0.2681, 'move': 0.2732, 'cambiar': 0.1899, 'ping': 0.2681, 'partner': 0.2855, 'tecnativo': 0.2855, 'recalcular': 0.3126, 'order': 0.6253}",{'account move': 1.0},,,6,Normativa
 Pull Request,4588,[18.0][FIX] l10n_es_verifactu_oca: registro de facturas rechazadas: alta por rechazo,"Forward-port of #4429 and #4587 
