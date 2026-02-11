@@ -16884,7 +16884,7 @@ Pull Request,4762,"[18.0][FIX] l10n_es_aeat_mod123: Error casillas para ""19% WH
 
 El modelo 123 clasifica la base de la retención en la casilla [4], pero realmente no se trata de ‘Dividendos y otras rentas de participación en fondos propios de entidades’, por lo que debe aparecer en la casilla [5] ‘Resto de rentas’.
 
-Por el mismo motivo, las retenciones no deben ir a la casilla [7] ‘Dividendos y otras rentas de participación en fondos propios de entidades’, sino que deben aparecer en la casilla [8] ‘Resto de rentas’.","@Shide puedes revisar este fix, ya que según parece, lo introdujiste tú?",shide poder revisar fix introducir,"{'poder': 0.2922, 'introducir': 0.51, 'fix': 0.4791, 'revisar': 0.3359, 'shide': 0.5586}",{'poder revisar': 1.0},
+Por el mismo motivo, las retenciones no deben ir a la casilla [7] ‘Dividendos y otras rentas de participación en fondos propios de entidades’, sino que deben aparecer en la casilla [8] ‘Resto de rentas’.","@Shide puedes revisar este fix, ya que según parece, lo introdujiste tú?",shide poder revisar fix introducir,"{'poder': 0.2922, 'introducir': 0.51, 'fix': 0.4791, 'revisar': 0.3359, 'shide': 0.5586}",{'poder revisar': 1.0},0.0
 Pull Request,4762,"[18.0][FIX] l10n_es_aeat_mod123: Error casillas para ""19% WH L""","En el Modelo 123 hay un error en la clasificación de las retenciones procedentes de préstamos concedidos por empresas, no entidades bancarias, y que corresponden al impuesto ‘19% WH L – Retención 19% (préstamo)’.
 
 El modelo 123 clasifica la base de la retención en la casilla [4], pero realmente no se trata de ‘Dividendos y otras rentas de participación en fondos propios de entidades’, por lo que debe aparecer en la casilla [5] ‘Resto de rentas’.
