@@ -19028,7 +19028,7 @@ Con esta mejora se añade un test para probarla.
 
 https://www.loom.com/share/f765537951664e0ea77af6536c7de433
 
-MT-12714 @moduon @EmilioPascual ",@pedrobaeza ¿Podrías revisarlo? ¡Gracias!,pedrobaeza podriar revisar él gracias,"{'gracias': 0.4043, 'pedrobaeza': 0.3766, 'él': 0.3008, 'revisar': 0.4344, 'podriar': 0.6446}","{'pedrobaeza podriar': 0.5068, 'revisar él': 0.4271, 'él gracias': 0.5295, 'podriar revisar': 0.5295}",,,4,Comunidad
+MT-12714 @moduon @EmilioPascual ",@pedrobaeza ¿Podrías revisarlo? ¡Gracias!,pedrobaeza podriar revisar él gracias,"{'gracias': 0.4043, 'pedrobaeza': 0.3766, 'él': 0.3008, 'revisar': 0.4344, 'podriar': 0.6446}","{'pedrobaeza podriar': 0.5068, 'revisar él': 0.4271, 'él gracias': 0.5295, 'podriar revisar': 0.5295}",1.0,,4,Comunidad
 Pull Request,4616,[16.0][IMP] l10n_es_aeat_mod111: Calcular tipo declaración,"Con esta mejora, el campo tipo declaración es computado bajo la siguiente lógica:
 
 - Si es el resultado (Casilla 30) es positivo o igual a 0:
