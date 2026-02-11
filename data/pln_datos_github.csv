@@ -17492,7 +17492,7 @@ When the PoS session is still opened, the orders remain in ""paid"" state, not a
 
 Let's include ""done"" state in the allowed states for having the sending scheduled right after they are issued.
 
-@Tecnativa TT60063","Congratulations, your PR was merged at 7a7a552b66a7c5d1bb428b7094049f3b2e432450. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT60063","Congratulations, your PR was merged at 7a7a552b66a7c5d1bb428b7094049f3b2e432450. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4698,[17.0][FIX] l10n_es_atc_mod4*: Freeze time in tests for avoiding 2026 problem,"Backport of #4694
 
 It seems the ATC libraries are still not prepared for 2026, so let's freeze for now the tests on 2025. When they switch, we will probably need to reset this.
