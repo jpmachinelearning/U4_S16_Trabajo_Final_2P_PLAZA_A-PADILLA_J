@@ -13888,7 +13888,7 @@ El modelo 303 presenta un comportamiento inconsistente en el campo de la cuenta 
 
 Loida
 Moduon - MT-5662
-","OK, pues adelante con el PR si lo tenéis claro.",ok pr tenéis,"{'pr': 0.4467, 'tenéis': 0.662, 'ok': 0.6018}",{},
+","OK, pues adelante con el PR si lo tenéis claro.",ok pr tenéis,"{'pr': 0.4467, 'tenéis': 0.662, 'ok': 0.6018}",{},1.0
 Issue,3507,[16.0] cryptography wrong version in modules manifest,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
