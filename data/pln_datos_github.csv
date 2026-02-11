@@ -11727,7 +11727,7 @@ Cuando accedo a la dirección privada de un contacto mediante un usuario sin per
 **Expected behavior**
 Que la pestaña AEAT este oculta para los usuarios no autorizados.
 
-[Moduon Task - #6959](https://www.moduon.team/web#id=6959&menu_id=256&cids=1&action=387&model=project.task&view_type=form) @moduon ",Se cierra y la discusción continúa en #3692 ,cerrar discusción continuar,"{'cerrar': 0.562, 'continuar': 0.8271}",{},
+[Moduon Task - #6959](https://www.moduon.team/web#id=6959&menu_id=256&cids=1&action=387&model=project.task&view_type=form) @moduon ",Se cierra y la discusción continúa en #3692 ,cerrar discusción continuar,"{'cerrar': 0.562, 'continuar': 0.8271}",{},1.0
 Issue,3688,[16.0] l10n_es_vat_book no refleja correctamente las operaciones de facturas simplificada del pos,"Hola a todos:
 
 Como todos sabeis, he visto las discusiones al respecto en 15.0, y no me queda claro si había una solucion prevista o algún tipo de workaround,  ya he visto que una posible ""solucion"" sería no necesitar el libro de IVA usando l10n_es_pos_sii, pero en el caso de mi cliente, usar el SII es algo que por ahora no quieren hacer, así que esto me deja con la cuestión, es un bug solucionable, o no en el estado actual del asunto en 16?
