@@ -6208,7 +6208,7 @@ Issue,4272,Verifactu,"¿Sabemos si ya hay algún modulo o está previsto hacer a
 
 Recordad que también para los tickets de tpv/pos
 
-Gracias!","Odoo está incluyendo en el core de 17 un módulo para la gestión de Verifactu, y aquí en OCA, cuando se complete el desarrollo en 16, se migrará a 17. Busca por favor las referencias correspondientes.",odoo incluir core módulo gestión verifactu oca completar desarrollo migrar buscar favor referencia correspondiente,"{'odoo': 0.1818, 'módulo': 0.1625, 'correspondiente': 0.2838, 'verifactu': 0.2319, 'buscar': 0.2881, 'migrar': 0.31, 'core': 0.2881, 'oca': 0.2288, 'referencia': 0.2928, 'favor': 0.2319, 'incluir': 0.2554, 'gestión': 0.31, 'desarrollo': 0.2798, 'completar': 0.3354}",{'verifactu oca': 1.0},
+Gracias!","Odoo está incluyendo en el core de 17 un módulo para la gestión de Verifactu, y aquí en OCA, cuando se complete el desarrollo en 16, se migrará a 17. Busca por favor las referencias correspondientes.",odoo incluir core módulo gestión verifactu oca completar desarrollo migrar buscar favor referencia correspondiente,"{'odoo': 0.1818, 'módulo': 0.1625, 'correspondiente': 0.2838, 'verifactu': 0.2319, 'buscar': 0.2881, 'migrar': 0.31, 'core': 0.2881, 'oca': 0.2288, 'referencia': 0.2928, 'favor': 0.2319, 'incluir': 0.2554, 'gestión': 0.31, 'desarrollo': 0.2798, 'completar': 0.3354}",{'verifactu oca': 1.0},0.0
 Issue,4271,[18.0] ¿Hay planes de migrar l10n_es_aeat_mod190?,"Hola!
 
 ¿Está prevista la migración del módulo **l10n_es_aeat_mod190** a Odoo 18.0?
