@@ -16370,7 +16370,7 @@ ping @pedrobaeza @christian-ramos-tecnativa
 fwp: https://github.com/OCA/l10n-spain/pull/4785
 
 depende: 
-- [x] https://github.com/OCA/l10n-spain/pull/4719","Congratulations, your PR was merged at 8c3a8703afbdf736eabd820cb4ccbe22f27125c9. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+- [x] https://github.com/OCA/l10n-spain/pull/4719","Congratulations, your PR was merged at 8c3a8703afbdf736eabd820cb4ccbe22f27125c9. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4785,[16.0][FIX] l10n_es_vat_book_igic: update mapped column to new vat book,"cc @Tecnativa
 ping @pedrobaeza @christian-ramos-tecnativa 
 
