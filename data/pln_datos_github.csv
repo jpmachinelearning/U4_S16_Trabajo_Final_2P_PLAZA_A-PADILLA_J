@@ -10114,7 +10114,7 @@ Espero que sea suficiente para identificar el fallo.
 
 Gracias,","> Alguien le puede intentar echar un ojo a esto? Lo necesitamos para fin de año... no nos importa pagar por el tiempo. Gracias.
 
-@buildamoc lo hemos corregido en este [PR](https://github.com/OCA/l10n-spain/pull/4121) 😄 ",alguien intentar echar ojo necesitar año importar pagar tiempo gracias,"{'gracias': 0.231, 'intentar': 0.3128, 'alguien': 0.2978, 'echar': 0.3371, 'ojo': 0.2978, 'año': 0.3238, 'tiempo': 0.3324, 'necesitar': 0.2754, 'importar': 0.3422, 'pagar': 0.3867}","{'alguien intentar': 0.3349, 'intentar echar': 0.3349, 'echar ojo': 0.3206, 'ojo necesitar': 0.3349, 'necesitar año': 0.3349, 'año importar': 0.3349, 'importar pagar': 0.3349, 'pagar tiempo': 0.3349, 'tiempo gracias': 0.3349}",
+@buildamoc lo hemos corregido en este [PR](https://github.com/OCA/l10n-spain/pull/4121) 😄 ",alguien intentar echar ojo necesitar año importar pagar tiempo gracias,"{'gracias': 0.231, 'intentar': 0.3128, 'alguien': 0.2978, 'echar': 0.3371, 'ojo': 0.2978, 'año': 0.3238, 'tiempo': 0.3324, 'necesitar': 0.2754, 'importar': 0.3422, 'pagar': 0.3867}","{'alguien intentar': 0.3349, 'intentar echar': 0.3349, 'echar ojo': 0.3206, 'ojo necesitar': 0.3349, 'necesitar año': 0.3349, 'año importar': 0.3349, 'importar pagar': 0.3349, 'pagar tiempo': 0.3349, 'tiempo gracias': 0.3349}",1.0
 Issue,3754,Migration to version 18.0,"# Todo
 
 https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
