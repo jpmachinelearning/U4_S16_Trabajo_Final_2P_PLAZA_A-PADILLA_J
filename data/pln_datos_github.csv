@@ -18846,7 +18846,7 @@ Además, a la hora de procesar las respuestas, se busca el documentos relacionad
 https://github.com/OCA/l10n-spain/blob/016933d9ba88fb920cd08f30bbb82231054eb150/l10n_es_verifactu_oca/models/verifactu_invoice_entry.py#L339-L350
 
 He añadido la implementación de la facturación de terceros al ROADMAP para que pueda ser implementada cuando antes. Pero de momento, quizás lo mejor sería no enviar estos datos como números de serie de las facturas para evitar erroes (es decir, de momento no está habilitada la facturación de terceros). Así, por ahora, evitamos errores y bloqueos.
-","Congratulations, your PR was merged at 3abdabbfc1243bde64b8cd0abce8abceaf4d25cc. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+","Congratulations, your PR was merged at 3abdabbfc1243bde64b8cd0abce8abceaf4d25cc. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4630,[15.0][IMP]l10n_es_verifactu_oca: añadido causas de exención,"- Se modifica el mapeo de impuestos de Veri*Factu y se añaden las claves para la 6 causas posibles de exención.
 - Se modifica el contenido a enviar para las operaciones exentas.
 
