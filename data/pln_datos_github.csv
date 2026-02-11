@@ -17028,7 +17028,7 @@ ping @sergio-teruel @carlosdauden @pedrobaeza
 TT59220","@eduezerouali-tecnativa revisa bien el backport, que en el Excel salen mezclados los datos en columnas que no corresponden.
 
 <img width=""2347"" height=""210"" alt=""image"" src=""https://github.com/user-attachments/assets/021bba9f-964b-4acc-9a2d-8731fe549d72"" />
-",eduezerouali-tecnativa revisar backport excel salir mezclado dato columna corresponder,"{'backport': 0.3325, 'corresponder': 0.3325, 'salir': 0.2774, 'revisar': 0.2372, 'dato': 0.2581, 'tecnativa': 0.352, 'columna': 0.3602, 'eduezerouali': 0.3945, 'excel': 0.4121}",{'eduezerouali tecnativa': 1.0},
+",eduezerouali-tecnativa revisar backport excel salir mezclado dato columna corresponder,"{'backport': 0.3325, 'corresponder': 0.3325, 'salir': 0.2774, 'revisar': 0.2372, 'dato': 0.2581, 'tecnativa': 0.352, 'columna': 0.3602, 'eduezerouali': 0.3945, 'excel': 0.4121}",{'eduezerouali tecnativa': 1.0},-1.0
 Pull Request,4742,[16.0][IMP] l10n_es_vat_book: update vat book format + added IRPF,"Backport https://github.com/OCA/l10n-spain/pull/4709
 cc @Tecnativa
 ping @sergio-teruel @carlosdauden @pedrobaeza
