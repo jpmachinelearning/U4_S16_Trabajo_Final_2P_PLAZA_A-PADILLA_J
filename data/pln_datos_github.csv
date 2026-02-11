@@ -16296,7 +16296,7 @@ Parece que ahora que se envían las rectificativas como tal el test no pasa porq
 
 <img width=""3769"" height=""1714"" alt=""image"" src=""https://github.com/user-attachments/assets/0ee2c39d-04e7-4f82-b508-d28c5b8504bf"" />
 
-¿Puedes corregir el test y aprobamos.?",gracias corrección carlosdauden enviar rectificativa test pasar test planteado,"{'gracias': 0.218, 'pasar': 0.2599, 'enviar': 0.2416, 'rectificativa': 0.3095, 'corrección': 0.3649, 'test': 0.5391, 'carlosdauden': 0.376, 'planteado': 0.4069}",{'pasar test': 1.0},
+¿Puedes corregir el test y aprobamos.?",gracias corrección carlosdauden enviar rectificativa test pasar test planteado,"{'gracias': 0.218, 'pasar': 0.2599, 'enviar': 0.2416, 'rectificativa': 0.3095, 'corrección': 0.3649, 'test': 0.5391, 'carlosdauden': 0.376, 'planteado': 0.4069}",{'pasar test': 1.0},1.0
 Pull Request,4796,[17.0][IMP] l10n_es_aeat_sii_invoice_summary: Refactor to avoid overwrite when it is not necessary,"El origen de la refactorización es que se estaban enviando como F4 facturas rectificativas porque se estaba sobrescribiendo el tipo de factura de forma indiscriminada.
 Ejemplo del problema:
  - Cualquier factura rectificativa donde sii_invoice_summary_start != sii_invoice_summary_end
