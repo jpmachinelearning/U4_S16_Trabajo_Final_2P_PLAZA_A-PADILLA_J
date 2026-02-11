@@ -17525,7 +17525,7 @@ Pull Request,4692,[18.0][IMP] l10n_es_aeat_sii_oca: Make use of upstream simplif
 Te decimos algo en breve, para revisarlo con un poco más de detalle 👍",gracia pedro decir revisar él detalle pulgar,"{'él': 0.2276, 'gracia': 0.324, 'pedro': 0.3981, 'revisar': 0.3288, 'decir': 0.3577, 'detalle': 0.4466, 'pulgar': 0.4992}","{'gracia pedro': 0.7198, 'revisar él': 0.6941}",1.0
 Pull Request,4691,[IMP] l10n_es_aeat_mod303: 2025-12 BOE export format,"Updated according to https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_25/DR303e25.xlsx
 
-MT-13202 @moduon",Me comentan que han podido presentar 4T con el formato antiguo. ¿Puede ser que la actualización solo sea para 2026?,comentar poder presentar 4 t formato antiguo actualización,"{'poder': 0.2724, 'comentar': 0.3476, 'formato': 0.3947, 'antiguo': 0.4647, 'actualización': 0.4755, 'presentar': 0.4552}",{},
+MT-13202 @moduon",Me comentan que han podido presentar 4T con el formato antiguo. ¿Puede ser que la actualización solo sea para 2026?,comentar poder presentar 4 t formato antiguo actualización,"{'poder': 0.2724, 'comentar': 0.3476, 'formato': 0.3947, 'antiguo': 0.4647, 'actualización': 0.4755, 'presentar': 0.4552}",{},0.0
 Pull Request,4691,[IMP] l10n_es_aeat_mod303: 2025-12 BOE export format,"Updated according to https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_25/DR303e25.xlsx
 
 MT-13202 @moduon","En Diciembre sacan 2 diseños de registro uno para el último período de 2025 y otro para 2026
