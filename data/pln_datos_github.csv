@@ -16635,7 +16635,7 @@ Fuente: https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ay
 
 MT-13476 @moduon","> Vale, el título me despistó que pusiera 347. Es el 390... Cámbialo, por favor.
 
-Si, perdón, estoy trabajando también en el nuevo modelo de registro del 347 y se me fue la cabeza. Gracias por el apunte.",valer título despistar poner cámbialir favor perdón trabajar modelo registro cabeza gracias apunte,"{'modelo': 0.2162, 'gracias': 0.1837, 'poner': 0.1927, 'registro': 0.2488, 'favor': 0.2191, 'trabajar': 0.2643, 'valer': 0.2488, 'perdón': 0.3169, 'apunte': 0.2643, 'cabeza': 0.3429, 'título': 0.3429, 'despistar': 0.3429, 'cámbialir': 0.3429}","{'valer título': 0.4472, 'título despistar': 0.4472, 'despistar poner': 0.4472, 'poner cámbialir': 0.4472, 'cámbialir favor': 0.4472}",
+Si, perdón, estoy trabajando también en el nuevo modelo de registro del 347 y se me fue la cabeza. Gracias por el apunte.",valer título despistar poner cámbialir favor perdón trabajar modelo registro cabeza gracias apunte,"{'modelo': 0.2162, 'gracias': 0.1837, 'poner': 0.1927, 'registro': 0.2488, 'favor': 0.2191, 'trabajar': 0.2643, 'valer': 0.2488, 'perdón': 0.3169, 'apunte': 0.2643, 'cabeza': 0.3429, 'título': 0.3429, 'despistar': 0.3429, 'cámbialir': 0.3429}","{'valer título': 0.4472, 'título despistar': 0.4472, 'despistar poner': 0.4472, 'poner cámbialir': 0.4472, 'cámbialir favor': 0.4472}",1.0
 Pull Request,4771,[18.0][FIX] l10n_es_aeat_mod390: Casilla 28 restringida a la cuenta 477,"La casilla 28 es ""IVA devengado"", por lo que debe leer de la cuenta 477.
 
 <img width=""634"" height=""89"" alt=""image"" src=""https://github.com/user-attachments/assets/a799506b-3d0f-4b80-8afc-e4edb318d359"" />
