@@ -10060,7 +10060,7 @@ Sin embargo, si el periodo no incluye ninguna factura con DUA, genera el libro s
 
 Espero que sea suficiente para identificar el fallo.
 
-Gracias,",Alguien le puede intentar echar un ojo a esto? Lo necesitamos para fin de año... no nos importa pagar por el tiempo. Gracias.,alguien intentar echar ojo necesitar año importar pagar tiempo gracias,"{'gracias': 0.231, 'intentar': 0.3128, 'alguien': 0.2978, 'echar': 0.3371, 'ojo': 0.2978, 'año': 0.3238, 'tiempo': 0.3324, 'necesitar': 0.2754, 'importar': 0.3422, 'pagar': 0.3867}","{'alguien intentar': 0.3349, 'intentar echar': 0.3349, 'echar ojo': 0.3206, 'ojo necesitar': 0.3349, 'necesitar año': 0.3349, 'año importar': 0.3349, 'importar pagar': 0.3349, 'pagar tiempo': 0.3349, 'tiempo gracias': 0.3349}",
+Gracias,",Alguien le puede intentar echar un ojo a esto? Lo necesitamos para fin de año... no nos importa pagar por el tiempo. Gracias.,alguien intentar echar ojo necesitar año importar pagar tiempo gracias,"{'gracias': 0.231, 'intentar': 0.3128, 'alguien': 0.2978, 'echar': 0.3371, 'ojo': 0.2978, 'año': 0.3238, 'tiempo': 0.3324, 'necesitar': 0.2754, 'importar': 0.3422, 'pagar': 0.3867}","{'alguien intentar': 0.3349, 'intentar echar': 0.3349, 'echar ojo': 0.3206, 'ojo necesitar': 0.3349, 'necesitar año': 0.3349, 'año importar': 0.3349, 'importar pagar': 0.3349, 'pagar tiempo': 0.3349, 'tiempo gracias': 0.3349}",1.0
 Issue,3786,[17.0] Error en facturas con DUA,"Buenos días, después de hacer un post en el foro: https://www.aeodoo.org/en/forum/general-1/error-despues-de-instalar-libro-de-iva-en-odoo-17-1679
 
 Me han recomendado abrir un issue aquí. Ante nada perdón, ya que no soy técnico, por lo que si necesitáis más información decidme.
