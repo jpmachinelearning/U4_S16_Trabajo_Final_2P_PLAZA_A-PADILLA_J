@@ -16550,7 +16550,7 @@ Pull Request,4773,[18.0][IMP] l10n_es_aeat_mod390: Casilla 523,"
 <img width=""728"" height=""95"" alt=""image"" src=""https://github.com/user-attachments/assets/5656d80c-4951-4ce0-9c53-096e9adfc464"" />
 
 
-@moduon MT-13508","Ahora veo #4771 de nuevo y efectivamente ahí está metido ese impuesto bajo el epígrafe `IVA devengado en otros supuestos de inversión del sujeto pasivo`, con lo que sí es ISP, pero la cuestión es si aquí va también lo mismo, o lo del artículo 84 son otros supuestos.",ver efectivamente metido impuesto epígrafe ivo devengado supuesto inversión sujeto pasivo isp cuestión artículo supuesto,"{'cuestión': 0.2454, 'impuesto': 0.1642, 'ver': 0.1688, 'efectivamente': 0.2302, 'supuesto': 0.601, 'artículo': 0.2743, 'inversión': 0.2815, 'ivo': 0.2815, 'sujeto': 0.242, 'isp': 0.2815, 'pasivo': 0.3139}","{'inversión sujeto': 0.7071, 'sujeto pasivo': 0.7071}",
+@moduon MT-13508","Ahora veo #4771 de nuevo y efectivamente ahí está metido ese impuesto bajo el epígrafe `IVA devengado en otros supuestos de inversión del sujeto pasivo`, con lo que sí es ISP, pero la cuestión es si aquí va también lo mismo, o lo del artículo 84 son otros supuestos.",ver efectivamente metido impuesto epígrafe ivo devengado supuesto inversión sujeto pasivo isp cuestión artículo supuesto,"{'cuestión': 0.2454, 'impuesto': 0.1642, 'ver': 0.1688, 'efectivamente': 0.2302, 'supuesto': 0.601, 'artículo': 0.2743, 'inversión': 0.2815, 'ivo': 0.2815, 'sujeto': 0.242, 'isp': 0.2815, 'pasivo': 0.3139}","{'inversión sujeto': 0.7071, 'sujeto pasivo': 0.7071}",0.0
 Pull Request,4773,[18.0][IMP] l10n_es_aeat_mod390: Casilla 523,"
 <img width=""728"" height=""95"" alt=""image"" src=""https://github.com/user-attachments/assets/5656d80c-4951-4ce0-9c53-096e9adfc464"" />
 
