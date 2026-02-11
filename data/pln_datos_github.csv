@@ -12261,7 +12261,7 @@ Issue,3641,[16.0] instalando l10n_es_aeat_mod123 da un error no encuentra  accou
 
 ```
 
-He comprobado contra una ultima version de todo, he buscado ese id y solo estan las 2 referencias del modulo que falla, no donde se crea..","Glups, gracias, tienes toda la razon era el odoo,  disculpas por el ruido",glups gracia tener razon odoo disculpa ruido,"{'odoo': 0.3169, 'tener': 0.3337, 'gracia': 0.359, 'disculpa': 0.5406, 'ruido': 0.6059}",{},
+He comprobado contra una ultima version de todo, he buscado ese id y solo estan las 2 referencias del modulo que falla, no donde se crea..","Glups, gracias, tienes toda la razon era el odoo,  disculpas por el ruido",glups gracia tener razon odoo disculpa ruido,"{'odoo': 0.3169, 'tener': 0.3337, 'gracia': 0.359, 'disculpa': 0.5406, 'ruido': 0.6059}",{},1.0
 Issue,3636,"[17.0] l10n_es_partner , address doesnt show in reports if partner has commercial name ","L10n_es_partner
 
 If commercial name is defined, adress is not showed in reports.
