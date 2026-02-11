@@ -5864,7 +5864,7 @@ Personalmente se me ocurren 3 opciones:
 2. Crear de nuevo unos modelos sencillos dentro de FACe. Al no tener e.Fact, la cosa es mucho más sencilla ahora, aunque implicará hacer algo ""parecido"" pero mucho más simplificado a lo hecho por el framework
 3. Seguir con el framework de OCA
 
-¿Cual es vuestra opinión?","PArece que irá a buen puerto, con lo que podemos plantear el cambio ya en v18. simplificandonos la vida a todos.",ir puerto plantear cambio v18 simplificandono vida,"{'cambio': 0.3178, 'v18': 0.5363, 'plantear': 0.4022, 'vida': 0.5177, 'ir': 0.4261}",{},
+¿Cual es vuestra opinión?","PArece que irá a buen puerto, con lo que podemos plantear el cambio ya en v18. simplificandonos la vida a todos.",ir puerto plantear cambio v18 simplificandono vida,"{'cambio': 0.3178, 'v18': 0.5363, 'plantear': 0.4022, 'vida': 0.5177, 'ir': 0.4261}",{},1.0
 Issue,4338,"SII, envío de facturas DUA, o DUA exento","Hola!
 
 Hay un cambio en el método _compute_sii_enabled del módulo del SII en Odoo 17 respecto a la 16 y me gustaría conocer si hay alguna razón legal o de otro tipo para ello. Puesto que hay empresas que quieren enviarlas al SII y en la 17 no se puede.
