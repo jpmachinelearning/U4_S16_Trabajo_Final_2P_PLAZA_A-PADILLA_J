@@ -4886,7 +4886,7 @@ Según lo que he hablado con @pedrobaeza , como los cambios de V16 hacia V14 y V
 
 En caso de que necesitéis revisiones, puedo aportar mi granito de arena.
 
-Gracias.",hola flachica constar acysos pensado llevar él v15 hablar pedrobaeza cambio v16 v14 v15 similar conveniente podáis unir esfuerzo coordinaro caso necesitéis revisión aportar granito arena gracias,"{'similar': 0.2026, 'cambio': 0.1491, 'gracias': 0.1408, 'llevar': 0.1928, 'caso': 0.1242, 'pedrobaeza': 0.1312, 'hola': 0.1397, 'v16': 0.2357, 'él': 0.1047, 'v14': 0.2199, 'constar': 0.2429, 'acysos': 0.2629, 'pensado': 0.2516, 'v15': 0.5032, 'hablar': 0.195, 'conveniente': 0.2516, 'esfuerzo': 0.2357, 'revisión': 0.2357, 'aportar': 0.2357}","{'pedrobaeza cambio': 0.592, 'llevar él': 0.547, 'v14 v15': 0.592}",
+Gracias.",hola flachica constar acysos pensado llevar él v15 hablar pedrobaeza cambio v16 v14 v15 similar conveniente podáis unir esfuerzo coordinaro caso necesitéis revisión aportar granito arena gracias,"{'similar': 0.2026, 'cambio': 0.1491, 'gracias': 0.1408, 'llevar': 0.1928, 'caso': 0.1242, 'pedrobaeza': 0.1312, 'hola': 0.1397, 'v16': 0.2357, 'él': 0.1047, 'v14': 0.2199, 'constar': 0.2429, 'acysos': 0.2629, 'pensado': 0.2516, 'v15': 0.5032, 'hablar': 0.195, 'conveniente': 0.2516, 'esfuerzo': 0.2357, 'revisión': 0.2357, 'aportar': 0.2357}","{'pedrobaeza cambio': 0.592, 'llevar él': 0.547, 'v14 v15': 0.592}",1.0
 Issue,4368,[IMP] Backport OCA Verifactu,"**¿Tu solicitud de funcionalidad está relacionada con algún problema?**
 Todas las empresas españolas requieren adaptarse a la normativa contable de la que se deriva Verifactu. Contamos con una versión del módulo OCA para 16.0 aunque lo necesitamos instalar en Odoo 14.0
 
