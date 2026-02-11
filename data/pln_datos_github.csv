@@ -15972,7 +15972,7 @@ Antes de hacer cambios en código quería confirmar si esta situación ya está 
 
 **Expected behavior**
 Las subvenciones deberían aparecer en el 347.
-","Hola, Josep, ¿la casilla 120 de qué?",hola josep casilla,"{'hola': 0.6063, 'casilla': 0.7952}",{},
+","Hola, Josep, ¿la casilla 120 de qué?",hola josep casilla,"{'hola': 0.6063, 'casilla': 0.7952}",{},0.0
 Issue,3451,l10n_es_aeat_mod347: subvenciones,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
