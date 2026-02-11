@@ -2861,7 +2861,7 @@ Tengo que emitir facturas a administración pública y sin este módulo no puedo
 He probado añadiendo y quitando el ES delante del dni de la compañia.
 
 6 - 447 - El DNI del emisor es incorrecto
-",firmar odoo probar subir él probar añadir quitar dni compañia dni emisor incorrecto,"{'odoo': 0.1937, 'él': 0.1542, 'añadir': 0.2392, 'subir': 0.2672, 'probar': 0.5296, 'firmar': 0.347, 'emisor': 0.347, 'compañia': 0.3381, 'quitar': 0.2777, 'incorrecto': 0.3121}","{'probar subir': 0.5971, 'subir él': 0.5356, 'probar añadir': 0.5971}",
+",firmar odoo probar subir él probar añadir quitar dni compañia dni emisor incorrecto,"{'odoo': 0.1937, 'él': 0.1542, 'añadir': 0.2392, 'subir': 0.2672, 'probar': 0.5296, 'firmar': 0.347, 'emisor': 0.347, 'compañia': 0.3381, 'quitar': 0.2777, 'incorrecto': 0.3121}","{'probar subir': 0.5971, 'subir él': 0.5356, 'probar añadir': 0.5971}",-1.0
 Issue,4472,[FIX] l10n_es_aeat: Pestaña AEAT. Datos sensibles en contactos,"En versiones anteriores de Odoo (hasta la 16), al crear un empleado se generaba automáticamente un contacto privado (`res.partner)` vinculado a él. Ese contacto se utilizaba para guardar información personal y fiscal necesaria para el modelo 190 de la AEAT, como la situación de discapacidad u otros datos sensibles.
 
 A partir de la versión 17 en adelante, esto ha cambiado. Las direcciones privadas desaparecen del modelo res.partner, y toda la información sensible de empleados pasa a gestionarse directamente en `hr.employee`. Esto se detalla en el siguiente cambio oficial de Odoo:
