@@ -15617,7 +15617,7 @@ Issue,3455,Modelo 347 importes en negatico,"Hola, cuando generamos el modelo 347
 Pero cuando exportas a BOE sale en positivo. 
 ![image](https://github.com/OCA/l10n-spain/assets/84158523/5c3044b6-43ca-4be4-a9be-5ffc5307d036)
 
-Estamos haciendo algo mal o es un problema del módulo?","Solo me han pasado esa captura. Tranquilo ya lo reviso yo, era solo confirmar que tiene que salir en negativo en el documento.",captura tranquilo revisar confirmar salir negativo documento,"{'confirmar': 0.4112, 'salir': 0.3431, 'documento': 0.4572, 'revisar': 0.2934, 'captura': 0.4572, 'negativo': 0.4572}",{},
+Estamos haciendo algo mal o es un problema del módulo?","Solo me han pasado esa captura. Tranquilo ya lo reviso yo, era solo confirmar que tiene que salir en negativo en el documento.",captura tranquilo revisar confirmar salir negativo documento,"{'confirmar': 0.4112, 'salir': 0.3431, 'documento': 0.4572, 'revisar': 0.2934, 'captura': 0.4572, 'negativo': 0.4572}",{},-1.0
 Issue,3455,Modelo 347 importes en negatico,"Hola, cuando generamos el modelo 347 y un cliente tiene importes en negativo (porque solo hay facturas rectificativas) en el documento sale correcto:
 ![image](https://github.com/OCA/l10n-spain/assets/84158523/1fa316da-787c-4dc0-87ee-1a677a984acf)
 
