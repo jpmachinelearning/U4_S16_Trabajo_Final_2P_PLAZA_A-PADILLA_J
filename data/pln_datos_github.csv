@@ -19386,7 +19386,7 @@ VERI*FACTU, conforme a lo establecido en:
 
 La modificación tiene carácter exclusivamente técnico y no altera la
 estructura, integridad ni trazabilidad de los registros de facturación
-ni el cumplimiento de las obligaciones establecidas por la AEAT.","@ajfebres Recuerda que es un commit por módulo, quita el del pre-commit",ajfebres recordar commit módulo quitar pre-commit,"{'módulo': 0.1965, 'quitar': 0.3151, 'recordar': 0.3297, 'commit': 0.7674, 'pre': 0.4057}",{'pre commit': 1.0},,,6,Desarrollo
+ni el cumplimiento de las obligaciones establecidas por la AEAT.","@ajfebres Recuerda que es un commit por módulo, quita el del pre-commit",ajfebres recordar commit módulo quitar pre-commit,"{'módulo': 0.1965, 'quitar': 0.3151, 'recordar': 0.3297, 'commit': 0.7674, 'pre': 0.4057}",{'pre commit': 1.0},0.0,,6,Desarrollo
 Pull Request,4580,[15.0][BACKPORT] l10n_es_igic_verifactu_oca,"Backport 15 Verifactu IGIC
 
 ### Nota legal y de cumplimiento
