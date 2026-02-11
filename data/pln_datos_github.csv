@@ -19371,7 +19371,7 @@ Falta ver cuales seran las URLs definitivas, por lo que aún no puede mergearse,
 
 TODO:
 
-- [ ] Migration script para pasar las URLs a lo que sea conveniente (De test a producción)","Bueno, si ves problemas técnicas, no creo que sea mucho problema tener un botón + popup",ver problema técnico problema botón popup,"{'problema': 0.6205, 'ver': 0.3423, 'técnico': 0.5134, 'botón': 0.484}",{'ver problema': 1.0},,,0,Soporte
+- [ ] Migration script para pasar las URLs a lo que sea conveniente (De test a producción)","Bueno, si ves problemas técnicas, no creo que sea mucho problema tener un botón + popup",ver problema técnico problema botón popup,"{'problema': 0.6205, 'ver': 0.3423, 'técnico': 0.5134, 'botón': 0.484}",{'ver problema': 1.0},0.0,,0,Soporte
 Pull Request,4580,[15.0][BACKPORT] l10n_es_igic_verifactu_oca,"Backport 15 Verifactu IGIC
 
 ### Nota legal y de cumplimiento
