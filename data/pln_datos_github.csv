@@ -14021,7 +14021,7 @@ In 15.0 the manifest from l10n_es_aeat is the following:
     
 While in 16.0 is the following:
     ""external_dependencies"": {""python"": [""unidecode"", ""cryptography==3.4.8""]},
-","El problema esta en tu instalacion. Odoo requiere esa version, por eso esta congelado.",problema instalacion odoo requerir version congelado,"{'problema': 0.3476, 'odoo': 0.3571, 'requerir': 0.5854, 'version': 0.6395}",{},
+","El problema esta en tu instalacion. Odoo requiere esa version, por eso esta congelado.",problema instalacion odoo requerir version congelado,"{'problema': 0.3476, 'odoo': 0.3571, 'requerir': 0.5854, 'version': 0.6395}",{},-1.0
 Issue,3507,[16.0] cryptography wrong version in modules manifest,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
