@@ -8123,7 +8123,7 @@ No tiene obligación de marcar un impuesto, pero si de declarar los movimientos 
 
 Solución propuesta: Añadir un impuesto (ej: ""No aplica"") para poder asociarlo al mapeo de la 347. 
 
-Un saludo.","De momento no está contemplado eso, pero siempre puedes eliminar a mano el impuesto no sujeto del mapeo del libro de IVA.",momento contemplado poder eliminar mano impuesto sujeto mapeo libro iva,"{'poder': 0.2158, 'contemplado': 0.3865, 'impuesto': 0.2254, 'mapeo': 0.3277, 'iva': 0.2456, 'libro': 0.3277, 'momento': 0.2901, 'eliminar': 0.3766, 'mano': 0.3766, 'sujeto': 0.3322}","{'libro iva': 0.4838, 'impuesto sujeto': 0.6188, 'mapeo libro': 0.6188}",
+Un saludo.","De momento no está contemplado eso, pero siempre puedes eliminar a mano el impuesto no sujeto del mapeo del libro de IVA.",momento contemplado poder eliminar mano impuesto sujeto mapeo libro iva,"{'poder': 0.2158, 'contemplado': 0.3865, 'impuesto': 0.2254, 'mapeo': 0.3277, 'iva': 0.2456, 'libro': 0.3277, 'momento': 0.2901, 'eliminar': 0.3766, 'mano': 0.3766, 'sujeto': 0.3322}","{'libro iva': 0.4838, 'impuesto sujeto': 0.6188, 'mapeo libro': 0.6188}",0.0
 Issue,4017,[16.0] l10n_es_aeat_mod347 Movimientos sin impuesto no se reflejan en el mod347,"La compañía es una organización sin ánimo de lucro. 
 No tiene obligación de marcar un impuesto, pero si de declarar los movimientos en el mod347.
 
