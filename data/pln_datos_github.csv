@@ -18706,7 +18706,7 @@ Cuando esté fusionado hago cherry-pick a la 17
 
 MT-12991 @moduon @EmilioPascual @pedrobaeza porfa, revisad si queréis 😄 ","@pedrobaeza , lo vamos a llevar a todas las versiones ;-)
 
-> Cuando esté fusionado hago cherry-pick a la 17",pedrobaeza versión estar fusionado cherry-pick,"{'estar': 0.321, 'versión': 0.3078, 'pedrobaeza': 0.2558, 'fusionado': 0.4597, 'cherry': 0.5126, 'pick': 0.5126}","{'cherry pick': 0.7071, 'estar fusionado': 0.7071}",,,,
+> Cuando esté fusionado hago cherry-pick a la 17",pedrobaeza versión estar fusionado cherry-pick,"{'estar': 0.321, 'versión': 0.3078, 'pedrobaeza': 0.2558, 'fusionado': 0.4597, 'cherry': 0.5126, 'pick': 0.5126}","{'cherry pick': 0.7071, 'estar fusionado': 0.7071}",0.0,,,
 Pull Request,4660,[18.0][FIX] l10n_es_aeat_mod123: Tax 'Retenciones IRPF 19% (Compra consejero de sociedad)' added to tax mapping,"Las Retenciones IRPF 19% no se han metido en el mapeo de impuestos como en v16: https://github.com/OCA/l10n-spain/pull/3625
 
 Cuando esté fusionado hago cherry-pick a la 17
