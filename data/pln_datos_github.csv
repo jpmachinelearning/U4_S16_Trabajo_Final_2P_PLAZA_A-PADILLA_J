@@ -18961,7 +18961,7 @@ Antes del fix sólo se recogía la casilla 87 del último periodo lo que no reco
 
 @ArantxaSudon revisa por favor.
 
-MT-8899 @moduon","Congratulations, your PR was merged at 7a6618f9e7915b2d71bb92ac59a5818e31718d27. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+MT-8899 @moduon","Congratulations, your PR was merged at 7a6618f9e7915b2d71bb92ac59a5818e31718d27. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4616,[16.0][IMP] l10n_es_aeat_mod111: Calcular tipo declaración,"Con esta mejora, el campo tipo declaración es computado bajo la siguiente lógica:
 
 - Si es el resultado (Casilla 30) es positivo o igual a 0:
