@@ -6460,7 +6460,7 @@ Hacer una venta con la posición fiscal ""Recargo de Equivalencia""
 
 **Affected versions**: ...14.0 / 15.0 / 16.0
 
-",@Bilbonet ¿podrías tal vez indicarme donde encontrar el formato correcto?,bilbonet podriar indicar yo encontrar formato correcto,"{'encontrar': 0.3632, 'indicar': 0.3452, 'yo': 0.3741, 'correcto': 0.3112, 'formato': 0.378, 'bilbonet': 0.4137, 'podriar': 0.4451}","{'formato correcto': 0.7071, 'bilbonet podriar': 0.7071}",
+",@Bilbonet ¿podrías tal vez indicarme donde encontrar el formato correcto?,bilbonet podriar indicar yo encontrar formato correcto,"{'encontrar': 0.3632, 'indicar': 0.3452, 'yo': 0.3741, 'correcto': 0.3112, 'formato': 0.378, 'bilbonet': 0.4137, 'podriar': 0.4451}","{'formato correcto': 0.7071, 'bilbonet podriar': 0.7071}",0.0
 Issue,4211,[14.0] l10n_es_ticketbai_pos: Error en recargo de equivalencia,"## Module
 l10n_es_ticketbai_pos
 
