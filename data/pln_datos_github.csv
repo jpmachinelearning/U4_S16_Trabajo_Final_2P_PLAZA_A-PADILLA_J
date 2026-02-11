@@ -18850,7 +18850,7 @@ He añadido la implementación de la facturación de terceros al ROADMAP para qu
 Pull Request,4630,[15.0][IMP]l10n_es_verifactu_oca: añadido causas de exención,"- Se modifica el mapeo de impuestos de Veri*Factu y se añaden las claves para la 6 causas posibles de exención.
 - Se modifica el contenido a enviar para las operaciones exentas.
 
-@BinhexTeam",Pendiente de #4499 ,pendiente,{'pendiente': 1.0},{},,,,
+@BinhexTeam",Pendiente de #4499 ,pendiente,{'pendiente': 1.0},{},1.0,,,
 Pull Request,4627,[16.0][IMP] l10n_es_vat_prorate: update prorate data with wizard,"@Tecnativa TT59299
 
 Añadida la posibilidad de actualizar prorrata si eres responsable de AEAT y Facturación.
