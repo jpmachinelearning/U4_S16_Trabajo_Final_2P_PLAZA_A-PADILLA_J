@@ -18789,7 +18789,7 @@ mismo caso pero inverso, base negativa, impuesto positivo
 
 
 <img width=""828"" height=""76"" alt=""image"" src=""https://github.com/user-attachments/assets/46055b5d-1865-4453-ae10-88c1cbc42163"" />
-","Es un caso demasiado específico como bien decís... pero no debería crearse un método específico para ello, si no ver por qué fallan los mecanismos de limpieza estándar y mejorarlos.",caso específico decís deber crear él método específico fallar mecanismo limpieza estándar mejorar él,"{'caso': 0.1574, 'él': 0.2654, 'deber': 0.188, 'crear': 0.219, 'limpieza': 0.3331, 'estándar': 0.2786, 'método': 0.2734, 'específico': 0.4832, 'decís': 0.2845, 'mejorar': 0.2687, 'fallar': 0.2644, 'mecanismo': 0.3188}","{'crear él': 0.7071, 'caso específico': 0.7071}",,,,
+","Es un caso demasiado específico como bien decís... pero no debería crearse un método específico para ello, si no ver por qué fallan los mecanismos de limpieza estándar y mejorarlos.",caso específico decís deber crear él método específico fallar mecanismo limpieza estándar mejorar él,"{'caso': 0.1574, 'él': 0.2654, 'deber': 0.188, 'crear': 0.219, 'limpieza': 0.3331, 'estándar': 0.2786, 'método': 0.2734, 'específico': 0.4832, 'decís': 0.2845, 'mejorar': 0.2687, 'fallar': 0.2644, 'mecanismo': 0.3188}","{'crear él': 0.7071, 'caso específico': 0.7071}",-1.0,,,
 Pull Request,4647,"[IMP] l10n_es_aeat_mod390: Incluir el campo ""Usar 303"" en la configur…","Añade configuración a nivel de compañía para establecer el valor predeterminado del campo ""Usar informes del 303"" en nuevos informes del modelo 390.
 
 - Nuevo campo en `res.company`: `l10n_es_aeat_mod390_use_303`
