@@ -18089,7 +18089,7 @@ A esto:
 
 <img width=""1354"" height=""819"" alt=""image"" src=""https://github.com/user-attachments/assets/b72b5282-49fa-4ca9-acf8-a6321768f7b5"" />
 
-",referir activar régimen simplificado pos configuración compañía ver check apartado ticketbai pos ver,"{'ver': 0.3671, 'activar': 0.2801, 'check': 0.2708, 'configuración': 0.2378, 'compañía': 0.2357, 'simplificado': 0.2753, 'referir': 0.2503, 'apartado': 0.306, 'ticketbai': 0.2595, 'pos': 0.4756, 'régimen': 0.2753}","{'configuración compañía': 0.2815, 'ticketbai pos': 0.2512, 'régimen simplificado': 0.2815, 'referir activar': 0.2941, 'activar régimen': 0.2941, 'simplificado pos': 0.2941, 'pos configuración': 0.2941, 'compañía ver': 0.2941, 'ver check': 0.2941, 'check apartado': 0.2941, 'apartado ticketbai': 0.2941, 'pos ver': 0.2941}",,,,
+",referir activar régimen simplificado pos configuración compañía ver check apartado ticketbai pos ver,"{'ver': 0.3671, 'activar': 0.2801, 'check': 0.2708, 'configuración': 0.2378, 'compañía': 0.2357, 'simplificado': 0.2753, 'referir': 0.2503, 'apartado': 0.306, 'ticketbai': 0.2595, 'pos': 0.4756, 'régimen': 0.2753}","{'configuración compañía': 0.2815, 'ticketbai pos': 0.2512, 'régimen simplificado': 0.2815, 'referir activar': 0.2941, 'activar régimen': 0.2941, 'simplificado pos': 0.2941, 'pos configuración': 0.2941, 'compañía ver': 0.2941, 'ver check': 0.2941, 'check apartado': 0.2941, 'apartado ticketbai': 0.2941, 'pos ver': 0.2941}",0.0,,,
 Pull Request,4679,[16.0] [FIX] l10n_es_ticketbai_pos: fix AttributeError when validating payment from pos order to invoice,"## **Análisis del Error de TicketBAI en POS**
 
 ### **📋 Escenario Funcional**
