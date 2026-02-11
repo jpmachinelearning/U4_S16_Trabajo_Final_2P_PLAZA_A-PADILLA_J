@@ -2594,7 +2594,7 @@ Buenas, a la hora de instalar el módulo me da error que no existe l10n_es_igic.
     ""version"": ""16.0.1.4.0"", veo en los archivos DATA los impuestos, pero en el Odoo no veo los de 5%.
 
 
-","Eso es lo que me pregunto, está completamente actualizado.",preguntar completamente actualizado,"{'actualizado': 0.5375, 'preguntar': 0.5873, 'completamente': 0.6051}",{},
+","Eso es lo que me pregunto, está completamente actualizado.",preguntar completamente actualizado,"{'actualizado': 0.5375, 'preguntar': 0.5873, 'completamente': 0.6051}",{},0.0
 Issue,4534,[16.0] ln_es_igic_verifactu_oca - l10n_es_igic," ln_es_igic_verifactu_oca 
 Buenas, a la hora de instalar el módulo me da error que no existe l10n_es_igic.account_tax_template_igic_r_5, no se si alguno más, se queda ahí. El módulo instalado de IGIC  ""name"": ""IGIC (Impuesto General Indirecto Canario"",
     ""version"": ""16.0.1.4.0"", veo en los archivos DATA los impuestos, pero en el Odoo no veo los de 5%.
