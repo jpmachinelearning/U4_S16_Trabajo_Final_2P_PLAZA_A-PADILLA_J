@@ -6849,7 +6849,7 @@ A clear and concise description of what you expected to happen.
 Add any other context about the problem here. (e.g. OS, Python version, ...)
 El `_tipo` siempre me devuelve una ""C"" en vez de una ""N"" y no se si es por alguna configuración o es que no funciona de forma correcta el modulo con el magic button
 
-![Image](https://github.com/user-attachments/assets/a41dc038-0dd1-48da-848b-7da58a1e6865)",@pedrobaeza Si puedes revisar esto y decirme si es por culpa de configuración o si esta obsoleto lo del `_tipo`,pedrobaeza poder revisar decirme culpa configuración obsoleto tipo,"{'poder': 0.2647, 'pedrobaeza': 0.2638, 'tipo': 0.3377, 'configuración': 0.3684, 'revisar': 0.3043, 'obsoleto': 0.4884, 'culpa': 0.5286}","{'pedrobaeza poder': 0.721, 'poder revisar': 0.693}",
+![Image](https://github.com/user-attachments/assets/a41dc038-0dd1-48da-848b-7da58a1e6865)",@pedrobaeza Si puedes revisar esto y decirme si es por culpa de configuración o si esta obsoleto lo del `_tipo`,pedrobaeza poder revisar decirme culpa configuración obsoleto tipo,"{'poder': 0.2647, 'pedrobaeza': 0.2638, 'tipo': 0.3377, 'configuración': 0.3684, 'revisar': 0.3043, 'obsoleto': 0.4884, 'culpa': 0.5286}","{'pedrobaeza poder': 0.721, 'poder revisar': 0.693}",0.0
 Issue,4206,[18.0] delivery_gls_asm: url incorrect,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
