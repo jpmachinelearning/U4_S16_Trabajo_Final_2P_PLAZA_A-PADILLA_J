@@ -15826,7 +15826,7 @@ Antes de hacer cambios en código quería confirmar si esta situación ya está 
 
 **Expected behavior**
 Las subvenciones deberían aparecer en el 347.
-","Hola, Miquel, lo que pones es de cara a la empresa receptora del KD, ¿verdad? El que vaya a la cuenta 4300 no me cuadra. @AlbertCabedo te has encontrado con este caso?",hola miquel poner cara empresa receptor kd cuadra albertcabedo haber encontrar caso,"{'poner': 0.2304, 'caso': 0.1937, 'haber': 0.2449, 'cara': 0.2783, 'hola': 0.2179, 'encontrar': 0.2858, 'empresa': 0.2858, 'albertcabedo': 0.343, 'receptor': 0.3925, 'cuadra': 0.3925, 'kd': 0.3678}","{'haber encontrar': 0.5, 'encontrar caso': 0.5, 'empresa receptor': 0.5, 'receptor kd': 0.5}",
+","Hola, Miquel, lo que pones es de cara a la empresa receptora del KD, ¿verdad? El que vaya a la cuenta 4300 no me cuadra. @AlbertCabedo te has encontrado con este caso?",hola miquel poner cara empresa receptor kd cuadra albertcabedo haber encontrar caso,"{'poner': 0.2304, 'caso': 0.1937, 'haber': 0.2449, 'cara': 0.2783, 'hola': 0.2179, 'encontrar': 0.2858, 'empresa': 0.2858, 'albertcabedo': 0.343, 'receptor': 0.3925, 'cuadra': 0.3925, 'kd': 0.3678}","{'haber encontrar': 0.5, 'encontrar caso': 0.5, 'empresa receptor': 0.5, 'receptor kd': 0.5}",0.0
 Issue,3451,l10n_es_aeat_mod347: subvenciones,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
