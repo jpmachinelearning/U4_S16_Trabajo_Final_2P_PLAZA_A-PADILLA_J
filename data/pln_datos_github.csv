@@ -12231,7 +12231,7 @@ Gracias
 Saludos,
 Rafa
 
-@moduon MT-6620 ping @yajo @edlopen ","Hablalo con core, a mi la licencia me parece correcta tal y como está, además siempre podéis optar por los assets de OCA.",hablalo core licencia correcto poder optar asset oca,"{'poder': 0.27, 'core': 0.428, 'oca': 0.3399, 'correcto': 0.322, 'optar': 0.4836, 'licencia': 0.5392}",{'correcto poder': 1.0},
+@moduon MT-6620 ping @yajo @edlopen ","Hablalo con core, a mi la licencia me parece correcta tal y como está, además siempre podéis optar por los assets de OCA.",hablalo core licencia correcto poder optar asset oca,"{'poder': 0.27, 'core': 0.428, 'oca': 0.3399, 'correcto': 0.322, 'optar': 0.4836, 'licencia': 0.5392}",{'correcto poder': 1.0},1.0
 Issue,3647,AVISO: Rama 17.0 empujada forzada,"Debido a que el bot empujó un archivo DEB de 30 MB:
 
 https://github.com/OCA/l10n-spain/commit/6ab2763cbef17f2a81528e7564ddf36ce870ad79#diff-de4e69c46f94e742c70468b9e0f08ebc21bf93aa8a5b98463faf63effa1e7c8a
