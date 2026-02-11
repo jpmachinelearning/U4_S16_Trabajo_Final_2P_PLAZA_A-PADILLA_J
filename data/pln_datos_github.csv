@@ -19015,7 +19015,7 @@ Con esta mejora se añade un test para probarla.
 
 https://www.loom.com/share/f765537951664e0ea77af6536c7de433
 
-MT-12714 @moduon @EmilioPascual ",@EmilioPascual @ArantxaSudon @pedrobaeza He modificado el PR para hacer la mejora del cómputo del campo tipo declaración.,emiliopascual arantxasudon pedrobaeza modificar pr mejora cómputo campo tipo declaración,"{'campo': 0.2601, 'pedrobaeza': 0.2331, 'pr': 0.2637, 'tipo': 0.2984, 'modificar': 0.3466, 'declaración': 0.3426, 'emiliopascual': 0.399, 'mejora': 0.3835, 'arantxasudon': 0.419}",{'emiliopascual arantxasudon': 1.0},,,3,Desarrollo
+MT-12714 @moduon @EmilioPascual ",@EmilioPascual @ArantxaSudon @pedrobaeza He modificado el PR para hacer la mejora del cómputo del campo tipo declaración.,emiliopascual arantxasudon pedrobaeza modificar pr mejora cómputo campo tipo declaración,"{'campo': 0.2601, 'pedrobaeza': 0.2331, 'pr': 0.2637, 'tipo': 0.2984, 'modificar': 0.3466, 'declaración': 0.3426, 'emiliopascual': 0.399, 'mejora': 0.3835, 'arantxasudon': 0.419}",{'emiliopascual arantxasudon': 1.0},1.0,,3,Desarrollo
 Pull Request,4616,[16.0][IMP] l10n_es_aeat_mod111: Calcular tipo declaración,"Con esta mejora, el campo tipo declaración es computado bajo la siguiente lógica:
 
 - Si es el resultado (Casilla 30) es positivo o igual a 0:
