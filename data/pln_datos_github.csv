@@ -18716,7 +18716,7 @@ Pull Request,4658,[18.0][FIX] l10n_es_partner: Force context to calculate comple
 
 @tecnativa TT59646
 
-@pedrobaeza @victoralmau please review","Comprueba CI. @carlosdauden como tú estuviste cacharreando con esto, tal vez puedes dar pistas",comprobar ci carlosdauden estar cacharrear poder pista,"{'poder': 0.2355, 'comprobar': 0.3532, 'estar': 0.2946, 'pista': 0.4017, 'ci': 0.4017, 'carlosdauden': 0.4346, 'cacharrear': 0.4704}","{'carlosdauden estar': 0.5, 'estar cacharrear': 0.5, 'cacharrear poder': 0.5, 'poder pista': 0.5}",,,,
+@pedrobaeza @victoralmau please review","Comprueba CI. @carlosdauden como tú estuviste cacharreando con esto, tal vez puedes dar pistas",comprobar ci carlosdauden estar cacharrear poder pista,"{'poder': 0.2355, 'comprobar': 0.3532, 'estar': 0.2946, 'pista': 0.4017, 'ci': 0.4017, 'carlosdauden': 0.4346, 'cacharrear': 0.4704}","{'carlosdauden estar': 0.5, 'estar cacharrear': 0.5, 'cacharrear poder': 0.5, 'poder pista': 0.5}",-1.0,,,
 Pull Request,4658,[18.0][FIX] l10n_es_partner: Force context to calculate complete_name with comercial,"complete_name is the field used to sort res.partner, but when calculated without context, the stored value ignored the sales rep name, producing an inconsistent visual order in the tree views when sorting by contact. The context is forced during the compute to include the sales rep in companies and contacts. In addition, a migration script is added to recalculate the affected records as it is a stored field.
 
 @tecnativa TT59646
