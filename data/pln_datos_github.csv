@@ -13153,7 +13153,7 @@ Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata
 
 @pedrobaeza Hace unos meses participaste en el hilo. Qué opinas? Nuestra idea es hacer algo genérico y sostenible en la localización, para no tenerlo en un custom.
 
-Gracias.","Ahora que tenemos hecho esto, vamos a hacer comprobaciones en el módulo l10n_es_aeat_mod303_vat_prorate, para validar que todo dé como tiene que dar.",comprobación módulo l10n_es_aeat_mod303_vat_prorate validar dar,"{'módulo': 0.314, 'dar': 0.4613, 'validar': 0.5409, 'comprobación': 0.6293}",{},
+Gracias.","Ahora que tenemos hecho esto, vamos a hacer comprobaciones en el módulo l10n_es_aeat_mod303_vat_prorate, para validar que todo dé como tiene que dar.",comprobación módulo l10n_es_aeat_mod303_vat_prorate validar dar,"{'módulo': 0.314, 'dar': 0.4613, 'validar': 0.5409, 'comprobación': 0.6293}",{},1.0
 Issue,3589,Fallo de los tests al conectar a la Hacienda de Gipúzcoa,"En todas las ramas está dando este error:
 
 ```
