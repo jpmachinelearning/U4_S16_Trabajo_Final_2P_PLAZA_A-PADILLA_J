@@ -7019,7 +7019,7 @@ Issue,4178,[17.0]l10n_es_aeat_mod303: Error casilla 120 impuesto no sujeto por r
 
 ![Image](https://github.com/user-attachments/assets/59d21f80-e89a-4852-a935-f68bfe773dbe)
 
-https://sede.agenciatributaria.gob.es/Sede/todas-gestiones/impuestos-tasas/iva/modelo-303-iva-autoliquidacion_/instrucciones.html","Si es así, creo que también se debería modificar la casilla 84 y pasar ese impuestos a la casilla 94.",deber modificar casilla pasar impuesto casilla,"{'pasar': 0.3418, 'impuesto': 0.2799, 'deber': 0.302, 'modificar': 0.3969, 'casilla': 0.7457}",{'impuesto casilla': 1.0},
+https://sede.agenciatributaria.gob.es/Sede/todas-gestiones/impuestos-tasas/iva/modelo-303-iva-autoliquidacion_/instrucciones.html","Si es así, creo que también se debería modificar la casilla 84 y pasar ese impuestos a la casilla 94.",deber modificar casilla pasar impuesto casilla,"{'pasar': 0.3418, 'impuesto': 0.2799, 'deber': 0.302, 'modificar': 0.3969, 'casilla': 0.7457}",{'impuesto casilla': 1.0},-1.0
 Issue,4178,[17.0]l10n_es_aeat_mod303: Error casilla 120 impuesto no sujeto por reglas de localización,"Las ventas y rectificativas de Canarias, Ceuta y Melilla, Aeat indica que se declaran en la casilla 60 y no la 120 que está mapeada en el impuesto.
 
 ![Image](https://github.com/user-attachments/assets/ddc9cb5c-53bd-49da-b10a-a8cbfe23a7d5)
