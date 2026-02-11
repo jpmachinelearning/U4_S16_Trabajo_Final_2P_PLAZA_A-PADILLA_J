@@ -17514,7 +17514,7 @@ Pull Request,4694,[18.0][FIX] l10n_es_atc_mod420: Freeze time in tests for avoid
 @Tecnativa ","Congratulations, your PR was merged at 5f07ac229231c2d309f7071dad13e1dd21392792. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4693,[18.0][FIX] l10n_es_pos_sii: Send date visibility,"To know when it's going to be sent, and to be able to send it now.
 
-@Tecnativa ","Congratulations, your PR was merged at ac3d26175131d56d9e2436a571016dbb6a102227. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at ac3d26175131d56d9e2436a571016dbb6a102227. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4692,[18.0][IMP] l10n_es_aeat_sii_oca: Make use of upstream simplified flag,"Odoo has included an extra flag at invoice level for controlling if the invoice complies with the requirements for being a simplified one, so let's use it as an extra possibility for avoiding to manually set the check on all the partners without VAT and not getting to the amount limit.
 
 @Tecnativa ","@HaraldPanten @etobella y los demás usuarios del SII, qué os parece esta mejora?",haraldpantar etobella usuario sii mejora,"{'usuario': 0.4262, 'etobella': 0.4644, 'sii': 0.3609, 'mejora': 0.5197, 'haraldpantar': 0.4499}",{'haraldpantar etobella': 1.0},
