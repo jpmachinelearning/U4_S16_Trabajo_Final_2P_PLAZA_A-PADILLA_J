@@ -18756,7 +18756,7 @@ Pull Request,4655,[18.0][IMP] l10n_es_verifactu_oca: Invoice cancellation,"Forwa
 - Añade nuevos estados
 - Se han refactorizado los tests para unificar métodos que se repetían.
 
-@Tecnativa ","Congratulations, your PR was merged at 10d2830d6dd464a33cc3fbf445d51eca1261b2e0. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+@Tecnativa ","Congratulations, your PR was merged at 10d2830d6dd464a33cc3fbf445d51eca1261b2e0. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4654,[17.0][FIX] l10n_es_facturae: Don't test thing outside module,"This module doesn't transfer the motive text to the move, so it's better to not test that kind of things inside here, as any external change (like now) will make this to fail.
 
 @Tecnativa ","Congratulations, your PR was merged at 6dec1c2e1db952c6ee513c099d1dea5a213bca08. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
