@@ -17194,7 +17194,7 @@ Pull Request,4715,[18.0][IMP] l10n_es_atc: Adapt to l10n_es_aeat report menu,"Fo
 @Tecnativa ","Congratulations, your PR was merged at 182d65d390dedde920534a47770d757ffd385aab. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4714,[18.0][FIX] l10n_es_aeat_mod369: Place menu inside AEAT submenu,"It was in the root.
 
-@Tecnativa ","Congratulations, your PR was merged at 00aa4a69f0c05465ffbdb3391c8e37b7aed3bc95. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at 00aa4a69f0c05465ffbdb3391c8e37b7aed3bc95. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4713,[17.0][FIX] l10n_es_aeat_mod390: Calculate casilla 662,"FW-port of https://github.com/OCA/l10n-spain/pull/4617
 
 Box 662 must include any compensation amounts generated this year that have not been applied during the year.
