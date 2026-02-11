@@ -17055,7 +17055,7 @@ Pull Request,4739,[17.0][FIX] l10n_es_aeat_mod216: Set `apply_sign` to 0,"BP de 
 
 The lines with type ""Num"" have not sign according to https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_200_299/archivos_24/216e2024.xlsx
 
-MT-13343 @moduon","Congratulations, your PR was merged at 3dcd8a1e2c0454ef1641fdf9b1d6260056267108. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+MT-13343 @moduon","Congratulations, your PR was merged at 3dcd8a1e2c0454ef1641fdf9b1d6260056267108. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4738,[17.0][FIX] l10n_es_aeat_mod303: tener en cuenta redondeo en comprobaciones cuotas compensación,"En casos límite, como puede ser establecer la compensación pendiente como exactamente la cuota a compensar aplicada, podía impedir la operación por problemas de redondeo.","Congratulations, your PR was merged at b85bd887eea3f65f39d58892b1e8f3a52ac8830b. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
 Pull Request,4737,[19.0][FIX] l10n_es_partner: Force context to calculate complete_name with comercial,"fwp https://github.com/OCA/l10n-spain/pull/4658
 
