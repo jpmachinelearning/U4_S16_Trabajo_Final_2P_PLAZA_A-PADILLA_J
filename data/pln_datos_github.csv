@@ -9046,7 +9046,7 @@ No he tenido en cuenta todos esos modelos, supongo que deberíamos consultar la 
 Tengo mi opinión pero no está respaldada. 
 
 No obstante, si así fuere, habría que cambiarlos también. Que la pereza no nos lleve a no hacer bien las cosas :-)
-",soniavicián gracias respuesta modelo suponer debeer consultar forma afrontar él aeat opinión respaldado obstante fuere haber cambiar él pereza llevar cosa,"{'modelo': 0.1969, 'aeat': 0.1865, 'gracias': 0.1673, 'llevar': 0.2291, 'haber': 0.1865, 'él': 0.249, 'cosa': 0.2086, 'forma': 0.1932, 'respuesta': 0.2443, 'cambiar': 0.1816, 'debeer': 0.273, 'opinión': 0.252, 'suponer': 0.248, 'consultar': 0.2887, 'soniavicián': 0.3124, 'obstante': 0.3124, 'pereza': 0.3124}","{'él aeat': 0.5043, 'haber cambiar': 0.4868, 'cambiar él': 0.5043, 'gracias respuesta': 0.5043}",
+",soniavicián gracias respuesta modelo suponer debeer consultar forma afrontar él aeat opinión respaldado obstante fuere haber cambiar él pereza llevar cosa,"{'modelo': 0.1969, 'aeat': 0.1865, 'gracias': 0.1673, 'llevar': 0.2291, 'haber': 0.1865, 'él': 0.249, 'cosa': 0.2086, 'forma': 0.1932, 'respuesta': 0.2443, 'cambiar': 0.1816, 'debeer': 0.273, 'opinión': 0.252, 'suponer': 0.248, 'consultar': 0.2887, 'soniavicián': 0.3124, 'obstante': 0.3124, 'pereza': 0.3124}","{'él aeat': 0.5043, 'haber cambiar': 0.4868, 'cambiar él': 0.5043, 'gracias respuesta': 0.5043}",1.0
 Issue,3858,Fecha de Operación en el SII,"En la información al SII no se está informando de la **_Fecha de Operación_** asumiendo que sólo es necesaria si es diferente que la **_Fecha de expedición_**.
 
 **Nueva característica propuesta**
