@@ -13697,7 +13697,7 @@ De las casillas 1,2 y3 se ha hecho consulta en AEAT y nos confirman que se relle
 
 
 Moduon - MT-5726
-@EmilioPascual ",Gracias @ArantxaSudon @rafaelbn . Abrís PR?,gracia arantxasudon rafaelbn abrís pr,"{'gracia': 0.3847, 'pr': 0.3829, 'rafaelbn': 0.5792, 'arantxasudon': 0.6082}",{},
+@EmilioPascual ",Gracias @ArantxaSudon @rafaelbn . Abrís PR?,gracia arantxasudon rafaelbn abrís pr,"{'gracia': 0.3847, 'pr': 0.3829, 'rafaelbn': 0.5792, 'arantxasudon': 0.6082}",{},1.0
 Issue,3520,[16.0][IMP] l10n_es_aeat_mod123: Add 2024 version,"Hola 
 
 Según la nueva normativa el modelo 123 incorpora unas nuevas casillas que desglosan el importe total de retenciones e ingresos a cuenta
