@@ -9438,7 +9438,7 @@ Issue,3829,[BUG] l10n_es_ticketbai_batuz method not called,"Hi,
 
 in the next Link u can check the call to the method batuz_get_supplier_num_factura inside _get_lroe_140_2_1_dict function is not getting called never missing parenthesis
 
-https://github.com/OCA/l10n-spain/blob/e1107ce2adfb333daa948cc441970284800555f3/l10n_es_ticketbai_batuz/models/account_move.py#L596","De acuerdo. Eso lo tendrás que ver con los creadores/mantenedores del módulo, ya que al ser algo específico de vuestra parte, los mantenedores habituales de la localización no hemos intervenido.",tendrar creador mantenedor módulo específico mantenedor habitual localización intervenir,"{'módulo': 0.224, 'intervenir': 0.449, 'específico': 0.3632, 'habitual': 0.4276, 'localización': 0.4276, 'tendrar': 0.5006}",{'módulo específico': 1.0},
+https://github.com/OCA/l10n-spain/blob/e1107ce2adfb333daa948cc441970284800555f3/l10n_es_ticketbai_batuz/models/account_move.py#L596","De acuerdo. Eso lo tendrás que ver con los creadores/mantenedores del módulo, ya que al ser algo específico de vuestra parte, los mantenedores habituales de la localización no hemos intervenido.",tendrar creador mantenedor módulo específico mantenedor habitual localización intervenir,"{'módulo': 0.224, 'intervenir': 0.449, 'específico': 0.3632, 'habitual': 0.4276, 'localización': 0.4276, 'tendrar': 0.5006}",{'módulo específico': 1.0},0.0
 Issue,3829,[BUG] l10n_es_ticketbai_batuz method not called,"Hi,
 
 in the next Link u can check the call to the method batuz_get_supplier_num_factura inside _get_lroe_140_2_1_dict function is not getting called never missing parenthesis
