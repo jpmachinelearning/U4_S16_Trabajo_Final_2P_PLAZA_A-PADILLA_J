@@ -12329,7 +12329,7 @@ Me parece curioso que aparece la base imponible y el total en positivo, pero los
 
 ¿Alguien sabe algo al respecto?
 
-Saludos,","@pedrobaeza si, creo que si",pedrobaeza,{'pedrobaeza': 1.0},{},
+Saludos,","@pedrobaeza si, creo que si",pedrobaeza,{'pedrobaeza': 1.0},{},1.0
 Issue,3627,[16.0] l10n_es_facturae Problema de Signos con Facturas Rectificativas,"Tengo un error con las Facturas Rectificativas.
 
 En la sección de errores conocidos pone que:
