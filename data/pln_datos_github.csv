@@ -1935,7 +1935,7 @@ Lo que nos devuelve el siguiente error: _1126 - 'El valor del CodigoPais solo pu
 
 ¿En estos casos donde no conocemos o podemos establecer el NIF, se deberían mandar siempre las facturas como simplificadas a VERI*FACTU (marcándolo así en el contacto)? ¿O hay que hacerlo de alguna otra manera que aún no está contemplada o implementada en el módulo?
 
-¡Gracias de antemano! :)",Si hay que hacer algún fix o improvement podría ponerme yo misma. @pedrobaeza @almumu ,fix improvement poner yo pedrobaeza almumu,"{'poner': 0.3566, 'pedrobaeza': 0.3167, 'fix': 0.5209, 'almumu': 0.542, 'yo': 0.4555}",{'pedrobaeza almumu': 1.0},
+¡Gracias de antemano! :)",Si hay que hacer algún fix o improvement podría ponerme yo misma. @pedrobaeza @almumu ,fix improvement poner yo pedrobaeza almumu,"{'poner': 0.3566, 'pedrobaeza': 0.3167, 'fix': 0.5209, 'almumu': 0.542, 'yo': 0.4555}",{'pedrobaeza almumu': 1.0},0.0
 Issue,4615,[18.0] l10n_es_verifactu_oca: Facturas de España sin NIF o VAT,"A la hora de remitir facturas a VERI*FACTU, para destinatarios con país España pero de los que desconocemos o no podemos establecer en NIF, se envía la siguiente información a la AEAT.
 
 ```
