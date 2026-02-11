@@ -17602,7 +17602,7 @@ Pull Request,4686,[18.0][IMP] delivery_gls_asm: raise UserError when validating 
 
 La propuesta es mejorar la visualización del error:
 <img width=""1124"" height=""183"" alt=""image"" src=""https://github.com/user-attachments/assets/d644aa38-f356-49b5-b115-459d8543bef3"" />
-","Congratulations, your PR was merged at 6309db228e2244365fec56824471fd8fc4102758. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+","Congratulations, your PR was merged at 6309db228e2244365fec56824471fd8fc4102758. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4684,[16.0][IMP] l10n_es_sigaus_stock_picking_report_valued: Remove the SIGAUS total block.,"@HaraldPanten @Jaimermaccione 
 
 - Remove the SIGAUS total block.  Now the stock_picking_report_valued module now includes logic to add totals through the `get_report_valued_total_amount method` (OCA/stock-logistics-reporting#457)
