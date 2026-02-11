@@ -18766,7 +18766,7 @@ This commit includes a new field at journal level for defining an excluding patt
 
 @Tecnativa TT59339","Fusiono tras estar en producción funcionando.
 
-/ocabot merge minor",fusionar producción funcionar ocabot merge minor,"{'funcionar': 0.3213, 'fusionar': 0.4193, 'producción': 0.5026, 'ocabot': 0.5026, 'merge': 0.4646}",{'ocabot merge': 1.0},,,,
+/ocabot merge minor",fusionar producción funcionar ocabot merge minor,"{'funcionar': 0.3213, 'fusionar': 0.4193, 'producción': 0.5026, 'ocabot': 0.5026, 'merge': 0.4646}",{'ocabot merge': 1.0},1.0,,,
 Pull Request,4653,[17.0][IMP] l10n_es_account_statement_import_n43: Add exclude pattern,"You may be interested in not importing certain statement lines if they come from complicated operations like third party payment providers with several charges/incomes, and you are interested in importing them by other means.
 
 This commit includes a new field at journal level for defining an excluding pattern that allows this.
