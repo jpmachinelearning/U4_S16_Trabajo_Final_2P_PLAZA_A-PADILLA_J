@@ -18711,7 +18711,7 @@ Pull Request,4660,[18.0][FIX] l10n_es_aeat_mod123: Tax 'Retenciones IRPF 19% (Co
 
 Cuando esté fusionado hago cherry-pick a la 17
 
-MT-12991 @moduon @EmilioPascual @pedrobaeza porfa, revisad si queréis 😄 ","Congratulations, your PR was merged at 84ac9d1e30b8c561bc549c324195743a278d1f29. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+MT-12991 @moduon @EmilioPascual @pedrobaeza porfa, revisad si queréis 😄 ","Congratulations, your PR was merged at 84ac9d1e30b8c561bc549c324195743a278d1f29. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4658,[18.0][FIX] l10n_es_partner: Force context to calculate complete_name with comercial,"complete_name is the field used to sort res.partner, but when calculated without context, the stored value ignored the sales rep name, producing an inconsistent visual order in the tree views when sorting by contact. The context is forced during the compute to include the sales rep in companies and contacts. In addition, a migration script is added to recalculate the affected records as it is a stored field.
 
 @tecnativa TT59646
