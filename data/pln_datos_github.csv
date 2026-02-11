@@ -7116,7 +7116,7 @@ https://github.com/user-attachments/assets/17609168-fc81-434b-bbc3-6f953fbd8150
 
 Si necesitáis más información decidnos. Yo en cuanto pueda intentaré encontrar en qué punto salta el error debugeando el proceso, pero si con esto se os ocurre algo o si alguien más ha tenido este problema. 
 ¿El error puede ir por el IDType que lleva y que requiere NIF? No estoy muy puesto en los códigos que informan al SII.
-¡Saludos!",Buenos días @pedrobaeza he probado en el mismo runboat y ahora estamos haciendo pruebas en el cliente. Tiene pinta que es eso. Muchísimas gracias. ,pedrobaeza probar runboat prueba cliente pinta muchísimo gracia,"{'pedrobaeza': 0.2405, 'gracia': 0.2734, 'probar': 0.33, 'cliente': 0.2832, 'prueba': 0.3425, 'runboat': 0.3888, 'pinta': 0.4213, 'muchísimo': 0.482}","{'pedrobaeza probar': 0.7071, 'muchísimo gracia': 0.7071}",
+¡Saludos!",Buenos días @pedrobaeza he probado en el mismo runboat y ahora estamos haciendo pruebas en el cliente. Tiene pinta que es eso. Muchísimas gracias. ,pedrobaeza probar runboat prueba cliente pinta muchísimo gracia,"{'pedrobaeza': 0.2405, 'gracia': 0.2734, 'probar': 0.33, 'cliente': 0.2832, 'prueba': 0.3425, 'runboat': 0.3888, 'pinta': 0.4213, 'muchísimo': 0.482}","{'pedrobaeza probar': 0.7071, 'muchísimo gracia': 0.7071}",1.0
 Issue,4165,l10n_es_aeat: Plantillas de impuestos archivados que no se pueden utilizar en los mapeos,"## Module
 Módulos que dependen de `l10n_es_aeat` y utilizan mapeos de plantillas de impuestos.
 
