@@ -17146,7 +17146,7 @@ Pull Request,4723,[18.0][FIX] l10n_es_aeat_sii_oca: Don't retry forever,"In the 
 
 Let's reset anyway for both cases the sending date for avoiding this hammering.
 
-@Tecnativa ","Congratulations, your PR was merged at 5f8058ce57c2ecae5d263e35ae6477d8d574c437. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at 5f8058ce57c2ecae5d263e35ae6477d8d574c437. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4722,[18.0][FIX] l10n_es_aeat_sii_oca: Homogenize actions on error,"Forward-port of #4721 
 
 When an exception happens, it was not the same for cancel communication than for normal one:
