@@ -18925,7 +18925,7 @@ Antes del fix sólo se recogía la casilla 87 del último periodo lo que no reco
 
 @ArantxaSudon revisa por favor.
 
-MT-8899 @moduon","¿@pedrobaeza puedes volver a revisarlo, por favor? Muchas gracias 😊",pedrobaeza poder volver revisar él favor gracia cara feliz ojo sonrient,"{'poder': 0.2368, 'pedrobaeza': 0.236, 'cara': 0.3209, 'él': 0.1884, 'ojo': 0.3266, 'gracia': 0.2682, 'favor': 0.3021, 'volver': 0.3109, 'revisar': 0.2722, 'feliz': 0.4241, 'sonrient': 0.3596}","{'pedrobaeza poder': 0.3393, 'cara feliz': 0.3563, 'feliz ojo': 0.3563, 'ojo sonrient': 0.3021, 'revisar él': 0.3204, 'gracia cara': 0.3802, 'poder volver': 0.367, 'volver revisar': 0.3972}",,,4,Comunidad
+MT-8899 @moduon","¿@pedrobaeza puedes volver a revisarlo, por favor? Muchas gracias 😊",pedrobaeza poder volver revisar él favor gracia cara feliz ojo sonrient,"{'poder': 0.2368, 'pedrobaeza': 0.236, 'cara': 0.3209, 'él': 0.1884, 'ojo': 0.3266, 'gracia': 0.2682, 'favor': 0.3021, 'volver': 0.3109, 'revisar': 0.2722, 'feliz': 0.4241, 'sonrient': 0.3596}","{'pedrobaeza poder': 0.3393, 'cara feliz': 0.3563, 'feliz ojo': 0.3563, 'ojo sonrient': 0.3021, 'revisar él': 0.3204, 'gracia cara': 0.3802, 'poder volver': 0.367, 'volver revisar': 0.3972}",1.0,,4,Comunidad
 Pull Request,4617,[16.0][FIX] l10n_es_aeat_mod390: Calculate casilla 662,"En la casilla 662 se deben incluir las cuotas a compensar generadas en este año que no se hayan aplicado en el año.
 <img width=""612"" height=""73"" alt=""image"" src=""https://github.com/user-attachments/assets/ed061c8b-3cd5-4040-9d21-ca4ec83c6d9b"" />
 https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G412/instr390.pdf
