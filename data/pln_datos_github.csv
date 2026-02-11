@@ -6514,7 +6514,7 @@ Devería ser asi:
 `<OperacionEnRecargoDeEquivalenciaORegimenSimplificado>S</OperacionEnRecargoDeEquivalenciaORegimenSimplificado>`
 
 Si realizas una factura Ticketbai con recargo de equivalencia funciona bien. Son las ventas del POS las que sale este valor mal. 
-",rrebollir xml poner ejemplo fijar detalle iva recargo equivalencia indicar valor n venta pos salir valor,"{'poner': 0.1773, 'ejemplo': 0.1939, 'venta': 0.2288, 'salir': 0.2123, 'iva': 0.1798, 'indicar': 0.209, 'detalle': 0.2466, 'pos': 0.2199, 'xml': 0.2432, 'valor': 0.4627, 'rrebollir': 0.3155, 'fijar': 0.3155, 'recargo': 0.3019, 'equivalencia': 0.2915}","{'venta pos': 0.5805, 'poner ejemplo': 0.549, 'recargo equivalencia': 0.6013}",
+",rrebollir xml poner ejemplo fijar detalle iva recargo equivalencia indicar valor n venta pos salir valor,"{'poner': 0.1773, 'ejemplo': 0.1939, 'venta': 0.2288, 'salir': 0.2123, 'iva': 0.1798, 'indicar': 0.209, 'detalle': 0.2466, 'pos': 0.2199, 'xml': 0.2432, 'valor': 0.4627, 'rrebollir': 0.3155, 'fijar': 0.3155, 'recargo': 0.3019, 'equivalencia': 0.2915}","{'venta pos': 0.5805, 'poner ejemplo': 0.549, 'recargo equivalencia': 0.6013}",-1.0
 Issue,4211,[14.0] l10n_es_ticketbai_pos: Error en recargo de equivalencia,"## Module
 l10n_es_ticketbai_pos
 
