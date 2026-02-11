@@ -4529,7 +4529,7 @@ account_to_be_credited: Cuenta bancaria de la entidad cesionaria.
 
 Quedo atento a tu respuesta.
 
-Saludos.",Implementado en #4417 ,implementado,{'implementado': 1.0},{},
+Saludos.",Implementado en #4417 ,implementado,{'implementado': 1.0},{},1.0
 Issue,4381,[16] l10n_es_verifactu_oca account_move_view.xml duplicado en manifest.py,"Tras instalar en el log el nuevo módulo de verifactu, en el log me salía un warning: views/account_move_view.xml is imported twice in module l10n_es_verifactu_oca data
 
 En __manifest__.py se ha declarado dos veces la misma línea: views/account_move_view.xml",Solucionado en #4403,solucionado,{'solucionado': 1.0},{},
