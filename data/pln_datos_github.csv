@@ -17502,7 +17502,7 @@ Pull Request,4697,[17.0][FIX] l10n_es_pos_sii: Send date visibility,"Backport of
 
 To know when it's going to be sent, and to be able to send it now.
 
-@Tecnativa ","Congratulations, your PR was merged at 0f58f3c77ef2541921b91e11eb241b8cb6e8e50d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at 0f58f3c77ef2541921b91e11eb241b8cb6e8e50d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4696,[18.0][FIX] l10n_es_pos_sii: Send orders without closing session,"When the PoS session is still opened, the orders remain in ""paid"" state, not as ""done"", so we shouldn't wait till session closing (which may not happened in several days, not complying with the sending limit).
 
 Let's include ""done"" state in the allowed states for having the sending scheduled right after they are issued.
