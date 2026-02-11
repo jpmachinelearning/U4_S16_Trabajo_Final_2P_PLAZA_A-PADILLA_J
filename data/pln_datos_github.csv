@@ -16503,7 +16503,7 @@ La casilla 28 es ""IVA devengado"", por lo que debe leer de la cuenta 477.
 <img width=""634"" height=""89"" alt=""image"" src=""https://github.com/user-attachments/assets/002a8307-89c7-461f-9a99-1ff29331678a"" />
 Fuente: https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G412/Instrucciones_modelo_390-2025.pdf
 
-MT-13476 @moduon","Congratulations, your PR was merged at 6dd2d21f10fdd6871202be5503bb088d29f278b3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+MT-13476 @moduon","Congratulations, your PR was merged at 6dd2d21f10fdd6871202be5503bb088d29f278b3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4778,[17.0][FIX] l10n_es_aeat_mod390: Casilla 28 restringida a la cuenta 477,"BP de https://github.com/OCA/l10n-spain/pull/4771
 
 La casilla 28 es ""IVA devengado"", por lo que debe leer de la cuenta 477.
