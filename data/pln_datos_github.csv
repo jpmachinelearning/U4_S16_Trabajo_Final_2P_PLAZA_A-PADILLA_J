@@ -17187,7 +17187,7 @@ Modificados la constante CRLF en la exportación a BOE para que no convierta a A
 
 Se han generado ficheros y probados en el preportal de AEAT con la nueva configuración.
 
-@moduon MT-13276","Congratulations, your PR was merged at 04f115220f183bf968e3937620a3a44b8e0c0374. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@moduon MT-13276","Congratulations, your PR was merged at 04f115220f183bf968e3937620a3a44b8e0c0374. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4716,[18.0][FIX] l10n_es_aeat_sii_oca: CoA name has changed in 18,It's es_common_mainland.,"Congratulations, your PR was merged at 5c39867f69b29795e62fe6f8e1f248f1332583d5. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
 Pull Request,4715,[18.0][IMP] l10n_es_atc: Adapt to l10n_es_aeat report menu,"Forward-port of #4300
 
