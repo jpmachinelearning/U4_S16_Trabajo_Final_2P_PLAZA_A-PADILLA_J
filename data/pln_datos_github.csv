@@ -17624,7 +17624,7 @@ Pull Request,4680,[19.0][MIG]: l10n_es_aeat_mod303,"- Standard migration to 19.0
 
 ","@sbiosca-s73 ¿puedes añadir el siguiente fix?
 
-*  #4748",sbiosca-s73 poder añadir fix,"{'poder': 0.438, 'añadir': 0.5409, 'fix': 0.718}",{'poder añadir': 1.0},,,,
+*  #4748",sbiosca-s73 poder añadir fix,"{'poder': 0.438, 'añadir': 0.5409, 'fix': 0.718}",{'poder añadir': 1.0},1.0,,,
 Pull Request,4680,[19.0][MIG]: l10n_es_aeat_mod303,"- Standard migration to 19.0 module l10n_es_aeat_mod303
 - Depends: https://github.com/OCA/l10n-spain/pull/4624
 
