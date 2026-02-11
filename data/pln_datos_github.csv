@@ -18952,7 +18952,7 @@ Antes del fix sólo se recogía la casilla 87 del último periodo lo que no reco
 
 @ArantxaSudon revisa por favor.
 
-MT-8899 @moduon",¿@pedrobaeza puedes volver a lanzar el merge? Ya quedó resuelto el error del verifactu que saltó al fusionar. Gracias,pedrobaeza poder volver lanzar merge resuelto error verifactu saltar fusionar gracias,"{'poder': 0.2127, 'error': 0.2091, 'gracias': 0.2275, 'pedrobaeza': 0.2119, 'verifactu': 0.2713, 'volver': 0.2792, 'fusionar': 0.3274, 'saltar': 0.3371, 'lanzar': 0.3809, 'resuelto': 0.4065, 'merge': 0.3627}","{'pedrobaeza poder': 0.4512, 'poder volver': 0.4881, 'volver lanzar': 0.5283, 'error verifactu': 0.5283}",,,4,Soporte
+MT-8899 @moduon",¿@pedrobaeza puedes volver a lanzar el merge? Ya quedó resuelto el error del verifactu que saltó al fusionar. Gracias,pedrobaeza poder volver lanzar merge resuelto error verifactu saltar fusionar gracias,"{'poder': 0.2127, 'error': 0.2091, 'gracias': 0.2275, 'pedrobaeza': 0.2119, 'verifactu': 0.2713, 'volver': 0.2792, 'fusionar': 0.3274, 'saltar': 0.3371, 'lanzar': 0.3809, 'resuelto': 0.4065, 'merge': 0.3627}","{'pedrobaeza poder': 0.4512, 'poder volver': 0.4881, 'volver lanzar': 0.5283, 'error verifactu': 0.5283}",1.0,,4,Soporte
 Pull Request,4617,[16.0][FIX] l10n_es_aeat_mod390: Calculate casilla 662,"En la casilla 662 se deben incluir las cuotas a compensar generadas en este año que no se hayan aplicado en el año.
 <img width=""612"" height=""73"" alt=""image"" src=""https://github.com/user-attachments/assets/ed061c8b-3cd5-4040-9d21-ca4ec83c6d9b"" />
 https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G412/instr390.pdf
