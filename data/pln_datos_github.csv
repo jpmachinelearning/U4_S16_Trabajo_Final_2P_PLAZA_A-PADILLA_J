@@ -16953,7 +16953,7 @@ Por ejemplo para un NIF con el formato ELnnnnn se devuelve como country_code EL 
 
 @Tecnativa TT60396
 
-ping @carlosdauden @christian-ramos-tecnativa @victoralmau ","Congratulations, your PR was merged at ce7d74ffb8bbaff47df4c546c264726aeff554e8. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+ping @carlosdauden @christian-ramos-tecnativa @victoralmau ","Congratulations, your PR was merged at ce7d74ffb8bbaff47df4c546c264726aeff554e8. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4753,[17.0][FIX] l10n_es_aeat_sii_oca: Country vat mapped not taken into account for 'Contraparte' key generator,"No se está teniendo en cuenta que el vat para el identificador puede ser distinto que el country_code, por ejemplo, en Grecia el código de país es GR pero el identificador del VAT (vies) es EL.
 Al enviar facturas al SII de un cliente griego registrado en el VIES se envia como GRnnnnn en lugar de ELnnnnnn
 
