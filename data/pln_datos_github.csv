@@ -9006,7 +9006,7 @@ Ver el [video](https://www.loom.com/share/ff5fe31c7da347768d992cef1436a15a?sid=7
 Ver el final del vídeo [video](https://www.loom.com/share/ff5fe31c7da347768d992cef1436a15a?highlightComment=65850042&t=248) para ver el comportamiento experado.
 
 @loida-vm @rafaelbn @pedrobaeza 
-",Cierro estando #3874 ya fusionado.,cerrar estar fusionado,"{'estar': 0.5031, 'cerrar': 0.4771, 'fusionado': 0.7206}",{'estar fusionado': 1.0},
+",Cierro estando #3874 ya fusionado.,cerrar estar fusionado,"{'estar': 0.5031, 'cerrar': 0.4771, 'fusionado': 0.7206}",{'estar fusionado': 1.0},1.0
 Issue,3858,Fecha de Operación en el SII,"En la información al SII no se está informando de la **_Fecha de Operación_** asumiendo que sólo es necesaria si es diferente que la **_Fecha de expedición_**.
 
 **Nueva característica propuesta**
