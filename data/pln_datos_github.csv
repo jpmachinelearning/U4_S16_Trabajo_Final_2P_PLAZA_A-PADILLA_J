@@ -16590,7 +16590,7 @@ Pull Request,4773,[18.0][IMP] l10n_es_aeat_mod390: Casilla 523,"
 
 @moduon MT-13508","Tenéis razón. He quitado los impuestos ISP de la casilla 523.
 
-Me apunto para el futuro crear los impuestos de servicios de ISP en `l10n_es`.",tenéis razón quitar impuesto isp casilla apuntar futuro crear impuesto servicio isp l10n_es,"{'razón': 0.2251, 'impuesto': 0.3281, 'crear': 0.2062, 'quitar': 0.2251, 'casilla': 0.2186, 'tenéis': 0.2623, 'l10n_es': 0.2813, 'servicio': 0.2327, 'apuntar': 0.3136, 'futuro': 0.2898, 'isp': 0.5625}","{'crear impuesto': 0.4598, 'isp casilla': 0.5127, 'servicio isp': 0.5127, 'impuesto isp': 0.5127}",
+Me apunto para el futuro crear los impuestos de servicios de ISP en `l10n_es`.",tenéis razón quitar impuesto isp casilla apuntar futuro crear impuesto servicio isp l10n_es,"{'razón': 0.2251, 'impuesto': 0.3281, 'crear': 0.2062, 'quitar': 0.2251, 'casilla': 0.2186, 'tenéis': 0.2623, 'l10n_es': 0.2813, 'servicio': 0.2327, 'apuntar': 0.3136, 'futuro': 0.2898, 'isp': 0.5625}","{'crear impuesto': 0.4598, 'isp casilla': 0.5127, 'servicio isp': 0.5127, 'impuesto isp': 0.5127}",1.0
 Pull Request,4773,[18.0][IMP] l10n_es_aeat_mod390: Casilla 523,"
 <img width=""728"" height=""95"" alt=""image"" src=""https://github.com/user-attachments/assets/5656d80c-4951-4ce0-9c53-096e9adfc464"" />
 
