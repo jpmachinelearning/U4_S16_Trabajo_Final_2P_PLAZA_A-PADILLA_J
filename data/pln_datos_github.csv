@@ -18621,7 +18621,7 @@ Para replicar el error, imprimir albarán en estado ""Ready""
 
 Después del fix:
 <img width=""789"" height=""449"" alt=""image"" src=""https://github.com/user-attachments/assets/40d439ff-e79c-4b65-96f1-64531068bc23"" />
-","Congratulations, your PR was merged at 046cdd85ee6296f5e4002c7e9e3261923f6b1f45. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+","Congratulations, your PR was merged at 046cdd85ee6296f5e4002c7e9e3261923f6b1f45. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4663,[18.0] [FIX] l10n_es_verifactu_oca: Fix report layout conflict with stock picking address,"El cambio para mover el QR al encabezado del informe provocó que aparezca este bloque en el el report ""stock.report_picking"".
 Origen del error: https://github.com/OCA/l10n-spain/pull/4384
 Línea:
