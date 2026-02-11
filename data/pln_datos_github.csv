@@ -18743,7 +18743,7 @@ Pull Request,4658,[18.0][FIX] l10n_es_partner: Force context to calculate comple
 
 @tecnativa TT59646
 
-@pedrobaeza @victoralmau please review","Congratulations, your PR was merged at 3dcc7dd0d35d4e65db46332557db0354dd17f104. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
+@pedrobaeza @victoralmau please review","Congratulations, your PR was merged at 3dcc7dd0d35d4e65db46332557db0354dd17f104. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,,
 Pull Request,4656,[18.0][MIG] l10n_es_pos_sii: Migration to version 18.0,"Migración estándar, a partir de https://github.com/OCA/l10n-spain/pull/4450
 @Tecnativa TT59666",Listo para revisión,listo revisión,"{'revisión': 0.7377, 'listo': 0.6752}",{},,,,
 Pull Request,4656,[18.0][MIG] l10n_es_pos_sii: Migration to version 18.0,"Migración estándar, a partir de https://github.com/OCA/l10n-spain/pull/4450
