@@ -7257,7 +7257,7 @@ El punto es que la transición entre ambos sistemas no la veo tan clara con el s
 
 Creo que con llevar los campos de registro de envío, etc. al l10n_es_aeat se tendría que solucionar todo esto. Se mantiene el histórico y listo.
 
-¿Qué pensáis de esto?",@HaraldPanten @pedrobaeza @etobella @JordiBForgeFlow ,haraldpantar pedrobaeza etobella jordibforgeflow,"{'pedrobaeza': 0.3296, 'etobella': 0.4845, 'haraldpantar': 0.4693, 'jordibforgeflow': 0.6606}","{'pedrobaeza etobella': 0.7071, 'haraldpantar pedrobaeza': 0.7071}",
+¿Qué pensáis de esto?",@HaraldPanten @pedrobaeza @etobella @JordiBForgeFlow ,haraldpantar pedrobaeza etobella jordibforgeflow,"{'pedrobaeza': 0.3296, 'etobella': 0.4845, 'haraldpantar': 0.4693, 'jordibforgeflow': 0.6606}","{'pedrobaeza etobella': 0.7071, 'haraldpantar pedrobaeza': 0.7071}",0.0
 Issue,4110,From Verifactu to SII or SII to Verifactu,"Revisada la modularidad del módulo de SII_OCA y la idea de realizar el módulo Verifactu, veo de primeras que existirán posibles complicaciones si no se realizan cambios.
 
 Hace 1 año que realizó un buen esfuerzo de extracción del módulo SII_OCA al l10n_es_aeat, para poder realzar más adelante módulos de comunicación con AEAT de una manera más sencilla.
