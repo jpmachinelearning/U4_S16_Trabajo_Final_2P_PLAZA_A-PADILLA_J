@@ -8187,7 +8187,7 @@ Existe la posibilidad de arreglar este problema en actualizaciones futuras del m
 
 Un saludo y gracias de antemano
 
-",La versión de Factuae utilizada especificará eso en su formato. Cambia a otra versión que sea la de 3 decimales (si es que existe). Esto va normalizado.,versión factuae utilizado especificar formato cambiar versión decimal normalizado,"{'versión': 0.5363, 'especificar': 0.4127, 'formato': 0.3239, 'cambiar': 0.2597, 'utilizado': 0.4127, 'normalizado': 0.4466}",{'cambiar versión': 1.0},
+",La versión de Factuae utilizada especificará eso en su formato. Cambia a otra versión que sea la de 3 decimales (si es que existe). Esto va normalizado.,versión factuae utilizado especificar formato cambiar versión decimal normalizado,"{'versión': 0.5363, 'especificar': 0.4127, 'formato': 0.3239, 'cambiar': 0.2597, 'utilizado': 0.4127, 'normalizado': 0.4466}",{'cambiar versión': 1.0},0.0
 Issue,3995,[16.0] l10n_es_facturae Campo de IVA muestra más de 3 decimales en vez de redondear,"Buenas tardes!
 
 Adjunto la imagen de un archivo de factura electrónica que hice en el Runboat de la V16. Es una factura de una sola línea por valor de 1033,33 euros con un IVA del 21%.
