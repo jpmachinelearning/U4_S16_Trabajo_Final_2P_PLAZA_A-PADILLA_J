@@ -7238,7 +7238,7 @@ El fichero de exportacion del modelo 303 es el siguiente:
 Me podeis indicar como resolverlo.
 
 Gracias.
-Un saludo.","El módulo debe actualizarse a la última versión (en código y en base de datos), y utilizar la última configuración de exportación disponible. Cierro al estar ya cubierto en el módulo.",módulo actualizar él versión código base dato utilizar configuración exportación disponible cerrar cubierto módulo,"{'utilizar': 0.2429, 'módulo': 0.36, 'versión': 0.2415, 'disponible': 0.3302, 'él': 0.1603, 'cerrar': 0.2389, 'configuración': 0.2803, 'base': 0.257, 'código': 0.2487, 'actualizar': 0.2778, 'dato': 0.2519, 'cubierto': 0.3435, 'exportación': 0.3101}","{'módulo actualizar': 0.5078, 'él versión': 0.5078, 'base dato': 0.4758, 'configuración exportación': 0.5078}",
+Un saludo.","El módulo debe actualizarse a la última versión (en código y en base de datos), y utilizar la última configuración de exportación disponible. Cierro al estar ya cubierto en el módulo.",módulo actualizar él versión código base dato utilizar configuración exportación disponible cerrar cubierto módulo,"{'utilizar': 0.2429, 'módulo': 0.36, 'versión': 0.2415, 'disponible': 0.3302, 'él': 0.1603, 'cerrar': 0.2389, 'configuración': 0.2803, 'base': 0.257, 'código': 0.2487, 'actualizar': 0.2778, 'dato': 0.2519, 'cubierto': 0.3435, 'exportación': 0.3101}","{'módulo actualizar': 0.5078, 'él versión': 0.5078, 'base dato': 0.4758, 'configuración exportación': 0.5078}",0.0
 Issue,4115,Crear una plantilla de impuesto no un impuesto en version 17.0,"Buenas tardes, necesito saber donde se crean las plantillas de impuesto para mapearla en los distintos modelos que se envian a hacienda. Estoy utilizando la version 17.0 enterprise.
 
 Gracias.
