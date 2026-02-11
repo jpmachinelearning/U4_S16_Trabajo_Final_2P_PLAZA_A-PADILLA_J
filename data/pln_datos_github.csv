@@ -275,7 +275,7 @@ odoo-1        | KeyError: account.tax(157,)
 ```
 
 As can see, the system tries to search for the tax grouped by the tax breakdowns. Something at this point has not been changed correctly in the commit.","El PR propuesto https://github.com/OCA/l10n-spain/pull/4674 da una solución a la incompatibilidad, pero no se aceptará debido a que el módulo necesita un refactoring, se tendrá en cuenta más adelante, quien quiere utilizarlo es totalmente viable.
-Por mi parte dejaría la Issue abierta para que haya una referencia. ",dejar issue abierto referencia,,,
+Por mi parte dejaría la Issue abierta para que haya una referencia. ",dejar issue abierto referencia,,,0.0
 Issue,4652,[17.0][‎‎l10n_es_vat_book] DUA grouped tax error,"The VAT book calculation gives an error when grouped taxes are used.
 
 ## Module
