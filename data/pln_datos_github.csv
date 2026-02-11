@@ -11627,7 +11627,7 @@ Al cargar, sigo viendo como nombre de archivo, lo que ""ocupa"":
 Y si intento obtener claves:
 ![image](https://github.com/user-attachments/assets/80c5e5f2-f8e8-4888-9ba4-02e564ee3204)
 Probado con p12 y Firefox.
-",error,{'error': 1.0},{},
+",error,{'error': 1.0},{},-1.0
 Issue,3698,Fallo carga certificado AEAT,"**1.- Contexto:**
 Odoo 16 corriendo en Docker.
 **2.- Prueba**
