@@ -15433,7 +15433,7 @@ Quería exponer aquí el trabajo realizado y pedir colaboración, si os parece b
 
 ¡Gracias!
 
-@moduon MT-5363",OK Gracias ❤️ 😊 ,ok gracias corazón rojo cara feliz ojo sonrient,"{'gracias': 0.2835, 'cara': 0.3592, 'ojo': 0.3655, 'ok': 0.4025, 'feliz': 0.4746, 'sonrient': 0.4025, 'rojo': 0.2313, 'corazón': 0.2331}","{'cara feliz': 0.5812, 'feliz ojo': 0.5812, 'ojo sonrient': 0.4929, 'corazón rojo': 0.2854}",
+@moduon MT-5363",OK Gracias ❤️ 😊 ,ok gracias corazón rojo cara feliz ojo sonrient,"{'gracias': 0.2835, 'cara': 0.3592, 'ojo': 0.3655, 'ok': 0.4025, 'feliz': 0.4746, 'sonrient': 0.4025, 'rojo': 0.2313, 'corazón': 0.2331}","{'cara feliz': 0.5812, 'feliz ojo': 0.5812, 'ojo sonrient': 0.4929, 'corazón rojo': 0.2854}",1.0
 Issue,3480,[14.0] l10n_es_ticketbai_pos: interacción incorrecta en caso de error,"El módulo l10n_es_ticketbai_pos hace un método hermano del build_tbai_invoice ([build_tbai_simplified_invoice](https://github.com/OCA/l10n-spain/blob/22861cd91d8e4bbcc718e5a1eb514f2c6d9bcf07/l10n_es_ticketbai_pos/models/ticketbai_invoice.py#L29)) para usar los datos de última factura enviada del config de la TPV en vez de los datos de la compañía.
 
 Pero si el proceso de envío (común), da error, se llama al [mark_chain_as_error](https://github.com/OCA/l10n-spain/blob/22861cd91d8e4bbcc718e5a1eb514f2c6d9bcf07/l10n_es_ticketbai_api/models/ticketbai_invoice.py#L637) para deshacer todo el proceso. Y éste no está heredado en l10n_es_ticketbai_pos, por lo que va a escribir como última factura enviada en la compañía la última factura de la TPV. Sin comprobarlo, entiendo que esto destroza el encadenamiento porque hemos metido las simplificadas en las ordinarias.
