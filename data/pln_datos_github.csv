@@ -5158,7 +5158,7 @@ ValueError: <class 'AttributeError'>: ""RespuestaRegFactuSistemaFacturacionType 
 'model._cron_send_documents_to_verifactu()'
 ```
 
-A que puede ser debido?","también he probado el addon y tengo también error en el cron, he seguido el desarrollo y la versión tester de hace 1 mes funcionaba, ahora que sube las facturas solo con el cron, también me da error,.",probar addon error cron seguir desarrollo versión tester mes funcionar subir factura cron error,"{'error': 0.3327, 'funcionar': 0.1996, 'versión': 0.2029, 'factura': 0.1621, 'cron': 0.6244, 'subir': 0.2334, 'probar': 0.2313, 'seguir': 0.2293, 'desarrollo': 0.2604, 'addon': 0.303, 'mes': 0.2682}","{'cron error': 0.7071, 'subir factura': 0.7071}",
+A que puede ser debido?","también he probado el addon y tengo también error en el cron, he seguido el desarrollo y la versión tester de hace 1 mes funcionaba, ahora que sube las facturas solo con el cron, también me da error,.",probar addon error cron seguir desarrollo versión tester mes funcionar subir factura cron error,"{'error': 0.3327, 'funcionar': 0.1996, 'versión': 0.2029, 'factura': 0.1621, 'cron': 0.6244, 'subir': 0.2334, 'probar': 0.2313, 'seguir': 0.2293, 'desarrollo': 0.2604, 'addon': 0.303, 'mes': 0.2682}","{'cron error': 0.7071, 'subir factura': 0.7071}",-1.0
 Issue,4366,[16] l10n_es_verifactu_oca,"Hola, he instalado el reciente múdulo publicado de VERIFACTU y al generar la factura el cron, me devulve el siguiente error.
 
 
