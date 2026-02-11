@@ -16186,7 +16186,7 @@ Removing the upper savepoint and commit on exception, solves the problem.
 
 The code has also been adjusted for resetting `sii_send_date` in the proper method, and annotated a TODO refactoring for moving the cancellation code to the mixin.
 
-@Tecnativa TT60762","Congratulations, your PR was merged at 142418562d7e8786e1d52b561ce3e5feb8126271. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT60762","Congratulations, your PR was merged at 142418562d7e8786e1d52b561ce3e5feb8126271. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4806,[15.0][IMP] l10n_es_aeat_mod347: Number of call BDNS,"Forward-port of #4784, #4794 and #4795
 
 According to https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25390, Article 1
