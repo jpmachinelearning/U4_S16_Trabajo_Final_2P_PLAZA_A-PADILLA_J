@@ -13642,7 +13642,7 @@ Saludos,
 
 
 
-","Lo suyo sería que se discutiera esto en los Spanish OCA Days. Sonia, convence a tu jefe para que vayáis para allá...",discutir spanish oca days sonia convencer jefe vayáis allá,"{'oca': 0.2827, 'spanish': 0.4022, 'days': 0.4144, 'discutir': 0.4293, 'convencer': 0.4485, 'sonia': 0.4485}","{'spanish oca': 0.6965, 'oca days': 0.7176}",
+","Lo suyo sería que se discutiera esto en los Spanish OCA Days. Sonia, convence a tu jefe para que vayáis para allá...",discutir spanish oca days sonia convencer jefe vayáis allá,"{'oca': 0.2827, 'spanish': 0.4022, 'days': 0.4144, 'discutir': 0.4293, 'convencer': 0.4485, 'sonia': 0.4485}","{'spanish oca': 0.6965, 'oca days': 0.7176}",-1.0
 Issue,3520,[16.0][IMP] l10n_es_aeat_mod123: Add 2024 version,"Hola 
 
 Según la nueva normativa el modelo 123 incorpora unas nuevas casillas que desglosan el importe total de retenciones e ingresos a cuenta
