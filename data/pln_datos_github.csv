@@ -5379,7 +5379,7 @@ ValueError: <class 'AttributeError'>: ""RespuestaRegFactuSistemaFacturacionType 
 'model._cron_send_documents_to_verifactu()'
 ```
 
-A que puede ser debido?","Hola, he instalado el modulo verifactu en la version 16 y me pide como configuracion en las compañias el codigo del desarrollador, como pudiera obtener ese codigo, Gracias",hola instalar modulo verifactu version pedir configuracion compañia codigo desarrollador poder obtener codigo gracia,"{'poder': 0.1543, 'pedir': 0.2529, 'hola': 0.1637, 'verifactu': 0.1968, 'gracia': 0.1748, 'desarrollador': 0.2692, 'compañia': 0.2692, 'modulo': 0.2409, 'instalar': 0.2529, 'obtener': 0.2485, 'codigo': 0.5693, 'configuracion': 0.2949, 'version': 0.2763}","{'obtener codigo': 0.7224, 'modulo verifactu': 0.6915}",
+A que puede ser debido?","Hola, he instalado el modulo verifactu en la version 16 y me pide como configuracion en las compañias el codigo del desarrollador, como pudiera obtener ese codigo, Gracias",hola instalar modulo verifactu version pedir configuracion compañia codigo desarrollador poder obtener codigo gracia,"{'poder': 0.1543, 'pedir': 0.2529, 'hola': 0.1637, 'verifactu': 0.1968, 'gracia': 0.1748, 'desarrollador': 0.2692, 'compañia': 0.2692, 'modulo': 0.2409, 'instalar': 0.2529, 'obtener': 0.2485, 'codigo': 0.5693, 'configuracion': 0.2949, 'version': 0.2763}","{'obtener codigo': 0.7224, 'modulo verifactu': 0.6915}",0.0
 Issue,4358,[IMP] Fiscalidad Zona Especial Canaria (ZEC),"Artículo sobre la **Fiscalidad de la Zona Especial Canaria (ZEC):**
 [Fiscalidad en la Zona Especial Canaria (ZEC)](https://www.youasesoria.com/fiscalidad-de-la-zona-zec-en-canarias/) 
 
