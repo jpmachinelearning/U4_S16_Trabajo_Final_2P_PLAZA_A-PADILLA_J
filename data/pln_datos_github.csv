@@ -16515,7 +16515,7 @@ Pull Request,4776,[18.0][IMP] l10n_es_aeat_mod390_vat_prorate: Added 12. Prorate
 Por ahora y hasta que se encuentre una solución unificada para cubrir el CNAE 2025, se añaden las opciones directamente en el módulo.
 @Tecnativa TT60315
 @pedrobaeza 
-",Puedes intentarlo de nuevo @pedrobaeza?,poder intentar él pedrobaeza,"{'poder': 0.46, 'pedrobaeza': 0.4585, 'intentar': 0.6664, 'él': 0.3661}","{'intentar él': 0.5942, 'poder intentar': 0.5687, 'él pedrobaeza': 0.5687}",
+",Puedes intentarlo de nuevo @pedrobaeza?,poder intentar él pedrobaeza,"{'poder': 0.46, 'pedrobaeza': 0.4585, 'intentar': 0.6664, 'él': 0.3661}","{'intentar él': 0.5942, 'poder intentar': 0.5687, 'él pedrobaeza': 0.5687}",0.0
 Pull Request,4776,[18.0][IMP] l10n_es_aeat_mod390_vat_prorate: Added 12. Prorates,"Añadida página 12 Prorratas y configuración de exportación actualizada.
 Por ahora y hasta que se encuentre una solución unificada para cubrir el CNAE 2025, se añaden las opciones directamente en el módulo.
 @Tecnativa TT60315
