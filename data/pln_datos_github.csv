@@ -17554,7 +17554,7 @@ MT-13202 @moduon","Acabo de ver por que ha sido, la página 2 y 5 están omitida
 
 Parece entonces que no hace falta crear una configuración para 2025 y se puede hacer con la que hay actualmente 2024-10. Cierro PR.
 
-Todavía quedaría pendiente hacer las adaptaciones para el 2026",acabar página omitida página cambio pr año poner falta crear configuración actualmente cerrar pr quedar pendiente adaptación,"{'falta': 0.2258, 'actualmente': 0.2363, 'cambio': 0.1661, 'poner': 0.1646, 'año': 0.2199, 'cerrar': 0.1739, 'crear': 0.1925, 'pr': 0.3307, 'configuración': 0.2041, 'quedar': 0.194, 'acabar': 0.229, 'adaptación': 0.2803, 'pendiente': 0.245, 'página': 0.5858}","{'cerrar pr': 0.6677, 'quedar pendiente': 0.7444}",
+Todavía quedaría pendiente hacer las adaptaciones para el 2026",acabar página omitida página cambio pr año poner falta crear configuración actualmente cerrar pr quedar pendiente adaptación,"{'falta': 0.2258, 'actualmente': 0.2363, 'cambio': 0.1661, 'poner': 0.1646, 'año': 0.2199, 'cerrar': 0.1739, 'crear': 0.1925, 'pr': 0.3307, 'configuración': 0.2041, 'quedar': 0.194, 'acabar': 0.229, 'adaptación': 0.2803, 'pendiente': 0.245, 'página': 0.5858}","{'cerrar pr': 0.6677, 'quedar pendiente': 0.7444}",-1.0
 Pull Request,4690,[18.0][IMP] l10n_es_aeat_mod390: 2025 BOE export format,"Updated according https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_25/dr390e2025.xlsx
 
 MT-13085 @moduon","> Técnicamente tiene buena pinta. Ya es probarlo en casos reales a ver si sale algún problema, pero eso se puede hacer en PRs posteriores.
