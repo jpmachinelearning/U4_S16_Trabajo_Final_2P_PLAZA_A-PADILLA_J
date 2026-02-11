@@ -9625,7 +9625,7 @@ MT-8100 @moduon
 
 ","@HaraldPanten @fcvalgar os dejo el PR para que lo probéis. ¡Gracias!
 
-https://github.com/OCA/l10n-spain/pull/3813",haraldpantar fcvalgar dejar pr probéis,"{'dejar': 0.4359, 'pr': 0.3852, 'haraldpantar': 0.4848, 'fcvalgar': 0.6531}",{},
+https://github.com/OCA/l10n-spain/pull/3813",haraldpantar fcvalgar dejar pr probéis,"{'dejar': 0.4359, 'pr': 0.3852, 'haraldpantar': 0.4848, 'fcvalgar': 0.6531}",{},1.0
 Issue,3812,[16] vat_book: Impuestos temporales no incluidos en mapeo,"Módulo
 l10n_es_vat_book
 
