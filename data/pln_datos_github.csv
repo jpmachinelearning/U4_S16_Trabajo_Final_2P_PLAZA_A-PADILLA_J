@@ -16913,7 +16913,7 @@ Pull Request,4756,[FIX] l10n_es_aeat_mod130: Support multi-company environments,
 
 This caused calculations to return 0.00 when users switched companies in the UI.
 
-Changed the domain filter to use 'in' operator with allowed_company_ids from context, falling back to company_id for backward compatibility.","El modelo se calcula para una sola compañía, no para varias, por lo que no entiendo el parche.",modelo calcular compañía entender parche,"{'modelo': 0.3908, 'parche': 0.4715, 'entender': 0.4016, 'compañía': 0.4282, 'calcular': 0.5295}",{'modelo calcular': 1.0},
+Changed the domain filter to use 'in' operator with allowed_company_ids from context, falling back to company_id for backward compatibility.","El modelo se calcula para una sola compañía, no para varias, por lo que no entiendo el parche.",modelo calcular compañía entender parche,"{'modelo': 0.3908, 'parche': 0.4715, 'entender': 0.4016, 'compañía': 0.4282, 'calcular': 0.5295}",{'modelo calcular': 1.0},0.0
 Pull Request,4755,[18.0][FIX] l10n_es_aeat_mod347: Fix report style,"- The style of the report had to be modified because if the 'col-3' tag was added to the style, the 'Amount 4Q' option was removed from the report and it was impossible to understand what it said, so it has been changed to 'col-2'
 
 BEFORE:
