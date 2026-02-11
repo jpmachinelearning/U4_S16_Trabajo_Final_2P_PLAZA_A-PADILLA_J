@@ -9375,7 +9375,7 @@ Un saludo.
 
 Esta cuestión no tiene que ver con los módulos publicados en este repositorio. Publica por favor tu consulta en los foros de AEOdoo para que alguien te pueda orientar, que tiene pinta de configuración. 
 
-Cierro por lo expuesto.",hola cuestión módulo publicado repositorio publicar favor consulta foro aeodoo alguien orientar pinta configuración cerrar expuesto,"{'módulo': 0.1546, 'cuestión': 0.2702, 'hola': 0.1836, 'alguien': 0.2386, 'cerrar': 0.2052, 'favor': 0.2207, 'configuración': 0.2408, 'publicado': 0.3307, 'repositorio': 0.302, 'pinta': 0.302, 'publicar': 0.3455, 'foro': 0.2891, 'consulta': 0.2787, 'aeodoo': 0.302}","{'favor consulta': 0.5094, 'consulta foro': 0.5094, 'foro aeodoo': 0.4707, 'configuración cerrar': 0.5094}",
+Cierro por lo expuesto.",hola cuestión módulo publicado repositorio publicar favor consulta foro aeodoo alguien orientar pinta configuración cerrar expuesto,"{'módulo': 0.1546, 'cuestión': 0.2702, 'hola': 0.1836, 'alguien': 0.2386, 'cerrar': 0.2052, 'favor': 0.2207, 'configuración': 0.2408, 'publicado': 0.3307, 'repositorio': 0.302, 'pinta': 0.302, 'publicar': 0.3455, 'foro': 0.2891, 'consulta': 0.2787, 'aeodoo': 0.302}","{'favor consulta': 0.5094, 'consulta foro': 0.5094, 'foro aeodoo': 0.4707, 'configuración cerrar': 0.5094}",0.0
 Issue,3831,Error instalando fix mod303 en docker (odoo 16),"## Module
 l10n_es_aeat_mod303
 
