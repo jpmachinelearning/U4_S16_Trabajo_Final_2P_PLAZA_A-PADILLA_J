@@ -10625,7 +10625,7 @@ https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
 - [x] l10n_es_verifactu_oca - By @pedrobaeza - #4446
 - [x] payment_redsys - By @carlos-lopez-tecnativa - #4486
 
-Missing module? Check https://github.com/OCA/maintainer-tools/wiki/%5BFAQ%5D-Missing-modules-in-migration-issue-list","@PaolaEras Por ahora no hay PRs abiertos, así que si quieres, puedes hacer la migración.",paolaera prs abierto querer poder migración,"{'poder': 0.3165, 'abierto': 0.4807, 'querer': 0.4405, 'migración': 0.4635, 'prs': 0.5098}",{'poder migración': 1.0},
+Missing module? Check https://github.com/OCA/maintainer-tools/wiki/%5BFAQ%5D-Missing-modules-in-migration-issue-list","@PaolaEras Por ahora no hay PRs abiertos, así que si quieres, puedes hacer la migración.",paolaera prs abierto querer poder migración,"{'poder': 0.3165, 'abierto': 0.4807, 'querer': 0.4405, 'migración': 0.4635, 'prs': 0.5098}",{'poder migración': 1.0},1.0
 Issue,3751,"[160] payment_redsys - Porque necesita una dependencia en ""website_sale""?","Hola a todos:
 
 Nos gustaría usar el payment_redsys para hacer pagos de facturas y demás, pero no instalar website y por tanto tener acceso público a odoo,  hemos simplemente cambiado el manifest borrando la dependencia en ""website_sale""e instala correctamente con lo que la dependencia debe ser ""blanda"", la revisión del código las únicas ocurrencia de website están relacionadas con la obtención de la url pública  desde el website, ¿ estamos en lo cierto? 
