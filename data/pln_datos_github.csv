@@ -13840,7 +13840,7 @@ El modelo 303 presenta un comportamiento inconsistente en el campo de la cuenta 
 
 Loida
 Moduon - MT-5662
-","Hola, Loia, creo recordar que se quitó porque la AEAT no quería tener el campo rellenado en ese caso. Entonces el parche sería que no fuera visible para el tipo `I`. Probadlo si es correcta mi hipótesis y nos decís.",hola loia recordar quitar aeat querer campo rellenado caso parche visible tipo i probadlo correcto hipótesis decís,"{'aeat': 0.252, 'campo': 0.235, 'parche': 0.321, 'caso': 0.1994, 'hola': 0.2243, 'visible': 0.3785, 'tipo': 0.2696, 'querer': 0.2942, 'quitar': 0.3029, 'recordar': 0.3169, 'correcto': 0.252, 'decís': 0.3605}",{},
+","Hola, Loia, creo recordar que se quitó porque la AEAT no quería tener el campo rellenado en ese caso. Entonces el parche sería que no fuera visible para el tipo `I`. Probadlo si es correcta mi hipótesis y nos decís.",hola loia recordar quitar aeat querer campo rellenado caso parche visible tipo i probadlo correcto hipótesis decís,"{'aeat': 0.252, 'campo': 0.235, 'parche': 0.321, 'caso': 0.1994, 'hola': 0.2243, 'visible': 0.3785, 'tipo': 0.2696, 'querer': 0.2942, 'quitar': 0.3029, 'recordar': 0.3169, 'correcto': 0.252, 'decís': 0.3605}",{},-1.0
 Issue,3514,l10n_es_aeat_mod303: la cuenta bancaria no siempre se notifica en el fichero .txt,"Mejora para 16.0
 
 El modelo 303 presenta un comportamiento inconsistente en el campo de la cuenta bancaria. Según la especificación, este campo debería comportarse de manera específica dependiendo del tipo de resultado, sin embargo, la implementación actual no cumple adecuadamente con esta especificación.
