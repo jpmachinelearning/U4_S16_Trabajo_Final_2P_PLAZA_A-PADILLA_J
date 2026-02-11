@@ -17266,7 +17266,7 @@ https://github.com/OCA/l10n-spain/issues/4444
 
 Hemos añadido las retenciones  al libro de IVA y ademas hemos actualizado el formato de exportación para que conincida con https://sede.agenciatributaria.gob.es/Sede/iva/facturacion-registro/ejemplos-libros-registro-iva-irpf-2023/ejemplos-libros-registro-iva-irpf-2022.html
 
-Financiado por Contaldia @AlbertCabedo ",Lo reviso y lo añado.,revisar añadir,"{'añadir': 0.732, 'revisar': 0.6813}",{},
+Financiado por Contaldia @AlbertCabedo ",Lo reviso y lo añado.,revisar añadir,"{'añadir': 0.732, 'revisar': 0.6813}",{},0.0
 Pull Request,4709,[18.0][IMP] l10n_es_vat_book: update vat book format + added IRPF,"cc @Tecnativa TT59220
 ping @pedrobaeza @carlosdauden
 
