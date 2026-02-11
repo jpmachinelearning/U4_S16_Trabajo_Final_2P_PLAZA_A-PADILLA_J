@@ -16374,7 +16374,7 @@ depende:
 Pull Request,4785,[16.0][FIX] l10n_es_vat_book_igic: update mapped column to new vat book,"cc @Tecnativa
 ping @pedrobaeza @christian-ramos-tecnativa 
 
-Corregido para que funcione con el nuevo libro de IVA. ","Congratulations, your PR was merged at 9fe183b73261cc10acb65dd253a0de0abbacf898. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+Corregido para que funcione con el nuevo libro de IVA. ","Congratulations, your PR was merged at 9fe183b73261cc10acb65dd253a0de0abbacf898. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4784,[18.0][IMP] l10n_es_aeat_mod347: Número de convocatoria BDNS,"Acorde a https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25390, Artículo 1
 
 <img width=""1226"" height=""822"" alt=""image"" src=""https://github.com/user-attachments/assets/5995c9d3-f0b9-4745-b5d2-11578c538d5a"" />
