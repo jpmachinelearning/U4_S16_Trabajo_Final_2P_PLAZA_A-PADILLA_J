@@ -3577,7 +3577,7 @@ Missing module? Check https://github.com/OCA/maintainer-tools/wiki/%5BFAQ%5D-Mis
 > 
 
 Dejo este comentario, ya que creo que payment_redsys no será necesario
-",payment_redsy incluido core v19 dejar comentario payment_redsy necesario,"{'core': 0.397, 'comentario': 0.391, 'dejar': 0.3195, 'necesario': 0.3288, 'incluido': 0.5001, 'v19': 0.4787}",{},
+",payment_redsy incluido core v19 dejar comentario payment_redsy necesario,"{'core': 0.397, 'comentario': 0.391, 'dejar': 0.3195, 'necesario': 0.3288, 'incluido': 0.5001, 'v19': 0.4787}",{},1.0
 Issue,4397,[16] l10n_es_verifactu_oca: Error al instalar el módulo de verifactu,"Hola,
 
 he intentado instalar el módulo de verifactu pero me aparece el siguiente error:
