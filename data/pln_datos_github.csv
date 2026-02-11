@@ -6352,7 +6352,7 @@ A clear and concise description of what you expected to happen.
 Backport changes from odoo 16
 
 **Additional context**
-Add any other context about the problem here. (e.g. OS, Python version, ...)","Gracias Pedro, intentaré actualizarme con openupgrade.",gracia pedro intentar actualizar yo openupgrade,"{'intentar': 0.3978, 'gracia': 0.311, 'pedro': 0.3822, 'actualizar': 0.3787, 'yo': 0.3936, 'openupgrade': 0.5483}",{'gracia pedro': 1.0},
+Add any other context about the problem here. (e.g. OS, Python version, ...)","Gracias Pedro, intentaré actualizarme con openupgrade.",gracia pedro intentar actualizar yo openupgrade,"{'intentar': 0.3978, 'gracia': 0.311, 'pedro': 0.3822, 'actualizar': 0.3787, 'yo': 0.3936, 'openupgrade': 0.5483}",{'gracia pedro': 1.0},1.0
 Issue,4223,[17.0][IMP] Rendimiento búsqueda cliente l10n_es_account_statement_import_n43,"La búsqueda de contactos al importar un fichero con extractos utilizando el módulo l10n_es_account_statement_import_n43 necesita ser mejorada, ya que el tiempo que consume cuando en la base de datos hay muchos contactos es demasiado elevado.
 
 Actualmente existen 4 métodos de búsqueda de contactos, correspodientes a 4 bancos distintos:
