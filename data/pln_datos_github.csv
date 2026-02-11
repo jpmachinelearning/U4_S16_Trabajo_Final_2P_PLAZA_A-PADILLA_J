@@ -16420,7 +16420,7 @@ Pull Request,4784,[18.0][IMP] l10n_es_aeat_mod347: Número de convocatoria BDNS,
 
 @ArantxaSudon @pedrobaeza revisad por favor.
 
-MT-13422 @moduon","Congratulations, your PR was merged at bef87df366d00c757008e85feb707859f084a39d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+MT-13422 @moduon","Congratulations, your PR was merged at bef87df366d00c757008e85feb707859f084a39d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4783,[MIG] l10n-spain: Migration to Odoo 19.0,"## Migration Summary
 
 This PR migrates all Spanish localization modules from version 18.0 to 19.0.
