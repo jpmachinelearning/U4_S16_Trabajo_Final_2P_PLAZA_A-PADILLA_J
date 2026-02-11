@@ -3464,7 +3464,7 @@ Vamos a incluir las retenciones en el libro de IVA
 **Additional context**
 basado en el formato oficial aeat https://sede.agenciatributaria.gob.es/Sede/iva/facturacion-registro/ejemplos-libros-registro-iva-irpf-2023/ejemplos-libros-registro-iva-irpf-2022.html
 
-Lo comunico por si alguien tiene algo más a aportar, pero buscaremos un partner para mejorarlo, si puede ser, antes de final de año.","Implementado en #4709, y backports en camino.",implementado backports camino,"{'implementado': 0.5751, 'backports': 0.6008, 'camino': 0.5552}",{},
+Lo comunico por si alguien tiene algo más a aportar, pero buscaremos un partner para mejorarlo, si puede ser, antes de final de año.","Implementado en #4709, y backports en camino.",implementado backports camino,"{'implementado': 0.5751, 'backports': 0.6008, 'camino': 0.5552}",{},1.0
 Issue,4435,Posibles errores en el POS,"module: l10n_es_verifactu_pos_oca
 version: 16.0
 
