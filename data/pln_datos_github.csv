@@ -18891,7 +18891,7 @@ Pull Request,4627,[16.0][IMP] l10n_es_vat_prorate: update prorate data with wiza
 
 Añadida la posibilidad de actualizar prorrata si eres responsable de AEAT y Facturación.
 Similar a como funciona la actualización de las fechas de bloqueo, con la dificultad añadida del one2many. 
-@pedrobaeza @etobella ",Listo! 👍🏻 ,listo pulgar tono piel,"{'listo': 0.4539, 'pulgar': 0.4833, 'tono': 0.5293, 'piel': 0.5293}","{'pulgar tono': 0.7071, 'tono piel': 0.7071}",,,,
+@pedrobaeza @etobella ",Listo! 👍🏻 ,listo pulgar tono piel,"{'listo': 0.4539, 'pulgar': 0.4833, 'tono': 0.5293, 'piel': 0.5293}","{'pulgar tono': 0.7071, 'tono piel': 0.7071}",0.0,,,
 Pull Request,4627,[16.0][IMP] l10n_es_vat_prorate: update prorate data with wizard,"@Tecnativa TT59299
 
 Añadida la posibilidad de actualizar prorrata si eres responsable de AEAT y Facturación.
