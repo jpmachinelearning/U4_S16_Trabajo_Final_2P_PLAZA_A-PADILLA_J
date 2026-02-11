@@ -8481,7 +8481,7 @@ No debería sumarse en la casilla 60 **en este caso, cuando el cliente es nacion
 **Additional context**
 Entiendo que no es por el naming que tenga el impuesto que sea ""No sujeto"" vs ""Sujeto"", los asesores me comentan que es un caso ""sujeto"" y ""exento"" a la vez.","En 17 ya hay un desglose de cada IVA exento según artículo, e hice un remapeo. Revisad https://github.com/OCA/l10n-spain/pull/4084/files#diff-8da58f33dfe1f2b3032205072ca8757fc48b8ca81d21fde4951d35fd5bc176eeR42
 
-Parece que en la casilla 60 siguen faltando otros tipos de exento según la tabla de Rafa, eso sí.",desglose iva exento artículo hacer remapeo,"{'hacer': 0.2894, 'iva': 0.2837, 'artículo': 0.435, 'desglose': 0.4465, 'exento': 0.4465, 'remapeo': 0.4978}",{},
+Parece que en la casilla 60 siguen faltando otros tipos de exento según la tabla de Rafa, eso sí.",desglose iva exento artículo hacer remapeo,"{'hacer': 0.2894, 'iva': 0.2837, 'artículo': 0.435, 'desglose': 0.4465, 'exento': 0.4465, 'remapeo': 0.4978}",{},0.0
 Issue,3961,TBAI no ha generado codigo QR,"
 ## Module
 l10n_es_edi_tbai para Odoo 17
