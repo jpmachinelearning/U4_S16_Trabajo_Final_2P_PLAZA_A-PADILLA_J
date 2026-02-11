@@ -8779,7 +8779,7 @@ Ya estoy trabajando en corregirlo, pero dejo esta issue para intentar advertir a
 
 Al final habrá dos currazos:
 1- Simplificar el código
-2- Aplicar scripts para arreglar los datos de la gente que lo tienen mal por culpa de esto.",christian-rb necesitar ayuda script migración currazo simplificar código aplicar script arreglar dato gente culpa,"{'necesitar': 0.1991, 'aplicar': 0.2065, 'gente': 0.2607, 'código': 0.1927, 'dato': 0.1952, 'ayuda': 0.2437, 'migración': 0.2286, 'simplificar': 0.2607, 'arreglar': 0.2662, 'culpa': 0.3117, 'script': 0.5967, 'christian': 0.2662}","{'script migración': 0.5774, 'necesitar ayuda': 0.5774, 'simplificar código': 0.5774}",
+2- Aplicar scripts para arreglar los datos de la gente que lo tienen mal por culpa de esto.",christian-rb necesitar ayuda script migración currazo simplificar código aplicar script arreglar dato gente culpa,"{'necesitar': 0.1991, 'aplicar': 0.2065, 'gente': 0.2607, 'código': 0.1927, 'dato': 0.1952, 'ayuda': 0.2437, 'migración': 0.2286, 'simplificar': 0.2607, 'arreglar': 0.2662, 'culpa': 0.3117, 'script': 0.5967, 'christian': 0.2662}","{'script migración': 0.5774, 'necesitar ayuda': 0.5774, 'simplificar código': 0.5774}",1.0
 Issue,3864,[17.0] l10n_es_igic Revisión de migración,"Durante la migración del módulo l10n_es_atc_mod415 he detectado que los ids externos de los impuestos no coincidían con los originales y esto hizo saltar mis alarmas.
 He revisado el módulo l10n_es_igic y pareceriera que nunca se llegó a revisar los archivos. En la versión 17 este módulo recrea prácticamente toda la contabilidad española. Renombra muchos de los ids externos (con las implicaciones que esto tiene a la hora de migrar, tanto los módulos dependientes, como un odoo en sí). 
 
