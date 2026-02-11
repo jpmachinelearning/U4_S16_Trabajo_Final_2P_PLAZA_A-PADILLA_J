@@ -17035,7 +17035,7 @@ ping @sergio-teruel @carlosdauden @pedrobaeza
 
 TT59220","@pedrobaeza 
 <img width=""1756"" height=""194"" alt=""Selección_054"" src=""https://github.com/user-attachments/assets/9b9c0c10-e077-4224-bb96-0e9c41e1a173"" />
-He hecho una prueba en local y se ejecuta bien, cosa que en runboat no. El commit esta con los ultimos cambios.",commit ultimo cambio,"{'cambio': 0.5444, 'commit': 0.8388}",{},
+He hecho una prueba en local y se ejecuta bien, cosa que en runboat no. El commit esta con los ultimos cambios.",commit ultimo cambio,"{'cambio': 0.5444, 'commit': 0.8388}",{},0.0
 Pull Request,4742,[16.0][IMP] l10n_es_vat_book: update vat book format + added IRPF,"Backport https://github.com/OCA/l10n-spain/pull/4709
 cc @Tecnativa
 ping @sergio-teruel @carlosdauden @pedrobaeza
