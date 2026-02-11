@@ -9954,7 +9954,7 @@ Add any other context about the problem here. (e.g. OS, Python version, ...)","G
 ![impuesto](https://github.com/user-attachments/assets/090ad9ee-30bd-4ab1-9671-e5026fe44580)
 
 Este es el tipo de impuesto que  he usado.
-",gracias rapido respuesta amigo pedro cambiar simplemente instalar prueba utilizar sistema año,"{'utilizar': 0.2502, 'gracias': 0.2219, 'año': 0.3111, 'sistema': 0.2766, 'simplemente': 0.3074, 'pedro': 0.2888, 'prueba': 0.2944, 'instalar': 0.3401, 'respuesta': 0.3239, 'cambiar': 0.2409, 'amigo': 0.4143}",{'utilizar sistema': 1.0},
+",gracias rapido respuesta amigo pedro cambiar simplemente instalar prueba utilizar sistema año,"{'utilizar': 0.2502, 'gracias': 0.2219, 'año': 0.3111, 'sistema': 0.2766, 'simplemente': 0.3074, 'pedro': 0.2888, 'prueba': 0.2944, 'instalar': 0.3401, 'respuesta': 0.3239, 'cambiar': 0.2409, 'amigo': 0.4143}",{'utilizar sistema': 1.0},1.0
 Issue,3787,Cuotas en casillas 11 y 37  de compras intracomunitarias  en modelo 303,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 version 17
