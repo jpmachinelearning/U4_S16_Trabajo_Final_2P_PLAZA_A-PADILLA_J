@@ -8984,7 +8984,7 @@ Ver el [video](https://www.loom.com/share/ff5fe31c7da347768d992cef1436a15a?sid=7
 Ver el final del vídeo [video](https://www.loom.com/share/ff5fe31c7da347768d992cef1436a15a?highlightComment=65850042&t=248) para ver el comportamiento experado.
 
 @loida-vm @rafaelbn @pedrobaeza 
-",A ver si @AlbertCabedo o @acysos confirman al respecto.,albertcabedo acyso confirmar,"{'confirmar': 0.5732, 'albertcabedo': 0.5944, 'acyso': 0.564}","{'albertcabedo acyso': 0.7071, 'acyso confirmar': 0.7071}",
+",A ver si @AlbertCabedo o @acysos confirman al respecto.,albertcabedo acyso confirmar,"{'confirmar': 0.5732, 'albertcabedo': 0.5944, 'acyso': 0.564}","{'albertcabedo acyso': 0.7071, 'acyso confirmar': 0.7071}",1.0
 Issue,3861,[16.0][FIX] l10n_es_aeat_mod303: Error generación asiento contable cuando sale a pagar pero se compensa parcialmente con ejercicios anteriores,"Cuando en un informe 303 sale una cantidad determinada a pagar pero puedes compensar una parte (470xxx) e ingresar otra (475xxx), no lo contabiliza correctamente en sus cuentas contables sino que lo lleva todo a la 475xxx
 
 El informe si lo hace bien, lo que no crea bien es el asiento contable
