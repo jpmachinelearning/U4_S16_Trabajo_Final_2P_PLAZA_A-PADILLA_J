@@ -18799,7 +18799,7 @@ Pull Request,4647,"[IMP] l10n_es_aeat_mod390: Incluir el campo ""Usar 303"" en l
 - Nuevo test para esta funcionalidad.
 
 
-MT-12790 @moduon @EmilioPascual ",Este desarrollo es incorrecto. Cierra el PR y revisa la tarea por favor,desarrollo incorrecto cerrar pr revisar tarea favor,"{'cerrar': 0.3142, 'pr': 0.2987, 'favor': 0.338, 'desarrollo': 0.4079, 'revisar': 0.3046, 'tarea': 0.5065, 'incorrecto': 0.4268}","{'cerrar pr': 0.6677, 'pr revisar': 0.7444}",,,,
+MT-12790 @moduon @EmilioPascual ",Este desarrollo es incorrecto. Cierra el PR y revisa la tarea por favor,desarrollo incorrecto cerrar pr revisar tarea favor,"{'cerrar': 0.3142, 'pr': 0.2987, 'favor': 0.338, 'desarrollo': 0.4079, 'revisar': 0.3046, 'tarea': 0.5065, 'incorrecto': 0.4268}","{'cerrar pr': 0.6677, 'pr revisar': 0.7444}",-1.0,,,
 Pull Request,4644,[19.0][MIG] l10n_es_account_statement_import_n43,,"Congratulations, your PR was merged at 3a7accc7a44e17f8e433fa2b4113af2553c87472. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,,
 Pull Request,4640,"[16.0][IMP] l10n_es_verifactu_oca: manejo de rechazos, visibilidad de botones y bloqueo de borrado","Incluye:
 
