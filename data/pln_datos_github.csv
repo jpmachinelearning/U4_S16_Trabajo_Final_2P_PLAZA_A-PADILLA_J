@@ -5100,7 +5100,7 @@ Hacer el backport de la versión 17.0 de Odoo. Considero que el de OCA es más f
 Mi compañero @ljimenezsidoo y yo trataremos de iniciar la parte técnica ASAP. Cualquier apoyo será más que bienvenido, quedando muy agradecido del trabajo realizado en la versión 16.0","sabéis si se va a realizar backport a v13?
 se sabe algo de que va a pasar con el tpv de odoo para verifactu?
 
-gracias",sabéis backport v13 pasar tpv odoo verifactu gracia,"{'odoo': 0.2319, 'backport': 0.3736, 'pasar': 0.2958, 'verifactu': 0.2958, 'gracia': 0.2627, 'v13': 0.4279, 'sabéis': 0.4279, 'tpv': 0.4433}",{'odoo verifactu': 1.0},
+gracias",sabéis backport v13 pasar tpv odoo verifactu gracia,"{'odoo': 0.2319, 'backport': 0.3736, 'pasar': 0.2958, 'verifactu': 0.2958, 'gracia': 0.2627, 'v13': 0.4279, 'sabéis': 0.4279, 'tpv': 0.4433}",{'odoo verifactu': 1.0},0.0
 Issue,4368,[IMP] Backport OCA Verifactu,"**¿Tu solicitud de funcionalidad está relacionada con algún problema?**
 Todas las empresas españolas requieren adaptarse a la normativa contable de la que se deriva Verifactu. Contamos con una versión del módulo OCA para 16.0 aunque lo necesitamos instalar en Odoo 14.0
 
