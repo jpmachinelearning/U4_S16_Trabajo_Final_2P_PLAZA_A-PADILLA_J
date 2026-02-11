@@ -1754,7 +1754,7 @@ El comportamiento esperado debe evitar en todo caso la posibilidad de emitir fac
 **Additional context**
 Odoo permite la creación de diarios de ventas manuales sin marcar la opción Verifactu.
 
-Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","En todo caso... Creo que podremos pensar en todo esto de forma más pausada, con el aplazamiento. Como se suele decir: ""para mear y no echar gota"". Estoy en shock.",caso poder pensar forma pausado aplazamiento soler mear echar gota shock,"{'poder': 0.2541, 'soler': 0.4436, 'caso': 0.2398, 'echar': 0.3968, 'pensar': 0.4094, 'forma': 0.3139, 'aplazamiento': 0.5075}",{},
+Esto puede provocar incumplimiento normativo si un usuario emite facturas desde un diario sin Verifactu activado.","En todo caso... Creo que podremos pensar en todo esto de forma más pausada, con el aplazamiento. Como se suele decir: ""para mear y no echar gota"". Estoy en shock.",caso poder pensar forma pausado aplazamiento soler mear echar gota shock,"{'poder': 0.2541, 'soler': 0.4436, 'caso': 0.2398, 'echar': 0.3968, 'pensar': 0.4094, 'forma': 0.3139, 'aplazamiento': 0.5075}",{},0.0
 Issue,4631,[16.0][FIX] l10n_es_verifactu_oca,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
