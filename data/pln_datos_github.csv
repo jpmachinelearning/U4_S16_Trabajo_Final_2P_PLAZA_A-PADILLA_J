@@ -1,4 +1,4 @@
-﻿tipo,numero,titulo,descripcion,comentarios,Comentario Preprocesado,Vector FT-IDF unigrama,Vector FT-IDF bigrama,Etiqueta: positivo(1) | neutral(0) | negativo(-1),Etiquetado Modelo: positivo(1) | neutral(0) | negativo(-1),Etiqueta K-Means,Reetiqueta K-Means
+﻿tipo,numero,titulo,descripcion,comentarios,Comentario Preprocesado,Vector FT-IDF unigrama,Vector FT-IDF bigrama,Etiqueta: positivo(1) | neutral(0) | negativo(-1),Etiquetado Modelo: positivo(1) | neutral(0) | negativo(-1),Etiqueta K-Means,Reetiquetado K-Means
 Issue,4793,MOD347 : Error E010330 Caracteres no válidos 'Número de convocatoria BDNS',"module: l10n_es_aeat_mod347
 version: 18.0
 
