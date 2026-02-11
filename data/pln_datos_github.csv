@@ -19401,7 +19401,7 @@ VERI*FACTU, conforme a lo establecido en:
 
 La modificación tiene carácter exclusivamente técnico y no altera la
 estructura, integridad ni trazabilidad de los registros de facturación
-ni el cumplimiento de las obligaciones establecidas por la AEAT.",Pendiente de #4499 ,pendiente,{'pendiente': 1.0},{},,,0,Desarrollo
+ni el cumplimiento de las obligaciones establecidas por la AEAT.",Pendiente de #4499 ,pendiente,{'pendiente': 1.0},{},0.0,,0,Desarrollo
 Pull Request,4579,[14.0][BACKPORT] l10n_es_verifactu_pos,"Backport del módulo para v14. 
 
 ### Nota legal y de cumplimiento
