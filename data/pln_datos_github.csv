@@ -7383,7 +7383,7 @@ El punto es que la transición entre ambos sistemas no la veo tan clara con el s
 
 Creo que con llevar los campos de registro de envío, etc. al l10n_es_aeat se tendría que solucionar todo esto. Se mantiene el histórico y listo.
 
-¿Qué pensáis de esto?","Valentín, ¿tienes un listado de esos campos conflictivos que comentas?",valentín tener listado campo conflictivo comentar,"{'campo': 0.2838, 'tener': 0.2687, 'comentar': 0.3256, 'valentín': 0.5097, 'listado': 0.4709, 'conflictivo': 0.5097}","{'valentín tener': 0.5, 'tener listado': 0.5, 'listado campo': 0.5, 'campo conflictivo': 0.5}",
+¿Qué pensáis de esto?","Valentín, ¿tienes un listado de esos campos conflictivos que comentas?",valentín tener listado campo conflictivo comentar,"{'campo': 0.2838, 'tener': 0.2687, 'comentar': 0.3256, 'valentín': 0.5097, 'listado': 0.4709, 'conflictivo': 0.5097}","{'valentín tener': 0.5, 'tener listado': 0.5, 'listado campo': 0.5, 'campo conflictivo': 0.5}",-1.0
 Issue,4110,From Verifactu to SII or SII to Verifactu,"Revisada la modularidad del módulo de SII_OCA y la idea de realizar el módulo Verifactu, veo de primeras que existirán posibles complicaciones si no se realizan cambios.
 
 Hace 1 año que realizó un buen esfuerzo de extracción del módulo SII_OCA al l10n_es_aeat, para poder realzar más adelante módulos de comunicación con AEAT de una manera más sencilla.
