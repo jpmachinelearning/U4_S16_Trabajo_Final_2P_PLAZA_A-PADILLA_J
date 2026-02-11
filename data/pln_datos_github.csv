@@ -7430,7 +7430,7 @@ El punto es que la transición entre ambos sistemas no la veo tan clara con el s
 
 Creo que con llevar los campos de registro de envío, etc. al l10n_es_aeat se tendría que solucionar todo esto. Se mantiene el histórico y listo.
 
-¿Qué pensáis de esto?","Perdón por mi ignorancia, pero se sabe cuándo y por donde estará listo el módulo de VeriFactu ?",perdón ignorancia listo módulo verifactu,"{'módulo': 0.3062, 'verifactu': 0.4371, 'listo': 0.5617, 'perdón': 0.6322}",{'módulo verifactu': 1.0},
+¿Qué pensáis de esto?","Perdón por mi ignorancia, pero se sabe cuándo y por donde estará listo el módulo de VeriFactu ?",perdón ignorancia listo módulo verifactu,"{'módulo': 0.3062, 'verifactu': 0.4371, 'listo': 0.5617, 'perdón': 0.6322}",{'módulo verifactu': 1.0},1.0
 Issue,4110,From Verifactu to SII or SII to Verifactu,"Revisada la modularidad del módulo de SII_OCA y la idea de realizar el módulo Verifactu, veo de primeras que existirán posibles complicaciones si no se realizan cambios.
 
 Hace 1 año que realizó un buen esfuerzo de extracción del módulo SII_OCA al l10n_es_aeat, para poder realzar más adelante módulos de comunicación con AEAT de una manera más sencilla.
