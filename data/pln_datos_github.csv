@@ -17169,7 +17169,7 @@ Pull Request,4720,[18.0][FIX] l10n_es_pos_sii: Initialize aeat_state,"Due to the
 
 Let's force in the creation the value for not having this problem.
 
-@Tecnativa TT60223","Congratulations, your PR was merged at 2dc85b4542fb019d0004520ffd4a7e310b81e203. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT60223","Congratulations, your PR was merged at 2dc85b4542fb019d0004520ffd4a7e310b81e203. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4719,[17.0][IMP] l10n_es_vat_book: update vat book format + added IRPF,"Backport https://github.com/OCA/l10n-spain/pull/4709
 cc @Tecnativa 
 ping @sergio-teruel @carlosdauden @pedrobaeza ",Ídem que el de 16. Las columnas del Excel no coinciden.,ídem columna excel coincidir,"{'columna': 0.5453, 'coincidir': 0.5597, 'excel': 0.624}",{},
