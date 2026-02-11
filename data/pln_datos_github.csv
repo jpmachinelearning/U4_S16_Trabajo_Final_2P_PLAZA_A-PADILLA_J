@@ -19438,7 +19438,7 @@ For achieving this without requiring glue modules, we are now depending on `l10n
 
 As we only know the deductible amount at invoice level, we get the general tax info, and then apply the percentage corresponding to each line.
 
-It includes a new test for covering this case.","Congratulations, your PR was merged at d72dfe8658ba37e3422aa225265070a7736ee9f0. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+It includes a new test for covering this case.","Congratulations, your PR was merged at d72dfe8658ba37e3422aa225265070a7736ee9f0. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4576,[18.0][FIX] l10n_es_aeat: Find properly the XML-ID for non deductible,"Forward-port of #4573 
 
 The tax groups are now by company and bound to `account` module, so let's change the compare condition.
