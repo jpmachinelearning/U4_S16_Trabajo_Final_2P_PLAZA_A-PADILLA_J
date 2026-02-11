@@ -8372,7 +8372,7 @@ Entiendo que no es por el naming que tenga el impuesto que sea ""No sujeto"" vs 
 
 Si quieres lee por curiosidad https://github.com/OCA/l10n-spain/issues/2945
 
-Nadie lo resuelve y mis intentos han sido baldíos 😢 ",giarve correcto bug ratificar caso usar impuesto cosa,"{'caso': 0.2536, 'impuesto': 0.2807, 'usar': 0.4137, 'bug': 0.4082, 'cosa': 0.3583, 'correcto': 0.3205, 'giarve': 0.5367}",{},
+Nadie lo resuelve y mis intentos han sido baldíos 😢 ",giarve correcto bug ratificar caso usar impuesto cosa,"{'caso': 0.2536, 'impuesto': 0.2807, 'usar': 0.4137, 'bug': 0.4082, 'cosa': 0.3583, 'correcto': 0.3205, 'giarve': 0.5367}",{},0.0
 Issue,3970,l10n_es_aeat_mod303: Casilla 60 de exportaciones se suma por un cliente nacional con IVA exento repercutido y sujeto.,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
