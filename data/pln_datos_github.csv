@@ -3209,7 +3209,7 @@ RPC_ERROR: Odoo Server Error
         at makeErrorFromResponse (http:///web/assets/145-d4bc22f/web.assets_backend.min.js:1002:163)
         at XMLHttpRequest.<anonymous> (http:///web/assets/145-d4bc22f/web.assets_backend.min.js:1010:13)
 
-Un saludo,","No, a ver, realmente se puede considerar un bug. La cuestión es dar con los pasos exactos que llevan al mismo, y por el momento, no lo hemos conseguido. Esto fue reportado también en https://github.com/OCA/l10n-spain/pull/4399#issuecomment-3368924524, pero lo dicho, no consigo reproducirlo.",realmente considerar bug cuestión paso exacto llevar momento conseguir,"{'considerar': 0.3331, 'cuestión': 0.3173, 'llevar': 0.2976, 'realmente': 0.2976, 'bug': 0.3086, 'paso': 0.3547, 'exacto': 0.3884, 'momento': 0.2731, 'conseguir': 0.4058}",{},
+Un saludo,","No, a ver, realmente se puede considerar un bug. La cuestión es dar con los pasos exactos que llevan al mismo, y por el momento, no lo hemos conseguido. Esto fue reportado también en https://github.com/OCA/l10n-spain/pull/4399#issuecomment-3368924524, pero lo dicho, no consigo reproducirlo.",realmente considerar bug cuestión paso exacto llevar momento conseguir,"{'considerar': 0.3331, 'cuestión': 0.3173, 'llevar': 0.2976, 'realmente': 0.2976, 'bug': 0.3086, 'paso': 0.3547, 'exacto': 0.3884, 'momento': 0.2731, 'conseguir': 0.4058}",{},-1.0
 Issue,4468,[16.0]Error multiempresa,"Buenas,
 Cuando una empresa es configurada con el verifactu y se crea otra empresa las facturas de la segunda empresa no se envían. Pero si se crean las dos empresas y luego se configura el verifactu salta un error al intentar validar la factura. Este es el error que aparece: 
 Traceback (most recent call last):
