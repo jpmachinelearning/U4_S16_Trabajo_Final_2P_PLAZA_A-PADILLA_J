@@ -16966,7 +16966,7 @@ PR relacionado:
 
 ","Fusiono en base a las reviews existentes.
 
-/ocabot merge patch",fusionar base review existente ocabot merge patch,"{'base': 0.2855, 'fusionar': 0.3445, 'existente': 0.4008, 'review': 0.3906, 'ocabot': 0.4129, 'merge': 0.3817, 'patch': 0.4129}","{'ocabot merge': 0.6945, 'merge patch': 0.7195}",
+/ocabot merge patch",fusionar base review existente ocabot merge patch,"{'base': 0.2855, 'fusionar': 0.3445, 'existente': 0.4008, 'review': 0.3906, 'ocabot': 0.4129, 'merge': 0.3817, 'patch': 0.4129}","{'ocabot merge': 0.6945, 'merge patch': 0.7195}",1.0
 Pull Request,4753,[17.0][FIX] l10n_es_aeat_sii_oca: Country vat mapped not taken into account for 'Contraparte' key generator,"No se está teniendo en cuenta que el vat para el identificador puede ser distinto que el country_code, por ejemplo, en Grecia el código de país es GR pero el identificador del VAT (vies) es EL.
 Al enviar facturas al SII de un cliente griego registrado en el VIES se envia como GRnnnnn en lugar de ELnnnnnn
 
