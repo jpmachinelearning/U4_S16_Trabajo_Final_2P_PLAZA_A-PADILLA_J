@@ -11713,7 +11713,7 @@ Que la pestaña AEAT este oculta para los usuarios no autorizados.
 
 [Moduon Task - #6959](https://www.moduon.team/web#id=6959&menu_id=256&cids=1&action=387&model=project.task&view_type=form) @moduon ","Fix en https://github.com/OCA/l10n-spain/pull/3692.
 
-Si hay campos cuya privacidad es más crítica, decidme cuáles por favor porque hay que añadir una capa extra de seguridad a nivel ORM.",campo cuyo privacidad crítico decidme favor añadir capa extra seguridad nivel orm,"{'campo': 0.2366, 'añadir': 0.2628, 'favor': 0.2715, 'nivel': 0.2935, 'cuyo': 0.425, 'extra': 0.3232, 'seguridad': 0.3488, 'capa': 0.3927, 'orm': 0.3927}",{},
+Si hay campos cuya privacidad es más crítica, decidme cuáles por favor porque hay que añadir una capa extra de seguridad a nivel ORM.",campo cuyo privacidad crítico decidme favor añadir capa extra seguridad nivel orm,"{'campo': 0.2366, 'añadir': 0.2628, 'favor': 0.2715, 'nivel': 0.2935, 'cuyo': 0.425, 'extra': 0.3232, 'seguridad': 0.3488, 'capa': 0.3927, 'orm': 0.3927}",{},1.0
 Issue,3689,[16] [l10n_es_aeat] Pestaña AEAT visible en dirección privada,"## Module
 l10n_es_aeat
 
