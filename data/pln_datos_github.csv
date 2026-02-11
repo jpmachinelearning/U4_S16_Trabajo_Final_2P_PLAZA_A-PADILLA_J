@@ -13292,7 +13292,7 @@ En mi opinión, no deberían existir los mapeos en Odoo tal y como están. Proba
 
 @OCA/local-spain-maintainers ","De hecho, mirando el listado de todas las retenciones que existen para la localización española, existen un montón que a dia de hoy no deberían existir. Este es el listado de las retenciones existentes en 2024 segun l'AEAT:
 
-https://sede.agenciatributaria.gob.es/static_files/Sede/Programas_ayuda/Retenciones/2024/Cuadro_tipos_retenciones_IRPF2024.pdf",mirar listado retención localización español montón deber existir listado retención existente l aeat .pdf,"{'aeat': 0.1633, 'existir': 0.2288, 'deber': 0.1544, 'pdf': 0.2618, 'retención': 0.5236, 'mirar': 0.1856, 'montón': 0.2735, 'listado': 0.5055, 'localización': 0.2336, 'existente': 0.2453, 'español': 0.2735}","{'aeat pdf': 0.7071, 'deber existir': 0.7071}",
+https://sede.agenciatributaria.gob.es/static_files/Sede/Programas_ayuda/Retenciones/2024/Cuadro_tipos_retenciones_IRPF2024.pdf",mirar listado retención localización español montón deber existir listado retención existente l aeat .pdf,"{'aeat': 0.1633, 'existir': 0.2288, 'deber': 0.1544, 'pdf': 0.2618, 'retención': 0.5236, 'mirar': 0.1856, 'montón': 0.2735, 'listado': 0.5055, 'localización': 0.2336, 'existente': 0.2453, 'español': 0.2735}","{'aeat pdf': 0.7071, 'deber existir': 0.7071}",0.0
 Issue,3527,Gestión de IRPFs y sus posiciones fiscales,"He notado que las posiciones fiscales de IRPF (los correspondientes a autónomos, o sea, 15% y 7%) e IRNR (en este caso entiendo que todos) incluyen impuestos de venta y no tengo claro si tiene sentido.
 
 En principio, los impuestos de IRPF para ventas y compras deberían usarse en los siguientes supuestos:
