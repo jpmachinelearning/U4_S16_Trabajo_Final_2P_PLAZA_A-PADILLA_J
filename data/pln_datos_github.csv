@@ -2116,7 +2116,7 @@ No estoy completamente seguro de si me estoy perdiendo algo (quizás alguna depe
 
 La revisión de Odoo es la [fed8de2](https://github.com/odoo/odoo/commit/fed8de21c5bf47344050c54eefc5388f26e82e12), y la del l10n_es_account_statement_import_n43es la que ya dejé con el enlace del vals problemático.
 
-Muchas gracias de antemano.","A mi me salió en la 16 el mismo error, tuve que actualizar el bank-statement-import y luego el account_statement_input_file eso es porque no existe como dices, pero no es solo al completo.",salir error tener actualizar bank-statement-import account_statement_input_file decir completo,"{'error': 0.2998, 'tener': 0.3211, 'salir': 0.4099, 'actualizar': 0.4206, 'decir': 0.3814, 'completo': 0.5627}",{},
+Muchas gracias de antemano.","A mi me salió en la 16 el mismo error, tuve que actualizar el bank-statement-import y luego el account_statement_input_file eso es porque no existe como dices, pero no es solo al completo.",salir error tener actualizar bank-statement-import account_statement_input_file decir completo,"{'error': 0.2998, 'tener': 0.3211, 'salir': 0.4099, 'actualizar': 0.4206, 'decir': 0.3814, 'completo': 0.5627}",{},-1.0
 Issue,4596,[17.0][l10n_es_account_statement_import_n43] Invalid field 'creation_context' al importar un fichero N43,"El módulo está intentando pasar el campo creation_context al crear registros de account.bank.statement, pero este campo no existe en el modelo estándar de Odoo. Esto provoca el siguiente error:
 
 `File ""/opt/odoo/addons/account/models/[account_bank_statement.py](https://account_bank_statement.py/)"", line 352, in createcontainer['records'] = stmts = super().create(vals_list)`
