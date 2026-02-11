@@ -19230,7 +19230,7 @@ Pull Request,4595,[17.0][FIX] l10n_es_aeat: Validate certificate file existence,
 
 Now the method validates file existence using os.path.isfile() and raises a descriptive UserError if files are not found, making it easier to diagnose certificate configuration issues.
 
-Closes #4467","Sí, y por favor haz squash de los commits y revisa el CI de pre-commit.",favor haz squash commits revisar ci pre-commit,"{'favor': 0.2856, 'revisar': 0.2573, 'ci': 0.3819, 'haz': 0.4471, 'commit': 0.3907, 'commits': 0.428, 'pre': 0.4131}",{'pre commit': 1.0},,,4,Desarrollo
+Closes #4467","Sí, y por favor haz squash de los commits y revisa el CI de pre-commit.",favor haz squash commits revisar ci pre-commit,"{'favor': 0.2856, 'revisar': 0.2573, 'ci': 0.3819, 'haz': 0.4471, 'commit': 0.3907, 'commits': 0.428, 'pre': 0.4131}",{'pre commit': 1.0},0.0,,4,Desarrollo
 Pull Request,4593,[18.0][FIX] l10n_es_aeat_sii_oca: Send cancellations if previously sent,"Forward-port of #4592 
 
 The filtering was not done correctly for cancel operations if they were on ""sent"" state.
