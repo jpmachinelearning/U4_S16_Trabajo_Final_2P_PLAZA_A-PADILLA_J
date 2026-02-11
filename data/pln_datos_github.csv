@@ -5813,7 +5813,7 @@ Personalmente se me ocurren 3 opciones:
 2. Crear de nuevo unos modelos sencillos dentro de FACe. Al no tener e.Fact, la cosa es mucho más sencilla ahora, aunque implicará hacer algo ""parecido"" pero mucho más simplificado a lo hecho por el framework
 3. Seguir con el framework de OCA
 
-¿Cual es vuestra opinión?",El problema es que esto no va a estar en 18.,problema,{'problema': 1.0},{},
+¿Cual es vuestra opinión?",El problema es que esto no va a estar en 18.,problema,{'problema': 1.0},{},-1.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
