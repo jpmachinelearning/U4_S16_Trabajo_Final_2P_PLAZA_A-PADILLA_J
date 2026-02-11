@@ -3830,7 +3830,7 @@ Dades de la factura?
                     ""ID"": ""FR""}
 Aunque este establecido. 
 
-De hecho esta mal aqui https://github.com/OCA/l10n-spain/blob/16.0/l10n_es_verifactu_oca/models/account_move.py#L447",bug acabar probar él runboat campo id rellenar cif idotro codigopais fr idtype id fr establecido,"{'campo': 0.183, 'él': 0.131, 'probar': 0.225, 'rellenar': 0.2948, 'bug': 0.25, 'establecido': 0.275, 'runboat': 0.2652, 'cif': 0.3147, 'acabar': 0.257, 'id': 0.5746, 'codigopais': 0.3287}","{'acabar probar': 0.5856, 'probar él': 0.5856, 'él runboat': 0.5605}",
+De hecho esta mal aqui https://github.com/OCA/l10n-spain/blob/16.0/l10n_es_verifactu_oca/models/account_move.py#L447",bug acabar probar él runboat campo id rellenar cif idotro codigopais fr idtype id fr establecido,"{'campo': 0.183, 'él': 0.131, 'probar': 0.225, 'rellenar': 0.2948, 'bug': 0.25, 'establecido': 0.275, 'runboat': 0.2652, 'cif': 0.3147, 'acabar': 0.257, 'id': 0.5746, 'codigopais': 0.3287}","{'acabar probar': 0.5856, 'probar él': 0.5856, 'él runboat': 0.5605}",-1.0
 Issue,4389,[16] l10n_es_verifactu_oca: Error al enviar facturas intracomunitarias,"Al enviar a verifactu cualquier factura con regimen de facturación intracomunitaria nos aparece un error 1103 El valor del campo ID es incorrecto.
 
 Adjunto respuesta enviada por verifactu:
