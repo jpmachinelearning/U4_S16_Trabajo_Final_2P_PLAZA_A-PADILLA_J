@@ -112,7 +112,7 @@ odoo-1        | KeyError: account.tax(157,)
 
 As can see, the system tries to search for the tax grouped by the tax breakdowns. Something at this point has not been changed correctly in the commit.","@pedrobaeza tiene que ver con los cambios que llevasteis a cabo no hace mucho. Está causando ralentización y errores cuando se utilizan grupos de impuestos. En este caso el DUA, concretamente.
 
-Ya nos das feedback.",pedrobaeza cambio llevasteis cabo causar ralentización error utilizar grupo impuesto caso dua concretamente dar feedback,,,
+Ya nos das feedback.",pedrobaeza cambio llevasteis cabo causar ralentización error utilizar grupo impuesto caso dua concretamente dar feedback,,,-1.0
 Issue,4652,[17.0][‎‎l10n_es_vat_book] DUA grouped tax error,"The VAT book calculation gives an error when grouped taxes are used.
 
 ## Module
