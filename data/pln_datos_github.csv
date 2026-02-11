@@ -5598,7 +5598,7 @@ Personalmente se me ocurren 3 opciones:
 3. Seguir con el framework de OCA
 
 ¿Cual es vuestra opinión?","Seria otra opción, si, por eso eran las ideas que se me ocurrían por ahora. De todas formas, si simplificasemos el EDI Framework no lo vería mal yo
-",serio opción idea ocurrir forma simplificasar edi framework ver,"{'ver': 0.2606, 'opción': 0.3288, 'forma': 0.2996, 'ocurrir': 0.3684, 'idea': 0.3514, 'framework': 0.4052, 'edi': 0.3976, 'serio': 0.3908}","{'ocurrir forma': 0.7345, 'edi framework': 0.6786}",
+",serio opción idea ocurrir forma simplificasar edi framework ver,"{'ver': 0.2606, 'opción': 0.3288, 'forma': 0.2996, 'ocurrir': 0.3684, 'idea': 0.3514, 'framework': 0.4052, 'edi': 0.3976, 'serio': 0.3908}","{'ocurrir forma': 0.7345, 'edi framework': 0.6786}",0.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
