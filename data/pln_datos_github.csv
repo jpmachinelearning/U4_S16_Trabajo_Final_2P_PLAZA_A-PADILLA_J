@@ -11659,7 +11659,7 @@ En la descripción de la aplicación en Odoo comenta que si hay mas de una base 
 Pero como se puede aplicar esto en Odoo.sh
 Hoy todas las transaciones que se pasan por Redsys no se confirman en Odoo porque no recibe el ok de transacción
 ![image](https://github.com/user-attachments/assets/c072561e-718e-4264-8ae4-9e284d738431)
-","Hola Matias, nos encontramos con el mismo problema. Pudiste encontrar solución?",hola matias encontrar problema poder encontrar solución,"{'poder': 0.2831, 'problema': 0.2757, 'solución': 0.3637, 'hola': 0.3005, 'encontrar': 0.7882}","{'encontrar solución': 0.7444, 'encontrar problema': 0.6677}",
+","Hola Matias, nos encontramos con el mismo problema. Pudiste encontrar solución?",hola matias encontrar problema poder encontrar solución,"{'poder': 0.2831, 'problema': 0.2757, 'solución': 0.3637, 'hola': 0.3005, 'encontrar': 0.7882}","{'encontrar solución': 0.7444, 'encontrar problema': 0.6677}",1.0
 Issue,3690,Retorno transaccion Ok,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
