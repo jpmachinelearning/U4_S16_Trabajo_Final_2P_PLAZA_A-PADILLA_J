@@ -14819,7 +14819,7 @@ Quería exponer aquí el trabajo realizado y pedir colaboración, si os parece b
 
 ¡Gracias!
 
-@moduon MT-5363","Pero curiosamente los casos en los que queda peor envase afectan a mis clientes, y supongo que envasado quedará mejor en los vuestros. A ver qué opina más gente al respecto.",curiosamente caso quedar envase afectar cliente suponer envasado quedar opinar gente,"{'caso': 0.1824, 'cliente': 0.2268, 'quedar': 0.5114, 'gente': 0.3229, 'opinar': 0.3567, 'suponer': 0.3064, 'afectar': 0.3229, 'envasado': 0.3462, 'envase': 0.3229}","{'caso quedar': 0.7071, 'opinar gente': 0.7071}",
+@moduon MT-5363","Pero curiosamente los casos en los que queda peor envase afectan a mis clientes, y supongo que envasado quedará mejor en los vuestros. A ver qué opina más gente al respecto.",curiosamente caso quedar envase afectar cliente suponer envasado quedar opinar gente,"{'caso': 0.1824, 'cliente': 0.2268, 'quedar': 0.5114, 'gente': 0.3229, 'opinar': 0.3567, 'suponer': 0.3064, 'afectar': 0.3229, 'envasado': 0.3462, 'envase': 0.3229}","{'caso quedar': 0.7071, 'opinar gente': 0.7071}",0.0
 Issue,3482,Homogeneizar términos: envase - paquete,"Buenos días.
 
 Desde Moduon hemos estado trabajando para homogeneizar unos términos de traducción y queríamos compartir con AEOdoo el trabajo realizado y las conclusiones para poder unificar esfuerzos en una misma dirección.
