@@ -16363,7 +16363,7 @@ Pull Request,4788,[17.0][FWP][IMP] l10n_es_vat_prorate: update prorate data with
 - [X] https://github.com/OCA/l10n-spain/pull/4627
 
 @Tecnativa TT59299
-@pedrobaeza ","Congratulations, your PR was merged at 4819579f190a945a6c78cb7d9468832edc996f71. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@pedrobaeza ","Congratulations, your PR was merged at 4819579f190a945a6c78cb7d9468832edc996f71. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4786,[17.0][FIX] l10n_es_vat_book_igic: update mapped column to new vat book,"cc @Tecnativa
 ping @pedrobaeza @christian-ramos-tecnativa 
 
