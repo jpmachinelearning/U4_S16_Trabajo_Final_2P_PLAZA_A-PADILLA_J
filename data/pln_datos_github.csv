@@ -11547,7 +11547,7 @@ Para reproducir, tratar de actualizar el plan contable tras instalar el módulo.
 Odoo 16.0-20240422 (Versión Community)
 Python 3.11.2
 
-Muchas gracias!","Desactiva esa casilla manualmente, o en el `account_chart_update` (que hay que ejecutarlo), pongas de no actualizar ese dato.",desactivar casilla manualmente account_chart_update ejecutar él pongas actualizar dato,"{'él': 0.1879, 'desactivar': 0.4121, 'ejecutar': 0.3743, 'actualizar': 0.3257, 'casilla': 0.3286, 'dato': 0.2953, 'account_chart_update': 0.4514, 'manualmente': 0.3871}",{},
+Muchas gracias!","Desactiva esa casilla manualmente, o en el `account_chart_update` (que hay que ejecutarlo), pongas de no actualizar ese dato.",desactivar casilla manualmente account_chart_update ejecutar él pongas actualizar dato,"{'él': 0.1879, 'desactivar': 0.4121, 'ejecutar': 0.3743, 'actualizar': 0.3257, 'casilla': 0.3286, 'dato': 0.2953, 'account_chart_update': 0.4514, 'manualmente': 0.3871}",{},1.0
 Issue,3698,Fallo carga certificado AEAT,"**1.- Contexto:**
 Odoo 16 corriendo en Docker.
 **2.- Prueba**
