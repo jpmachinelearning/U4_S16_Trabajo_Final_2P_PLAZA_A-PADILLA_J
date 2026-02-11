@@ -5720,7 +5720,7 @@ Personalmente se me ocurren 3 opciones:
 2. Crear de nuevo unos modelos sencillos dentro de FACe. Al no tener e.Fact, la cosa es mucho más sencilla ahora, aunque implicará hacer algo ""parecido"" pero mucho más simplificado a lo hecho por el framework
 3. Seguir con el framework de OCA
 
-¿Cual es vuestra opinión?","Yo no veo que tenga tanta base compartida, pero si acaso, esa base podría ir en `l10n_es_aeat` como hicimos con SII/VeriFactu.",ver tanto base compartido acaso base l10n_es_aeat hacer sii verifactu,"{'hacer': 0.2337, 'verifactu': 0.2568, 'ver': 0.2162, 'sii': 0.2291, 'base': 0.5136, 'l10n_es_aeat': 0.3057, 'tanto': 0.3513, 'compartido': 0.3714, 'acaso': 0.402}","{'hacer sii': 0.7345, 'sii verifactu': 0.6786}",
+¿Cual es vuestra opinión?","Yo no veo que tenga tanta base compartida, pero si acaso, esa base podría ir en `l10n_es_aeat` como hicimos con SII/VeriFactu.",ver tanto base compartido acaso base l10n_es_aeat hacer sii verifactu,"{'hacer': 0.2337, 'verifactu': 0.2568, 'ver': 0.2162, 'sii': 0.2291, 'base': 0.5136, 'l10n_es_aeat': 0.3057, 'tanto': 0.3513, 'compartido': 0.3714, 'acaso': 0.402}","{'hacer sii': 0.7345, 'sii verifactu': 0.6786}",0.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
