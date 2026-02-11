@@ -17338,7 +17338,7 @@ Pull Request,4707,[18.0][IMP] l10n_es_aeat_sii_oca: multiple improvements,"En es
 <img width=""615"" height=""298"" alt=""image"" src=""https://github.com/user-attachments/assets/1347f8cf-c0be-4cf4-990d-3e126781a6b7"" />
 
 @Tecnativa TT59653
-@pedrobaeza ",Listo y añadido como nuevo punto a la descripción,listo añadir punto descripción,"{'añadir': 0.5008, 'punto': 0.5544, 'listo': 0.6648}","{'añadir punto': 0.6915, 'listo añadir': 0.7224}",
+@pedrobaeza ",Listo y añadido como nuevo punto a la descripción,listo añadir punto descripción,"{'añadir': 0.5008, 'punto': 0.5544, 'listo': 0.6648}","{'añadir punto': 0.6915, 'listo añadir': 0.7224}",1.0
 Pull Request,4706,[17.0][FIX] l10n_es_aeat: Validate certificate file existence,"## Summary
 
 This PR fixes issue #4467 regarding false positives in AEAT certificate validation.
