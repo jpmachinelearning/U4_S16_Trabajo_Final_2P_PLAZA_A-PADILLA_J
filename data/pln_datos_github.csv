@@ -10370,7 +10370,7 @@ Missing module? Check https://github.com/OCA/maintainer-tools/wiki/%5BFAQ%5D-Mis
 > 
 > https://github.com/OCA/OCB/tree/17.0/addons/l10n_es_edi_tbai
 
-Si, pero paso lo mismo con el SII, que esta en el core, pero le faltan cosas y no funciona bien con los IRPF. Ahí ya es decisión más de los que están en el país vasco que quieren hacer.",decisión país vasco querer,"{'querer': 0.3984, 'país': 0.5127, 'vasco': 0.5282, 'decisión': 0.5472}",{},
+Si, pero paso lo mismo con el SII, que esta en el core, pero le faltan cosas y no funciona bien con los IRPF. Ahí ya es decisión más de los que están en el país vasco que quieren hacer.",decisión país vasco querer,"{'querer': 0.3984, 'país': 0.5127, 'vasco': 0.5282, 'decisión': 0.5472}",{},0.0
 Issue,3754,Migration to version 18.0,"# Todo
 
 https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
