@@ -2140,7 +2140,7 @@ La revisión de Odoo es la [fed8de2](https://github.com/odoo/odoo/commit/fed8de2
 
 Muchas gracias de antemano.","Efectivamente. Tenéis que actualizar todo el código fuente a la vez. No se pueden actualizar unos repositorios sí, y otro no.
 
-Cierro porque no existe realmente el error. Es un problema de despliegue.",tenéis actualizar código fuentir actualizar repositorio cerrar realmente error problema despliegue,"{'problema': 0.2002, 'error': 0.2022, 'cerrar': 0.2439, 'realmente': 0.3012, 'repositorio': 0.3589, 'código': 0.254, 'actualizar': 0.5673, 'tenéis': 0.3436, 'despliegue': 0.3683}",{'actualizar código': 1.0},
+Cierro porque no existe realmente el error. Es un problema de despliegue.",tenéis actualizar código fuentir actualizar repositorio cerrar realmente error problema despliegue,"{'problema': 0.2002, 'error': 0.2022, 'cerrar': 0.2439, 'realmente': 0.3012, 'repositorio': 0.3589, 'código': 0.254, 'actualizar': 0.5673, 'tenéis': 0.3436, 'despliegue': 0.3683}",{'actualizar código': 1.0},-1.0
 Issue,4589,[16.0] Problema tras actualización de VERI*FACTU (v16.0.1.1.0),"Hola Pedro y compis,
 
 Acabo de actualizar a la nueva versión de VERI*FACTU:
