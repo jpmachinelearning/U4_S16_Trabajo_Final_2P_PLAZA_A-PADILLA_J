@@ -17015,7 +17015,7 @@ Pull Request,4745,[16.0][IMP] l10n_es_aeat_mod390: Test new export BOE config,"F
 @Tecnativa ","@EmilioPascual para la próxima, recuerda añadir la nueva configuración al test para así evitar sorpresas y regresiones.",emiliopascual próximo recordar añadir configuración test evitar sorpresa regresión,"{'añadir': 0.3019, 'evitar': 0.3764, 'configuración': 0.3403, 'recordar': 0.3667, 'emiliopascual': 0.417, 'test': 0.3235, 'próximo': 0.4883}",{},1.0
 Pull Request,4745,[16.0][IMP] l10n_es_aeat_mod390: Test new export BOE config,"Fine-tuning of #4741 
 
-@Tecnativa ","Congratulations, your PR was merged at 7e013beb6fdbd6e13da0d148d77b65a6f35185bf. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa ","Congratulations, your PR was merged at 7e013beb6fdbd6e13da0d148d77b65a6f35185bf. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4744,[15.0][IMP] l10n_es_aeat_mod390: 2025 BOE export format,"Backport of #4690 
 
 Updated according https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_25/dr390e2025.xlsx
