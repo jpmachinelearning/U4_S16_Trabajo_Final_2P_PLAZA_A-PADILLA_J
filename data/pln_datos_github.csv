@@ -10497,7 +10497,7 @@ https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
 - [x] payment_redsys - By @carlos-lopez-tecnativa - #4486
 
 Missing module? Check https://github.com/OCA/maintainer-tools/wiki/%5BFAQ%5D-Missing-modules-in-migration-issue-list","Hay plan sobre el modulo de verifactu?
-",plan modulo verifactu,"{'verifactu': 0.473, 'modulo': 0.5789, 'plan': 0.6641}",{'modulo verifactu': 1.0},
+",plan modulo verifactu,"{'verifactu': 0.473, 'modulo': 0.5789, 'plan': 0.6641}",{'modulo verifactu': 1.0},0.0
 Issue,3754,Migration to version 18.0,"# Todo
 
 https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0
