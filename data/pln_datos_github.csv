@@ -3715,7 +3715,7 @@ Corrigo la imagen de @ArantxaSudon que es una errata.
 Haremos PR semana que viene, para estar de acuerdo antes de hacerlo...
 
 Gracias
-Saludos",moduon mt agregar retención irpf deber excluir hecho corrigo imagen arantxasudon errata gracias saludo,"{'gracias': 0.1764, 'deber': 0.1859, 'saludo': 0.2415, 'moduon': 0.3293, 'mt': 0.3293, 'agregar': 0.2953, 'retención': 0.3152, 'irpf': 0.3152, 'excluir': 0.2953, 'hecho': 0.3152, 'imagen': 0.3152, 'arantxasudon': 0.2953}",{'gracias saludo': 1.0},
+Saludos",moduon mt agregar retención irpf deber excluir hecho corrigo imagen arantxasudon errata gracias saludo,"{'gracias': 0.1764, 'deber': 0.1859, 'saludo': 0.2415, 'moduon': 0.3293, 'mt': 0.3293, 'agregar': 0.2953, 'retención': 0.3152, 'irpf': 0.3152, 'excluir': 0.2953, 'hecho': 0.3152, 'imagen': 0.3152, 'arantxasudon': 0.2953}",{'gracias saludo': 1.0},1.0
 Issue,4390,[16.0][BUG] l10n_es_aeat_sii_oca: Retenciones e IRPF no excluidas del total,"
 **Módulo**
 l10n_es_sii_oca
