@@ -16904,7 +16904,7 @@ Pull Request,4761,[17.0][IMP] l10n_es_atc_mod417: Update JAR to v2.2.1,"TT60489
 Esta actualización es por trimestre, no es por cambio de año aún, a diferencia de la actualización en el PR https://github.com/OCA/l10n-spain/pull/4757 donde sí tengo que cambiar la fecha de los test, porque ahí el JAR valida el año. Imagino que en una próxima actualización, donde sí cambie el año, ahí sí se debe cambiar en los test, pero ahora no es necesario.",imaginar próximo actualización cambiar año cambiar test necesario,"{'año': 0.323, 'necesario': 0.2828, 'imaginar': 0.3975, 'cambiar': 0.5002, 'actualización': 0.3759, 'test': 0.285, 'próximo': 0.4301}",{'cambiar test': 1.0},0.0
 Pull Request,4761,[17.0][IMP] l10n_es_atc_mod417: Update JAR to v2.2.1,"TT60489
 
-@Tecnativa @pedrobaeza @sergio-teruel @christian-ramos-tecnativa could you please review this?","Congratulations, your PR was merged at 3aac26c68dfae7b98b9e9d9b1a07ee37f83aa884. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa @pedrobaeza @sergio-teruel @christian-ramos-tecnativa could you please review this?","Congratulations, your PR was merged at 3aac26c68dfae7b98b9e9d9b1a07ee37f83aa884. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4759,[15.0][IMP] l10n_es_aeat_mod190: Diseño de registro 2025,"Backport de https://github.com/OCA/l10n-spain/pull/4718
 
 TT60426
