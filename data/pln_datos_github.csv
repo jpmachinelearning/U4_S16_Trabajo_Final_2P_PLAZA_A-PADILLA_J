@@ -5335,7 +5335,7 @@ ValueError: <class 'AttributeError'>: ""RespuestaRegFactuSistemaFacturacionType 
 'model._cron_send_documents_to_verifactu()'
 ```
 
-A que puede ser debido?",Fusionando entonces.,fusionar,{'fusionar': 1.0},{},
+A que puede ser debido?",Fusionando entonces.,fusionar,{'fusionar': 1.0},{},0.0
 Issue,4366,[16] l10n_es_verifactu_oca,"Hola, he instalado el reciente múdulo publicado de VERIFACTU y al generar la factura el cron, me devulve el siguiente error.
 
 
