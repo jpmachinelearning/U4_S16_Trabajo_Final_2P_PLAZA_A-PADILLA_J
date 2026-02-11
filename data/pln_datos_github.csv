@@ -8836,7 +8836,7 @@ https://github.com/OCA/l10n-spain/blob/0e62d8ab8ceb93c4acf441b2b83fdf60a90cebfb/
 
 por lo que el comportamiento que describes no es lo que ocurre. Revisa que cada factura tiene los impuestos adecuados.
 
-Cierro al no ser correcta la aseveración y no existir ese error.",revisar factura impuesto adecuado cerrar correcto aseveración existir error,"{'error': 0.2812, 'existir': 0.4778, 'impuesto': 0.2988, 'cerrar': 0.3392, 'adecuado': 0.4344, 'factura': 0.2741, 'revisar': 0.3288, 'correcto': 0.3411}",{'factura impuesto': 1.0},
+Cierro al no ser correcta la aseveración y no existir ese error.",revisar factura impuesto adecuado cerrar correcto aseveración existir error,"{'error': 0.2812, 'existir': 0.4778, 'impuesto': 0.2988, 'cerrar': 0.3392, 'adecuado': 0.4344, 'factura': 0.2741, 'revisar': 0.3288, 'correcto': 0.3411}",{'factura impuesto': 1.0},0.0
 Issue,3862,[17] Modelo 349,"Al generar el 349, Odoo incluye todas las operaciones de venta de mercancía que se han realizado con cualquier cliente de otro país europeo, sean operadores intracomunitarios (no pagan IVA) o no (pagan IVA).
 
 He consultado con dos asesores fiscales, y ambos coinciden en que en este modelo solo deben declararse los clientes de otro país europeo que figuran en el registro de operadores intracomunitarios (ROI), los que no pagan IVA.
