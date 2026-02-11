@@ -16595,7 +16595,7 @@ Pull Request,4773,[18.0][IMP] l10n_es_aeat_mod390: Casilla 523,"
 <img width=""728"" height=""95"" alt=""image"" src=""https://github.com/user-attachments/assets/5656d80c-4951-4ce0-9c53-096e9adfc464"" />
 
 
-@moduon MT-13508","Congratulations, your PR was merged at aa882e7c23c8e89f7478b5911ae6885f57e2a469. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@moduon MT-13508","Congratulations, your PR was merged at aa882e7c23c8e89f7478b5911ae6885f57e2a469. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4772,[17.0][FIX] l10n_es_vat_book: The 'p_dua_exempt' tax is eliminated because it is a harmless tax and does not need to be reflected.,"El impuesto ""DUA exento"" tiene un efecto inocuo. Se utiliza como herramienta en Odoo para llevar a cabo el flujo de DUA añadiéndose en la factura del proveedor extranjero a quien le hacemos la compra inicial de las mercancías. El motivo principal de su existencia es no dejar una factura sin impuestos.
 
 Al no tener IVA, no debe aparecer en el libro de IVA, así como tampoco debe ser enviado al SII.
