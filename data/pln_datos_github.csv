@@ -7415,7 +7415,7 @@ El punto es que la transición entre ambos sistemas no la veo tan clara con el s
 
 Creo que con llevar los campos de registro de envío, etc. al l10n_es_aeat se tendría que solucionar todo esto. Se mantiene el histórico y listo.
 
-¿Qué pensáis de esto?","Vale, pues en los Spanish OCA days alguien puede dedicarse a detectar esos posibles conflictos y atajarlos antes de que fusionemos para que no haya luego que renombrar campos y demás.",valer spanish oca day alguien dedicar él detectar posible conflicto atajar él fusionemos renombrar campo,"{'campo': 0.2202, 'posible': 0.3308, 'alguien': 0.2731, 'él': 0.3151, 'oca': 0.2492, 'detectar': 0.3139, 'valer': 0.2868, 'renombrar': 0.3954, 'spanish': 0.3546, 'dedicar': 0.3785}","{'spanish oca': 0.6677, 'dedicar él': 0.7444}",
+¿Qué pensáis de esto?","Vale, pues en los Spanish OCA days alguien puede dedicarse a detectar esos posibles conflictos y atajarlos antes de que fusionemos para que no haya luego que renombrar campos y demás.",valer spanish oca day alguien dedicar él detectar posible conflicto atajar él fusionemos renombrar campo,"{'campo': 0.2202, 'posible': 0.3308, 'alguien': 0.2731, 'él': 0.3151, 'oca': 0.2492, 'detectar': 0.3139, 'valer': 0.2868, 'renombrar': 0.3954, 'spanish': 0.3546, 'dedicar': 0.3785}","{'spanish oca': 0.6677, 'dedicar él': 0.7444}",1.0
 Issue,4110,From Verifactu to SII or SII to Verifactu,"Revisada la modularidad del módulo de SII_OCA y la idea de realizar el módulo Verifactu, veo de primeras que existirán posibles complicaciones si no se realizan cambios.
 
 Hace 1 año que realizó un buen esfuerzo de extracción del módulo SII_OCA al l10n_es_aeat, para poder realzar más adelante módulos de comunicación con AEAT de una manera más sencilla.
