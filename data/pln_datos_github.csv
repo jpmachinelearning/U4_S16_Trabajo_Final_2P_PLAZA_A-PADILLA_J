@@ -10837,7 +10837,7 @@ cryptography 38.0.2
 
 
 No se hizo ningun cambio del lado de Odoo, asi que supongo que han tocado algo en el endpoint del FACe","Se soluciono solo
-Parece que era cosa de ellos",solucionar cosa,"{'solucionar': 0.7515, 'cosa': 0.6597}",{},
+Parece que era cosa de ellos",solucionar cosa,"{'solucionar': 0.7515, 'cosa': 0.6597}",{},1.0
 Issue,3720,"[16.0] l10n_es_ticketbai: Error en facturas con iva bienes, iva servicios y recargo de equivalencia","En referencia al issue #3045 pero en la versión 16, continúa pasando lo mismo. Según el equipo técnico de Batuz <programak@bizkaia.eus> este comportamiento es incorrecto.
 ![EmailBatuz](https://github.com/user-attachments/assets/1ecd99fb-eb68-49a3-ad33-d4c230a36657)
 
