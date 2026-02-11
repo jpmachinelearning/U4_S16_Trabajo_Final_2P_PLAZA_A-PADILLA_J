@@ -5539,7 +5539,7 @@ Crear un **módulo específico para ZEC** que permita:
   * Crear un nuevo régimen/fiscalidad llamado “ZEC” dentro de las opciones de fiscalidad de Odoo.
   * Registrar entidades/empresas bajo este régimen.
   * Aplicar reglas de cálculo de impuestos específicas para ZEC (tipos impositivos, bases, exenciones, deducciones, etc.).
-  * Integración con facturación, libros contables y reportes fiscales para ZEC.",Si correcto @pedrobaeza es la idea ,correcto pedrobaeza idea,"{'pedrobaeza': 0.4691, 'correcto': 0.5613, 'idea': 0.6819}","{'correcto pedrobaeza': 0.6945, 'pedrobaeza idea': 0.7195}",
+  * Integración con facturación, libros contables y reportes fiscales para ZEC.",Si correcto @pedrobaeza es la idea ,correcto pedrobaeza idea,"{'pedrobaeza': 0.4691, 'correcto': 0.5613, 'idea': 0.6819}","{'correcto pedrobaeza': 0.6945, 'pedrobaeza idea': 0.7195}",1.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
