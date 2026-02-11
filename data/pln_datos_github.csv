@@ -16170,7 +16170,7 @@ Pull Request,4811,[16.0][ADD] l10n_es_verifactu_oca_operation_date: fecha operac
 
 ### Caso de uso:
 
-Esto es particularmente útil cuando la operación comercial (entrega de bienes/servicios) ocurre en una fecha anterior a la emisión de la factura, que es un escenario común en muchas empresas de servicios españolas y es requerido por la normativa.","Congratulations, your PR was merged at c0668de5e214d6804c1c4cb6bd610defa88986f2. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+Esto es particularmente útil cuando la operación comercial (entrega de bienes/servicios) ocurre en una fecha anterior a la emisión de la factura, que es un escenario común en muchas empresas de servicios españolas y es requerido por la normativa.","Congratulations, your PR was merged at c0668de5e214d6804c1c4cb6bd610defa88986f2. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4808,[18.0][IMP] l10n_es_account_statement_import_n43: Add exclude pattern,"Forward-port of #4653 
 
 You may be interested in not importing certain statement lines if they come from complicated operations like third party payment providers with several charges/incomes, and you are interested in importing them by other means.
