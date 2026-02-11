@@ -16454,7 +16454,7 @@ Y verifica que pasan todos los test.
 
 ¡Muchas gracias!
 
-Saludos",hola desagia favor tener pr módulo verificar pasar test gracia saludo,"{'módulo': 0.198, 'pasar': 0.2826, 'hola': 0.2351, 'tener': 0.2332, 'gracia': 0.2509, 'saludo': 0.3244, 'pr': 0.2497, 'favor': 0.2826, 'test': 0.2931, 'verificar': 0.4234, 'desagia': 0.4424}","{'gracia saludo': 0.5, 'hola desagia': 0.5, 'pasar test': 0.5, 'pr módulo': 0.5}",
+Saludos",hola desagia favor tener pr módulo verificar pasar test gracia saludo,"{'módulo': 0.198, 'pasar': 0.2826, 'hola': 0.2351, 'tener': 0.2332, 'gracia': 0.2509, 'saludo': 0.3244, 'pr': 0.2497, 'favor': 0.2826, 'test': 0.2931, 'verificar': 0.4234, 'desagia': 0.4424}","{'gracia saludo': 0.5, 'hola desagia': 0.5, 'pasar test': 0.5, 'pr módulo': 0.5}",1.0
 Pull Request,4783,[MIG] l10n-spain: Migration to Odoo 19.0,"## Migration Summary
 
 This PR migrates all Spanish localization modules from version 18.0 to 19.0.
