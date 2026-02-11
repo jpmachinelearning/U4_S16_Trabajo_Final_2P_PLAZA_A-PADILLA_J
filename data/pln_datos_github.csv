@@ -8688,7 +8688,7 @@ he instalado quitando el requisito de version de todas partes, pero no se si cre
 en #3551 parece decir que este requisito no está en las versiones 15 y 17, pero al menos en estos dos paquetes yo la he encontrado.
 
 No alcanzo a ver si el cambio que he hecho puede romper el funcionamiento.
-",Liberada versión en #3936 ,liberado versión,{'versión': 1.0},{},
+",Liberada versión en #3936 ,liberado versión,{'versión': 1.0},{},0.0
 Issue,3872,[17.0] l10n_es_partner: Factura con contacto de nombre comercial pierde dirección,"Cuando se crea una factura y se asigna un contacto que tiene nombre comercial, se quita automáticamente la dirección de la compañía y esta información tampoco se sale en el impreso. En anteriores versiones a la V16 esto no pasa.
 
 Ejemplo V16:
