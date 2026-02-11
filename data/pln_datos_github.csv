@@ -17040,7 +17040,7 @@ Pull Request,4742,[16.0][IMP] l10n_es_vat_book: update vat book format + added I
 cc @Tecnativa
 ping @sergio-teruel @carlosdauden @pedrobaeza
 
-TT59220","Congratulations, your PR was merged at c0f1aad097c803f2e808c007629328a97cb1d6b3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+TT59220","Congratulations, your PR was merged at c0f1aad097c803f2e808c007629328a97cb1d6b3. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4741,[16.0][IMP] l10n_es_aeat_mod390: 2025 BOE export format,"BP de https://github.com/OCA/l10n-spain/pull/4690
 
 Updated according https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_25/dr390e2025.xlsx
