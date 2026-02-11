@@ -3487,7 +3487,7 @@ Habilitar a nivel de res.company la ""Fecha inicio"" en la pestaña ""SII"", de 
 
 Gracias,
 
-","Ya está disponible en 16, 17 y 18.",disponible,{'disponible': 1.0},{},
+","Ya está disponible en 16, 17 y 18.",disponible,{'disponible': 1.0},{},1.0
 Issue,4424,[16.0] l10n_es_verifactu_oca: Impuestos OSS,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
