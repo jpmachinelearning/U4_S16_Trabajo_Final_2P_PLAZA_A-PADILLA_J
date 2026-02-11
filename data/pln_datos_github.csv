@@ -16252,7 +16252,7 @@ Pull Request,4801,[16.0][FIX] l10n_es_aeat_sii_oca: Map country codes,"Backport 
 Pull Request,4800,[18.0][FIX] l10n_es_aeat_sii_oca: Map country codes,Forward-port of #4753 and #4754 ,"Congratulations, your PR was merged at 627f223822b08d030fab26460b7316aa64b64e2e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4799,[17.0][IMP] l10n_es_aeat_sii_oca: Manage sii_refund_specific_invoice_type in in_refund,"ping @sergio-teruel 
 
-@Tecnativa TT60768","Congratulations, your PR was merged at c2101283914d159dbd01fb599ceba2063ec3ce0e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT60768","Congratulations, your PR was merged at c2101283914d159dbd01fb599ceba2063ec3ce0e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4798,[18.0][FIX] l10n_es_pos_sii: SII page visibility for invoiced orders,"The sii_enabled flag should reflect if the order is not simplified (because it has been invoiced), so the SII page is not visible.
 
 @Tecnativa ","Parche directo
