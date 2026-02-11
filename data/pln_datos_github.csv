@@ -13278,7 +13278,7 @@ Issue,3538,[IMP] l10n_es_aeat_mod303: Permitir trasladar la compensación al añ
 
 El campo 'result_type' es ahora mismo calculado. Quizás debería existir un booleano 'Trasladar compensación al siguiente año', que sólo aparezca en el último trimestre?
 
-@OCA/local-spain-maintainers ","Perdón, #3359, que tengo follón por lo de la separación de PRs.",perdón follón separación prs,"{'separación': 0.6017, 'prs': 0.5253, 'perdón': 0.6017}",{},
+@OCA/local-spain-maintainers ","Perdón, #3359, que tengo follón por lo de la separación de PRs.",perdón follón separación prs,"{'separación': 0.6017, 'prs': 0.5253, 'perdón': 0.6017}",{},-1.0
 Issue,3527,Gestión de IRPFs y sus posiciones fiscales,"He notado que las posiciones fiscales de IRPF (los correspondientes a autónomos, o sea, 15% y 7%) e IRNR (en este caso entiendo que todos) incluyen impuestos de venta y no tengo claro si tiene sentido.
 
 En principio, los impuestos de IRPF para ventas y compras deberían usarse en los siguientes supuestos:
