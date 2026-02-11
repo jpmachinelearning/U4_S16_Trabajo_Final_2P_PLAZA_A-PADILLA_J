@@ -18506,7 +18506,7 @@ Antes del fix sólo se recogía la casilla 87 del último periodo lo que no reco
 
 ¿@ArantxaSudon @pedrobaeza @LauraCForgeFlow podéis revisar por favor?
 
-@moduon MT-8899","@pedrobaeza ya que fusionas para 16 y 17, que no se te pase 18. Gracias. 😊",pedrobaeza fusiona pasar gracias cara feliz ojo sonrient,"{'gracias': 0.2965, 'pasar': 0.3536, 'pedrobaeza': 0.2762, 'cara': 0.3756, 'ojo': 0.3822, 'feliz': 0.4964, 'sonrient': 0.4209}","{'gracias cara': 0.5601, 'cara feliz': 0.5024, 'feliz ojo': 0.5024, 'ojo sonrient': 0.426}",,,,
+@moduon MT-8899","@pedrobaeza ya que fusionas para 16 y 17, que no se te pase 18. Gracias. 😊",pedrobaeza fusiona pasar gracias cara feliz ojo sonrient,"{'gracias': 0.2965, 'pasar': 0.3536, 'pedrobaeza': 0.2762, 'cara': 0.3756, 'ojo': 0.3822, 'feliz': 0.4964, 'sonrient': 0.4209}","{'gracias cara': 0.5601, 'cara feliz': 0.5024, 'feliz ojo': 0.5024, 'ojo sonrient': 0.426}",1.0,,,
 Pull Request,4671,[18.0][FIX] l10n_es_aeat_mod390: Calculate casilla 662,"FW-port of https://github.com/OCA/l10n-spain/pull/4617
 
 En la casilla 662 se deben incluir las cuotas a compensar generadas en este año que no se hayan aplicado en el año.
