@@ -19002,7 +19002,7 @@ Con esta mejora se añade un test para probarla.
 
 https://www.loom.com/share/f765537951664e0ea77af6536c7de433
 
-MT-12714 @moduon @EmilioPascual ","Ya, pues entonces creo que es lo que habría que hacer en lugar de cambiar el readonly, ¿no os parece?",haber lugar cambiar readonly,"{'haber': 0.4177, 'cambiar': 0.4067, 'lugar': 0.4922, 'readonly': 0.6464}",{},,,6,Normativa
+MT-12714 @moduon @EmilioPascual ","Ya, pues entonces creo que es lo que habría que hacer en lugar de cambiar el readonly, ¿no os parece?",haber lugar cambiar readonly,"{'haber': 0.4177, 'cambiar': 0.4067, 'lugar': 0.4922, 'readonly': 0.6464}",{},0.0,,6,Normativa
 Pull Request,4616,[16.0][IMP] l10n_es_aeat_mod111: Calcular tipo declaración,"Con esta mejora, el campo tipo declaración es computado bajo la siguiente lógica:
 
 - Si es el resultado (Casilla 30) es positivo o igual a 0:
