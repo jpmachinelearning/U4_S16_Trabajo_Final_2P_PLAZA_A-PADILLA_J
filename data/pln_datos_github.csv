@@ -17109,7 +17109,7 @@ Pull Request,4730,[15.0][FIX] l10n_es_verifactu_oca: Fix test test_create_send_a
 
 1. Primero postear la factura → `action_post()`
 2. Luego actualizar el mock con el nombre real → `invoice.name`
-3. Finalmente ejecutar el cron","Congratulations, your PR was merged at a296b02aa14c9a5d1039449e3fab1d2f77eb334c. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+3. Finalmente ejecutar el cron","Congratulations, your PR was merged at a296b02aa14c9a5d1039449e3fab1d2f77eb334c. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4730,[15.0][FIX] l10n_es_verifactu_oca: Fix test test_create_send_activity,"Fix donde reordenamos el código para:
 
 1. Primero postear la factura → `action_post()`
