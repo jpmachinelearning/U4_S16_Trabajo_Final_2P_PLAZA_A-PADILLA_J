@@ -16139,7 +16139,7 @@ Antes de hacer cambios en código quería confirmar si esta situación ya está 
 
 **Expected behavior**
 Las subvenciones deberían aparecer en el 347.
-","OK, creo que queda bastante claro y documentado en este hilo. A ver si alguien recoge el testigo y se pone hacerlo. Si no, esto podría ser una tarea para los Spanish OCA days de Tenerife en mayo.",ok quedar documentado hilo alguien recoger testigo poner tarea spanish oca days tenerife mayo,"{'poner': 0.2254, 'alguien': 0.277, 'oca': 0.2528, 'quedar': 0.2657, 'tarea': 0.3839, 'hilo': 0.3184, 'ok': 0.305, 'spanish': 0.3597, 'days': 0.3706, 'recoger': 0.3597}","{'spanish oca': 0.6965, 'oca days': 0.7176}",
+","OK, creo que queda bastante claro y documentado en este hilo. A ver si alguien recoge el testigo y se pone hacerlo. Si no, esto podría ser una tarea para los Spanish OCA days de Tenerife en mayo.",ok quedar documentado hilo alguien recoger testigo poner tarea spanish oca days tenerife mayo,"{'poner': 0.2254, 'alguien': 0.277, 'oca': 0.2528, 'quedar': 0.2657, 'tarea': 0.3839, 'hilo': 0.3184, 'ok': 0.305, 'spanish': 0.3597, 'days': 0.3706, 'recoger': 0.3597}","{'spanish oca': 0.6965, 'oca days': 0.7176}",1.0
 Issue,3450,Persona física - l10n_es_facturae - Odoo 14,"Buenos días:
 
 Tenemos un Odoo 14.0 (Versión Community)
