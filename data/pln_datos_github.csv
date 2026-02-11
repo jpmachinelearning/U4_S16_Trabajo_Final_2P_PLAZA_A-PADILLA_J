@@ -9820,7 +9820,7 @@ The query from pre-migration.py should execute and you should be able to update 
 
 **Additional context**
 Python 3.8, Ubuntu 20.04 (also on WSL enviroment) PSQL 15.0 for Odoo 15
-Python 3.10, Ubuntu 22.04, PSQL 15.0 for Odoo 16",Efectivamente es incorrecto. Arreglado en https://github.com/OCA/l10n-spain/commit/2ec7e5299e66a6d17e385017e14df36edbd19edb,efectivamente incorrecto,"{'efectivamente': 0.6727, 'incorrecto': 0.7399}",{},
+Python 3.10, Ubuntu 22.04, PSQL 15.0 for Odoo 16",Efectivamente es incorrecto. Arreglado en https://github.com/OCA/l10n-spain/commit/2ec7e5299e66a6d17e385017e14df36edbd19edb,efectivamente incorrecto,"{'efectivamente': 0.6727, 'incorrecto': 0.7399}",{},1.0
 Issue,3790,[16.0] Comprobación de exportación AEAT modelo 303 2023-actualidad,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
