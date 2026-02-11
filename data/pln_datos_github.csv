@@ -7153,7 +7153,7 @@ En cuanto a los impuestos que Odoo archivó en este  [commit](https://github.com
 @pedrobaeza gracias por el apunte.",versión backport,"{'backport': 0.8022, 'versión': 0.5971}",{},0.0
 Issue,4155,Version 17 del Modulo l10n_es_aeat_sii_oca no envia las facturas a hacienda.,"Hola, nos hemos migrado de una version 15 a la version 17 de odoo. En la versión 15 el moduloi del SII funciona correctamente. Sin embargo, el modulo del SII en la versión 17 no hace nada.  Parece que no se comunica con hacienda.
 
-",Me temo que la información proporcionada no es suficiente para poder ayudar.,temer información proporcionado suficiente ayudar,"{'información': 0.3513, 'ayudar': 0.4446, 'temer': 0.47, 'proporcionado': 0.4869, 'suficiente': 0.47}","{'temer información': 0.5774, 'información proporcionado': 0.5774, 'proporcionado suficiente': 0.5774}",
+",Me temo que la información proporcionada no es suficiente para poder ayudar.,temer información proporcionado suficiente ayudar,"{'información': 0.3513, 'ayudar': 0.4446, 'temer': 0.47, 'proporcionado': 0.4869, 'suficiente': 0.47}","{'temer información': 0.5774, 'información proporcionado': 0.5774, 'proporcionado suficiente': 0.5774}",0.0
 Issue,4155,Version 17 del Modulo l10n_es_aeat_sii_oca no envia las facturas a hacienda.,"Hola, nos hemos migrado de una version 15 a la version 17 de odoo. En la versión 15 el moduloi del SII funciona correctamente. Sin embargo, el modulo del SII en la versión 17 no hace nada.  Parece que no se comunica con hacienda.
 
 ","Buenas tardes,
