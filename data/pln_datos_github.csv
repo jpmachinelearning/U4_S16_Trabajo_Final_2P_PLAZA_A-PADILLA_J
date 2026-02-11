@@ -4548,7 +4548,7 @@ he probado un UUID tipo : 00fbbf73-7472-43fb-a237-cc4e57f4aaf6, un simple ""2"" 
 
 Agradecería cualquier orientación, ya que parece que el XML cumple el esquema pero la AEAT sigue devolviendo el 1177.
 
-Gracias de antemano 🙏",Hola! Si tienen que ser dos dígitos.  ,hola dígito,"{'hola': 0.4985, 'dígito': 0.8669}",{},
+Gracias de antemano 🙏",Hola! Si tienen que ser dos dígitos.  ,hola dígito,"{'hola': 0.4985, 'dígito': 0.8669}",{},0.0
 Issue,4376,[16] l10n_es_verifactu_oca : 1177 | El valor de campo IdSistemaInformatico del bloque SistemaInformatico es incorrecto.,"Hola,
 
 Estoy probando el módulo l10n_es_verifactu_oca en Odoo 16 y me encuentro con el siguiente problema al enviar facturas a la AEAT:
