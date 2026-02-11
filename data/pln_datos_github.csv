@@ -2578,7 +2578,7 @@ Observaciones:
 ¿Podrías decidme  por qué ocurre esto y cómo solucionarlo?
 ","buenas Pedro, por arte de magia ya funciona.. va todo perfecto.. 
 
-mil gracias de nuevo ",pedro arte magia funcionar perfecto mil gracias,"{'gracias': 0.3266, 'funcionar': 0.3601, 'pedro': 0.425, 'mil': 0.5469, 'perfecto': 0.5329}",{},
+mil gracias de nuevo ",pedro arte magia funcionar perfecto mil gracias,"{'gracias': 0.3266, 'funcionar': 0.3601, 'pedro': 0.425, 'mil': 0.5469, 'perfecto': 0.5329}",{},1.0
 Issue,4586,"Vale, creo que lo he entendido.","Vale, creo que lo he entendido.
 Quedo entonces a la espera de que revisen el PR para su aprobación, y sobre todo daros las gracias a todos los que estáis haciendo esta implementación porque es un currazo
 
