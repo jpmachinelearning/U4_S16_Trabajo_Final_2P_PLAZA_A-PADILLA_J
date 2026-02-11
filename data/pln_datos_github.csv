@@ -13235,7 +13235,7 @@ Tengo entendido que para configurar el módulo 10n_es_ticketbai necesitas introd
 
 Muchísimas gracias.","Hola, OCA no se hace garante de nada.
 
-Tendrá que ser el propio integrador, o en su defecto, el usuario (el cliente) el que se hace garante del software.",hola oca garante integrador defecto usuario cliente garante software,"{'software': 0.4878, 'hola': 0.3098, 'oca': 0.3675, 'usuario': 0.3925, 'cliente': 0.3426, 'defecto': 0.5096}",{},
+Tendrá que ser el propio integrador, o en su defecto, el usuario (el cliente) el que se hace garante del software.",hola oca garante integrador defecto usuario cliente garante software,"{'software': 0.4878, 'hola': 0.3098, 'oca': 0.3675, 'usuario': 0.3925, 'cliente': 0.3426, 'defecto': 0.5096}",{},-1.0
 Issue,3552,Como reflejar bienes amortizados en el modelo 130?,"Buenas, aclarar primero que soy bastante principiante con Odoo.
 
 ¿De qué manera en el modelo 130 (estoy usando la versión para odoo 15 en odoo 16, que aparentemente funciona) se pueden reflejar en los gastos deducibles la parte amortizada en el periodo en vez del gasto total?
