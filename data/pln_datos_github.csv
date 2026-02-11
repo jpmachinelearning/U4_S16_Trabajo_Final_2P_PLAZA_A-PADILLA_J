@@ -16496,7 +16496,7 @@ Pull Request,4780,[17.0][IMP] l10n_es_aeat_mod190: Record design 2025,"According
 @moduon MT-13276","hola, @pedrobaeza creo que esto era lo que indicabas, mantener XML anterior e incorporar nuevo en CSV. Probado en real. ",hola pedrobaeza indicabas mantener xml incorporar csv probado real,"{'incorporar': 0.3987, 'mantener': 0.355, 'pedrobaeza': 0.233, 'hola': 0.2481, 'real': 0.3766, 'probado': 0.4313, 'xml': 0.3598, 'csv': 0.3766}",{'hola pedrobaeza': 1.0},0.0
 Pull Request,4780,[17.0][IMP] l10n_es_aeat_mod190: Record design 2025,"According to https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_100_199/archivos_25/DISENOS_LOGICOS_190_2025.pdf
 
-@moduon MT-13276","Congratulations, your PR was merged at b14f68f26743cc47e70e4413aea587b0556583f8. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@moduon MT-13276","Congratulations, your PR was merged at b14f68f26743cc47e70e4413aea587b0556583f8. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4779,[16.0][FIX] l10n_es_aeat_mod390: Box 28 restricted to account 477,"BP de https://github.com/OCA/l10n-spain/pull/4771 y https://github.com/OCA/l10n-spain/pull/4778.
 
 La casilla 28 es ""IVA devengado"", por lo que debe leer de la cuenta 477.
