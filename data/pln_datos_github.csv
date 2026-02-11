@@ -18609,7 +18609,7 @@ En teoría, debería ser suficiente añadiendo el t-if=""address"" de la vista o
 
 https://github.com/odoo/odoo/blob/376c36336b4a2bd01c9cb9b2594abee0713bcf51/addons/web/views/report_templates.xml#L280
 
-Con esto ya no aparece el bloque ""Address block""",módulo depender stock mirar forma arreglar él requerir dependencia,"{'módulo': 0.2079, 'requerir': 0.3814, 'él': 0.1851, 'forma': 0.2873, 'dependencia': 0.3633, 'depender': 0.3633, 'mirar': 0.3153, 'arreglar': 0.3968, 'stock': 0.4167}","{'arreglar él': 0.3315, 'módulo depender': 0.3434, 'depender stock': 0.3587, 'stock mirar': 0.3587, 'mirar forma': 0.3587, 'forma arreglar': 0.3587, 'él requerir': 0.3587, 'requerir dependencia': 0.3587}",,,,
+Con esto ya no aparece el bloque ""Address block""",módulo depender stock mirar forma arreglar él requerir dependencia,"{'módulo': 0.2079, 'requerir': 0.3814, 'él': 0.1851, 'forma': 0.2873, 'dependencia': 0.3633, 'depender': 0.3633, 'mirar': 0.3153, 'arreglar': 0.3968, 'stock': 0.4167}","{'arreglar él': 0.3315, 'módulo depender': 0.3434, 'depender stock': 0.3587, 'stock mirar': 0.3587, 'mirar forma': 0.3587, 'forma arreglar': 0.3587, 'él requerir': 0.3587, 'requerir dependencia': 0.3587}",-1.0,,,
 Pull Request,4663,[18.0] [FIX] l10n_es_verifactu_oca: Fix report layout conflict with stock picking address,"El cambio para mover el QR al encabezado del informe provocó que aparezca este bloque en el el report ""stock.report_picking"".
 Origen del error: https://github.com/OCA/l10n-spain/pull/4384
 Línea:
