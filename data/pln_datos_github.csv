@@ -5796,7 +5796,7 @@ Personalmente se me ocurren 3 opciones:
 3. Seguir con el framework de OCA
 
 ¿Cual es vuestra opinión?","@pedrobaeza con algo así como lo verías? Se quitaria la mayor parte del stack extra dejando solo el edi_oca, que nos permite gestionar la generacioń y envío. Obviamente no pondríamos más dependencias que las explicadas
-",pedrobaeza vería quitariar stack extra dejar edi_oca permitir gestionar generacioń envío obviamente poner dependencia explicada,"{'permitir': 0.2753, 'poner': 0.2353, 'pedrobaeza': 0.209, 'dejar': 0.2675, 'envío': 0.3072, 'extra': 0.3185, 'gestionar': 0.3756, 'dependencia': 0.3275, 'obviamente': 0.366, 'stack': 0.4188}",{},
+",pedrobaeza vería quitariar stack extra dejar edi_oca permitir gestionar generacioń envío obviamente poner dependencia explicada,"{'permitir': 0.2753, 'poner': 0.2353, 'pedrobaeza': 0.209, 'dejar': 0.2675, 'envío': 0.3072, 'extra': 0.3185, 'gestionar': 0.3756, 'dependencia': 0.3275, 'obviamente': 0.366, 'stack': 0.4188}",{},0.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
