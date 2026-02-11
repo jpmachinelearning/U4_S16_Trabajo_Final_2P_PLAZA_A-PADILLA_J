@@ -7056,7 +7056,7 @@ Sugerimos:
 ![Image](https://github.com/user-attachments/assets/a97df89a-2cfe-4b21-abe1-2210732af4aa)
 
 @moduon MT-8997
-@rafaelbn @EmilioPascual ","Es mucho más sencillo hacer el check de ""No incluir en el 347"" del contacto como dependiente de la compañía.",sencillo check incluir contacto dependiente compañía,"{'check': 0.4459, 'compañía': 0.388, 'incluir': 0.3952, 'contacto': 0.5377, 'sencillo': 0.4532}",{},
+@rafaelbn @EmilioPascual ","Es mucho más sencillo hacer el check de ""No incluir en el 347"" del contacto como dependiente de la compañía.",sencillo check incluir contacto dependiente compañía,"{'check': 0.4459, 'compañía': 0.388, 'incluir': 0.3952, 'contacto': 0.5377, 'sencillo': 0.4532}",{},0.0
 Issue,4169,[17.0] l10n_es_aeat_sii_oca: NIF requerido en cliente para facturas extracomunitarias,"Hemos detectado que con clientes extracomunitarios no se pueden enviar las facturas al SII porque pide que el NIF esté rellenado en el contacto. El contacto, aparte del país, tiene Posición Fiscal extracomunitaria.
 Si rellenamos con algún caracter para evitar el error se envía:
 
