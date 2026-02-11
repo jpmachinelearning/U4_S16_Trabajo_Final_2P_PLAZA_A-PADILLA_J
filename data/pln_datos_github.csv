@@ -6041,7 +6041,7 @@ image.png (view on web)<https://github.com/user-attachments/assets/2c142cbf-be18
 —
 Reply to this email directly, view it on GitHub<https://github.com/OCA/l10n-spain/issues/4291#issuecomment-3343099649>, or unsubscribe<https://github.com/notifications/unsubscribe-auth/AB6MT4GNY2WXFNFMA7LJGJL3U7GGVAVCNFSM6AAAAACBXYIWOOVHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMZTGNBTGA4TSNRUHE>.
 You are receiving this because you were mentioned.Message ID: ***@***.***>
-",alcanzar certificado venir l10n_es_ticketbai_po l10n_es_ticketbai_api parecer expirado,"{'parecer': 0.3437, 'venir': 0.3144, 'certificado': 0.3106, 'alcanzar': 0.4187, 'l10n_es_ticketbai_api': 0.4187, 'expirado': 0.4187, 'l10n_es_ticketbai_po': 0.4008}","{'alcanzar certificado': 0.5, 'certificado venir': 0.5, 'l10n_es_ticketbai_api parecer': 0.5, 'parecer expirado': 0.5}",
+",alcanzar certificado venir l10n_es_ticketbai_po l10n_es_ticketbai_api parecer expirado,"{'parecer': 0.3437, 'venir': 0.3144, 'certificado': 0.3106, 'alcanzar': 0.4187, 'l10n_es_ticketbai_api': 0.4187, 'expirado': 0.4187, 'l10n_es_ticketbai_po': 0.4008}","{'alcanzar certificado': 0.5, 'certificado venir': 0.5, 'l10n_es_ticketbai_api parecer': 0.5, 'parecer expirado': 0.5}",-1.0
 Issue,4291,[16] l10n_es_ticketbai_pos: Ticketbai no construida aun.,"Se ha generado la primera factura simplificada sin problema, la comunicación correcta. Pero al ir a realizar la segunda factura ""FS2500002"" aparece un error de que Ticketbai no esta construido aun.
 
 ![Image](https://github.com/user-attachments/assets/bbfc13bc-0186-4c18-b243-19ef62d4ae5b)
