@@ -6386,7 +6386,7 @@ Caixabank y Santander buscan a los contactos por VAT o por number; Bankia los bu
 
 Asimismo, la búsqueda por VAT para el Santander utiliza un operador ilike. Sin embargo, Caixabank y Bankia utilizan un operador =. ¿Alguien podría indicarme a qué se debe esa diferencia? ¿No sería posible unificar criterios? Cualquier propuesta/opinión es bienvenida.
 
-Muchas gracias","He comentado esto en el foro, hay algunos bancos que ni el VAT te ponen. He tenido que hacer algo para poner el partner_id con una importación de extractos por xlsx. Modificando fichero.",comentar foro banco vat poner partner_id importación extracto xlsx modificar fichero,"{'fichero': 0.3079, 'importación': 0.3502, 'poner': 0.2304, 'comentar': 0.2619, 'modificar': 0.3042, 'extracto': 0.41, 'vat': 0.3584, 'foro': 0.343, 'xlsx': 0.3925}",{},
+Muchas gracias","He comentado esto en el foro, hay algunos bancos que ni el VAT te ponen. He tenido que hacer algo para poner el partner_id con una importación de extractos por xlsx. Modificando fichero.",comentar foro banco vat poner partner_id importación extracto xlsx modificar fichero,"{'fichero': 0.3079, 'importación': 0.3502, 'poner': 0.2304, 'comentar': 0.2619, 'modificar': 0.3042, 'extracto': 0.41, 'vat': 0.3584, 'foro': 0.343, 'xlsx': 0.3925}",{},0.0
 Issue,4223,[17.0][IMP] Rendimiento búsqueda cliente l10n_es_account_statement_import_n43,"La búsqueda de contactos al importar un fichero con extractos utilizando el módulo l10n_es_account_statement_import_n43 necesita ser mejorada, ya que el tiempo que consume cuando en la base de datos hay muchos contactos es demasiado elevado.
 
 Actualmente existen 4 métodos de búsqueda de contactos, correspodientes a 4 bancos distintos:
