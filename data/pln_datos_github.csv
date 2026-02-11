@@ -18871,7 +18871,7 @@ Pull Request,4627,[16.0][IMP] l10n_es_vat_prorate: update prorate data with wiza
 
 Añadida la posibilidad de actualizar prorrata si eres responsable de AEAT y Facturación.
 Similar a como funciona la actualización de las fechas de bloqueo, con la dificultad añadida del one2many. 
-@pedrobaeza @etobella ",@christian-ramos-tecnativa cómo quedó esto? El runboat no funciona ahora mismo.,christian-ramos-tecnativo runboat funcionar,"{'funcionar': 0.3273, 'runboat': 0.447, 'christian': 0.4733, 'ramos': 0.4843, 'tecnativo': 0.4843}","{'christian ramos': 0.6872, 'ramos tecnativo': 0.7265}",,,,
+@pedrobaeza @etobella ",@christian-ramos-tecnativa cómo quedó esto? El runboat no funciona ahora mismo.,christian-ramos-tecnativo runboat funcionar,"{'funcionar': 0.3273, 'runboat': 0.447, 'christian': 0.4733, 'ramos': 0.4843, 'tecnativo': 0.4843}","{'christian ramos': 0.6872, 'ramos tecnativo': 0.7265}",1.0,,,
 Pull Request,4627,[16.0][IMP] l10n_es_vat_prorate: update prorate data with wizard,"@Tecnativa TT59299
 
 Añadida la posibilidad de actualizar prorrata si eres responsable de AEAT y Facturación.
