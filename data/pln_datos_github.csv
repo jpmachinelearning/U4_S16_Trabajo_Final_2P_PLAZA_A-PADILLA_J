@@ -10696,7 +10696,7 @@ Please @etobella @pedrobaeza @HaraldPanten could review this proposal please?
 
 Thank you very much! 😄 ❤️ 
 
-For me is 👍🏼 , really nice video @ArantxaSudon 💘 🤗 ",hello mano levantado tono piel cara sonreir ojo sonrient corazón rojo for is pulgar tono piel really nice video arantxasudon corazón flecha cara mano abrazar,"{'cara': 0.3098, 'sonreir': 0.1656, 'ojo': 0.1576, 'arantxasudon': 0.2047, 'video': 0.2282, 'mano': 0.3989, 'is': 0.2282, 'for': 0.2109, 'sonrient': 0.1736, 'pulgar': 0.1995, 'tono': 0.4369, 'piel': 0.4369, 'rojo': 0.0997, 'corazón': 0.201}","{'cara sonreir': 0.2726, 'ojo sonrient': 0.276, 'sonreir ojo': 0.2979, 'pulgar tono': 0.3474, 'tono piel': 0.6948, 'sonrient corazón': 0.3629, 'corazón rojo': 0.1598}",
+For me is 👍🏼 , really nice video @ArantxaSudon 💘 🤗 ",hello mano levantado tono piel cara sonreir ojo sonrient corazón rojo for is pulgar tono piel really nice video arantxasudon corazón flecha cara mano abrazar,"{'cara': 0.3098, 'sonreir': 0.1656, 'ojo': 0.1576, 'arantxasudon': 0.2047, 'video': 0.2282, 'mano': 0.3989, 'is': 0.2282, 'for': 0.2109, 'sonrient': 0.1736, 'pulgar': 0.1995, 'tono': 0.4369, 'piel': 0.4369, 'rojo': 0.0997, 'corazón': 0.201}","{'cara sonreir': 0.2726, 'ojo sonrient': 0.276, 'sonreir ojo': 0.2979, 'pulgar tono': 0.3474, 'tono piel': 0.6948, 'sonrient corazón': 0.3629, 'corazón rojo': 0.1598}",1.0
 Issue,3730,[16.0] l10n_es_vat_prorate Slipt de lineas de impuesto por línea de factura ,"Hola 
 
 Creo que sería necesario hacer un desglose por líneas del impuesto que no se puede deducir con la prorrata
