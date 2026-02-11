@@ -17089,7 +17089,7 @@ Pull Request,4733,[15.0][FIX] l10n_es_aeat_mod592: No indicar Régimen fiscal en
 
 Por favor @pedrobaeza puedes revisarlo?
 
-@Tecnativa TT60323","Congratulations, your PR was merged at 51b348ea328d20bb6d903d76c7dad24016d3fd55. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT60323","Congratulations, your PR was merged at 51b348ea328d20bb6d903d76c7dad24016d3fd55. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4732,[18.0][FIX] l10n_es_aeat_mod303_vat_prorate: Add other exempt taxes,"Añado a la lista de los impuestos exentos otros que también deberían ser considerados para el cálculo de la prorrata.
 
 @Tecnativa TT60315
