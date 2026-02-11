@@ -19260,7 +19260,7 @@ Pull Request,4587,[17.0][FIX] l10n_es_verifactu_oca: registro de facturas rechaz
 - mejorado alguna vista
 - añadido contribuidor que faltaba
 
-@Tecnativa ","Congratulations, your PR was merged at 468bd2f477811f83440f988ec0f7e72f3d007066. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+@Tecnativa ","Congratulations, your PR was merged at 468bd2f477811f83440f988ec0f7e72f3d007066. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4585,[17.0][FIX] l10n_es_partner: Enable searching by the commercial field in the search view,"cc @Tecnativa 
 
 Backport from https://github.com/OCA/l10n-spain/pull/4504
