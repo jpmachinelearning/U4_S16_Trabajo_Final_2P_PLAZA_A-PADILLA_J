@@ -16988,7 +16988,7 @@ ping @carlosdauden @christian-ramos-tecnativa @victoralmau
 PR relacionado:
 - [x] https://github.com/OCA/l10n-spain/pull/4754
 
-",Llévalo por favor a 18,llévalir favor,{'favor': 1.0},{},
+",Llévalo por favor a 18,llévalir favor,{'favor': 1.0},{},0.0
 Pull Request,4752,[18.0][IMP] l10n_es_aeat_sii_oca: avoid calling unnecessary write,"Este write se llama independientemente de si el SII está habilitado para esa factura/compañía y puede generar conflictos a la hora de probar módulos que restringen la modificación de campos en facturas.
 
 @Tecnativa TT59350
