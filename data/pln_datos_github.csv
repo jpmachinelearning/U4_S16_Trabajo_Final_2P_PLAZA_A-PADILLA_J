@@ -8916,7 +8916,7 @@ Sólo debería salir el/los operador(es)  intracomunitario(s) y su(s) factura(s)
 
 Desde mi desconocimiento de la Ley y guiándome por los asesores.","Es que cualquier impuesto que no sean los intracomunitarios se excluyen por defecto del 349, sin hacer nada. Aquí están los únicos impuestos que se incluyen (los códigos son los XML-IDs):
 
-https://github.com/OCA/l10n-spain/blob/0e62d8ab8ceb93c4acf441b2b83fdf60a90cebfb/l10n_es_aeat_mod349/data/aeat.349.map.line.csv",impuesto intracomunitario excluir defecto,"{'impuesto': 0.3186, 'defecto': 0.5323, 'excluir': 0.5463, 'intracomunitario': 0.5628}",{},
+https://github.com/OCA/l10n-spain/blob/0e62d8ab8ceb93c4acf441b2b83fdf60a90cebfb/l10n_es_aeat_mod349/data/aeat.349.map.line.csv",impuesto intracomunitario excluir defecto,"{'impuesto': 0.3186, 'defecto': 0.5323, 'excluir': 0.5463, 'intracomunitario': 0.5628}",{},0.0
 Issue,3861,[16.0][FIX] l10n_es_aeat_mod303: Error generación asiento contable cuando sale a pagar pero se compensa parcialmente con ejercicios anteriores,"Cuando en un informe 303 sale una cantidad determinada a pagar pero puedes compensar una parte (470xxx) e ingresar otra (475xxx), no lo contabiliza correctamente en sus cuentas contables sino que lo lleva todo a la 475xxx
 
 El informe si lo hace bien, lo que no crea bien es el asiento contable
