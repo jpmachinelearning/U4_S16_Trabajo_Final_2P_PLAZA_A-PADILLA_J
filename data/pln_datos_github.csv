@@ -17327,7 +17327,7 @@ Pull Request,4707,[18.0][IMP] l10n_es_aeat_sii_oca: multiple improvements,"En es
 <img width=""615"" height=""298"" alt=""image"" src=""https://github.com/user-attachments/assets/1347f8cf-c0be-4cf4-990d-3e126781a6b7"" />
 
 @Tecnativa TT59653
-@pedrobaeza ",Mira en el otro PR cómo en la vista se ponen string acortadas sin el término SII.,mirar pr vista poner string acortada término sii,"{'poner': 0.2561, 'pr': 0.2573, 'sii': 0.2598, 'vista': 0.3618, 'mirar': 0.3093, 'término': 0.3983, 'string': 0.4558, 'acortada': 0.4558}",{},
+@pedrobaeza ",Mira en el otro PR cómo en la vista se ponen string acortadas sin el término SII.,mirar pr vista poner string acortada término sii,"{'poner': 0.2561, 'pr': 0.2573, 'sii': 0.2598, 'vista': 0.3618, 'mirar': 0.3093, 'término': 0.3983, 'string': 0.4558, 'acortada': 0.4558}",{},0.0
 Pull Request,4707,[18.0][IMP] l10n_es_aeat_sii_oca: multiple improvements,"En este PR se añaden las siguientes mejoras:
 
 - Si la factura está en error, al enviarla de nuevo se crea como envío inmediato. 
