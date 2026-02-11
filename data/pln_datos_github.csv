@@ -2737,7 +2737,7 @@ Línea 280: Element 'RegulatoryReportingData': '' is not a valid value of the at
 
 A alguien le ha pasado esto??
 Tengo que emitir facturas a administración pública y sin este módulo no puedo hacerlo.","Buenas gracias por tu pronta respuesta.
-He probado las 3 versiones posibles y sigue igual.",gracia pronto respuesta probar versión posible,"{'versión': 0.3827, 'posible': 0.5331, 'gracia': 0.3615, 'probar': 0.4363, 'respuesta': 0.4983}",{'versión posible': 1.0},
+He probado las 3 versiones posibles y sigue igual.",gracia pronto respuesta probar versión posible,"{'versión': 0.3827, 'posible': 0.5331, 'gracia': 0.3615, 'probar': 0.4363, 'respuesta': 0.4983}",{'versión posible': 1.0},1.0
 Issue,4489,Error al crear facturas face. xml incorrecto,"## Module
 l10n_es_facturae
 versión odoo 18
