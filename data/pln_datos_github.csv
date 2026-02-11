@@ -10769,7 +10769,7 @@ He hecho un vídeo explicativo de ejemplo:
 https://www.loom.com/share/6ee7e9b1479f441585b684cbb499a558?sid=293c8942-e21e-486f-962a-a3c2d8cd8428
 
 @rafaelbn @EmilioPascual 
-MT-1809 @moduon","A ver, el PR está cerrado y mergeado y yo no podré dedicarle tiempo a resolverlo, si queréis, podéis abrir un PR y, si puedo, ya lo revisaré, es lo máximo que os puedo ofrecer.",pr cerrado mergeado poder dedicar él tiempo resolver él queréis poder abrir pr revisar máximo ofrecer,"{'poder': 0.3195, 'él': 0.2542, 'tiempo': 0.2459, 'pr': 0.3602, 'revisar': 0.1836, 'máximo': 0.3053, 'ofrecer': 0.3053, 'abrir': 0.2618, 'resolver': 0.2573, 'dedicar': 0.3053, 'queréis': 0.319, 'cerrado': 0.3053}","{'resolver él': 0.4759, 'dedicar él': 0.515, 'abrir pr': 0.493, 'pr revisar': 0.515}",
+MT-1809 @moduon","A ver, el PR está cerrado y mergeado y yo no podré dedicarle tiempo a resolverlo, si queréis, podéis abrir un PR y, si puedo, ya lo revisaré, es lo máximo que os puedo ofrecer.",pr cerrado mergeado poder dedicar él tiempo resolver él queréis poder abrir pr revisar máximo ofrecer,"{'poder': 0.3195, 'él': 0.2542, 'tiempo': 0.2459, 'pr': 0.3602, 'revisar': 0.1836, 'máximo': 0.3053, 'ofrecer': 0.3053, 'abrir': 0.2618, 'resolver': 0.2573, 'dedicar': 0.3053, 'queréis': 0.319, 'cerrado': 0.3053}","{'resolver él': 0.4759, 'dedicar él': 0.515, 'abrir pr': 0.493, 'pr revisar': 0.515}",1.0
 Issue,3730,[16.0] l10n_es_vat_prorate Slipt de lineas de impuesto por línea de factura ,"Hola 
 
 Creo que sería necesario hacer un desglose por líneas del impuesto que no se puede deducir con la prorrata
