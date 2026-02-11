@@ -16841,7 +16841,7 @@ Before:
 After:
 
 <img width=""1076"" height=""233"" alt=""image"" src=""https://github.com/user-attachments/assets/54b550ef-233e-4790-a3ef-a83e162da8ca"" />
-","exacto, al ser `report.${nombre del report}`, Odoo lo coge automáticamente.",exacto report.$  nombre report odoo coger automáticamente,"{'odoo': 0.2724, 'automáticamente': 0.4755, 'nombre': 0.4194, 'exacto': 0.5207, 'coger': 0.5027}",{},
+","exacto, al ser `report.${nombre del report}`, Odoo lo coge automáticamente.",exacto report.$  nombre report odoo coger automáticamente,"{'odoo': 0.2724, 'automáticamente': 0.4755, 'nombre': 0.4194, 'exacto': 0.5207, 'coger': 0.5027}",{},0.0
 Pull Request,4764,[18.0][IMP] l10n_es_facturae: Clean XML file when it is not signed,"Otherwise, when creating the XML file without signature, extra empty tags are added, but they shouldn't exist.
 
 Before:
