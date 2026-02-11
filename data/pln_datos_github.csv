@@ -4122,7 +4122,7 @@ account_to_be_credited: Cuenta bancaria de la entidad cesionaria.
 
 Quedo atento a tu respuesta.
 
-Saludos.",Creo que @etobella podría opinar mejor al respecto,etobella opinar,"{'etobella': 0.6217, 'opinar': 0.7833}",{'etobella opinar': 1.0},
+Saludos.",Creo que @etobella podría opinar mejor al respecto,etobella opinar,"{'etobella': 0.6217, 'opinar': 0.7833}",{'etobella opinar': 1.0},0.0
 Issue,4385,l10n_es_facturae: Agregar factoring,"**Is your feature request related to a problem?**
 No de forma directa, pero actualmente el archivo Facturae generado no contempla la posibilidad de incluir información sobre factoring (cesión de facturas), lo que limita su uso en operaciones financieras habituales.
 
