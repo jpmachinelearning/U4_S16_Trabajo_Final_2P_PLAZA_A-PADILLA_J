@@ -13273,7 +13273,7 @@ Issue,3538,[IMP] l10n_es_aeat_mod303: Permitir trasladar la compensación al añ
 
 El campo 'result_type' es ahora mismo calculado. Quizás debería existir un booleano 'Trasladar compensación al siguiente año', que sólo aparezca en el último trimestre?
 
-@OCA/local-spain-maintainers ",Lo tienes en #3534 ,tener,{'tener': 1.0},{},
+@OCA/local-spain-maintainers ",Lo tienes en #3534 ,tener,{'tener': 1.0},{},0.0
 Issue,3538,[IMP] l10n_es_aeat_mod303: Permitir trasladar la compensación al año siguiente,"En estos momentos cuando se declara el modelo 303 en el 4º trimestre del año, si hay un importe pendiente de compensar la opción que se propone es 'Devolución'. Pero legalmente es posible seguir compensando hasta 4 años.
 
 El campo 'result_type' es ahora mismo calculado. Quizás debería existir un booleano 'Trasladar compensación al siguiente año', que sólo aparezca en el último trimestre?
