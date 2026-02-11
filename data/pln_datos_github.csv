@@ -7718,7 +7718,7 @@ Issue,4085,[17.0] l10n_es_facturae_face problemas al generar factura si la empre
 Instalando el modulo ""partner_firstname"" de OCA, nos divide el nombre del emisor en dos campos ""lastname"" y ""firstname"", en ese caso la factura generada es correcta.
 
 Considero que deberia de estar este modulo en las dependecias de l10n_es_facturae.
-","No, esto es así a propósito, porque casi muchos no necesitan esa separación (solo los B2C), así que obligar a ello no es de recibo, y más con un módulo tan intrusivo como `partner_firstname`. Hay que leer los README: https://github.com/OCA/l10n-spain/tree/17.0/l10n_es_facturae#installation",propósito necesitar separación b2c obligar recibo módulo intrusivo partner_firstname,"{'módulo': 0.2577, 'necesitar': 0.3679, 'obligar': 0.4817, 'propósito': 0.5321, 'separación': 0.5321}",{},
+","No, esto es así a propósito, porque casi muchos no necesitan esa separación (solo los B2C), así que obligar a ello no es de recibo, y más con un módulo tan intrusivo como `partner_firstname`. Hay que leer los README: https://github.com/OCA/l10n-spain/tree/17.0/l10n_es_facturae#installation",propósito necesitar separación b2c obligar recibo módulo intrusivo partner_firstname,"{'módulo': 0.2577, 'necesitar': 0.3679, 'obligar': 0.4817, 'propósito': 0.5321, 'separación': 0.5321}",{},-1.0
 Issue,4060,[16.0][BUG] l10n_es_vat_book: “Cuota IVA Soportado” no muestra el importe total cuando hay prorrata,"**Descripción:**
 - **Versión de Odoo**: 16.0  
 - **Módulos afectados**: l10n_es_vat_book + l10n_es_vat_prorate  
