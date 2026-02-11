@@ -19271,7 +19271,7 @@ The field used in the search view is complete_name, but this field cannot be inh
 
 Odoo calls the _get_complete_name function without context.
 
-When a user searches in the Contacts menu by the commercial name, no results are found. With this commit, we inject an additional domain when a search for complete_name is performed, enabling results to be found by the commercial name.",@carlos-lopez-tecnativa Done!!,carlos-lopez-tecnativa donar,"{'tecnativa': 0.6494, 'donar': 0.7604}",{},,,0,Desarrollo
+When a user searches in the Contacts menu by the commercial name, no results are found. With this commit, we inject an additional domain when a search for complete_name is performed, enabling results to be found by the commercial name.",@carlos-lopez-tecnativa Done!!,carlos-lopez-tecnativa donar,"{'tecnativa': 0.6494, 'donar': 0.7604}",{},0.0,,0,Desarrollo
 Pull Request,4585,[17.0][FIX] l10n_es_partner: Enable searching by the commercial field in the search view,"cc @Tecnativa 
 
 Backport from https://github.com/OCA/l10n-spain/pull/4504
