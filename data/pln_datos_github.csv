@@ -5037,7 +5037,7 @@ Hacer el backport de la versión 17.0 de Odoo. Considero que el de OCA es más f
 
 **Comenzaremos los trabajos de migración en breve** con el deseo de tenerlo migrado en Octubre del 25 si es que las condiciones son favorables.
 
-Mi compañero @ljimenezsidoo y yo trataremos de iniciar la parte técnica ASAP. Cualquier apoyo será más que bienvenido, quedando muy agradecido del trabajo realizado en la versión 16.0","Gracias @pedrobaeza, tomo nota. 🙂 ",gracias pedrobaeza tomar nota cara sonreir ligeramente,"{'gracias': 0.2671, 'pedrobaeza': 0.2488, 'cara': 0.3384, 'sonreir': 0.3617, 'ligeramente': 0.4259, 'nota': 0.4773, 'tomar': 0.4607}","{'cara sonreir': 0.5084, 'sonreir ligeramente': 0.5917, 'gracias pedrobaeza': 0.6256}",
+Mi compañero @ljimenezsidoo y yo trataremos de iniciar la parte técnica ASAP. Cualquier apoyo será más que bienvenido, quedando muy agradecido del trabajo realizado en la versión 16.0","Gracias @pedrobaeza, tomo nota. 🙂 ",gracias pedrobaeza tomar nota cara sonreir ligeramente,"{'gracias': 0.2671, 'pedrobaeza': 0.2488, 'cara': 0.3384, 'sonreir': 0.3617, 'ligeramente': 0.4259, 'nota': 0.4773, 'tomar': 0.4607}","{'cara sonreir': 0.5084, 'sonreir ligeramente': 0.5917, 'gracias pedrobaeza': 0.6256}",1.0
 Issue,4368,[IMP] Backport OCA Verifactu,"**¿Tu solicitud de funcionalidad está relacionada con algún problema?**
 Todas las empresas españolas requieren adaptarse a la normativa contable de la que se deriva Verifactu. Contamos con una versión del módulo OCA para 16.0 aunque lo necesitamos instalar en Odoo 14.0
 
