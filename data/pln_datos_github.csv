@@ -4329,7 +4329,7 @@ Que os parece si agrego los literales legales, y las referencias en el l10n_es_f
 
 ¡Quedo atento!
 
-Saludos.",pedrobaeza etobella agregar literal legal referencia l10n_es_facturae útil persona usar facturae hacer módulo extensión agregar opción bancacer factoring quedar atento saludo,"{'módulo': 0.1161, 'hacer': 0.1509, 'pedrobaeza': 0.1295, 'referencia': 0.2094, 'saludo': 0.1903, 'etobella': 0.1903, 'usar': 0.2001, 'opción': 0.1761, 'quedar': 0.1719, 'facturae': 0.2171, 'agregar': 0.4655, 'factoring': 0.2398, 'literal': 0.2484, 'legal': 0.2268, 'l10n_es_facturae': 0.2398, 'útil': 0.2398, 'persona': 0.2484, 'extensión': 0.2268, 'bancacer': 0.2595}","{'literal legal': 0.4944, 'pedrobaeza etobella': 0.4944, 'hacer módulo': 0.5165, 'módulo extensión': 0.4944}",
+Saludos.",pedrobaeza etobella agregar literal legal referencia l10n_es_facturae útil persona usar facturae hacer módulo extensión agregar opción bancacer factoring quedar atento saludo,"{'módulo': 0.1161, 'hacer': 0.1509, 'pedrobaeza': 0.1295, 'referencia': 0.2094, 'saludo': 0.1903, 'etobella': 0.1903, 'usar': 0.2001, 'opción': 0.1761, 'quedar': 0.1719, 'facturae': 0.2171, 'agregar': 0.4655, 'factoring': 0.2398, 'literal': 0.2484, 'legal': 0.2268, 'l10n_es_facturae': 0.2398, 'útil': 0.2398, 'persona': 0.2484, 'extensión': 0.2268, 'bancacer': 0.2595}","{'literal legal': 0.4944, 'pedrobaeza etobella': 0.4944, 'hacer módulo': 0.5165, 'módulo extensión': 0.4944}",1.0
 Issue,4385,l10n_es_facturae: Agregar factoring,"**Is your feature request related to a problem?**
 No de forma directa, pero actualmente el archivo Facturae generado no contempla la posibilidad de incluir información sobre factoring (cesión de facturas), lo que limita su uso en operaciones financieras habituales.
 
