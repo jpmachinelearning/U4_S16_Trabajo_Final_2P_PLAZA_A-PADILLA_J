@@ -13752,7 +13752,7 @@ De las casillas 1,2 y3 se ha hecho consulta en AEAT y nos confirman que se relle
 
 
 Moduon - MT-5726
-@EmilioPascual ","@HaraldPanten , podemos empezar a trabajar en esto el lunes a primera hora. Esta semana no podemos empezar.",haraldpantar empezar trabajar lunes hora semana empezar,"{'trabajar': 0.3225, 'empezar': 0.6284, 'semana': 0.3752, 'lunes': 0.3866, 'haraldpantar': 0.2973, 'hora': 0.35}","{'empezar trabajar': 0.3935, 'haraldpantar empezar': 0.4111, 'trabajar lunes': 0.4111, 'lunes hora': 0.4111, 'hora semana': 0.4111, 'semana empezar': 0.4111}",
+@EmilioPascual ","@HaraldPanten , podemos empezar a trabajar en esto el lunes a primera hora. Esta semana no podemos empezar.",haraldpantar empezar trabajar lunes hora semana empezar,"{'trabajar': 0.3225, 'empezar': 0.6284, 'semana': 0.3752, 'lunes': 0.3866, 'haraldpantar': 0.2973, 'hora': 0.35}","{'empezar trabajar': 0.3935, 'haraldpantar empezar': 0.4111, 'trabajar lunes': 0.4111, 'lunes hora': 0.4111, 'hora semana': 0.4111, 'semana empezar': 0.4111}",1.0
 Issue,3520,[16.0][IMP] l10n_es_aeat_mod123: Add 2024 version,"Hola 
 
 Según la nueva normativa el modelo 123 incorpora unas nuevas casillas que desglosan el importe total de retenciones e ingresos a cuenta
