@@ -18538,7 +18538,7 @@ Cuando esté fusionado en 18.0 lo llevo a 17.0
 
 ¿@rafaelbn @Shide @pedrobaeza @ArantxaSudon podéis revisarlo? Gracias
 
-MT-13024 @moduon","Los tests fallan por el módulo `l10n_es_atc_mod420`. Error de fechas https://github.com/OCA/l10n-spain/actions/runs/20652855269/job/59300462804#step:8:1311, me parece que los tests no son correctos si al cambiar de año dan error.",test fallar módulo l10n_es_atc_mod420,"{'módulo': 0.3972, 'fallar': 0.7046, 'test': 0.588}",{},,,,
+MT-13024 @moduon","Los tests fallan por el módulo `l10n_es_atc_mod420`. Error de fechas https://github.com/OCA/l10n-spain/actions/runs/20652855269/job/59300462804#step:8:1311, me parece que los tests no son correctos si al cambiar de año dan error.",test fallar módulo l10n_es_atc_mod420,"{'módulo': 0.3972, 'fallar': 0.7046, 'test': 0.588}",{},-1.0,,,
 Pull Request,4669,[18.0][IMP] l10n_es_aeat_mod190: Add account_tax_template_p_irpf24 to tax mapping,"Add ""24% Ret IRPF"" to tax mapping for field numbers 15 and 16.
 
 Cuando esté fusionado en 18.0 lo llevo a 17.0
