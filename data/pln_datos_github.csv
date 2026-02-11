@@ -3688,7 +3688,7 @@ Gracias
     number_records_partially_contrasted = fields.Integer(
         **string=""Records partially contrasted"",**
         readonly=True,
-    )",Solucionado en #4404 ,solucionado,{'solucionado': 1.0},{},
+    )",Solucionado en #4404 ,solucionado,{'solucionado': 1.0},{},1.0
 Issue,4390,[16.0][BUG] l10n_es_aeat_sii_oca: Retenciones e IRPF no excluidas del total,"
 **Módulo**
 l10n_es_sii_oca
