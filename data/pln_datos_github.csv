@@ -17001,7 +17001,7 @@ Pull Request,4750,[14.0][FIX] l10n_es_ticketbai_api: Fix sign file hash.,,"Congr
 Pull Request,4750,[14.0][FIX] l10n_es_ticketbai_api: Fix sign file hash.,,@omar7r habrá que revisar si sólo es Araba,omar7r revisar arar,"{'revisar': 0.5153, 'omar7r': 0.857}",{},0.0
 Pull Request,4748,[18.0][FIX] l10n_es_aeat_mod303: tener en cuenta redondeo en comprobaciones cuotas compensación,"En casos límite, como puede ser establecer la compensación pendiente como exactamente la cuota a compensar aplicada, podía impedir la operación por problemas de redondeo.
 
-Fw-port de #4738 ","Congratulations, your PR was merged at bac2dc70f1955137d9948f68d27f3d7341fd9f9c. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+Fw-port de #4738 ","Congratulations, your PR was merged at bac2dc70f1955137d9948f68d27f3d7341fd9f9c. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4747,[18.0][IMP] l10n_es_aeat_mod390: Test new export BOE config,"Forward-port of #4745 and #4746
 Fine-tuning of #4690 
 
