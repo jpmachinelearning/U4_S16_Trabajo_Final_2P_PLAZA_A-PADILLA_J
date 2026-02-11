@@ -16688,7 +16688,7 @@ Pull Request,4769,[17.0][FIX] l10n_es_pos_sii: Fix tests,"Este PR corrige el err
 `AttributeError: type object 'TestSpainPosSii' has no attribute 'partner_a' `
 Se ha aplicado el mismo cambio que en el commit https://github.com/OCA/l10n-spain/commit/db0fb6121cc48bd9b90d4d99ccc187f9e785a92e#diff-9ffe4db9f53c810ba35a024a6cc8d278d3e2641c7738c1f309496ff694add35c durante la migración a 18.0
 @Tecnativa 
-@victoralmau @pedrobaeza ","Congratulations, your PR was merged at b1c99e6fa3f6599f03f2643884399d5e45c46d9d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@victoralmau @pedrobaeza ","Congratulations, your PR was merged at b1c99e6fa3f6599f03f2643884399d5e45c46d9d. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4767,[17.0][FIX] l10n_es_aeat_mod592: No indicar Régimen fiscal en algunos casos,"FWP de 16.0: https://github.com/OCA/l10n-spain/pull/4766
 
 Cambios hechos:
