@@ -10008,7 +10008,7 @@ A clear and concise description of what you expected to happen.
 **Additional context**
 Add any other context about the problem here. (e.g. OS, Python version, ...)","Muchisimas gracias Pedro por tu ayuda asi como dices si ha funcionado correctamente pido disculpas por abrir este hilo con el tag de bug puesto que no lo es . Gracias de nuevo por tu ayuda amigo.
 ![ok](https://github.com/user-attachments/assets/2a7a422a-f9ca-4fa9-b057-3bba3e7995f9)
-",muchisima gracia pedro ayuda decir funcionar correctamente pedir disculpa abrir hilo tag bug puesto gracias ayuda amigo,"{'gracias': 0.1649, 'funcionar': 0.1818, 'pedir': 0.2527, 'correctamente': 0.2056, 'gracia': 0.1746, 'bug': 0.2342, 'disculpa': 0.2629, 'pedro': 0.2146, 'decir': 0.1928, 'hilo': 0.2444, 'puesto': 0.2258, 'ayuda': 0.4814, 'tag': 0.3079, 'abrir': 0.2527, 'amigo': 0.3079}","{'funcionar correctamente': 0.5039, 'gracia pedro': 0.5542, 'abrir hilo': 0.6625}",
+",muchisima gracia pedro ayuda decir funcionar correctamente pedir disculpa abrir hilo tag bug puesto gracias ayuda amigo,"{'gracias': 0.1649, 'funcionar': 0.1818, 'pedir': 0.2527, 'correctamente': 0.2056, 'gracia': 0.1746, 'bug': 0.2342, 'disculpa': 0.2629, 'pedro': 0.2146, 'decir': 0.1928, 'hilo': 0.2444, 'puesto': 0.2258, 'ayuda': 0.4814, 'tag': 0.3079, 'abrir': 0.2527, 'amigo': 0.3079}","{'funcionar correctamente': 0.5039, 'gracia pedro': 0.5542, 'abrir hilo': 0.6625}",1.0
 Issue,3786,[17.0] Error en facturas con DUA,"Buenos días, después de hacer un post en el foro: https://www.aeodoo.org/en/forum/general-1/error-despues-de-instalar-libro-de-iva-en-odoo-17-1679
 
 Me han recomendado abrir un issue aquí. Ante nada perdón, ya que no soy técnico, por lo que si necesitáis más información decidme.
