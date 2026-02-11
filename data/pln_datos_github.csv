@@ -12267,7 +12267,7 @@ Issue,3636,"[17.0] l10n_es_partner , address doesnt show in reports if partner h
 If commercial name is defined, adress is not showed in reports.
 
 To reproduce, just configure a partner qith commercial name and print a report.
-",Resuelto en #3872 ,resuelto,{'resuelto': 1.0},{},
+",Resuelto en #3872 ,resuelto,{'resuelto': 1.0},{},1.0
 Issue,3627,[16.0] l10n_es_facturae Problema de Signos con Facturas Rectificativas,"Tengo un error con las Facturas Rectificativas.
 
 En la sección de errores conocidos pone que:
