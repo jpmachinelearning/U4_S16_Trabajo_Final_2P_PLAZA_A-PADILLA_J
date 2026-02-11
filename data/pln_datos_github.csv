@@ -10677,7 +10677,7 @@ Hay ademas un parametro website en la definición de una url en el controller pe
 
 Y esta bastante bien protegido (creemos)  es decir que  con una configuración correcta, se podría hacer funcionar sin problemas... sin necesidad de instalar website..
 
-Saludos, Ignacio J Ortega",@IJOL ¿Puedes hacerme ping en el PR?,ijol poder hacer yo ping pr,"{'poder': 0.2846, 'hacer': 0.3304, 'pr': 0.3208, 'yo': 0.4079, 'ping': 0.4665, 'ijol': 0.5683}",{'poder hacer': 1.0},
+Saludos, Ignacio J Ortega",@IJOL ¿Puedes hacerme ping en el PR?,ijol poder hacer yo ping pr,"{'poder': 0.2846, 'hacer': 0.3304, 'pr': 0.3208, 'yo': 0.4079, 'ping': 0.4665, 'ijol': 0.5683}",{'poder hacer': 1.0},1.0
 Issue,3730,[16.0] l10n_es_vat_prorate Slipt de lineas de impuesto por línea de factura ,"Hola 
 
 Creo que sería necesario hacer un desglose por líneas del impuesto que no se puede deducir con la prorrata
