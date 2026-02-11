@@ -8040,7 +8040,7 @@ Ignacio","> Ok, pues lo dejamos como AEAT los comunes, aunque tengan formato dif
 > 
 > ....
 
-Me parece una buena idea 👍🏻",ok dejar aeat común tener formato exportación caso guipuzcoa idea pulgar tono piel,"{'aeat': 0.2164, 'caso': 0.1712, 'dejar': 0.2315, 'tener': 0.191, 'formato': 0.2629, 'ok': 0.2756, 'idea': 0.2629, 'común': 0.2833, 'exportación': 0.2793, 'guipuzcoa': 0.3469, 'pulgar': 0.3167, 'tono': 0.3469, 'piel': 0.3469}","{'formato exportación': 0.3066, 'ok dejar': 0.3203, 'dejar aeat': 0.3203, 'aeat común': 0.3203, 'común tener': 0.3203, 'tener formato': 0.3203, 'exportación caso': 0.3203, 'caso guipuzcoa': 0.3203, 'pulgar tono': 0.3066, 'tono piel': 0.3066}",
+Me parece una buena idea 👍🏻",ok dejar aeat común tener formato exportación caso guipuzcoa idea pulgar tono piel,"{'aeat': 0.2164, 'caso': 0.1712, 'dejar': 0.2315, 'tener': 0.191, 'formato': 0.2629, 'ok': 0.2756, 'idea': 0.2629, 'común': 0.2833, 'exportación': 0.2793, 'guipuzcoa': 0.3469, 'pulgar': 0.3167, 'tono': 0.3469, 'piel': 0.3469}","{'formato exportación': 0.3066, 'ok dejar': 0.3203, 'dejar aeat': 0.3203, 'aeat común': 0.3203, 'común tener': 0.3203, 'tener formato': 0.3203, 'exportación caso': 0.3203, 'caso guipuzcoa': 0.3203, 'pulgar tono': 0.3066, 'tono piel': 0.3066}",0.0
 Issue,4020,Debate: cambio de nombre del menú Declaraciones AEAT,"Hola,
 
 Nos estamos encontrando que empieza a existir modelos fiscales propios de ciertas zonas geográficas. Hasta ahora teníamos el menú de Declaraciones AEAT donde se engloba todo, mi propuesta es sencilla es cambiarle el nombre a Declaraciones o Declaraciones Impuestos. No poner AEAT, sino estamos creando un menú nuevo para cada zona incrementan los menú.
