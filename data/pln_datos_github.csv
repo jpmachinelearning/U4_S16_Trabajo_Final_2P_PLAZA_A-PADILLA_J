@@ -5419,7 +5419,7 @@ Crear un **módulo específico para ZEC** que permita:
   * Crear un nuevo régimen/fiscalidad llamado “ZEC” dentro de las opciones de fiscalidad de Odoo.
   * Registrar entidades/empresas bajo este régimen.
   * Aplicar reglas de cálculo de impuestos específicas para ZEC (tipos impositivos, bases, exenciones, deducciones, etc.).
-  * Integración con facturación, libros contables y reportes fiscales para ZEC.","Hola, no veo una aplicación muy directa de eso en la gestión del ERP, pero si teneis algo específico, comentadlo.",hola ver aplicación directo gestión erp específico comentadlo,"{'hola': 0.2609, 'directo': 0.4031, 'ver': 0.2641, 'erp': 0.4194, 'gestión': 0.4194, 'específico': 0.3562, 'aplicación': 0.4701}",{'hola ver': 1.0},
+  * Integración con facturación, libros contables y reportes fiscales para ZEC.","Hola, no veo una aplicación muy directa de eso en la gestión del ERP, pero si teneis algo específico, comentadlo.",hola ver aplicación directo gestión erp específico comentadlo,"{'hola': 0.2609, 'directo': 0.4031, 'ver': 0.2641, 'erp': 0.4194, 'gestión': 0.4194, 'específico': 0.3562, 'aplicación': 0.4701}",{'hola ver': 1.0},0.0
 Issue,4358,[IMP] Fiscalidad Zona Especial Canaria (ZEC),"Artículo sobre la **Fiscalidad de la Zona Especial Canaria (ZEC):**
 [Fiscalidad en la Zona Especial Canaria (ZEC)](https://www.youasesoria.com/fiscalidad-de-la-zona-zec-en-canarias/) 
 
