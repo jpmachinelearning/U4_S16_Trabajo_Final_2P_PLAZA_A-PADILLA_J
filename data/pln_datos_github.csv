@@ -17728,7 +17728,7 @@ https://github.com/OCA/l10n-spain/blob/cb464963d188c069c266c54ba6a85309e54870c2/
 - ¿Es válido tener configuraciones diferentes entre compañía y POS?
 - ¿Cuál es el flujo esperado cuando solo el POS tiene régimen simplificado?
 
-**Nota:** Se necesita validación funcional para entender completamente el escenario.",@Bilbonet ¿podrías echarle un ojo a esto? ¿reproducirlo en runboat tal vez?,bilbonet podriar echar él ojo reproducir él runboat,"{'reproducir': 0.4043, 'él': 0.3772, 'echar': 0.3701, 'ojo': 0.3269, 'runboat': 0.3818, 'bilbonet': 0.3757, 'podriar': 0.4043}","{'echar él': 0.3799, 'él ojo': 0.3914, 'reproducir él': 0.4235, 'él runboat': 0.4054, 'podriar echar': 0.4235, 'bilbonet podriar': 0.4235}",,,,
+**Nota:** Se necesita validación funcional para entender completamente el escenario.",@Bilbonet ¿podrías echarle un ojo a esto? ¿reproducirlo en runboat tal vez?,bilbonet podriar echar él ojo reproducir él runboat,"{'reproducir': 0.4043, 'él': 0.3772, 'echar': 0.3701, 'ojo': 0.3269, 'runboat': 0.3818, 'bilbonet': 0.3757, 'podriar': 0.4043}","{'echar él': 0.3799, 'él ojo': 0.3914, 'reproducir él': 0.4235, 'él runboat': 0.4054, 'podriar echar': 0.4235, 'bilbonet podriar': 0.4235}",-1.0,,,
 Pull Request,4679,[16.0] [FIX] l10n_es_ticketbai_pos: fix AttributeError when validating payment from pos order to invoice,"## **Análisis del Error de TicketBAI en POS**
 
 ### **📋 Escenario Funcional**
