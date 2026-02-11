@@ -18699,7 +18699,7 @@ Pull Request,4660,[18.0][FIX] l10n_es_aeat_mod123: Tax 'Retenciones IRPF 19% (Co
 
 Cuando esté fusionado hago cherry-pick a la 17
 
-MT-12991 @moduon @EmilioPascual @pedrobaeza porfa, revisad si queréis 😄 ",¿Puedes por favor llevarlo a la 17 también?,poder favor llevar él,"{'poder': 0.4301, 'llevar': 0.6299, 'él': 0.3423, 'favor': 0.5487}","{'llevar él': 0.6786, 'poder favor': 0.7345}",,,,
+MT-12991 @moduon @EmilioPascual @pedrobaeza porfa, revisad si queréis 😄 ",¿Puedes por favor llevarlo a la 17 también?,poder favor llevar él,"{'poder': 0.4301, 'llevar': 0.6299, 'él': 0.3423, 'favor': 0.5487}","{'llevar él': 0.6786, 'poder favor': 0.7345}",-1.0,,,
 Pull Request,4660,[18.0][FIX] l10n_es_aeat_mod123: Tax 'Retenciones IRPF 19% (Compra consejero de sociedad)' added to tax mapping,"Las Retenciones IRPF 19% no se han metido en el mapeo de impuestos como en v16: https://github.com/OCA/l10n-spain/pull/3625
 
 Cuando esté fusionado hago cherry-pick a la 17
