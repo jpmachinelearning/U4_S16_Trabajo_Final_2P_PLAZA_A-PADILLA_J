@@ -18671,7 +18671,7 @@ Después del fix:
 <img width=""789"" height=""449"" alt=""image"" src=""https://github.com/user-attachments/assets/40d439ff-e79c-4b65-96f1-64531068bc23"" />
 ","> #4687
 
-Perfecto! Muchas gracias por la aportación.",gracia aportación,"{'gracia': 0.5098, 'aportación': 0.8603}",{},,,,
+Perfecto! Muchas gracias por la aportación.",gracia aportación,"{'gracia': 0.5098, 'aportación': 0.8603}",{},1.0,,,
 Pull Request,4662,[16.0][FIX] l10n_es_aeat_sii_oca: allow deletion when aeat_state is False,"Fixes invoice deletion for records created before `l10n_es_aeat_sii_oca` module activation.
 
 Previously, invoices created before activating `l10n_es_aeat_sii_oca` had `aeat_state = False` and couldn't be deleted. Now deletion is allowed when `aeat_state` is either `'not_sent'` or `False`.","> Si se tiene desactivado el SII, no debe haber facturas con `aeat_state` distinto de `not_sent`, así que es algo específico de esa instancia donde tenéis el problema, pero este cambio no tiene demasiado sentido para mí ahora mismo.
