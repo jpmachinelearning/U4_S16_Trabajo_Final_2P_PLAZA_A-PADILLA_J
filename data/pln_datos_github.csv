@@ -16248,7 +16248,7 @@ Pull Request,4801,[16.0][FIX] l10n_es_aeat_sii_oca: Map country codes,"Backport 
 @pedrobaeza ",Se puede mergear @pedrobaeza ?,mergear pedrobaeza,"{'pedrobaeza': 0.4623, 'mergear': 0.8867}",{},0.0
 Pull Request,4801,[16.0][FIX] l10n_es_aeat_sii_oca: Map country codes,"Backport of commits 64ef3e68b9e410d003721ac6af9220445dddad3b and e8551c0c22883c204bea109399a287134dd167fd from https://github.com/OCA/l10n-spain/pull/4800/
 
-@pedrobaeza ","Congratulations, your PR was merged at e0dc8657a2c0be68cac93f69a7266ae50787a8cb. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@pedrobaeza ","Congratulations, your PR was merged at e0dc8657a2c0be68cac93f69a7266ae50787a8cb. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4800,[18.0][FIX] l10n_es_aeat_sii_oca: Map country codes,Forward-port of #4753 and #4754 ,"Congratulations, your PR was merged at 627f223822b08d030fab26460b7316aa64b64e2e. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
 Pull Request,4799,[17.0][IMP] l10n_es_aeat_sii_oca: Manage sii_refund_specific_invoice_type in in_refund,"ping @sergio-teruel 
 
