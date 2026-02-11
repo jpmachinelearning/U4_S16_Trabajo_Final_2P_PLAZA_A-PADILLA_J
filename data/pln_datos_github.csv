@@ -13917,7 +13917,7 @@ In 15.0 the manifest from l10n_es_aeat is the following:
     
 While in 16.0 is the following:
     ""external_dependencies"": {""python"": [""unidecode"", ""cryptography==3.4.8""]},
-","@etobella si no recuerdo mal, lo incluiste tú para evitar una incompatibilidad.",etobella recordar incluir evitar incompatibilidad,"{'etobella': 0.4161, 'evitar': 0.4373, 'incluir': 0.3991, 'recordar': 0.426, 'incompatibilidad': 0.543}",{},
+","@etobella si no recuerdo mal, lo incluiste tú para evitar una incompatibilidad.",etobella recordar incluir evitar incompatibilidad,"{'etobella': 0.4161, 'evitar': 0.4373, 'incluir': 0.3991, 'recordar': 0.426, 'incompatibilidad': 0.543}",{},0.0
 Issue,3507,[16.0] cryptography wrong version in modules manifest,"<!-- Provide a general summary of the issue in the Title above.
 Before opening the issue, please check that there isn't another issue addressing the same problem already created -->
 
