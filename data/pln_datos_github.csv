@@ -15650,7 +15650,7 @@ He visto problemas similares como el #1559 o el #1034 , pero xmlsig esta actuali
 Por ultimo, si genero la factura sin firmarla, la firmo con autofirma y el mismo certificado que esta subido y la compruebo, muestra que el certificado esta correcto.
 
 Muchas gracias. 
-","Creo que la solución es actualizar la libreria **xmlsig**, nos encontremos un problema similar y actualmente tenemos la version 1.0.1 y dejo de dar ese error.",solución actualizar libreria xmlsig encontrar problema similar actualmente version dejar error,"{'problema': 0.194, 'error': 0.1959, 'similar': 0.3068, 'actualmente': 0.321, 'solución': 0.256, 'encontrar': 0.2774, 'dejar': 0.2542, 'actualizar': 0.2748, 'version': 0.3569, 'libreria': 0.398, 'xmlsig': 0.398}","{'dejar error': 0.5127, 'problema similar': 0.5127, 'similar actualmente': 0.5127, 'encontrar problema': 0.4598}",
+","Creo que la solución es actualizar la libreria **xmlsig**, nos encontremos un problema similar y actualmente tenemos la version 1.0.1 y dejo de dar ese error.",solución actualizar libreria xmlsig encontrar problema similar actualmente version dejar error,"{'problema': 0.194, 'error': 0.1959, 'similar': 0.3068, 'actualmente': 0.321, 'solución': 0.256, 'encontrar': 0.2774, 'dejar': 0.2542, 'actualizar': 0.2748, 'version': 0.3569, 'libreria': 0.398, 'xmlsig': 0.398}","{'dejar error': 0.5127, 'problema similar': 0.5127, 'similar actualmente': 0.5127, 'encontrar problema': 0.4598}",-1.0
 Issue,3452,[15.0][l10n_es_facturae] El servicio de validación de facturas electrónicas no valida la factura firmada,"Buenos días.
 
 Cuando subo una factura firmada al [servicio de validación de  facturas electrónicas](https://sedeaplicaciones2.minetur.gob.es/FacturaE/) manualmente, la plataforma muestra:
