@@ -8147,7 +8147,7 @@ No tiene obligación de marcar un impuesto, pero si de declarar los movimientos 
 
 Solución propuesta: Añadir un impuesto (ej: ""No aplica"") para poder asociarlo al mapeo de la 347. 
 
-Un saludo.",Tendréis que hacer entonces vosotros los modificación para tener todos los casos cubiertos.,tendréis modificación caso cubierto,"{'caso': 0.3515, 'modificación': 0.6875, 'cubierto': 0.6355}",{},
+Un saludo.",Tendréis que hacer entonces vosotros los modificación para tener todos los casos cubiertos.,tendréis modificación caso cubierto,"{'caso': 0.3515, 'modificación': 0.6875, 'cubierto': 0.6355}",{},0.0
 Issue,4017,[16.0] l10n_es_aeat_mod347 Movimientos sin impuesto no se reflejan en el mod347,"La compañía es una organización sin ánimo de lucro. 
 No tiene obligación de marcar un impuesto, pero si de declarar los movimientos en el mod347.
 
