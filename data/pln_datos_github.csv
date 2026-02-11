@@ -19215,7 +19215,7 @@ estructura, integridad ni trazabilidad de los registros de facturación
 ni el cumplimiento de las obligaciones establecidas por la AEAT.
 
 @BinhexTeam",Pendiente de #4622 ,pendiente,{'pendiente': 1.0},{},0.0,,0,Desarrollo
-Pull Request,4598,[18.0][FIX] l10n_es_verifactu_oca: verifactu mixin macrodata computation,Se estaba usando el método `_get_verifactu_amount_total` que se sustituyó por `_get_verifactu_taxes_and_total` y por lo tanto saltaba un error al ejecutarse el método.,"Congratulations, your PR was merged at 431acdf74780f8abe623486749c76d4f9b599f79. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},,,2,Soporte
+Pull Request,4598,[18.0][FIX] l10n_es_verifactu_oca: verifactu mixin macrodata computation,Se estaba usando el método `_get_verifactu_amount_total` que se sustituyó por `_get_verifactu_taxes_and_total` y por lo tanto saltaba un error al ejecutarse el método.,"Congratulations, your PR was merged at 431acdf74780f8abe623486749c76d4f9b599f79. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0,,2,Soporte
 Pull Request,4595,[17.0][FIX] l10n_es_aeat: Validate certificate file existence,"The get_certificates() method was returning certificate paths from ir.config_parameter without verifying if the files actually exist on the filesystem. This caused a false positive where the system believed certificates were available when they weren't.
 
 Now the method validates file existence using os.path.isfile() and raises a descriptive UserError if files are not found, making it easier to diagnose certificate configuration issues.
