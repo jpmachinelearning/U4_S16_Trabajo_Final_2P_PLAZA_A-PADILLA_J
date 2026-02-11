@@ -16697,7 +16697,7 @@ Cambios hechos:
 
 Por favor @pedrobaeza puedes revisarlo?
 
-@Tecnativa TT60323",@christian-ramos-tecnativa puedes por favor mirar el error de `l10n_es_pos_sii`.,christian-ramos-tecnativo poder favor mirar error l10n_es_pos_sii,"{'poder': 0.233, 'error': 0.2291, 'favor': 0.2972, 'mirar': 0.3158, 'christian': 0.3974, 'ramos': 0.4066, 'tecnativo': 0.4066, 'l10n_es_pos_sii': 0.4653}","{'christian ramos': 0.4595, 'ramos tecnativo': 0.4858, 'tecnativo poder': 0.5258, 'poder favor': 0.5258}",
+@Tecnativa TT60323",@christian-ramos-tecnativa puedes por favor mirar el error de `l10n_es_pos_sii`.,christian-ramos-tecnativo poder favor mirar error l10n_es_pos_sii,"{'poder': 0.233, 'error': 0.2291, 'favor': 0.2972, 'mirar': 0.3158, 'christian': 0.3974, 'ramos': 0.4066, 'tecnativo': 0.4066, 'l10n_es_pos_sii': 0.4653}","{'christian ramos': 0.4595, 'ramos tecnativo': 0.4858, 'tecnativo poder': 0.5258, 'poder favor': 0.5258}",-1.0
 Pull Request,4767,[17.0][FIX] l10n_es_aeat_mod592: No indicar Régimen fiscal en algunos casos,"FWP de 16.0: https://github.com/OCA/l10n-spain/pull/4766
 
 Cambios hechos:
