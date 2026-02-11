@@ -18974,7 +18974,7 @@ Con esta mejora se añade un test para probarla.
 
 https://www.loom.com/share/f765537951664e0ea77af6536c7de433
 
-MT-12714 @moduon @EmilioPascual ","Hasta donde sé, el resultado es automático y calculado. ¿En qué casos se necesitaría cambiar ese resultado?",resultado automático calculado caso necesitar cambiar resultado,"{'caso': 0.2042, 'resultado': 0.7232, 'necesitar': 0.2761, 'automático': 0.3692, 'cambiar': 0.2513, 'calculado': 0.3994}","{'caso necesitar': 0.3992, 'necesitar cambiar': 0.3992, 'cambiar resultado': 0.3992, 'resultado automático': 0.4171, 'automático calculado': 0.4171, 'calculado caso': 0.4171}",,,6,Normativa
+MT-12714 @moduon @EmilioPascual ","Hasta donde sé, el resultado es automático y calculado. ¿En qué casos se necesitaría cambiar ese resultado?",resultado automático calculado caso necesitar cambiar resultado,"{'caso': 0.2042, 'resultado': 0.7232, 'necesitar': 0.2761, 'automático': 0.3692, 'cambiar': 0.2513, 'calculado': 0.3994}","{'caso necesitar': 0.3992, 'necesitar cambiar': 0.3992, 'cambiar resultado': 0.3992, 'resultado automático': 0.4171, 'automático calculado': 0.4171, 'calculado caso': 0.4171}",0.0,,6,Normativa
 Pull Request,4616,[16.0][IMP] l10n_es_aeat_mod111: Calcular tipo declaración,"Con esta mejora, el campo tipo declaración es computado bajo la siguiente lógica:
 
 - Si es el resultado (Casilla 30) es positivo o igual a 0:
