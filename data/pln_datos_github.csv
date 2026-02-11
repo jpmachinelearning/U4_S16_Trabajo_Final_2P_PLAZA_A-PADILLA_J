@@ -16245,7 +16245,7 @@ Por otro lado, la migración de este módulo ya se encuentra propuesta en #4624,
 Cierro por tanto.",hola desagia gracia contribuir prs migración módulo propuesta tener preferencia orden llegada revísalar favor visto cerrar,"{'módulo': 0.1646, 'contribuir': 0.3521, 'hola': 0.1954, 'tener': 0.1939, 'cerrar': 0.2184, 'gracia': 0.2086, 'favor': 0.235, 'propuesta': 0.3019, 'migración': 0.2698, 'orden': 0.3399, 'prs': 0.2967, 'visto': 0.3521, 'desagia': 0.3678}",{'hola desagia': 1.0},0.0
 Pull Request,4801,[16.0][FIX] l10n_es_aeat_sii_oca: Map country codes,"Backport of commits 64ef3e68b9e410d003721ac6af9220445dddad3b and e8551c0c22883c204bea109399a287134dd167fd from https://github.com/OCA/l10n-spain/pull/4800/
 
-@pedrobaeza ",Se puede mergear @pedrobaeza ?,mergear pedrobaeza,"{'pedrobaeza': 0.4623, 'mergear': 0.8867}",{},
+@pedrobaeza ",Se puede mergear @pedrobaeza ?,mergear pedrobaeza,"{'pedrobaeza': 0.4623, 'mergear': 0.8867}",{},0.0
 Pull Request,4801,[16.0][FIX] l10n_es_aeat_sii_oca: Map country codes,"Backport of commits 64ef3e68b9e410d003721ac6af9220445dddad3b and e8551c0c22883c204bea109399a287134dd167fd from https://github.com/OCA/l10n-spain/pull/4800/
 
 @pedrobaeza ","Congratulations, your PR was merged at e0dc8657a2c0be68cac93f69a7266ae50787a8cb. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
