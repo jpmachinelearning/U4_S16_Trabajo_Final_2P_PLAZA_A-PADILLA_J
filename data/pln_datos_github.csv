@@ -5905,7 +5905,7 @@ El cambio se hace en un commit en el que el objetivo principal era otro, a mi en
 
 Como no he encontrado nada en la AEAT al respecto y tengo entendido que no es dañino enviar todas las facturas exentas de impuestos o no, hago la pregunta a los expertos de la localización 😄 
 
-Saludos!",@pedrobaeza  Vale! muchas gracias! ,pedrobaeza valer gracia,"{'pedrobaeza': 0.4765, 'gracia': 0.5416, 'valer': 0.6926}",{},
+Saludos!",@pedrobaeza  Vale! muchas gracias! ,pedrobaeza valer gracia,"{'pedrobaeza': 0.4765, 'gracia': 0.5416, 'valer': 0.6926}",{},1.0
 Issue,4291,[16] l10n_es_ticketbai_pos: Ticketbai no construida aun.,"Se ha generado la primera factura simplificada sin problema, la comunicación correcta. Pero al ir a realizar la segunda factura ""FS2500002"" aparece un error de que Ticketbai no esta construido aun.
 
 ![Image](https://github.com/user-attachments/assets/bbfc13bc-0186-4c18-b243-19ef62d4ae5b)
