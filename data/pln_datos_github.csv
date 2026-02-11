@@ -5651,7 +5651,7 @@ Personalmente se me ocurren 3 opciones:
 2. Crear de nuevo unos modelos sencillos dentro de FACe. Al no tener e.Fact, la cosa es mucho más sencilla ahora, aunque implicará hacer algo ""parecido"" pero mucho más simplificado a lo hecho por el framework
 3. Seguir con el framework de OCA
 
-¿Cual es vuestra opinión?","Cuantos menos módulos haya en la pila, mejor, y algunas dependencias son lógicas (como `l10n_es_facturae`), pero todo el framework EDI no.",módulo pila dependencia lógico l10n_es_facturae framework edi,"{'módulo': 0.2041, 'lógico': 0.4214, 'dependencia': 0.3565, 'l10n_es_facturae': 0.4214, 'framework': 0.3815, 'edi': 0.3743, 'pila': 0.4365}",{'framework edi': 1.0},
+¿Cual es vuestra opinión?","Cuantos menos módulos haya en la pila, mejor, y algunas dependencias son lógicas (como `l10n_es_facturae`), pero todo el framework EDI no.",módulo pila dependencia lógico l10n_es_facturae framework edi,"{'módulo': 0.2041, 'lógico': 0.4214, 'dependencia': 0.3565, 'l10n_es_facturae': 0.4214, 'framework': 0.3815, 'edi': 0.3743, 'pila': 0.4365}",{'framework edi': 1.0},0.0
 Issue,4341,[18.0] Migration de Integración de FACe a v18,"El envío de la factura electrónica a FACe ha cambiado mucho con los años:
 
 en v11 y v12 usabamos un model dentro de l10n_es_facturae en el que permitiamos diferentes integraciones (Como FACe  y e.Fact)
