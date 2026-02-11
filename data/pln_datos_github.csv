@@ -10868,7 +10868,7 @@ Se espera que por cada línea se calcule el recargo de equivalencia por separado
 
 
 **Additional context**
-Las últimas 2 capturas de pantalla son enviadas por terceros en conversaciones por correo electrónico.",¿A alguien más le pasa?,alguien pasar,"{'pasar': 0.679, 'alguien': 0.7341}",{'alguien pasar': 1.0},
+Las últimas 2 capturas de pantalla son enviadas por terceros en conversaciones por correo electrónico.",¿A alguien más le pasa?,alguien pasar,"{'pasar': 0.679, 'alguien': 0.7341}",{'alguien pasar': 1.0},0.0
 Issue,3720,"[16.0] l10n_es_ticketbai: Error en facturas con iva bienes, iva servicios y recargo de equivalencia","En referencia al issue #3045 pero en la versión 16, continúa pasando lo mismo. Según el equipo técnico de Batuz <programak@bizkaia.eus> este comportamiento es incorrecto.
 ![EmailBatuz](https://github.com/user-attachments/assets/1ecd99fb-eb68-49a3-ad33-d4c230a36657)
 
