@@ -17485,7 +17485,7 @@ Pull Request,4700,[18.0][IMP] l10n_es_pos_sii: Better UI,"- Hide fields when not
 - Put better labels on UI. The current field strings are OK for being differentiated in parts like advanced search, but for the UI, as they are already in the SII tab, are not the best one, so let's adjust them.
 - Remove useless auxiliary invisible field (since viewpocalypse).
 
-@Tecnativa","Congratulations, your PR was merged at 1ff183d041f2ed09e937e5b71819a83635f529da. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa","Congratulations, your PR was merged at 1ff183d041f2ed09e937e5b71819a83635f529da. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4699,[17.0][FIX] l10n_es_pos_sii: Send orders without closing session,"Forward-port of #4696 
 
 When the PoS session is still opened, the orders remain in ""paid"" state, not as ""done"", so we shouldn't wait till session closing (which may not happened in several days, not complying with the sending limit).
