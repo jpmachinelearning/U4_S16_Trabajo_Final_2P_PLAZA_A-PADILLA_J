@@ -12144,7 +12144,7 @@ En principio por lo que intepreto yo, no nos afecta: https://sis-d.redsys.es/sis
 
 Pero por si acaso lo pongo porque a veces varios ojos ven más que uno.
 
-Saludos","Efectivamente, no está afectado, porque nosotros redirigimos a la página de la propia Redsys, así que cierro. Gracias por comentarlo en cualquier caso.",efectivamente afectado redirigimos página redsys cerrar gracias comentar él caso,"{'gracias': 0.2463, 'caso': 0.2172, 'él': 0.1832, 'cerrar': 0.273, 'comentar': 0.2937, 'efectivamente': 0.3372, 'afectado': 0.4018, 'redsys': 0.4597, 'página': 0.4597}","{'cerrar gracias': 0.7444, 'él caso': 0.6677}",
+Saludos","Efectivamente, no está afectado, porque nosotros redirigimos a la página de la propia Redsys, así que cierro. Gracias por comentarlo en cualquier caso.",efectivamente afectado redirigimos página redsys cerrar gracias comentar él caso,"{'gracias': 0.2463, 'caso': 0.2172, 'él': 0.1832, 'cerrar': 0.273, 'comentar': 0.2937, 'efectivamente': 0.3372, 'afectado': 0.4018, 'redsys': 0.4597, 'página': 0.4597}","{'cerrar gracias': 0.7444, 'él caso': 0.6677}",1.0
 Issue,3650,l10n_es_vat_prorate: cambio de licencia a LGPL,"Hola @etobella @pedrobaeza ,
 
 ¿Pensáis que podemos cambiar la licencia de AGPL a LGPL?
