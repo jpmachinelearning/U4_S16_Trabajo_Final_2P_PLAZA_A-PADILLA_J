@@ -17250,7 +17250,7 @@ https://github.com/OCA/l10n-spain/issues/4444
 
 Hemos añadido las retenciones  al libro de IVA y ademas hemos actualizado el formato de exportación para que conincida con https://sede.agenciatributaria.gob.es/Sede/iva/facturacion-registro/ejemplos-libros-registro-iva-irpf-2023/ejemplos-libros-registro-iva-irpf-2022.html
 
-Financiado por Contaldia @AlbertCabedo ","Sí, se añade ese campo, y sería poner dentro de qué toca: el año en el ejercicio, y si es mensual, pues el mes en periodo (01, 02...), y si es trimestral, pues 1T, 2T, 3T, 4T.",añadir campo tocar año ejercicio mensual mes periodo trimestral 1 t 2 t 3 t 4 t.,"{'ejercicio': 0.3626, 'campo': 0.2364, 'año': 0.3188, 'añadir': 0.2625, 'tocar': 0.315, 'mes': 0.337, 'periodo': 0.3485, 'mensual': 0.3923, 'trimestral': 0.3923}",{'añadir campo': 1.0},
+Financiado por Contaldia @AlbertCabedo ","Sí, se añade ese campo, y sería poner dentro de qué toca: el año en el ejercicio, y si es mensual, pues el mes en periodo (01, 02...), y si es trimestral, pues 1T, 2T, 3T, 4T.",añadir campo tocar año ejercicio mensual mes periodo trimestral 1 t 2 t 3 t 4 t.,"{'ejercicio': 0.3626, 'campo': 0.2364, 'año': 0.3188, 'añadir': 0.2625, 'tocar': 0.315, 'mes': 0.337, 'periodo': 0.3485, 'mensual': 0.3923, 'trimestral': 0.3923}",{'añadir campo': 1.0},0.0
 Pull Request,4709,[18.0][IMP] l10n_es_vat_book: update vat book format + added IRPF,"cc @Tecnativa TT59220
 ping @pedrobaeza @carlosdauden
 
