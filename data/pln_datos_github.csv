@@ -3438,7 +3438,7 @@ He intentado borrar el registro del 303 (no se puede ya que depende de otras tab
 
 Alguien puede echarme una mano con este error para poder seguir actualizando mi odoo por favor.
 
-Gracias de antemano!","Ya he podido solucionarlo, cierro.",poder solucionar él cierro,"{'poder': 0.5038, 'solucionar': 0.7652, 'él': 0.4009}","{'poder solucionar': 0.7444, 'solucionar él': 0.6677}",
+Gracias de antemano!","Ya he podido solucionarlo, cierro.",poder solucionar él cierro,"{'poder': 0.5038, 'solucionar': 0.7652, 'él': 0.4009}","{'poder solucionar': 0.7444, 'solucionar él': 0.6677}",1.0
 Issue,4444,Mejora libro de IVA VAT BOOK,"**Is your feature request related to a problem?**
 Vamos a incluir las retenciones en el libro de IVA
 
