@@ -3472,7 +3472,7 @@ Hola,
 
 Hemos detectado que el modulo genera un archivo con el estatus Aceptado con errores cuando se hace un reembolse desde el punto de venta. Si el reembolso se hace desde el backend el modulo no envía ni genera el QR para verifactu, seguramente porque de esta forma no se le asignan al ticket un secuencia de la factura simplificada tampoco.
 
-",Pon por favor dicho comentario en el PR abierto del módulo: #4378 ,pon favor comentario pr abierto módulo,"{'módulo': 0.2653, 'abierto': 0.4508, 'comentario': 0.4634, 'pr': 0.3346, 'favor': 0.3786, 'pon': 0.5062}",{'pr abierto': 1.0},
+",Pon por favor dicho comentario en el PR abierto del módulo: #4378 ,pon favor comentario pr abierto módulo,"{'módulo': 0.2653, 'abierto': 0.4508, 'comentario': 0.4634, 'pr': 0.3346, 'favor': 0.3786, 'pon': 0.5062}",{'pr abierto': 1.0},1.0
 Issue,4425,[16.0][IMP] l10n_es_aeat_sii_oca: Fecha inicio SII,"### Contexto
 
 Con motivo de la implementación de la Lay Antifraude y Verifactu, muchas compañías, se adherirán al SII voluntario a partir del 01/01/2026 o antes.
