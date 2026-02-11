@@ -5879,7 +5879,7 @@ Como no he encontrado nada en la AEAT al respecto y tengo entendido que no es da
 
 Saludos!","@pedrobaeza claro, en la 16.0 estaba por separado 🤦  
 
-De todas formas dejo el issue abierto a ver si alguien da una razón funcional/legal de por qué es así. No he encontrado nada.",pedrobaeza separado persona mano frente forma dejar issue abierto alguien razón funcional legal encontrar,"{'abierto': 0.2796, 'pedrobaeza': 0.1835, 'alguien': 0.2539, 'razón': 0.2639, 'encontrar': 0.2563, 'dejar': 0.2349, 'issue': 0.2333, 'funcional': 0.3298, 'forma': 0.2274, 'legal': 0.3213, 'persona': 0.3519, 'separado': 0.2966, 'mano': 0.3213}","{'dejar issue': 0.7297, 'issue abierto': 0.6837}",
+De todas formas dejo el issue abierto a ver si alguien da una razón funcional/legal de por qué es así. No he encontrado nada.",pedrobaeza separado persona mano frente forma dejar issue abierto alguien razón funcional legal encontrar,"{'abierto': 0.2796, 'pedrobaeza': 0.1835, 'alguien': 0.2539, 'razón': 0.2639, 'encontrar': 0.2563, 'dejar': 0.2349, 'issue': 0.2333, 'funcional': 0.3298, 'forma': 0.2274, 'legal': 0.3213, 'persona': 0.3519, 'separado': 0.2966, 'mano': 0.3213}","{'dejar issue': 0.7297, 'issue abierto': 0.6837}",0.0
 Issue,4338,"SII, envío de facturas DUA, o DUA exento","Hola!
 
 Hay un cambio en el método _compute_sii_enabled del módulo del SII en Odoo 17 respecto a la 16 y me gustaría conocer si hay alguna razón legal o de otro tipo para ello. Puesto que hay empresas que quieren enviarlas al SII y en la 17 no se puede.
