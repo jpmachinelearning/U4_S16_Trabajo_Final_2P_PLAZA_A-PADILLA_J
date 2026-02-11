@@ -2094,7 +2094,7 @@ Ninguna de las alternativas mantiene correctamente la trazabilidad ni se ajusta 
 
 El propósito del bloqueo de VeriFactu es garantizar la integridad de la información fiscal y del documento legal. Sin embargo, las cuentas contables internas no forman parte de la información fiscal protegida por VeriFactu, y restricciones actuales limitan la operatividad contable sin motivo jurídico.
 
-Sería ideal habilitar un mecanismo seguro para permitir estos ajustes contables posteriores.",Gracias,gracia,{'gracia': 1.0},{},
+Sería ideal habilitar un mecanismo seguro para permitir estos ajustes contables posteriores.",Gracias,gracia,{'gracia': 1.0},{},1.0
 Issue,4596,[17.0][l10n_es_account_statement_import_n43] Invalid field 'creation_context' al importar un fichero N43,"El módulo está intentando pasar el campo creation_context al crear registros de account.bank.statement, pero este campo no existe en el modelo estándar de Odoo. Esto provoca el siguiente error:
 
 `File ""/opt/odoo/addons/account/models/[account_bank_statement.py](https://account_bank_statement.py/)"", line 352, in createcontainer['records'] = stmts = super().create(vals_list)`
