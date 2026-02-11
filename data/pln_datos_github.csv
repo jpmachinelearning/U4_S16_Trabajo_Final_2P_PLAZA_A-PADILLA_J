@@ -5291,7 +5291,7 @@ ValueError: <class 'AttributeError'>: ""RespuestaRegFactuSistemaFacturacionType 
 ```
 
 A que puede ser debido?","correcto con los cambios indicados, gracias. seguiremos probando y si sale algo mas lo reportare.
-gracias",correcto cambio indicado gracia seguir probar salar reportare gracias,"{'cambio': 0.3264, 'gracias': 0.3082, 'gracia': 0.3264, 'probar': 0.3939, 'seguir': 0.3905, 'correcto': 0.3436, 'indicado': 0.516}",{},
+gracias",correcto cambio indicado gracia seguir probar salar reportare gracias,"{'cambio': 0.3264, 'gracias': 0.3082, 'gracia': 0.3264, 'probar': 0.3939, 'seguir': 0.3905, 'correcto': 0.3436, 'indicado': 0.516}",{},1.0
 Issue,4366,[16] l10n_es_verifactu_oca,"Hola, he instalado el reciente múdulo publicado de VERIFACTU y al generar la factura el cron, me devulve el siguiente error.
 
 
