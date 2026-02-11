@@ -12774,7 +12774,7 @@ Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata
 
 @pedrobaeza Hace unos meses participaste en el hilo. Qué opinas? Nuestra idea es hacer algo genérico y sostenible en la localización, para no tenerlo en un custom.
 
-Gracias.",Me refiero a que ese IVA no serà desgravable y debe ir todo a gasto (como si tuvieras una prorata del 0%),referir iva serà desgravable gasto tuvierar prorata,"{'iva': 0.2481, 'referir': 0.3193, 'gasto': 0.3512, 'prorata': 0.3804, 'serà': 0.4353, 'desgravable': 0.4353, 'tuvierar': 0.4353}","{'referir iva': 0.4082, 'iva serà': 0.4082, 'serà desgravable': 0.4082, 'desgravable gasto': 0.4082, 'gasto tuvierar': 0.4082, 'tuvierar prorata': 0.4082}",
+Gracias.",Me refiero a que ese IVA no serà desgravable y debe ir todo a gasto (como si tuvieras una prorata del 0%),referir iva serà desgravable gasto tuvierar prorata,"{'iva': 0.2481, 'referir': 0.3193, 'gasto': 0.3512, 'prorata': 0.3804, 'serà': 0.4353, 'desgravable': 0.4353, 'tuvierar': 0.4353}","{'referir iva': 0.4082, 'iva serà': 0.4082, 'serà desgravable': 0.4082, 'desgravable gasto': 0.4082, 'gasto tuvierar': 0.4082, 'tuvierar prorata': 0.4082}",1.0
 Issue,3605,Prorrata de IVA según la actividad de una misma compañía (Prorrata Especial de IVA),"**Contexto:**
 
 - Trabajamos con nuestra Compañía 1
