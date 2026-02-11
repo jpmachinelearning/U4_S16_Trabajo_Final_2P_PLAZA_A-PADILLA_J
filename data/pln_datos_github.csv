@@ -5114,7 +5114,7 @@ Hacer el backport de la versión 17.0 de Odoo. Considero que el de OCA es más f
 
 **Comenzaremos los trabajos de migración en breve** con el deseo de tenerlo migrado en Octubre del 25 si es que las condiciones son favorables.
 
-Mi compañero @ljimenezsidoo y yo trataremos de iniciar la parte técnica ASAP. Cualquier apoyo será más que bienvenido, quedando muy agradecido del trabajo realizado en la versión 16.0",De momento nadie ha expresado su interés en pasarlo a 13. Es demasiado antiguo... Del TPV puedes mirar los diversos pull requests abiertos para ello.,momento expresar interés pasar él antiguo tpv poder mirar diverso pull requests abierto,"{'poder': 0.1931, 'pasar': 0.2463, 'abierto': 0.2933, 'él': 0.1537, 'momento': 0.2595, 'antiguo': 0.3293, 'mirar': 0.2617, 'tpv': 0.3691, 'expresar': 0.3563, 'diverso': 0.3856, 'pull': 0.3691}",{},
+Mi compañero @ljimenezsidoo y yo trataremos de iniciar la parte técnica ASAP. Cualquier apoyo será más que bienvenido, quedando muy agradecido del trabajo realizado en la versión 16.0",De momento nadie ha expresado su interés en pasarlo a 13. Es demasiado antiguo... Del TPV puedes mirar los diversos pull requests abiertos para ello.,momento expresar interés pasar él antiguo tpv poder mirar diverso pull requests abierto,"{'poder': 0.1931, 'pasar': 0.2463, 'abierto': 0.2933, 'él': 0.1537, 'momento': 0.2595, 'antiguo': 0.3293, 'mirar': 0.2617, 'tpv': 0.3691, 'expresar': 0.3563, 'diverso': 0.3856, 'pull': 0.3691}",{},1.0
 Issue,4366,[16] l10n_es_verifactu_oca,"Hola, he instalado el reciente múdulo publicado de VERIFACTU y al generar la factura el cron, me devulve el siguiente error.
 
 
