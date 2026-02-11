@@ -17156,7 +17156,7 @@ When an exception happens, it was not the same for cancel communication than for
 
 This homogenizes the behavior on both.
 
-@Tecnativa TT60254","Congratulations, your PR was merged at 8c4438c6968603fe10bdd6c845f107a4db2da844. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},
+@Tecnativa TT60254","Congratulations, your PR was merged at 8c4438c6968603fe10bdd6c845f107a4db2da844. Thanks a lot for contributing to OCA. ❤️",corazón rojo,"{'rojo': 0.7043, 'corazón': 0.7099}",{'corazón rojo': 1.0},1.0
 Pull Request,4721,[17.0][FIX] l10n_es_aeat_sii_oca: Homogenize actions on error,"When an exception happens, it was not the same for cancel communication than for normal one:
 
 - The representation of the exception is not fully logged.
