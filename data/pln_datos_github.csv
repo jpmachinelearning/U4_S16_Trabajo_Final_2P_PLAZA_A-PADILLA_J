@@ -17628,7 +17628,7 @@ Pull Request,4680,[19.0][MIG]: l10n_es_aeat_mod303,"- Standard migration to 19.0
 Pull Request,4680,[19.0][MIG]: l10n_es_aeat_mod303,"- Standard migration to 19.0 module l10n_es_aeat_mod303
 - Depends: https://github.com/OCA/l10n-spain/pull/4624
 
-",@dalonsod hecho!,dalonsod,{},{},,,,
+",@dalonsod hecho!,dalonsod,{},{},0.0,,,
 Pull Request,4679,[16.0] [FIX] l10n_es_ticketbai_pos: fix AttributeError when validating payment from pos order to invoice,"## **Análisis del Error de TicketBAI en POS**
 
 ### **📋 Escenario Funcional**
